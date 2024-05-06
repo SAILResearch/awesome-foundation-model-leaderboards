@@ -1,9 +1,9 @@
 <div align="center">
-    <h1>Awesome Machine Learning Leaderboard</h1>
+    <h1>Awesome Foundation Model Leaderboard</h1>
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
 </div>
 
-**Awesome Machine Learning Leaderboard** is a curated list of awesome leaderboards for machine learning models organized according to [our survey](TDOO):
+**Awesome Foundation Model Leaderboard** is a curated list of awesome leaderboards for foundation models organized according to [our survey](TDOO):
 
 <p align="center"><strong>An Exploratory Study on the Architecture, Operations, and Smells of Leaderboard System for Foundation Models</strong></p>
 
