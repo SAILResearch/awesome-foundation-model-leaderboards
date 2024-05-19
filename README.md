@@ -203,6 +203,7 @@ Also, a listed leaderboard should be included if only:
 | [TextSynth Server](https://bellard.org/ts_server) | TextSynth Server evaluates and compares the performance of language models in generating tokens or images under specific hardware. |
 | [TouchStone](https://github.com/ofa-sys/touchstone) | TouchStone is a benchmark to evaluate the overall text-image dialogue capability and alignment level with humans of multimodal models. |
 | [URIAL Bench](https://huggingface.co/spaces/allenai/URIAL-Bench) | URIAL Bench is a benchmark to evaluate the capacity of language models for alignment without introducing the factors of fine-tuning (learning rate, data, etc.), which are hard to control for fair comparisons. |
+| [Vibe-Eval](https://github.com/reka-ai/reka-vibe-eval) | Vibe-Eval is a benchmark to evaluate vision-language models for challenging cases. |
 | [VisIT-Bench](https://visit-bench.github.io) | VisIT-Bench is a benchmark to evaluate the instruction-following capabilities of vision-language models for real-world use. |
 | [VisualWebArena](https://jykoh.com/vwa) | VisualWebArena is a benchmark to assess the performance of multimodal web agents on realistic visually grounded tasks. |
 | [WHOOPS!](https://huggingface.co/spaces/nlphuji/WHOOPS-Leaderboard-Full) | WHOOPS! is a benchmark to evaluate the visual commonsense of vision-language models. |
