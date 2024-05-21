@@ -3,7 +3,7 @@
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
 </div>
 
-**Awesome Foundation Model Leaderboard** is a curated list of awesome leaderboards for foundation models organized according to [our survey](TDOO):
+**Awesome Foundation Model Leaderboard** is a curated list of awesome leaderboards built for foundation models organized according to [our survey](TDOO):
 
 <p align="center"><strong>An Exploratory Study on the Operations and Smells of Foundation Model Leaderboards</strong></p>
 
