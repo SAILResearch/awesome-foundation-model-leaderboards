@@ -106,12 +106,12 @@ Also, a listed leaderboard should be included if only:
 | [LucyEval](http://lucyeval.besteasy.com/leaderboard.html) | LucyEval offers a thorough assessment of language models' performance in various Chinese contexts. |
 | [M3KE](https://github.com/tjunlp-lab/M3KE) | M3KE is a massive multi-level multi-subject knowledge evaluation benchmark to measure the knowledge acquired by Chinese language models. |
 | [MedBench](https://medbench.opencompass.org.cn/leaderboard) | MedBench is a benchmark to evaluate the mastery of knowledge and reasoning abilities in medical language models. |
+| [Meta Open LLM leaderboard](https://huggingface.co/spaces/felixz/meta_open_llm_leaderboard) | The Meta Open LLM leaderboard serves as a central hub for consolidating data from various open LLM leaderboards into a single, user-friendly visualization page. |
 | [MINT-Bench](https://xwang.dev/mint-bench) | MINT-Bench is a benchmark to assess the capabilities of language models in solving tasks involving multi-turn interactions. |
 | [ML.ENERGY Leaderboard](https://ml.energy/leaderboard) | ML.ENERGY Leaderboard evaluates the energy consumption of language models. |
 | [MMCU](https://github.com/Felixgithub2017/MMCU) | MMCU is a benchmark to evaluate the multitask accuracy of Chinese language models. |
 | [MMLU](https://github.com/hendrycks/test) | MMLU is a benchmark to evaluate the performance of language models across a wide array of natural language understanding tasks. |
 | [MMLU-by-task Leaderboard](https://huggingface.co/spaces/CoreyMorris/MMLU-by-task-Leaderboard) | MMLU-by-task Leaderboard provides a platform for evaluating and comparing various ML models across different language understanding tasks. |
-| [OPEN MOE LLM Leaderboard](https://huggingface.co/spaces/sparse-generative-ai/open-moe-llm-leaderboard) | OPEN MOE LLM Leaderboard assesses the performance and efficiency of various Mixture of Experts (MoE) language models. |
 | [Models Leaderboard](https://artificialanalysis.ai/leaderboards/models) | Models Leaderboard compares and ranks language models across key metrics, including quality, price, performance, and speed. |
 | [MSTEB](https://huggingface.co/spaces/clibrain/Spanish-Embeddings-Leaderboard) | MSTEB is a benchmark for measuring the performance of text embedding models on diverse embedding tasks in Spanish. |
 | [MTEB](https://huggingface.co/spaces/mteb/leaderboard) | MTEB is a massive benchmark for measuring the performance of text embedding models on diverse embedding tasks across 112 languages. |
@@ -126,6 +126,7 @@ Also, a listed leaderboard should be included if only:
 | [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) | Open LLM Leaderboard tracks progress and ranks performance of language models in English. |
 | [Open Medical-LLM Leaderboard](https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard) | Open Medical-LLM Leaderboard aims to track, rank, and evaluate open language models in the medical domain. |
 | [Open MLLM Leaderboard](https://github.com/hkust-nlp/felm) | Open MLLM Leaderboard aims to track, rank and evaluate language models and chatbots. |
+| [Open MOE LLM Leaderboard](https://huggingface.co/spaces/sparse-generative-ai/open-moe-llm-leaderboard) | OPEN MOE LLM Leaderboard assesses the performance and efficiency of various Mixture of Experts (MoE) language models. |
 | [Open Multilingual LLM Evaluation Leaderboard](https://huggingface.co/spaces/uonlp/open_multilingual_llm_leaderboard) | Open Multilingual LLM Evaluation Leaderboard tracks progress and ranks performance of language models in multiple languages. |
 | [Open PL LLM Leaderboard](https://github.com/hkust-nlp/felm) | Open PL LLM Leaderboard is a platform for assessing the performance of various language models in Polish. |
 | [Open PT LLM Leaderboard](https://huggingface.co/spaces/eduagarcia/open_pt_llm_leaderboard) | Open PT LLM Leaderboard tracks progress and ranks the performance of language models in Portuguese. |
