@@ -19,7 +19,7 @@ If you find our survey useful, please kindly cite our paper:
 TODO
 ```
 
-Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhiminy/awesome-foundation-model-leaderboard-search) that helps you quickly search through the leaderboards.
+Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhiminy/awesome-foundation-model-leaderboard-search) that helps you quickly navigate through the leaderboards.
 
 _If you want to contribute to this list (please do), welcome to propose a pull request._
 
