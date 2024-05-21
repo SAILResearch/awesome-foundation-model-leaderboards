@@ -209,7 +209,7 @@ Also, a listed leaderboard should be included if only:
 | [Vibe-Eval](https://github.com/reka-ai/reka-vibe-eval) | Vibe-Eval is a benchmark to evaluate vision-language models for challenging cases. |
 | [VisIT-Bench](https://visit-bench.github.io) | VisIT-Bench is a benchmark to evaluate the instruction-following capabilities of vision-language models for real-world use. |
 | [VisualWebArena](https://jykoh.com/vwa) | VisualWebArena is a benchmark to assess the performance of multimodal web agents on realistic visually grounded tasks. |
-| [WHOOPS!](https://huggingface.co/spaces/nlphuji/WHOOPS-Leaderboard-Full) | WHOOPS! is a benchmark to evaluate the visual commonsense of vision-language models. |
+| [WHOOPS!](https://huggingface.co/spaces/nlphuji/WHOOPS-Leaderboard-Full) | WHOOPS! is a benchmark to evaluate the visual commonsense reasoning abilities of vision-language models. |
 | [WildBench](https://huggingface.co/spaces/allenai/WildBench) | WildBench is a benchmark for evaluating language models on challenging tasks that closely resemble real-world applications. |
 | [WildVision Arena Leaderboard](https://huggingface.co/spaces/WildVision/vision-arena) | WildVision Arena Leaderboard hosts the chatbot arena, where various vision-language models compete based on their performance in visual understanding. |
 
