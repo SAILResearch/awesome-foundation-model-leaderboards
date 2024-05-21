@@ -31,7 +31,7 @@ Also, a listed leaderboard should be included if only:
 * It is actively maintained.
 * It is related to machine learning.
 
-# Tool
+# Tooling
 
 | Name | Description |
 | ---- | ----------- |
