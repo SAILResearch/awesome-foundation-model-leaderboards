@@ -281,4 +281,4 @@ Also, a listed leaderboard should be included if only:
 
 | Name | Description |
 | ---- | ----------- |
-| [FlagEval](https://flageval.baai.ac.cn/#/trending) | FlagEval is a platform to evaluate foundation models. |
+| [FlagEval](https://flageval.baai.ac.cn/#/leaderboard) | FlagEval is a comprehensive platform to evaluate foundation models. |
