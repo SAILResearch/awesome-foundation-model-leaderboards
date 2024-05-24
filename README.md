@@ -221,12 +221,14 @@ Also, a listed leaderboard should be included if only:
 | [Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) | Big Code Models Leaderboard to assess the performance of LLMs on code-related tasks. |
 | [BIRD](https://bird-bench.github.io) | BIRD is a benchmark to evaluate the performance of text-to-SQL parsing systems. |
 | [CanAiCode Leaderboard](https://huggingface.co/spaces/mike-ravkine/can-ai-code-results) | CanAiCode Leaderboard is a platform to assess the code generation capabilities of LLMs. |
+| [ClassEval](https://fudanselab-classeval.github.io/leaderboard.html) | ClassEval is a benchmark to evaluate LLMs on class-level code generation. |
 | [Coding LLMs Leaderboard](https://leaderboard.tabbyml.com) | Coding LLMs Leaderboard is a platform to evaluate and rank LLMs across various programming tasks. |
 | [CRUXEval](https://crux-eval.github.io/leaderboard.html) | CRUXEval is a benchmark to evaluate code reasoning, understanding, and execution capabilities of LLMs. |
 | [CyberSafetyEval](https://huggingface.co/spaces/facebook/CyberSecEval) | CYBERSECEVAL is a benchmark to evaluate the cybersecurity of LLMs as coding assistants. |
 | [DevBench](https://github.com/open-compass/devbench) | DevBench is a benchmark to evaluate language models across various stages of the software development lifecycle. |
 | [DS-1000](https://ds1000-code-gen.github.io) | DS-1000 is a meta benchmark to evaluate code generation models in data science tasks. |
 | [EvalPlus](https://evalplus.github.io/leaderboard.html) | EvalPlus is a benchmark to evaluate the code generation performance of LLMs. |
+| [EvoEval](https://evo-eval.github.io/leaderboard.html) | EvoEval is a benchmark to evaluate the coding abilities of LLMs, created by evolving existing benchmarks into different targeted domains. |
 | [HumanEval.jl](https://github.com/hkust-nlp/felm) | HumanEval.jl is a benchmark to evaluate LLMs' performance with the Julia programming language. |
 | [InfiCoder-Eval](https://infi-coder.github.io/inficoder-eval) | InfiCoder-Eval is a benchmark to assess the performance of LLMs in handling code-related tasks. |
 | [InterCode](https://intercode-benchmark.github.io) | InterCode is a benchmark to standardize and evaluate interactive coding with execution feedback. |
@@ -235,6 +237,7 @@ Also, a listed leaderboard should be included if only:
 | [ODEX](https://code-eval.github.io) | ODEX is a benchmark to evaluate open-domain, multilingual, and execution-based code generation capabilities of LLMs. |
 | [OpenEval](https://github.com/NTDXYG/open-eval) | OpenEval is a benchmark to evaluate competition-level code generation of LLMs. |
 | [Program Synthesis Models Leaderboard](https://accubits.com/open-source-program-synthesis-models-leaderboard) | Program Synthesis Models Leaderboard provides a ranking and comparison of open-source code models based on their performance. |
+| [RepoQA](https://evalplus.github.io/repoqa.html) | RepoQA is a benchmark to evaluate the long-context code understanding ability of LLMs.
 | [Spider](https://yale-lily.github.io/spider) | Spider is a benchmark to evaluate the performance of natural language interfaces for cross-domain databases. |
 | [SuperCLUE-Code3](https://github.com/CLUEbenchmark/SuperCLUE-Code3) | SuperCLUE-Code3 is a benchmarkto evaluate the performance of LLMs in handling native Chinese programming problems. |
 | [SWE-bench](https://www.swebench.com) | SWE-bench is a benchmark for evaluating LLMs on real world software issues collected from GitHub. |
