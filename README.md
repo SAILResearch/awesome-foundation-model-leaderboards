@@ -29,7 +29,7 @@ Also, a listed leaderboard should be included if only:
 
 * It is popular enough.
 * It is actively maintained.
-* It is related to foundation model.
+* It is related to foundation models.
 
 # Tooling
 
