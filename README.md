@@ -144,6 +144,7 @@ Also, a listed leaderboard should be included if only:
 | [SALAD-Bench](https://huggingface.co/spaces/OpenSafetyLab/Salad-Bench-Leaderboard) | SALAD-Bench is a benchmark for evaluating safety and security of language models. |
 | [ScandEval](https://scandeval.com) | ScandEval is a benchmark to evaluate language models on tasks in Scandinavian languages as well as German, Dutch, and English. |
 | [SCROLLS](https://www.scrolls-benchmark.com/leaderboard) | SCROLLS is a benchmark to evaluate the reasoning capabilities of language models over long texts. |
+| [SEAL](https://scale.com/leaderboard) | SEAL is an expert-driven private evaluation platform of language models. |
 | [SeaEval](https://huggingface.co/spaces/SeaEval/SeaEval_Leaderboard) | SeaEval is a benchmark to evaluate the performance of multilingual language models in understanding and reasoning with natural language, as well as comprehending cultural practices, nuances, and values. |
 | [Subquadratic LLM Leaderboard](https://huggingface.co/spaces/devingulliver/subquadratic-llm-leaderboard) | Subquadratic LLM Leaderboard evaluates language models with subquadratic/attention-free architectures (i.e. RWKV & Mamba). |
 | [SummEdits](https://github.com/salesforce/factualNLG) | The SummEdits is a benchmark to measure the ability of language models to reason about facts and detect inconsistencies. |
