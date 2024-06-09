@@ -52,6 +52,7 @@ Also, a listed leaderboard should be included if only:
 | [ACLUE](https://github.com/isen-zhang/ACLUE) | ACLUE is an evaluation benchmark for ancient Chinese language comprehension. |
 | [AgentBench](https://llmbench.ai/agent/data) | AgentBench is the first benchmark to evaluate language model-as-Agent across a diverse spectrum of different environments. |
 | [AlignBench](https://llmbench.ai/align/data) | AlignBench is a multi-dimensional benchmark for evaluating language models' alignment in Chinese. |
+| [AIRbench](https://crfm.stanford.edu/helm/air-bench/latest) | AIRbench is a benchmark to evaluate the alignment with regulation or policy-specified safety concerns. |
 | [AlpacaEval](https://tatsu-lab.github.io/alpaca_eval) | AlpacaEval is an automatic evaluator designed for instruction-following language models. |
 | [ANGO](https://huggingface.co/spaces/AngoHF/ANGO-Leaderboard) | ANGO is a generation-oriented Chinese language model evaluation benchmark. |
 | [Biomedical Knowledge Probing Leaderboard](https://huggingface.co/spaces/CDT-BMAI-GP/biomed_probing_leaderboard) | Biomedical Knowledge Probing Leaderboard aims to track, rank, and evaluate biomedical factual knowledge probing results in language models. |
@@ -121,6 +122,7 @@ Also, a listed leaderboard should be included if only:
 | [MY Malaysian Embedding Leaderboard](https://huggingface.co/spaces/mesolitica/malaysian-embedding-leaderboard) | MY Malaysian Embedding Leaderboard measures and ranks the performance of text embedding models on diverse embedding tasks in Malay. |
 | [NPHardEval](https://huggingface.co/spaces/NPHardEval/NPHardEval-leaderboard) | NPHardEval is a benchmark to assess the reasoning abilities of language models through the lens of computational complexity classes. |
 | [OpenCompass LLM Leaderboard](https://rank.opencompass.org.cn/leaderboard-llm-v2) | OpenCompass LLM Leaderboard is a platform for a fair, open, and reproducible large model evaluation. |
+| [Open Arabic LLM Leaderboard](https://huggingface.co/spaces/OALL/Open-Arabic-LLM-Leaderboard) | Open Arabic LLM Leaderboard tracks progress and ranks performance of language models in Arabic. |
 | [OpenLLM Turkish leaderboard](https://huggingface.co/spaces/malhajar/OpenLLMTurkishLeaderboard) | OpenLLM Turkish leaderboard tracks progress and ranks performance of language models in Turkish. |
 | [Open Dutch LLM Evaluation Leaderboard](https://huggingface.co/spaces/BramVanroy/open_dutch_llm_leaderboard) | Open Dutch LLM Evaluation Leaderboard tracks progress and ranks performance of language models in Dutch. |
 | [Open ITA LLM Leaderboard](https://huggingface.co/spaces/FinancialSupport/open_ita_llm_leaderboard) | Open ITA LLM Leaderboard tracks progress and ranks performance of language models in Italian. |
@@ -185,7 +187,7 @@ Also, a listed leaderboard should be included if only:
 | [CORE-MM](https://core-mm.github.io) | CORE-MM is a benchmark to evaluate the open-ended visual question answering (VQA) capabilities of vision-language models. |
 | [GlitchBench](https://huggingface.co/spaces/glitchbench/Leaderboard) | GlitchBench is a benchmark to evaluate the reasoning capabilities of vision-language models in the context of detecting video game glitches. |
 | [HallusionBench](https://github.com/tianyi-lab/HallusionBench) | HallusionBench is a benchmark to evaluate image-context reasoning capabilities of vision-language models. |
-| [HEIM](https://crfm.stanford.edu/heim/latest) | HEIM is a benchmark to evaluate the visual and linguistic reasoning capabilities of text-to-image models. |
+| [HEIM](https://crfm.stanford.edu/heim/latest) | HEIM is a benchmark to evaluate visual and linguistic reasoning capabilities of text-to-image models. |
 | [InfiMM-Eval](https://infimm.github.io/InfiMM-Eval) | InfiMM-Eval is a benchmark to evaluate the open-ended VQA capabilities of vision-language models. |
 | [LVLM-eHub](http://lvlm-ehub.opengvlab.com/leaderboard.html) | LVLM-eHub is a benchmark to evaluate the visual reasoning capabilities of vision-language models. |
 | [Mementos](https://mementos-bench.github.io/#leaderboard) | Mementos is a benchmark to evaluate the reasoning capabilities of vision-language models over image sequences. |
@@ -207,6 +209,7 @@ Also, a listed leaderboard should be included if only:
 | [TextSynth Server](https://bellard.org/ts_server) | TextSynth Server evaluates and compares the performance of language models in generating tokens or images under specific hardware. |
 | [TouchStone](https://github.com/ofa-sys/touchstone) | TouchStone is a benchmark to evaluate the overall text-image dialogue capability and alignment level with humans of multimodal models. |
 | [URIAL Bench](https://huggingface.co/spaces/allenai/URIAL-Bench) | URIAL Bench is a benchmark to evaluate the capacity of language models for alignment without introducing the factors of fine-tuning (learning rate, data, etc.), which are hard to control for fair comparisons. |
+| [VHELM](https://crfm.stanford.edu/helm/vhelm/latest) | VHELM is a benchmark to evaluate visual and linguistic reasoning capabilities of vision language models. |
 | [Vibe-Eval](https://github.com/reka-ai/reka-vibe-eval) | Vibe-Eval is a benchmark to evaluate vision-language models for challenging cases. |
 | [VisIT-Bench](https://visit-bench.github.io) | VisIT-Bench is a benchmark to evaluate the instruction-following capabilities of vision-language models for real-world use. |
 | [VisualWebArena](https://jykoh.com/vwa) | VisualWebArena is a benchmark to assess the performance of multimodal web agents on realistic visually grounded tasks. |
