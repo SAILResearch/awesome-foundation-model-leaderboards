@@ -244,6 +244,7 @@ Also, a listed leaderboard should be included if only:
 | [Program Synthesis Models Leaderboard](https://accubits.com/open-source-program-synthesis-models-leaderboard) | Program Synthesis Models Leaderboard provides a ranking and comparison of open-source code models based on their performance. |
 | [RepoQA](https://evalplus.github.io/repoqa.html) | RepoQA is a benchmark to evaluate the long-context code understanding ability of LLMs.
 | [Spider](https://yale-lily.github.io/spider) | Spider is a benchmark to evaluate the performance of natural language interfaces for cross-domain databases. |
+| [StableToolBench](https://huggingface.co/spaces/stabletoolbench/Stable_Tool_Bench_Leaderboard) | StableToolBench is a benchmark to evaluate tool learning that aims to provide a well-balanced combination of stability and reality. |
 | [SuperCLUE-Code3](https://github.com/CLUEbenchmark/SuperCLUE-Code3) | SuperCLUE-Code3 is a benchmarkto evaluate the performance of LLMs in handling native Chinese programming problems. |
 | [SWE-bench](https://www.swebench.com) | SWE-bench is a benchmark for evaluating LLMs on real world software issues collected from GitHub. |
 
