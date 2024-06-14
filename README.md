@@ -253,6 +253,7 @@ Also, a listed leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [MathBench](https://open-compass.github.io/MathBench) | MathBench is a multi-level difficulty mathematics evaluation benchmark for language models. |
+| [MathEval](https://matheval.ai/leaderboard) | MathEval is a benchmark to evaluate the mathematical capabilities of language models. |
 | [MathVerse](https://mathverse-cuhk.github.io/#leaderboard) | MathVerse is a benchmark to evaluate the capabilities of vision-language models in interpreting and reasoning with visual information in mathematical problems. |
 | [MathVista](https://mathvista.github.io/#leaderboard) | MathVista is a benchmark to evaluate mathematical reasoning in visual contexts. |
 | [MGSM8KInstruct](https://mathoctopus.github.io) | MGSM8KInstruct is the multilingual mathematical reasoning instruction dataset across ten distinct languages. |
