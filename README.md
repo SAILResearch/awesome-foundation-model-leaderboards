@@ -196,6 +196,7 @@ Also, a listed leaderboard should be included if only:
 | [MME](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation) | MME is a benchmark to evaluate the visual reasoning capabilities of vision-language models. |
 | [MMMU](https://mmmu-benchmark.github.io/#leaderboard) | MMMU is a benchmark to evaluate the performance of multimodal models on tasks that demand college-level subject knowledge and expert-level reasoning across various disciplines. |
 | [MMStar](https://mmstar-benchmark.github.io/#Leaderboard) | MMStar is a benchmark to evaluate the multi-modal capacities of vision-language models. |
+| [MMT-Bench](https://mmt-bench.github.io/#leaderboard) | MMT-Bench is a benchmark to evaluate vision-language models across a wide array of multimodal tasks that require expert knowledge as well as deliberate visual recognition, localization, reasoning, and planning. |
 | [OCRBench](https://huggingface.co/spaces/echo840/ocrbench-leaderboard) | OCRBench is a benchmark to assess the OCR capabilities of multimodal models. |
 | [Open Parti Prompts Leaderboard](https://huggingface.co/spaces/OpenGenAI/parti-prompts-leaderboard) | Open Parti Prompts Leaderboard compares text-to-image models to each other according to human preferences. |
 | [OpenVLM Leaderboard](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard) | OpenVLM Leaderboard is a platform to evaluate and compare the performance of vision-language models. |
@@ -209,8 +210,8 @@ Also, a listed leaderboard should be included if only:
 | [TextSynth Server](https://bellard.org/ts_server) | TextSynth Server evaluates and compares the performance of language models in generating tokens or images under specific hardware. |
 | [TouchStone](https://github.com/ofa-sys/touchstone) | TouchStone is a benchmark to evaluate the overall text-image dialogue capability and alignment level with humans of multimodal models. |
 | [URIAL Bench](https://huggingface.co/spaces/allenai/URIAL-Bench) | URIAL Bench is a benchmark to evaluate the capacity of language models for alignment without introducing the factors of fine-tuning (learning rate, data, etc.), which are hard to control for fair comparisons. |
-| [UPD Leaderboard](https://huggingface.co/spaces/MM-UPD/MM-UPD_Leaderboard) | UPD Leaderboard is a platform to evaluate the trustworthiness of vision language models in unsolvable problem detection. |
-| [VHELM](https://crfm.stanford.edu/helm/vhelm/latest) | VHELM is a benchmark to evaluate the visual and linguistic reasoning capabilities of vision language models. |
+| [UPD Leaderboard](https://huggingface.co/spaces/MM-UPD/MM-UPD_Leaderboard) | UPD Leaderboard is a platform to evaluate the trustworthiness of vision-language models in unsolvable problem detection. |
+| [VHELM](https://crfm.stanford.edu/helm/vhelm/latest) | VHELM is a benchmark to evaluate the visual and linguistic reasoning capabilities of vision-language models. |
 | [Vibe-Eval](https://github.com/reka-ai/reka-vibe-eval) | Vibe-Eval is a benchmark to evaluate vision-language models for challenging cases. |
 | [VisIT-Bench](https://visit-bench.github.io) | VisIT-Bench is a benchmark to evaluate the instruction-following capabilities of vision-language models for real-world use. |
 | [VisualWebArena](https://jykoh.com/vwa) | VisualWebArena is a benchmark to assess the performance of multimodal web agents on realistic visually grounded tasks. |
