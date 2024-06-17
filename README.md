@@ -271,6 +271,7 @@ Also, a listed leaderboard should be included if only:
 | [MVBench](https://huggingface.co/spaces/OpenGVLab/MVBench_Leaderboard) | MVBench is a benchmark to evaluate the temporal understanding capabilities of video models their in dynamic video tasks. |
 | [VBench](https://vchitect.github.io/VBench-project) | VBench is a benchmark to evaluate video generation capabilities of video models. |
 | [Video-Bench](https://huggingface.co/spaces/LanguageBind/Video-Bench) | Video-Bench is a benchmark to evaluate the video-exclusive understanding, prior knowledge incorporation, and video-based decision-making abilities of video models. |
+| [Video-MME](https://video-mme.github.io/home_page.html#leaderboard) | Video-MME is a benchmark to evaluate the video analysis capabilities of video models. |
 | [VLM-Eval](https://github.com/zyayoung/Awesome-Video-LLMs) | VLM-Eval is benchmark to evaluate the video understanding capabilities of video models. |
 
 # Audio
