@@ -301,8 +301,8 @@ Also, a listed leaderboard should be included if only:
 
 # Data Evaluation
 
-| [DataComp - CLIP]() | DataComp - CLIP is a benchmark to evaluate the performance of various image/text pairs when used with a fixed model architecture. |
-| [DataComp - LM]() | DataComp - CLIP is a benchmark to evaluate the performance of various text datasets when used with a fixed model architecture. |
+| [DataComp - CLIP](https://www.datacomp.ai/dcclip/leaderboard.html) | DataComp - CLIP is a benchmark to evaluate the performance of various image/text pairs when used with a fixed model architecture. |
+| [DataComp - LM](https://www.datacomp.ai/dclm/leaderboard.html) | DataComp - CLIP is a benchmark to evaluate the performance of various text datasets when used with a fixed model architecture. |
 
 # Method Evaluation
 
