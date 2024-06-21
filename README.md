@@ -271,6 +271,7 @@ Also, a listed leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [AutoEval-Video](https://huggingface.co/spaces/khhuiyh/AutoEval-Video_LeaderBoard) | AutoEval-Video is a benchmark to evaluate the capabilities of video models in the context of open-ended video question answering. |
+| [MLVU](https://github.com/JUNJIE99/MLVU) | MLVU is a benchmark to evaluate video models in multi-task long video understanding. |
 | [MVBench](https://huggingface.co/spaces/OpenGVLab/MVBench_Leaderboard) | MVBench is a benchmark to evaluate the temporal understanding capabilities of video models their in dynamic video tasks. |
 | [VBench](https://vchitect.github.io/VBench-project) | VBench is a benchmark to evaluate video generation capabilities of video models. |
 | [Video-Bench](https://huggingface.co/spaces/LanguageBind/Video-Bench) | Video-Bench is a benchmark to evaluate the video-exclusive understanding, prior knowledge incorporation, and video-based decision-making abilities of video models. |
