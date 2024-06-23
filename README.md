@@ -56,6 +56,7 @@ Also, a listed leaderboard should be included if only:
 | [AIRbench](https://crfm.stanford.edu/helm/air-bench/latest) | AIRbench is a benchmark to evaluate the alignment with regulation or policy-specified safety concerns. |
 | [AlpacaEval](https://tatsu-lab.github.io/alpaca_eval) | AlpacaEval is an automatic evaluator designed for instruction-following language models. |
 | [ANGO](https://huggingface.co/spaces/AngoHF/ANGO-Leaderboard) | ANGO is a generation-oriented Chinese language model evaluation benchmark. |
+| [Arena-Hard-Auto](https://github.com/lm-sys/arena-hard-auto) | Arena-Hard-Auto is a benchmark for instruction-tuned language models. |
 | [BenBench](https://gair-nlp.github.io/benbench) | BenBench is a benchmark to evaluate the extent to which language models conduct verbatim training on the training set of a benchmark over test set to enhance capabilities. |
 | [Biomedical Knowledge Probing Leaderboard](https://huggingface.co/spaces/CDT-BMAI-GP/biomed_probing_leaderboard) | Biomedical Knowledge Probing Leaderboard aims to track, rank, and evaluate biomedical factual knowledge probing results in language models. |
 | [BotChat](https://botchat.opencompass.org.cn) | BotChat assesses the multi-round chatting capabilities of language models through a proxy task, evaluating whether two ChatBot instances can engage in smooth and fluent conversation with each other. |
