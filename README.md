@@ -44,6 +44,7 @@ Also, a listed leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [Allen Institute for AI](https://leaderboard.allenai.org) | Allen Institute for AI is a non-profit research institute with the mission of conducting high-impact AI research and engineering in service of the common good. |
+| [nuScenes](https://www.nuscenes.org) | nuScenes enables researchers to study challenging urban driving situations using the full sensor suite of a real self-driving car. |
 | [Robust Reading Competition](https://rrc.cvc.uab.es) | Robust Reading refers to the research area dealing with the interpretation of written communication in unconstrained settings. |
 
 ## Text
