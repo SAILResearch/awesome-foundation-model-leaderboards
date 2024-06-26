@@ -238,6 +238,7 @@ Also, a listed leaderboard should be included if only:
 | [CRUXEval](https://crux-eval.github.io/leaderboard.html) | CRUXEval is a benchmark to evaluate code reasoning, understanding, and execution capabilities of LLMs. |
 | [CyberSafetyEval](https://huggingface.co/spaces/facebook/CyberSecEval) | CYBERSECEVAL is a benchmark to evaluate the cybersecurity of LLMs as coding assistants. |
 | [DevBench](https://github.com/open-compass/devbench) | DevBench is a benchmark to evaluate language models across various stages of the software development lifecycle. |
+| [DevOps-Eval](https://github.com/codefuse-ai/codefuse-devops-eval) | DevOps-Eval is a benchmark to evaluate foundation models in the DevOps field. |
 | [DS-1000](https://ds1000-code-gen.github.io) | DS-1000 is a meta benchmark to evaluate code generation models in data science tasks. |
 | [EvalPlus](https://evalplus.github.io/leaderboard.html) | EvalPlus is a benchmark to evaluate the code generation performance of LLMs. |
 | [EvoEval](https://evo-eval.github.io/leaderboard.html) | EvoEval is a benchmark to evaluate the coding abilities of LLMs, created by evolving existing benchmarks into different targeted domains. |
