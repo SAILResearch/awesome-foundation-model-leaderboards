@@ -235,7 +235,7 @@ Also, a listed leaderboard should be included if only:
 | [BIRD](https://bird-bench.github.io) | BIRD is a benchmark to evaluate the performance of text-to-SQL parsing systems. |
 | [CanAiCode Leaderboard](https://huggingface.co/spaces/mike-ravkine/can-ai-code-results) | CanAiCode Leaderboard is a platform to assess the code generation capabilities of LLMs. |
 | [ClassEval](https://fudanselab-classeval.github.io/leaderboard.html) | ClassEval is a benchmark to evaluate LLMs on class-level code generation. |
-| [Code Lingua](https://codetlingua.github.io/leaderboard.html) | Code Lingua is a platform to compare the ability of language models to understand what the code implements in source language and translate the same semantics in target language. |
+| [Code Lingua](https://codetlingua.github.io/leaderboard.html) | Code Lingua is a benchmark to compare the ability of language models to understand what the code implements in source language and translate the same semantics in target language. |
 | [Coding LLMs Leaderboard](https://leaderboard.tabbyml.com) | Coding LLMs Leaderboard is a platform to evaluate and rank LLMs across various programming tasks. |
 | [CRUXEval](https://crux-eval.github.io/leaderboard.html) | CRUXEval is a benchmark to evaluate code reasoning, understanding, and execution capabilities of LLMs. |
 | [CyberSafetyEval](https://huggingface.co/spaces/facebook/CyberSecEval) | CYBERSECEVAL is a benchmark to evaluate the cybersecurity of LLMs as coding assistants. |
