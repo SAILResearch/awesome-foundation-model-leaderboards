@@ -62,8 +62,9 @@ Also, a listed leaderboard should be included if only:
 | [BenBench](https://gair-nlp.github.io/benbench) | BenBench is a benchmark to evaluate the extent to which language models conduct verbatim training on the training set of a benchmark over test set to enhance capabilities. |
 | [Biomedical Knowledge Probing Leaderboard](https://huggingface.co/spaces/CDT-BMAI-GP/biomed_probing_leaderboard) | Biomedical Knowledge Probing Leaderboard aims to track, rank, and evaluate biomedical factual knowledge probing results in language models. |
 | [BotChat](https://botchat.opencompass.org.cn) | BotChat assesses the multi-round chatting capabilities of language models through a proxy task, evaluating whether two ChatBot instances can engage in smooth and fluent conversation with each other. |
-| [CFBenchmark](https://github.com/TongjiFinLab/CFBenchmark) | CFBenchmark is a benchmark to evaluate the capabilities of Chinese language model in practical financial applications. |
 | [C-Eval](https://cevalbenchmark.com/static/leaderboard.html) | C-Eval is a Chinese evaluation suite for language models. |
+| [CFBenchmark](https://github.com/TongjiFinLab/CFBenchmark) | CFBenchmark is a benchmark to evaluate the capabilities of Chinese language model in practical financial applications. |
+| [Chain-of-Thought Hub](https://github.com/FranxYao/chain-of-thought-hub) | Chain-of-Thought Hub is a benchmark to evaluate the reasoning capabilities of language models. |
 | [ChineseFactEval](https://github.com/GAIR-NLP/factool/tree/main/datasets/chinese) | ChineseFactEval is a factuality benchmark for Chinese language models. |
 | [CLEM](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard) | CLEM is a framework designed for the systematic evaluation of chat-optimized language models as conversational agents. |
 | [CLiB](https://github.com/jeinlee1991/chinese-llm-benchmark) | CLiB is a framework designed for the evaluation of Chinese language models. |
