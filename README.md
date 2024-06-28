@@ -193,6 +193,7 @@ Also, a listed leaderboard should be included if only:
 | [ConTextual](https://huggingface.co/spaces/ucla-contextual/contextual_leaderboard) | ConTextual is a benchmark to evaluate vision-language models across context-sensitive text-rich visual reasoning tasks. |
 | [CORE-MM](https://core-mm.github.io) | CORE-MM is a benchmark to evaluate the open-ended visual question answering (VQA) capabilities of vision-language models. |
 | [CV-Bench](https://cambrian-mllm.github.io) | CV-Bench is a vision-centric benchmark to evaluate vision-language models. |
+| [DreamBench++](https://cambrian-mllm.github.io) | DreamBench++ is a human-aligned benchmark automated by multimodal models for personalized image generation. |
 | [GlitchBench](https://huggingface.co/spaces/glitchbench/Leaderboard) | GlitchBench is a benchmark to evaluate the reasoning capabilities of vision-language models in the context of detecting video game glitches. |
 | [HallusionBench](https://github.com/tianyi-lab/HallusionBench) | HallusionBench is a benchmark to evaluate image-context reasoning capabilities of vision-language models. |
 | [HEIM](https://crfm.stanford.edu/heim/latest) | HEIM is a benchmark to evaluate visual and linguistic reasoning capabilities of text-to-image models. |
