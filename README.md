@@ -320,15 +320,21 @@ Also, a listed leaderboard should be included if only:
 | [GenAI-Arena Leaderboard](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) | GenAI-Arena Leaderboard is a comprehensive platform to evaluate foundation models in image generation, image edition, and video generation. |
 
 # Data Evaluation
+
+| Name | Description |
 | ---- | ----------- |
 | [DataComp - CLIP](https://www.datacomp.ai/dcclip/leaderboard.html) | DataComp - CLIP is a benchmark to evaluate the performance of various image/text pairs when used with a fixed model architecture. |
 | [DataComp - LM](https://www.datacomp.ai/dclm/leaderboard.html) | DataComp - CLIP is a benchmark to evaluate the performance of various text datasets when used with a fixed model architecture. |
 
 # Method Evaluation
+
+| Name | Description |
 | ---- | ----------- |
 | [TOFU Leaderboard](https://huggingface.co/spaces/locuslab/tofu_leaderboard) | TOFU Leaderboard is a benchmark to evaluate the unlearning performance of language models in realistic scenarios. |
 
 # Metric Evaluation
+
+| Name | Description |
 | ---- | ----------- |
 | [AlignScore](https://github.com/yuh-zha/AlignScore) | AlignScore evaluates the performance of different metrics in assessing factual consistency. |
 
