@@ -73,6 +73,7 @@ Also, a listed leaderboard should be included if only:
 | [CMMLU](https://github.com/haonan-li/CMMLU) | CMMLU is a benchmark to evaluate the performance of language models in various subjects within the Chinese cultural context. |
 | [CMMMU](https://cmmmu-benchmark.github.io/#leaderboard) | CMMMU is a benchmark to test the capabilities of multimodal models in understanding and reasoning across multiple disciplines in the Chinese context. |
 | [CompMix](https://qa.mpi-inf.mpg.de/compmix) | CompMix is a benchmark for heterogeneous question answering. |
+| [Compression Leaderboard](https://huggingface.co/spaces/eson/tokenizer-arena) | Compression Leaderboard is a platform to evaluate the compression performance of language models. |
 | [ConvRe](https://huggingface.co/spaces/3B-Group/ConvRe-Leaderboard) | ConvRe is a benchmark to evaluate language models' ability to comprehend converse relations. |
 | [CriticBench](https://open-compass.github.io/CriticBench) | CriticBench is a benchmark to evaluate language models' ability to make critique responses. |
 | [DecodingTrust](https://decodingtrust.github.io/leaderboard) | DecodingTrust is an assessment platform to evaluate the trustworthiness of language models. |
@@ -100,7 +101,8 @@ Also, a listed leaderboard should be included if only:
 | [Ko Chatbot Arena Leaderboard](https://elo.instruct.kr/leaderboard) | Ko Chatbot Arena Leaderboard hosts the chatbot arena, where various language models compete based on their performance in Korean. |
 | [KoLA](http://103.238.162.37:31622/LeaderBoard) | KoLA is a benchmark to evaluate the world knowledge of language models. |
 | [L-Eval](https://l-eval.github.io) | L-Eval is a Long Context Language Models (LCLMs) evaluation benchmark to evaluate the performance of handling extensive context. |
-| [LAiW](https://huggingface.co/spaces/daishen/SCULAiW) | LAiW is an evaluation framework for Chinese legal language understanding and reasoning. |
+| [LAiW](https://huggingface.co/spaces/daishen/SCULAiW) | LAiW is a benchmark to evaluate Chinese legal language understanding and reasoning. |
+| [Language Model Council](https://llm-council.com) | Language Model Council (LMC) is a benchmark to evaluate tasks that are highly subjective and often lack majoritarian human agreement. |
 | [LawBench](https://lawbench.opencompass.org.cn/leaderboard) | LawBench is a benchmark to evaluate the legal capabilities of language models. |
 | [LLM Benchmarker Suite Leaderboard](https://llm-evals.formula-labs.com) | LLM API Hosts Leaderboard assesses language model API providers based on metrics, including price, performance, context window size, and more. |
 | [LLM Safety Leaderboard](https://huggingface.co/spaces/AI-Secure/llm-trustworthy-leaderboard) | LLM Safety Leaderboard aims to provide a unified evaluation for language model safety. |
