@@ -119,6 +119,7 @@ Also, a listed leaderboard should be included if only:
 | [MedBench](https://medbench.opencompass.org.cn/leaderboard) | MedBench is a benchmark to evaluate the mastery of knowledge and reasoning abilities in medical language models. |
 | [Meta Open LLM leaderboard](https://huggingface.co/spaces/felixz/meta_open_llm_leaderboard) | The Meta Open LLM leaderboard serves as a central hub for consolidating data from various open LLM leaderboards into a single, user-friendly visualization page. |
 | [MINT-Bench](https://xwang.dev/mint-bench) | MINT-Bench is a benchmark to evaluate the capabilities of language models in solving tasks involving multi-turn interactions. |
+| [Mistral ChatBot Arena](https://huggingface.co/spaces/rwitz/Mistral-ChatBot-Arena) | Mistral ChatBot Arena hosts the chatbot arena, where various language models compete based on their performance in chatting. |
 | [ML.ENERGY Leaderboard](https://ml.energy/leaderboard) | ML.ENERGY Leaderboard evaluates the energy consumption of language models. |
 | [MMCU](https://github.com/Felixgithub2017/MMCU) | MMCU is a benchmark to evaluate the multitask accuracy of Chinese language models. |
 | [MMLU](https://github.com/hendrycks/test) | MMLU is a benchmark to evaluate the performance of language models across a wide array of natural language understanding tasks. |
@@ -131,8 +132,10 @@ Also, a listed leaderboard should be included if only:
 | [NPHardEval](https://huggingface.co/spaces/NPHardEval/NPHardEval-leaderboard) | NPHardEval is a benchmark to evaluate the reasoning abilities of language models through the lens of computational complexity classes. |
 | [OlympicArena](https://gair-nlp.github.io/OlympicArena/#leaderboard) | OlympicArena is a benchmark to evaluate advanced capabilities of language models across a broad spectrum of Olympic-level challenges. |
 | [OpenCompass LLM Leaderboard](https://rank.opencompass.org.cn/leaderboard-llm-v2) | OpenCompass LLM Leaderboard is a platform for a fair, open, and reproducible large model evaluation. |
-| [Open Arabic LLM Leaderboard](https://huggingface.co/spaces/OALL/Open-Arabic-LLM-Leaderboard) | Open Arabic LLM Leaderboard tracks progress and ranks performance of language models in Arabic. |
+| [OpenEval](https://github.com/hkust-nlp/felm) | OpenEval is a multidimensional and open evaluation system to assess Chinese language models. |
 | [OpenLLM Turkish leaderboard](https://huggingface.co/spaces/malhajar/OpenLLMTurkishLeaderboard) | OpenLLM Turkish leaderboard tracks progress and ranks performance of language models in Turkish. |
+| [Open-source Model Fine-Tuning Leaderboard](https://predibase.com/fine-tuning-index) | Open-source Model Fine-Tuning Leaderboard is a platform to rank and showcase models that have been fine-tuned using open-source datasets or frameworks. |
+| [Open Arabic LLM Leaderboard](https://huggingface.co/spaces/OALL/Open-Arabic-LLM-Leaderboard) | Open Arabic LLM Leaderboard tracks progress and ranks performance of language models in Arabic. |
 | [Open Dutch LLM Evaluation Leaderboard](https://huggingface.co/spaces/BramVanroy/open_dutch_llm_leaderboard) | Open Dutch LLM Evaluation Leaderboard tracks progress and ranks performance of language models in Dutch. |
 | [Open ITA LLM Leaderboard](https://huggingface.co/spaces/FinancialSupport/open_ita_llm_leaderboard) | Open ITA LLM Leaderboard tracks progress and ranks performance of language models in Italian. |
 | [Open Ko-LLM Leaderboard](https://huggingface.co/spaces/upstage/open-ko-llm-leaderboard) | Open Ko-LLM Leaderboard tracks progress and ranks performance of language models in Korean. |
@@ -143,12 +146,12 @@ Also, a listed leaderboard should be included if only:
 | [Open Multilingual LLM Evaluation Leaderboard](https://huggingface.co/spaces/uonlp/open_multilingual_llm_leaderboard) | Open Multilingual LLM Evaluation Leaderboard tracks progress and ranks performance of language models in multiple languages. |
 | [Open PL LLM Leaderboard](https://github.com/hkust-nlp/felm) | Open PL LLM Leaderboard is a platform for assessing the performance of various language models in Polish. |
 | [Open PT LLM Leaderboard](https://huggingface.co/spaces/eduagarcia/open_pt_llm_leaderboard) | Open PT LLM Leaderboard tracks progress and ranks the performance of language models in Portuguese. |
-| [OpenEval](https://github.com/hkust-nlp/felm) | OpenEval is a multidimensional and open evaluation system to assess Chinese language models. |
 | [Powered-by-Intel LLM Leaderboard](https://huggingface.co/spaces/Intel/powered_by_intel_llm_leaderboard) | Powered-by-Intel LLM Leaderboard evaluates, scores, and ranks language models that have been pre-trained or fine-tuned on Intel Hardware. |
 | [PubMedQA](https://pubmedqa.github.io) | PubMedQA is a benchmark to evaluate biomedical research question answering. |
 | [QuALITY](https://nyu-mll.github.io/quality) | QuALITY is a benchmark to evaluate multiple-choice question answering with long context. |
 | [Red-Eval](https://github.com/declare-lab/red-instruct) | Red-Eval is a benchmark to evaluate the robustness of language models against harmful queries. |
 | [Red Teaming Resistance Benchmark](https://huggingface.co/spaces/HaizeLabs/red-teaming-resistance-benchmark) | Red Teaming Resistance Benchmark is a benchmark to evaluate the robustness of language models against redteaming prompts. |
+| [Reviewer Arena](https://huggingface.co/spaces/openreviewer/reviewer-arena) | Reviewer Arena hosts the reviewer arena, where various language models compete based on their performance in critiquing academic papers. |
 | [RoleEval](https://github.com/magnetic2014/roleeval) | RoleEval is a bilingual benchmark to evaluate the memorization, utilization, and reasoning capabilities of role knowledge of language models. |
 | [Safety Prompts](http://coai.cs.tsinghua.edu.cn/leaderboard) | Safety Prompts is a benchmark to evaluate the safety of Chinese language models. |
 | [SafetyBench](https://llmbench.ai/safety/data) | SafetyBench is a benchmark to evaluate the safety of language models. |
@@ -297,21 +300,24 @@ Also, a listed leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [BIGOS](https://huggingface.co/spaces/amu-cai/pl-asr-leaderboard) | BIGOS is a benchmark to evaluate Automatic Speech Recognition (ASR) systems on a diverse set of recordings and their corresponding original transcriptions. |
-| [MY Malaysian Speech-to-Text Leaderboard](https://huggingface.co/spaces/mesolitica/malaysian-stt-leaderboard) | MY Malaysian Speech-to-Text Leaderboard aims to track, rank and evaluate Malaysian Speech-to-Text models. |
-| [Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard) | Open ASR Leaderboard provides a platform to tracking, ranking, and evaluating ASR models. |
+| [MY Malaysian Speech-to-Text Leaderboard](https://huggingface.co/spaces/mesolitica/malaysian-stt-leaderboard) | MY Malaysian Speech-to-Text (STT) Leaderboard aims to track, rank and evaluate Malaysian STT models. |
+| [Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard) | Open ASR Leaderboard provides a platform to tracking, ranking, and evaluating Automatic Speech Recognition (ASR) models. |
+| [TTS Arena](https://huggingface.co/spaces/TTS-AGI/TTS-Arena) | TTS-Arena hosts the Text To Speech (TTS) arena, where various TTS models compete based on their performance in generating speech. |
 
 ## 3D
 
 | Name | Description |
 | ---- | ----------- |
+| [3D Arena](https://huggingface.co/spaces/dylanebert/3d-arena) | 3D Arena hosts 3D generation arena, where various 3D generative models compete based on their performance in generating 3D models.. |
 | [BOP](https://bop.felk.cvut.cz/leaderboards) | BOP is a benchmark to evaluate 6D pose estimation of a rigid object from a single RGB-D input image. |
-| [M3DBench](https://m3dbench.github.io) | M3DBench is a benchmark to evaluate the performance of foundation models in understanding multi-modal 3D prompts. |
+| [M3DBench](https://m3dbench.github.io) | M3DBench is a benchmark to evaluate the performance of 3D generative models in understanding multi-modal 3D prompts. |
 
 ## Multi-modality
 
 | Name | Description |
 | ---- | ----------- |
 | [FlagEval](https://flageval.baai.ac.cn/#/leaderboard) | FlagEval is a comprehensive platform to evaluate foundation models. |
+| [GenAI-Arena Leaderboard](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) | GenAI-Arena Leaderboard is a comprehensive platform to evaluate foundation models in image generation, image edition, and video generation. |
 
 # Data Evaluation
 
