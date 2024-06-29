@@ -189,6 +189,7 @@ Also, a listed leaderboard should be included if only:
 | ---- | ----------- |
 | [AesBench](https://github.com/yipoh/AesBench) | AesBench is a benchmark to evaluate vision-language models on image aesthetics perception. |
 | [CCBench](https://mmbench.opencompass.org.cn/leaderboard) | CCBench is a benchmark to evaluate the multi-modal capabilities of vision-language models specifically related to Chinese culture. |
+| [CharXiv](https://charxiv.github.io/#leaderboard) | CharXiv is a benchmark to evaluate chart understanding capabilities of vision-language models. |
 | [ChEF](https://openlamm.github.io/Leaderboards) | ChEF is a benchmark to evaluate vision-language models across various visual reasoning tasks. |
 | [ConTextual](https://huggingface.co/spaces/ucla-contextual/contextual_leaderboard) | ConTextual is a benchmark to evaluate vision-language models across context-sensitive text-rich visual reasoning tasks. |
 | [CORE-MM](https://core-mm.github.io) | CORE-MM is a benchmark to evaluate the open-ended visual question answering (VQA) capabilities of vision-language models. |
@@ -221,6 +222,7 @@ Also, a listed leaderboard should be included if only:
 | [URIAL Bench](https://huggingface.co/spaces/allenai/URIAL-Bench) | URIAL Bench is a benchmark to evaluate the capacity of language models for alignment without introducing the factors of fine-tuning (learning rate, data, etc.), which are hard to control for fair comparisons. |
 | [UPD Leaderboard](https://huggingface.co/spaces/MM-UPD/MM-UPD_Leaderboard) | UPD Leaderboard is a platform to evaluate the trustworthiness of vision-language models in unsolvable problem detection. |
 | [VHELM](https://crfm.stanford.edu/helm/vhelm/latest) | VHELM is a benchmark to evaluate the visual and linguistic reasoning capabilities of vision-language models. |
+| [VCR-wiki](https://github.com/tianyu-z/VCR) | VCR-wiki is a benchmark to evaluate the capabilities of vision-language models to restore partially obscured text within images. |
 | [Vibe-Eval](https://github.com/reka-ai/reka-vibe-eval) | Vibe-Eval is a benchmark to evaluate vision-language models for challenging cases. |
 | [VisIT-Bench](https://visit-bench.github.io) | VisIT-Bench is a benchmark to evaluate the instruction-following capabilities of vision-language models for real-world use. |
 | [VisualWebArena](https://jykoh.com/vwa) | VisualWebArena is a benchmark to evaluate the performance of multimodal web agents on realistic visually grounded tasks. |
