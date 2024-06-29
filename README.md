@@ -339,6 +339,8 @@ Also, a listed leaderboard should be included if only:
 | [AlignScore](https://github.com/yuh-zha/AlignScore) | AlignScore evaluates the performance of different metrics in assessing factual consistency. |
 
 # Leaderboard Evaluation
+
+| Name | Description |
 | ---- | ----------- |
 | [Open Leaderboards Leaderboard](https://huggingface.co/spaces/leaderboards/LeaderboardFinder) | Open Leaderboards Leaderboard is a meta-leaderboard that leverages human preferences to compare machine learning leaderboards. |
 
