@@ -5,7 +5,7 @@
 
 **Awesome Foundation Model Leaderboard** is a curated list of awesome leaderboards built for foundation models organized according to [our survey](TDOO):
 
-<p align="center"><strong>An Exploratory Study on the Operations and Smells of Foundation Model Leaderboards</strong></p>
+<p align="center"><strong>On the Workflows and Smells of Leaderboard Operations (LBOps): An Exploratory Study of Foundation Model Leaderboards</strong></p>
 
 <p align="center"><a href="https://github.com/zhimin-z">Zhimin Zhao</a>†, <a href="https://abdulali.github.io">Abdul Ali Bangash</a>, <a href="https://www.filipecogo.pro">Filipe Roseiro Côgo</a>, <a href="https://mcis.cs.queensu.ca/bram.html">Bram Adams</a>, <a href="https://research.cs.queensu.ca/home/ahmed">Ahmed E. Hassan</a></p>
 
