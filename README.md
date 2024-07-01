@@ -59,16 +59,16 @@ Also, a listed leaderboard should be included if only:
 | [ANGO](https://huggingface.co/spaces/AngoHF/ANGO-Leaderboard) | ANGO is a generation-oriented Chinese language model evaluation benchmark. |
 | [Arena-Hard-Auto](https://github.com/lm-sys/arena-hard-auto) | Arena-Hard-Auto is a benchmark for instruction-tuned language models. |
 | [Auto-Arena](https://huggingface.co/spaces/Auto-Arena/Leaderboard) | Auto-Arena is a benchmark in which various language model agents engage in peer-battles to evaluate their performance. |
-| [BenBench](https://gair-nlp.github.io/benbench) | BenBench is a benchmark to evaluate the extent to which language models conduct verbatim training on the training set of a benchmark over test set to enhance capabilities. |
+| [BenBench](https://gair-nlp.github.io/benbench) | BenBench is a benchmark to evaluate the extent to which language models conduct verbatim training on the training set of a benchmark over the test set to enhance capabilities. |
 | [Biomedical Knowledge Probing Leaderboard](https://huggingface.co/spaces/CDT-BMAI-GP/biomed_probing_leaderboard) | Biomedical Knowledge Probing Leaderboard aims to track, rank, and evaluate biomedical factual knowledge probing results in language models. |
 | [BotChat](https://botchat.opencompass.org.cn) | BotChat assesses the multi-round chatting capabilities of language models through a proxy task, evaluating whether two ChatBot instances can engage in smooth and fluent conversation with each other. |
 | [C-Eval](https://cevalbenchmark.com/static/leaderboard.html) | C-Eval is a Chinese evaluation suite for language models. |
-| [CFBenchmark](https://github.com/TongjiFinLab/CFBenchmark) | CFBenchmark is a benchmark to evaluate the capabilities of Chinese language model in practical financial applications. |
+| [CFBenchmark](https://github.com/TongjiFinLab/CFBenchmark) | CFBenchmark is a benchmark to evaluate the capabilities of Chinese language models in practical financial applications. |
 | [Chain-of-Thought Hub](https://github.com/FranxYao/chain-of-thought-hub) | Chain-of-Thought Hub is a benchmark to evaluate the reasoning capabilities of language models. |
 | [ChineseFactEval](https://github.com/GAIR-NLP/factool/tree/main/datasets/chinese) | ChineseFactEval is a factuality benchmark for Chinese language models. |
 | [CLEM](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard) | CLEM is a framework designed for the systematic evaluation of chat-optimized language models as conversational agents. |
-| [CLiB](https://github.com/jeinlee1991/chinese-llm-benchmark) | CLiB is a framework designed for the evaluation of Chinese language models. |
-| [CMMLU](https://github.com/haonan-li/CMMLU) | CMMLU is a Chinese evaluation benchmark specifically designed to assess the knowledge and reasoning capabilities of language models. |
+| [CLiB](https://github.com/jeinlee1991/chinese-llm-benchmark) | CLiB is a benchmark to evaluate Chinese language models. |
+| [CMMLU](https://github.com/haonan-li/CMMLU) | CMMLU is a Chinese benchmark to evaluate language models' knowledge and reasoning capabilities. |
 | [CMB](https://cmedbenchmark.llmzoo.com/static/leaderboard.html) | CMB is a multi-level medical benchmark in Chinese. |
 | [CMMLU](https://github.com/haonan-li/CMMLU) | CMMLU is a benchmark to evaluate the performance of language models in various subjects within the Chinese cultural context. |
 | [CMMMU](https://cmmmu-benchmark.github.io/#leaderboard) | CMMMU is a benchmark to test the capabilities of multimodal models in understanding and reasoning across multiple disciplines in the Chinese context. |
@@ -92,26 +92,26 @@ Also, a listed leaderboard should be included if only:
 | [HELM (Classic)](https://crfm.stanford.edu/helm/classic/latest) | HELM (Classic) is a benchmark to evaluate foundation language models. |
 | [HELM (Instruct)](https://crfm.stanford.edu/helm/instruct/latest) | HELM (Instruct) is a multidimensional evaluation framework designed for assessing instruction-following language models. |
 | [HELM (Lite)](https://crfm.stanford.edu/helm/lite/latest) | HELM (Lite) is a lightweight benchmark framework designed for evaluating the capabilities of language models. |
-| [HHEM leaderboard](https://huggingface.co/spaces/vectara/leaderboard) | HHEM leaderboard evaluates how often an language model introduces hallucinations when summarizing a document. |
+| [HHEM leaderboard](https://huggingface.co/spaces/vectara/leaderboard) | HHEM leaderboard evaluates how often a language model introduces hallucinations when summarizing a document. |
 | [Indic LLM Leaderboard](https://huggingface.co/spaces/Cognitive-Lab/indic_llm_leaderboard) | Indic LLM Leaderboard is a benchmark to track progress and rank the performance of Indic language models. |
 | [InstructEval](https://declare-lab.github.io/instruct-eval) | InstructEval is an evaluation suite to assess instruction selection methods in the context of language models. |
 | [Japanese Chatbot Arena Leaderboard](https://huggingface.co/spaces/yutohub/japanese-chatbot-arena-leaderboard) | Japanese Chatbot Arena Leaderboard hosts the chatbot arena, where various language models compete based on their performance in Japnese. |
 | [JustEval](https://allenai.github.io/re-align/just_eval.html) | JustEval is a powerful tool designed for fine-grained evaluation of language models. |
-| [KAgentBench](https://github.com/kwaikeg/kwaiagents) | KAgentBench is a benchmark to test agent capabilitie, include planning, tool use, reflection, concluding, and profiling. |
+| [KAgentBench](https://github.com/kwaikeg/kwaiagents) | KAgentBench is a benchmark to test agent capabilities, including planning, tool use, reflection, concluding, and profiling. |
 | [Ko Chatbot Arena Leaderboard](https://elo.instruct.kr/leaderboard) | Ko Chatbot Arena Leaderboard hosts the chatbot arena, where various language models compete based on their performance in Korean. |
 | [KoLA](http://103.238.162.37:31622/LeaderBoard) | KoLA is a benchmark to evaluate the world knowledge of language models. |
-| [L-Eval](https://l-eval.github.io) | L-Eval is a Long Context Language Models (LCLMs) evaluation benchmark to evaluate the performance of handling extensive context. |
+| [L-Eval](https://l-eval.github.io) | L-Eval is a Long Context Language Model (LCLM) evaluation benchmark to evaluate the performance of handling extensive context. |
 | [LAiW](https://huggingface.co/spaces/daishen/SCULAiW) | LAiW is a benchmark to evaluate Chinese legal language understanding and reasoning. |
 | [Language Model Council](https://llm-council.com) | Language Model Council (LMC) is a benchmark to evaluate tasks that are highly subjective and often lack majoritarian human agreement. |
 | [LawBench](https://lawbench.opencompass.org.cn/leaderboard) | LawBench is a benchmark to evaluate the legal capabilities of language models. |
 | [LLM Benchmarker Suite Leaderboard](https://llm-evals.formula-labs.com) | LLM API Hosts Leaderboard assesses language model API providers based on metrics, including price, performance, context window size, and more. |
 | [LLM Safety Leaderboard](https://huggingface.co/spaces/AI-Secure/llm-trustworthy-leaderboard) | LLM Safety Leaderboard aims to provide a unified evaluation for language model safety. |
 | [LLM-Leaderboard](https://github.com/LudwigStumpp/llm-leaderboard) | LLM-Leaderboard is a joint community effort to create one central leaderboard for LLMs. |
-| [LLM-Perf Leaderboard](https://huggingface.co/spaces/optimum/llm-perf-leaderboard) | LLM-Perf Leaderboard aims to benchmark the performance of language models with different hardwares, backends and optimizations. |
+| [LLM-Perf Leaderboard](https://huggingface.co/spaces/optimum/llm-perf-leaderboard) | LLM-Perf Leaderboard aims to benchmark the performance of language models with different hardware, backends, and optimizations. |
 | [LLMEval](http://llmeval.com) | LLMEval is a benchmark to evaluate the quality of open-domain conversations with language models. |
 | [LLMHallucination Leaderboard](https://huggingface.co/spaces/ramiroluo/LLMHallucination_Leaderboard) | Hallucinations Leaderboard evaluates language models based on an array of hallucination-related benchmarks. |
 | [LLMPerf](https://github.com/ray-project/llmperf-leaderboard) | LLMPerf is a tool to evaluate the performance of language models using both load and correctness tests. |
-| [LMExamQA](https://lmexam.com) | LMExamQA is a benchmark to evaluate the performance of language models on open-ended question answering tasks. |
+| [LMExamQA](https://lmexam.com) | LMExamQA is a benchmark to evaluate the performance of language models on open-ended question-answering tasks. |
 | [LMSYS Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) | LMSYS Chatbot Arena Leaderboard hosts the chatbot arena, where various language models compete based on their performance in English. |
 | [LongBench](https://github.com/THUDM/LongBench) | LongBench is a benchmark for assessing the long context understanding capabilities of LLMs. |
 | [LucyEval](http://lucyeval.besteasy.com/leaderboard.html) | LucyEval offers a thorough assessment of language models' performance in various Chinese contexts. |
@@ -134,13 +134,13 @@ Also, a listed leaderboard should be included if only:
 | [OlympicArena](https://gair-nlp.github.io/OlympicArena/#leaderboard) | OlympicArena is a benchmark to evaluate advanced capabilities of language models across a broad spectrum of Olympic-level challenges. |
 | [OpenCompass LLM Leaderboard](https://rank.opencompass.org.cn/leaderboard-llm-v2) | OpenCompass LLM Leaderboard is a platform for a fair, open, and reproducible large model evaluation. |
 | [OpenEval](https://github.com/hkust-nlp/felm) | OpenEval is a multidimensional and open evaluation system to assess Chinese language models. |
-| [OpenLLM Turkish leaderboard](https://huggingface.co/spaces/malhajar/OpenLLMTurkishLeaderboard) | OpenLLM Turkish leaderboard tracks progress and ranks performance of language models in Turkish. |
+| [OpenLLM Turkish leaderboard](https://huggingface.co/spaces/malhajar/OpenLLMTurkishLeaderboard) | OpenLLM Turkish leaderboard tracks progress and ranks the performance of language models in Turkish. |
 | [Open-source Model Fine-Tuning Leaderboard](https://predibase.com/fine-tuning-index) | Open-source Model Fine-Tuning Leaderboard is a platform to rank and showcase models that have been fine-tuned using open-source datasets or frameworks. |
-| [Open Arabic LLM Leaderboard](https://huggingface.co/spaces/OALL/Open-Arabic-LLM-Leaderboard) | Open Arabic LLM Leaderboard tracks progress and ranks performance of language models in Arabic. |
-| [Open Dutch LLM Evaluation Leaderboard](https://huggingface.co/spaces/BramVanroy/open_dutch_llm_leaderboard) | Open Dutch LLM Evaluation Leaderboard tracks progress and ranks performance of language models in Dutch. |
-| [Open ITA LLM Leaderboard](https://huggingface.co/spaces/FinancialSupport/open_ita_llm_leaderboard) | Open ITA LLM Leaderboard tracks progress and ranks performance of language models in Italian. |
-| [Open Ko-LLM Leaderboard](https://huggingface.co/spaces/upstage/open-ko-llm-leaderboard) | Open Ko-LLM Leaderboard tracks progress and ranks performance of language models in Korean. |
-| [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) | Open LLM Leaderboard tracks progress and ranks performance of language models in English. |
+| [Open Arabic LLM Leaderboard](https://huggingface.co/spaces/OALL/Open-Arabic-LLM-Leaderboard) | Open Arabic LLM Leaderboard tracks progress and ranks the performance of language models in Arabic. |
+| [Open Dutch LLM Evaluation Leaderboard](https://huggingface.co/spaces/BramVanroy/open_dutch_llm_leaderboard) | Open Dutch LLM Evaluation Leaderboard tracks progress and ranks the performance of language models in Dutch. |
+| [Open ITA LLM Leaderboard](https://huggingface.co/spaces/FinancialSupport/open_ita_llm_leaderboard) | Open ITA LLM Leaderboard tracks progress and ranks the performance of language models in Italian. |
+| [Open Ko-LLM Leaderboard](https://huggingface.co/spaces/upstage/open-ko-llm-leaderboard) | Open Ko-LLM Leaderboard tracks progress and ranks the performance of language models in Korean. |
+| [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) | Open LLM Leaderboard tracks progress and ranks the performance of language models in English. |
 | [Open Medical-LLM Leaderboard](https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard) | Open Medical-LLM Leaderboard aims to track, rank, and evaluate open language models in the medical domain. |
 | [Open MLLM Leaderboard](https://github.com/hkust-nlp/felm) | Open MLLM Leaderboard aims to track, rank and evaluate language models and chatbots. |
 | [Open MOE LLM Leaderboard](https://huggingface.co/spaces/sparse-generative-ai/open-moe-llm-leaderboard) | OPEN MOE LLM Leaderboard assesses the performance and efficiency of various Mixture of Experts (MoE) language models. |
@@ -156,7 +156,7 @@ Also, a listed leaderboard should be included if only:
 | [RoleEval](https://github.com/magnetic2014/roleeval) | RoleEval is a bilingual benchmark to evaluate the memorization, utilization, and reasoning capabilities of role knowledge of language models. |
 | [Safety Prompts](http://coai.cs.tsinghua.edu.cn/leaderboard) | Safety Prompts is a benchmark to evaluate the safety of Chinese language models. |
 | [SafetyBench](https://llmbench.ai/safety/data) | SafetyBench is a benchmark to evaluate the safety of language models. |
-| [SALAD-Bench](https://huggingface.co/spaces/OpenSafetyLab/Salad-Bench-Leaderboard) | SALAD-Bench is a benchmark for evaluating safety and security of language models. |
+| [SALAD-Bench](https://huggingface.co/spaces/OpenSafetyLab/Salad-Bench-Leaderboard) | SALAD-Bench is a benchmark for evaluating the safety and security of language models. |
 | [ScandEval](https://scandeval.com) | ScandEval is a benchmark to evaluate language models on tasks in Scandinavian languages as well as German, Dutch, and English. |
 | [SCROLLS](https://www.scrolls-benchmark.com/leaderboard) | SCROLLS is a benchmark to evaluate the reasoning capabilities of language models over long texts. |
 | [SEAL](https://scale.com/leaderboard) | SEAL is an expert-driven private evaluation platform of language models. |
@@ -198,16 +198,16 @@ Also, a listed leaderboard should be included if only:
 | [CharXiv](https://charxiv.github.io/#leaderboard) | CharXiv is a benchmark to evaluate chart understanding capabilities of vision-language models. |
 | [ChEF](https://openlamm.github.io/Leaderboards) | ChEF is a benchmark to evaluate vision-language models across various visual reasoning tasks. |
 | [ConTextual](https://huggingface.co/spaces/ucla-contextual/contextual_leaderboard) | ConTextual is a benchmark to evaluate vision-language models across context-sensitive text-rich visual reasoning tasks. |
-| [CORE-MM](https://core-mm.github.io) | CORE-MM is a benchmark to evaluate the open-ended visual question answering (VQA) capabilities of vision-language models. |
+| [CORE-MM](https://core-mm.github.io) | CORE-MM is a benchmark to evaluate the open-ended visual question-answering (VQA) capabilities of vision-language models. |
 | [CV-Bench](https://cambrian-mllm.github.io) | CV-Bench is a vision-centric benchmark to evaluate vision-language models. |
 | [DreamBench++](https://dreambenchplus.github.io/#leaderboard) | DreamBench++ is a human-aligned benchmark automated by multimodal models for personalized image generation. |
 | [GlitchBench](https://huggingface.co/spaces/glitchbench/Leaderboard) | GlitchBench is a benchmark to evaluate the reasoning capabilities of vision-language models in the context of detecting video game glitches. |
-| [HallusionBench](https://github.com/tianyi-lab/HallusionBench) | HallusionBench is a benchmark to evaluate image-context reasoning capabilities of vision-language models. |
-| [HEIM](https://crfm.stanford.edu/heim/latest) | HEIM is a benchmark to evaluate visual and linguistic reasoning capabilities of text-to-image models. |
+| [HallusionBench](https://github.com/tianyi-lab/HallusionBench) | HallusionBench is a benchmark to evaluate the image-context reasoning capabilities of vision-language models. |
+| [HEIM](https://crfm.stanford.edu/heim/latest) | HEIM is a benchmark to evaluate the visual and linguistic reasoning capabilities of text-to-image models. |
 | [InfiMM-Eval](https://infimm.github.io/InfiMM-Eval) | InfiMM-Eval is a benchmark to evaluate the open-ended VQA capabilities of vision-language models. |
 | [LVLM-eHub](http://lvlm-ehub.opengvlab.com/leaderboard.html) | LVLM-eHub is a benchmark to evaluate the visual reasoning capabilities of vision-language models. |
 | [Mementos](https://mementos-bench.github.io/#leaderboard) | Mementos is a benchmark to evaluate the reasoning capabilities of vision-language models over image sequences. |
-| [MLLM-Bench](https://mllm-bench.llmzoo.com/static/leaderboard.html) | MLLM-Bench is a benchmark to evaluate the visual reasoning capabitlities of MLVMs. |
+| [MLLM-Bench](https://mllm-bench.llmzoo.com/static/leaderboard.html) | MLLM-Bench is a benchmark to evaluate the visual reasoning capabilities of MLVMs. |
 | [MMBench](https://mmbench.opencompass.org.cn/leaderboard) | MMBench is a benchmark to evaluate the visual reasoning capabilities of vision-language models. |
 | [MME](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation) | MME is a benchmark to evaluate the visual reasoning capabilities of vision-language models. |
 | [MMMU](https://mmmu-benchmark.github.io/#leaderboard) | MMMU is a benchmark to evaluate the performance of multimodal models on tasks that demand college-level subject knowledge and expert-level reasoning across various disciplines. |
@@ -261,13 +261,13 @@ Also, a listed leaderboard should be included if only:
 | [LiveCodeBench](https://huggingface.co/spaces/livecodebench/leaderboard) | LiveCodeBench is a benchmark to evaluate language models across code-related scenarios over time. |
 | [Nexus Function Calling Leaderboard](https://huggingface.co/spaces/Nexusflow/Nexus_Function_Calling_Leaderboard) | InterCode is a benchmark to standardize and evaluate interactive coding with execution feedback. |
 | [ODEX](https://code-eval.github.io) | ODEX is a benchmark to evaluate open-domain, multilingual, and execution-based code generation capabilities of LLMs. |
-| [OpenEval](https://github.com/NTDXYG/open-eval) | OpenEval is a benchmark to evaluate competition-level code generation of LLMs. |
+| [OpenEval](https://github.com/NTDXYG/open-eval) | OpenEval is a benchmark to evaluate the competition-level code generation of LLMs. |
 | [Program Synthesis Models Leaderboard](https://accubits.com/open-source-program-synthesis-models-leaderboard) | Program Synthesis Models Leaderboard provides a ranking and comparison of open-source code models based on their performance. |
 | [RepoQA](https://evalplus.github.io/repoqa.html) | RepoQA is a benchmark to evaluate the long-context code understanding ability of LLMs.
 | [Spider](https://yale-lily.github.io/spider) | Spider is a benchmark to evaluate the performance of natural language interfaces for cross-domain databases. |
 | [StableToolBench](https://huggingface.co/spaces/stabletoolbench/Stable_Tool_Bench_Leaderboard) | StableToolBench is a benchmark to evaluate tool learning that aims to provide a well-balanced combination of stability and reality. |
-| [SuperCLUE-Code3](https://github.com/CLUEbenchmark/SuperCLUE-Code3) | SuperCLUE-Code3 is a benchmarkto evaluate the performance of LLMs in handling native Chinese programming problems. |
-| [SWE-bench](https://www.swebench.com) | SWE-bench is a benchmark for evaluating LLMs on real world software issues collected from GitHub. |
+| [SuperCLUE-Code3](https://github.com/CLUEbenchmark/SuperCLUE-Code3) | SuperCLUE-Code3 is a benchmark to evaluate the performance of LLMs in handling native Chinese programming problems. |
+| [SWE-bench](https://www.swebench.com) | SWE-bench is a benchmark for evaluating LLMs on real-world software issues collected from GitHub. |
 
 ## Math
 
@@ -289,7 +289,7 @@ Also, a listed leaderboard should be included if only:
 | ---- | ----------- |
 | [AutoEval-Video](https://huggingface.co/spaces/khhuiyh/AutoEval-Video_LeaderBoard) | AutoEval-Video is a benchmark to evaluate the capabilities of video models in the context of open-ended video question answering. |
 | [MLVU](https://github.com/JUNJIE99/MLVU) | MLVU is a benchmark to evaluate video models in multi-task long video understanding. |
-| [MVBench](https://huggingface.co/spaces/OpenGVLab/MVBench_Leaderboard) | MVBench is a benchmark to evaluate the temporal understanding capabilities of video models their in dynamic video tasks. |
+| [MVBench](https://huggingface.co/spaces/OpenGVLab/MVBench_Leaderboard) | MVBench is a benchmark to evaluate the temporal understanding capabilities of video models in dynamic video tasks. |
 | [VBench](https://vchitect.github.io/VBench-project) | VBench is a benchmark to evaluate video generation capabilities of video models. |
 | [Video-Bench](https://huggingface.co/spaces/LanguageBind/Video-Bench) | Video-Bench is a benchmark to evaluate the video-exclusive understanding, prior knowledge incorporation, and video-based decision-making abilities of video models. |
 | [Video-MME](https://video-mme.github.io/home_page.html#leaderboard) | Video-MME is a benchmark to evaluate the video analysis capabilities of video models. |
@@ -302,7 +302,7 @@ Also, a listed leaderboard should be included if only:
 | ---- | ----------- |
 | [BIGOS](https://huggingface.co/spaces/amu-cai/pl-asr-leaderboard) | BIGOS is a benchmark to evaluate Automatic Speech Recognition (ASR) systems on a diverse set of recordings and their corresponding original transcriptions. |
 | [MY Malaysian Speech-to-Text Leaderboard](https://huggingface.co/spaces/mesolitica/malaysian-stt-leaderboard) | MY Malaysian Speech-to-Text (STT) Leaderboard aims to track, rank and evaluate Malaysian STT models. |
-| [Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard) | Open ASR Leaderboard provides a platform to tracking, ranking, and evaluating Automatic Speech Recognition (ASR) models. |
+| [Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard) | Open ASR Leaderboard provides a platform for tracking, ranking, and evaluating Automatic Speech Recognition (ASR) models. |
 | [TTS Arena](https://huggingface.co/spaces/TTS-AGI/TTS-Arena) | TTS-Arena hosts the Text To Speech (TTS) arena, where various TTS models compete based on their performance in generating speech. |
 
 ## 3D
@@ -317,7 +317,7 @@ Also, a listed leaderboard should be included if only:
 
 | Name | Description |
 | ---- | ----------- |
-| [FlagEval](https://flageval.baai.ac.cn/#/leaderboard) | FlagEval is a comprehensive platform to evaluate foundation models. |
+| [FlagEval](https://flageval.baai.ac.cn/#/leaderboard) | FlagEval is a comprehensive platform for evaluating foundation models. |
 | [GenAI-Arena Leaderboard](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) | GenAI-Arena Leaderboard is a comprehensive platform to evaluate foundation models in image generation, image edition, and video generation. |
 
 # Data Evaluation
