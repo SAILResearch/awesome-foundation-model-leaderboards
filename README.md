@@ -120,6 +120,7 @@ Also, a listed leaderboard should be included if only:
 | [Meta Open LLM leaderboard](https://huggingface.co/spaces/felixz/meta_open_llm_leaderboard) | The Meta Open LLM leaderboard serves as a central hub for consolidating data from various open LLM leaderboards into a single, user-friendly visualization page. |
 | [MINT-Bench](https://xwang.dev/mint-bench) | MINT-Bench is a benchmark to evaluate the capabilities of language models in solving tasks involving multi-turn interactions. |
 | [Mistral ChatBot Arena](https://huggingface.co/spaces/rwitz/Mistral-ChatBot-Arena) | Mistral ChatBot Arena hosts the chatbot arena, where various language models compete based on their performance in chatting. |
+| [MixEval](https://mixeval.github.io/#leaderboard) | MixEval is a benchmark to evaluate language models via by strategically mixing off-the-shelf benchmarks. |
 | [ML.ENERGY Leaderboard](https://ml.energy/leaderboard) | ML.ENERGY Leaderboard evaluates the energy consumption of language models. |
 | [MMCU](https://github.com/Felixgithub2017/MMCU) | MMCU is a benchmark to evaluate the multitask accuracy of Chinese language models. |
 | [MMLU](https://github.com/hendrycks/test) | MMLU is a benchmark to evaluate the performance of language models across a wide array of natural language understanding tasks. |
