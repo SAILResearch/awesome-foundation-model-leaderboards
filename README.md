@@ -309,7 +309,8 @@ Also, a listed leaderboard should be included if only:
 
 | Name | Description |
 | ---- | ----------- |
-| [3D Arena](https://huggingface.co/spaces/dylanebert/3d-arena) | 3D Arena hosts 3D generation arena, where various 3D generative models compete based on their performance in generating 3D models.. |
+| [3D Arena](https://huggingface.co/spaces/dylanebert/3d-arena) | 3D Arena hosts 3D generation arena, where various 3D generative models compete based on their performance in generating 3D models. |
+| [3DGen-Arena](https://huggingface.co/spaces/ZhangYuhan/3DGen-Arena) | 3DGen-Arena hosts the 3D generation arena, where various 3D generative models compete based on their performance in generating 3D models. |
 | [BOP](https://bop.felk.cvut.cz/leaderboards) | BOP is a benchmark to evaluate 6D pose estimation of a rigid object from a single RGB-D input image. |
 | [M3DBench](https://m3dbench.github.io) | M3DBench is a benchmark to evaluate the performance of 3D generative models in understanding multi-modal 3D prompts. |
 
