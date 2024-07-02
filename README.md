@@ -62,7 +62,7 @@ Also, a listed leaderboard should be included if only:
 | [Biomedical Knowledge Probing Leaderboard](https://huggingface.co/spaces/CDT-BMAI-GP/biomed_probing_leaderboard) | Biomedical Knowledge Probing Leaderboard aims to track, rank, and evaluate biomedical factual knowledge probing results in LLMs. |
 | [BotChat](https://botchat.opencompass.org.cn) | BotChat assesses the multi-round chatting capabilities of LLMs through a proxy task, evaluating whether two ChatBot instances can engage in smooth and fluent conversation with each other. |
 | [C-Eval](https://cevalbenchmark.com/static/leaderboard.html) | C-Eval is a Chinese evaluation suite for LLMs. |
-| [C-Eval Hard](https://cevalbenchmark.com/static/leaderboard.html) | C-Eval Hard is a harder version of C-Eval, which involves complex LaTeX equations and require non-trivial reasoning abilities to solve. |
+| [C-Eval Hard](https://cevalbenchmark.com/static/leaderboard.html) | C-Eval Hard is a more challenging version of C-Eval, which involves complex LaTeX equations and require non-trivial reasoning abilities to solve. |
 | [Chain-of-Thought Hub](https://github.com/FranxYao/chain-of-thought-hub) | Chain-of-Thought Hub is a benchmark to evaluate the reasoning capabilities of LLMs. |
 | [ChineseFactEval](https://github.com/GAIR-NLP/factool/tree/main/datasets/chinese) | ChineseFactEval is a factuality benchmark for Chinese LLMs. |
 | [Compass Arena](https://rank.opencompass.org.cn/leaderboard-arena) | Compass Arena hosts the chatbot arena, where various LLMs compete based on their performance in chatting. |
@@ -88,7 +88,7 @@ Also, a listed leaderboard should be included if only:
 | [Hallucinations Leaderboard](https://huggingface.co/spaces/hallucinations-leaderboard/leaderboard) | Hallucinations Leaderboard aims to track, rank and evaluate hallucinations in LLMs. |
 | [HalluQA](https://github.com/OpenMOSS/HalluQA) | HalluQA is a benchmark to evaluate the phenomenon of hallucinations in Chinese LLMs. |
 | [HellaSwag](https://rowanzellers.com/hellaswag) | HellaSwag is a benchmark to evaluate common-sense reasoning in LLMs. |
-| [HHEM leaderboard](https://huggingface.co/spaces/vectara/leaderboard) | HHEM leaderboard evaluates how often a language model introduces hallucinations when summarizing a document. |
+| [HHEM Leaderboard](https://huggingface.co/spaces/vectara/leaderboard) | HHEM Leaderboard evaluates how often a language model introduces hallucinations when summarizing a document. |
 | [Indic LLM Leaderboard](https://huggingface.co/spaces/Cognitive-Lab/indic_llm_leaderboard) | Indic LLM Leaderboard is a benchmark to track progress and rank the performance of Indic LLMs. |
 | [InstructEval](https://declare-lab.github.io/instruct-eval) | InstructEval is an evaluation suite to assess instruction selection methods in the context of LLMs. |
 | [Japanese Chatbot Arena](https://huggingface.co/spaces/yutohub/japanese-chatbot-arena-leaderboard) | Japanese Chatbot Arena hosts the chatbot arena, where various LLMs compete based on their performance in Japnese. |
@@ -96,9 +96,11 @@ Also, a listed leaderboard should be included if only:
 | [Ko Chatbot Arena](https://elo.instruct.kr/leaderboard) | Ko Chatbot Arena hosts the chatbot arena, where various LLMs compete based on their performance in Korean. |
 | [KoLA](http://103.238.162.37:31622/LeaderBoard) | KoLA is a benchmark to evaluate the world knowledge of LLMs. |
 | [L-Eval](https://l-eval.github.io) | L-Eval is a Long Context Language Model (LCLM) evaluation benchmark to evaluate the performance of handling extensive context. |
-| [LAiW](https://huggingface.co/spaces/daishen/SCULAiW) | LAiW is a benchmark to evaluate Chinese legal language understanding and reasoning. |
 | [Language Model Council](https://llm-council.com) | Language Model Council (LMC) is a benchmark to evaluate tasks that are highly subjective and often lack majoritarian human agreement. |
 | [LawBench](https://lawbench.opencompass.org.cn/leaderboard) | LawBench is a benchmark to evaluate the legal capabilities of LLMs. |
+| [LogicKor](https://lawbench.opencompass.org.cn/leaderboard) | LogicKor is a benchmark to evaluate multidisciplinary thinking capabilities of Korean LLMs. |
+| [Long In-context Learning Leaderboard](https://huggingface.co/spaces/TIGER-Lab/LongICL-Leaderboard) | Long In-context Learning Leaderboard is a platform to evaluate long in-context learning evaluations for LLMs. |
+| [LAiW](https://huggingface.co/spaces/daishen/SCULAiW) | LAiW is a benchmark to evaluate Chinese legal language understanding and reasoning. |
 | [LLM Benchmarker Suite](https://llm-evals.formula-labs.com) | LLM Benchmarker Suite is a benchmark to evaluate comprehensive capabilities of LLMs. |
 | [LLM Leaderboard](https://huggingface.co/spaces/CathieDaDa/LLM_leaderboard) | LLM Leaderboard is a flatform to evaluate LLMs in Chinese context. |
 | [LLM Leaderboard (en)](https://huggingface.co/spaces/CathieDaDa/LLM_leaderboard_en) | LLM Leaderboard (en) is a flatform to evaluate LLMs in English context. |
@@ -113,6 +115,7 @@ Also, a listed leaderboard should be included if only:
 | [LongBench](https://github.com/THUDM/LongBench) | LongBench is a benchmark for assessing the long context understanding capabilities of LLMs. |
 | [LucyEval](http://lucyeval.besteasy.com/leaderboard.html) | LucyEval offers a thorough assessment of LLMs' performance in various Chinese contexts. |
 | [M3KE](https://github.com/tjunlp-lab/M3KE) | M3KE is a massive multi-level multi-subject knowledge evaluation benchmark to measure the knowledge acquired by Chinese LLMs. |
+| [MINT](https://xwang.dev/mint-bench) | MINT is a benchmark to evaluate LLMs' ability to solve tasks with multi-turn interactions by (1) using tools and (2) leveraging natural language feedback. |
 | [MedBench](https://medbench.opencompass.org.cn/leaderboard) | MedBench is a benchmark to evaluate the mastery of knowledge and reasoning abilities in medical LLMs. |
 | [Meta Open LLM leaderboard](https://huggingface.co/spaces/felixz/meta_open_llm_leaderboard) | The Meta Open LLM leaderboard serves as a central hub for consolidating data from various open LLM leaderboards into a single, user-friendly visualization page. |
 | [Mistral ChatBot Arena](https://huggingface.co/spaces/rwitz/Mistral-ChatBot-Arena) | Mistral ChatBot Arena hosts the chatbot arena, where various LLMs compete based on their performance in chatting. |
@@ -120,6 +123,7 @@ Also, a listed leaderboard should be included if only:
 | [ML.ENERGY Leaderboard](https://ml.energy/leaderboard) | ML.ENERGY Leaderboard evaluates the energy consumption of LLMs. |
 | [MMLU](https://github.com/hendrycks/test) | MMLU is a benchmark to evaluate the performance of LLMs across a wide array of natural language understanding tasks. |
 | [MMLU-by-task Leaderboard](https://huggingface.co/spaces/CoreyMorris/MMLU-by-task-Leaderboard) | MMLU-by-task Leaderboard provides a platform for evaluating and comparing various ML models across different language understanding tasks. |
+| [MMLU-Pro](https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro) | MMLU-Pro is a more challenging version of MMLU to evaluate the reasoning capabilities of LLMs. |
 | [Models Leaderboard](https://artificialanalysis.ai/leaderboards/models) | Models Leaderboard compares and ranks LLMs across key metrics, including quality, price, performance, and speed. |
 | [MSTEB](https://huggingface.co/spaces/clibrain/Spanish-Embeddings-Leaderboard) | MSTEB is a benchmark for measuring the performance of text embedding models on diverse embedding tasks in Spanish. |
 | [MTEB](https://huggingface.co/spaces/mteb/leaderboard) | MTEB is a massive benchmark for measuring the performance of text embedding models on diverse embedding tasks across 112 languages. |
@@ -144,6 +148,7 @@ Also, a listed leaderboard should be included if only:
 | [Open PT LLM Leaderboard](https://huggingface.co/spaces/eduagarcia/open_pt_llm_leaderboard) | Open PT LLM Leaderboard tracks progress and ranks the performance of LLMs in Portuguese. |
 | [Powered-by-Intel LLM Leaderboard](https://huggingface.co/spaces/Intel/powered_by_intel_llm_leaderboard) | Powered-by-Intel LLM Leaderboard evaluates, scores, and ranks LLMs that have been pre-trained or fine-tuned on Intel Hardware. |
 | [PubMedQA](https://pubmedqa.github.io) | PubMedQA is a benchmark to evaluate biomedical research question answering. |
+| [PromptBench](https://llm-eval.github.io/pages/leaderboard/advprompt.html) | PromptBench is a benchmark to evaluate the robustness of LLMs on adversarial prompts. |
 | [QuALITY](https://nyu-mll.github.io/quality) | QuALITY is a benchmark to evaluate multiple-choice question answering with long context. |
 | [Red Teaming Resistance Benchmark](https://huggingface.co/spaces/HaizeLabs/red-teaming-resistance-benchmark) | Red Teaming Resistance Benchmark is a benchmark to evaluate the robustness of LLMs against redteaming prompts. |
 | [Reviewer Arena](https://huggingface.co/spaces/openreviewer/reviewer-arena) | Reviewer Arena hosts the reviewer arena, where various LLMs compete based on their performance in critiquing academic papers. |
@@ -196,6 +201,8 @@ Also, a listed leaderboard should be included if only:
 | [MMMU](https://mmmu-benchmark.github.io/#leaderboard) | MMMU is a benchmark to evaluate the performance of multimodal models on tasks that demand college-level subject knowledge and expert-level reasoning across various disciplines. |
 | [MMStar](https://mmstar-benchmark.github.io/#Leaderboard) | MMStar is a benchmark to evaluate the multi-modal capacities of vision-language models. |
 | [MMT-Bench](https://mmt-bench.github.io/#leaderboard) | MMT-Bench is a benchmark to evaluate vision-language models across a wide array of multimodal tasks that require expert knowledge as well as deliberate visual recognition, localization, reasoning, and planning. |
+| [MULTI](https://github.com/OpenDFM/MULTI-Benchmark) | MULTI is a benchmark to evaluate vision-language models on understanding complex tables and images, and reasoning with long context. |
+| [NPHardEval4V](https://github.com/lizhouf/nphardeval4v) | NPHardEval4V is a benchmark to evaluate reasoning abilities of vision-language models through the lens of computational complexity classes. |
 | [OCRBench](https://huggingface.co/spaces/echo840/ocrbench-leaderboard) | OCRBench is a benchmark to evaluate the OCR capabilities of multimodal models. |
 | [Open Parti Prompts Leaderboard](https://huggingface.co/spaces/OpenGenAI/parti-prompts-leaderboard) | Open Parti Prompts Leaderboard compares text-to-image models to each other according to human preferences. |
 | [OpenCompass Multi-modal Leaderboard](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard) | OpenCompass Multi-modal Leaderboard is a platform to evaluate and compare the performance of vision-language models. |
@@ -231,9 +238,12 @@ Also, a listed leaderboard should be included if only:
 | [DS-1000](https://ds1000-code-gen.github.io) | DS-1000 is a meta benchmark to evaluate code generation models in data science tasks. |
 | [EvalPlus](https://evalplus.github.io/leaderboard.html) | EvalPlus is a benchmark to evaluate the code generation performance of LLMs. |
 | [EvoEval](https://evo-eval.github.io/leaderboard.html) | EvoEval is a benchmark to evaluate the coding abilities of LLMs, created by evolving existing benchmarks into different targeted domains. |
-| [InterCode](https://intercode-benchmark.github.io) | InterCode is a benchmark to standardize and evaluate interactive coding with execution feedback. |
+| [BigCodeBench](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard) | BigCodeBench is a benchmark for code generation with practical and challenging programming tasks. |
+| [InfiBench](https://infi-coder.github.io/infibench) | InterCode is a benchmark to evaluete code models on answering freeform real-world code-related questions. |
 | [Julia LLM Leaderboard](https://github.com/svilupp/Julia-LLM-Leaderboard) | Julia LLM Leaderboard is a platform to compare code models' abilities in generating syntactically correct Julia code, featuring structured tests and automated evaluations for easy and collaborative benchmarking. |
 | [LiveCodeBench](https://huggingface.co/spaces/livecodebench/leaderboard) | LiveCodeBench is a benchmark to evaluate code models across code-related scenarios over time. |
+| [Long Code Arena](https://huggingface.co/spaces/JetBrains-Research/long-code-arena) | Long Code Arena is a suite of benchmarks for code-related tasks with large contexts, up to a whole code repository. |
+| [NaturalCodeBench](https://github.com/THUDM/NaturalCodeBench) | NaturalCodeBench is a benchmark to mirror the complexity and variety of scenarios in real coding tasks. |
 | [Nexus Function Calling Leaderboard](https://huggingface.co/spaces/Nexusflow/Nexus_Function_Calling_Leaderboard) | InterCode is a benchmark to standardize and evaluate interactive coding with execution feedback. |
 | [OpenEval](https://github.com/NTDXYG/open-eval) | OpenEval is a benchmark to evaluate the competition-level code generation of LLMs. |
 | [Program Synthesis Models Leaderboard](https://accubits.com/open-source-program-synthesis-models-leaderboard) | Program Synthesis Models Leaderboard provides a ranking and comparison of open-source code models based on their performance. |
@@ -272,6 +282,7 @@ Also, a listed leaderboard should be included if only:
 | [AgentBench](https://llmbench.ai/agent/data) | AgentBench is the first benchmark to evaluate language model-as-Agent across a diverse spectrum of different environments. |
 | [AgentStudio](https://skyworkai.github.io/agent-studio) | AgentStudio is an integrated solution featuring in-depth benchmark suites, realistic environments, and comprehensive toolkits. |
 | [Auto-Arena](https://huggingface.co/spaces/Auto-Arena/Leaderboard) | Auto-Arena is a benchmark in which various language model agents engage in peer-battles to evaluate their performance. |
+| [LLM Colosseum Leaderboard](https://github.com/OpenGenerativeAI/llm-colosseum) | LLM Colosseum Leaderboard is a platform to evaluate LLMs by fighting in Street Fighter 3. |
 | [VisualWebArena](https://jykoh.com/vwa) | VisualWebArena is a benchmark to evaluate the performance of multimodal web agents on realistic visually grounded tasks. |
 
 ## Audio
