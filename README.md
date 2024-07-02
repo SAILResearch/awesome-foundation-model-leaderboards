@@ -44,6 +44,7 @@ Also, a listed leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [Allen Institute for AI](https://leaderboard.allenai.org) | Allen Institute for AI is a non-profit research institute with the mission of conducting high-impact AI research and engineering in service of the common good. |
+| [Holistic Evaluation of Language Models](https://crfm.stanford.edu/helm) | Holistic Evaluation of Language Models (HELM) is a reproducible and transparent framework for evaluating foundation models. |
 | [nuScenes](https://www.nuscenes.org) | nuScenes enables researchers to study challenging urban driving situations using the full sensor suite of a real self-driving car. |
 | [Robust Reading Competition](https://rrc.cvc.uab.es) | Robust Reading refers to the research area dealing with the interpretation of written communication in unconstrained settings. |
 
@@ -54,7 +55,6 @@ Also, a listed leaderboard should be included if only:
 | [ACLUE](https://github.com/isen-zhang/ACLUE) | ACLUE is an evaluation benchmark for ancient Chinese language comprehension. |
 | [AgentBench](https://llmbench.ai/agent/data) | AgentBench is the first benchmark to evaluate language model-as-Agent across a diverse spectrum of different environments. |
 | [AlignBench](https://llmbench.ai/align/data) | AlignBench is a multi-dimensional benchmark for evaluating language models' alignment in Chinese. |
-| [AIRbench](https://crfm.stanford.edu/helm/air-bench/latest) | AIRbench is a benchmark to evaluate the alignment with regulation or policy-specified safety concerns. |
 | [AlpacaEval](https://tatsu-lab.github.io/alpaca_eval) | AlpacaEval is an automatic evaluator designed for instruction-following language models. |
 | [ANGO](https://huggingface.co/spaces/AngoHF/ANGO-Leaderboard) | ANGO is a generation-oriented Chinese language model evaluation benchmark. |
 | [Arena-Hard-Auto](https://github.com/lm-sys/arena-hard-auto) | Arena-Hard-Auto is a benchmark for instruction-tuned language models. |
@@ -89,9 +89,6 @@ Also, a listed leaderboard should be included if only:
 | [Hallucinations Leaderboard](https://huggingface.co/spaces/hallucinations-leaderboard/leaderboard) | Hallucinations Leaderboard aims to track, rank and evaluate hallucinations in language models. |
 | [HalluQA](https://github.com/OpenMOSS/HalluQA) | HalluQA is a benchmark to evaluate the phenomenon of hallucinations in Chinese language models. |
 | [HellaSwag](https://rowanzellers.com/hellaswag) | HellaSwag is a benchmark to evaluate common-sense reasoning in language models. |
-| [HELM (Classic)](https://crfm.stanford.edu/helm/classic/latest) | HELM (Classic) is a benchmark to evaluate foundation language models. |
-| [HELM (Instruct)](https://crfm.stanford.edu/helm/instruct/latest) | HELM (Instruct) is a multidimensional evaluation framework designed for assessing instruction-following language models. |
-| [HELM (Lite)](https://crfm.stanford.edu/helm/lite/latest) | HELM (Lite) is a lightweight benchmark framework designed for evaluating the capabilities of language models. |
 | [HHEM leaderboard](https://huggingface.co/spaces/vectara/leaderboard) | HHEM leaderboard evaluates how often a language model introduces hallucinations when summarizing a document. |
 | [Indic LLM Leaderboard](https://huggingface.co/spaces/Cognitive-Lab/indic_llm_leaderboard) | Indic LLM Leaderboard is a benchmark to track progress and rank the performance of Indic language models. |
 | [InstructEval](https://declare-lab.github.io/instruct-eval) | InstructEval is an evaluation suite to assess instruction selection methods in the context of language models. |
@@ -203,7 +200,6 @@ Also, a listed leaderboard should be included if only:
 | [DreamBench++](https://dreambenchplus.github.io/#leaderboard) | DreamBench++ is a human-aligned benchmark automated by multimodal models for personalized image generation. |
 | [GlitchBench](https://huggingface.co/spaces/glitchbench/Leaderboard) | GlitchBench is a benchmark to evaluate the reasoning capabilities of vision-language models in the context of detecting video game glitches. |
 | [HallusionBench](https://github.com/tianyi-lab/HallusionBench) | HallusionBench is a benchmark to evaluate the image-context reasoning capabilities of vision-language models. |
-| [HEIM](https://crfm.stanford.edu/heim/latest) | HEIM is a benchmark to evaluate the visual and linguistic reasoning capabilities of text-to-image models. |
 | [InfiMM-Eval](https://infimm.github.io/InfiMM-Eval) | InfiMM-Eval is a benchmark to evaluate the open-ended VQA capabilities of vision-language models. |
 | [LVLM-eHub](http://lvlm-ehub.opengvlab.com/leaderboard.html) | LVLM-eHub is a benchmark to evaluate the visual reasoning capabilities of vision-language models. |
 | [Mementos](https://mementos-bench.github.io/#leaderboard) | Mementos is a benchmark to evaluate the reasoning capabilities of vision-language models over image sequences. |
@@ -227,7 +223,6 @@ Also, a listed leaderboard should be included if only:
 | [TouchStone](https://github.com/ofa-sys/touchstone) | TouchStone is a benchmark to evaluate the overall text-image dialogue capability and alignment level with humans of multimodal models. |
 | [URIAL Bench](https://huggingface.co/spaces/allenai/URIAL-Bench) | URIAL Bench is a benchmark to evaluate the capacity of language models for alignment without introducing the factors of fine-tuning (learning rate, data, etc.), which are hard to control for fair comparisons. |
 | [UPD Leaderboard](https://huggingface.co/spaces/MM-UPD/MM-UPD_Leaderboard) | UPD Leaderboard is a platform to evaluate the trustworthiness of vision-language models in unsolvable problem detection. |
-| [VHELM](https://crfm.stanford.edu/helm/vhelm/latest) | VHELM is a benchmark to evaluate the visual and linguistic reasoning capabilities of vision-language models. |
 | [VCR-wiki](https://github.com/tianyu-z/VCR) | VCR-wiki is a benchmark to evaluate the capabilities of vision-language models to restore partially obscured text within images. |
 | [Vibe-Eval](https://github.com/reka-ai/reka-vibe-eval) | Vibe-Eval is a benchmark to evaluate vision-language models for challenging cases. |
 | [VisIT-Bench](https://visit-bench.github.io) | VisIT-Bench is a benchmark to evaluate the instruction-following capabilities of vision-language models for real-world use. |
@@ -277,8 +272,6 @@ Also, a listed leaderboard should be included if only:
 | [MathEval](https://matheval.ai/leaderboard) | MathEval is a benchmark to evaluate the mathematical capabilities of language models. |
 | [MathVerse](https://mathverse-cuhk.github.io/#leaderboard) | MathVerse is a benchmark to evaluate the capabilities of vision-language models in interpreting and reasoning with visual information in mathematical problems. |
 | [MathVista](https://mathvista.github.io/#leaderboard) | MathVista is a benchmark to evaluate mathematical reasoning in visual contexts. |
-| [MGSM8KInstruct](https://mathoctopus.github.io) | MGSM8KInstruct is the multilingual mathematical reasoning instruction dataset across ten distinct languages. |
-| [MSVAMP](https://mathoctopus.github.io) | MSVAMP is a benchmark to evaluate language models' multilingual mathematical capabilities. |
 | [Open Multilingual Reasoning Leaderboard](https://huggingface.co/spaces/kevinpro/Open-Multilingual-Reasoning-Leaderboard) | Open Multilingual Reasoning Leaderboard tracks and ranks the reasoning performance of language models on multilingual mathematical reasoning benchmarks. |
 | [SuperCLUE-Math6](https://github.com/CLUEbenchmark/SuperCLUE-Math6) | SuperCLUE-Math6 is a benchmark to evaluate the mathematical reasoning capabilities of Chinese language models. |
 | [TabMWP](https://promptpg.github.io/leaderboard.html) | TabMWP is a benchmark to evaluate language models in mathematical reasoning tasks that involve both textual and tabular data. |
@@ -300,7 +293,6 @@ Also, a listed leaderboard should be included if only:
 
 | Name | Description |
 | ---- | ----------- |
-| [BIGOS](https://huggingface.co/spaces/amu-cai/pl-asr-leaderboard) | BIGOS is a benchmark to evaluate Automatic Speech Recognition (ASR) systems on a diverse set of recordings and their corresponding original transcriptions. |
 | [MY Malaysian Speech-to-Text Leaderboard](https://huggingface.co/spaces/mesolitica/malaysian-stt-leaderboard) | MY Malaysian Speech-to-Text (STT) Leaderboard aims to track, rank and evaluate Malaysian STT models. |
 | [Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard) | Open ASR Leaderboard provides a platform for tracking, ranking, and evaluating Automatic Speech Recognition (ASR) models. |
 | [TTS Arena](https://huggingface.co/spaces/TTS-AGI/TTS-Arena) | TTS-Arena hosts the Text To Speech (TTS) arena, where various TTS models compete based on their performance in generating speech. |
