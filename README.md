@@ -131,7 +131,7 @@ Also, a listed leaderboard should be included if only:
 | [MY Malaysian Embedding Leaderboard](https://huggingface.co/spaces/mesolitica/malaysian-embedding-leaderboard) | MY Malaysian Embedding Leaderboard measures and ranks the performance of text embedding models on diverse embedding tasks in Malay. |
 | [NPHardEval](https://huggingface.co/spaces/NPHardEval/NPHardEval-leaderboard) | NPHardEval is a benchmark to evaluate the reasoning abilities of LLMs through the lens of computational complexity classes. |
 | [OlympicArena](https://gair-nlp.github.io/OlympicArena/#leaderboard) | OlympicArena is a benchmark to evaluate advanced capabilities of LLMs across a broad spectrum of Olympic-level challenges. |
-| [Oobabooga](https://oobabooga.github.io/benchmark.html) | Oobabooga is a benchmark to perform repeatable performance tests of LLMs with the oobabooga web UI. |
+| [oobabooga](https://oobabooga.github.io/benchmark.html) | Oobabooga is a benchmark to perform repeatable performance tests of LLMs with the oobabooga web UI. |
 | [OpenCompass Large Language Model Leaderboard ](https://rank.opencompass.org.cn/leaderboard-llm-v2) | OpenCompass Large Language Model Leaderboard is a platform for a fair, open, and reproducible large model evaluation. |
 | [OpenEval](https://github.com/hkust-nlp/felm) | OpenEval is a multidimensional and open evaluation system to assess Chinese LLMs. |
 | [OpenLLM Turkish leaderboard](https://huggingface.co/spaces/malhajar/OpenLLMTurkishLeaderboard) | OpenLLM Turkish leaderboard tracks progress and ranks the performance of LLMs in Turkish. |
