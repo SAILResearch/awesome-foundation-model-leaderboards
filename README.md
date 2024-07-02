@@ -253,6 +253,7 @@ Also, a listed leaderboard should be included if only:
 | [HumanEval.jl](https://github.com/hkust-nlp/felm) | HumanEval.jl is a benchmark to evaluate LLMs' performance with the Julia programming language. |
 | [InfiCoder-Eval](https://infi-coder.github.io/inficoder-eval) | InfiCoder-Eval is a benchmark to evaluate the performance of LLMs in handling code-related tasks. |
 | [InterCode](https://intercode-benchmark.github.io) | InterCode is a benchmark to standardize and evaluate interactive coding with execution feedback. |
+| [Julia LLM Leaderboard](https://github.com/svilupp/Julia-LLM-Leaderboard) | Julia LLM Leaderboard is a platform to compare code models' abilities in generating syntactically correct Julia code, featuring structured tests and automated evaluations for easy and collaborative benchmarking. |
 | [LiveCodeBench](https://huggingface.co/spaces/livecodebench/leaderboard) | LiveCodeBench is a benchmark to evaluate language models across code-related scenarios over time. |
 | [Nexus Function Calling Leaderboard](https://huggingface.co/spaces/Nexusflow/Nexus_Function_Calling_Leaderboard) | InterCode is a benchmark to standardize and evaluate interactive coding with execution feedback. |
 | [ODEX](https://code-eval.github.io) | ODEX is a benchmark to evaluate open-domain, multilingual, and execution-based code generation capabilities of LLMs. |
