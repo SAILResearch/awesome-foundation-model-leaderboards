@@ -319,7 +319,7 @@ Also, a listed leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [FlagEval](https://flageval.baai.ac.cn/#/leaderboard) | FlagEval is a comprehensive platform for evaluating foundation models. |
-| [GenAI-Arena Leaderboard](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) | GenAI-Arena Leaderboard is a comprehensive platform to evaluate foundation models in image generation, image edition, and video generation. |
+| [GenAI-Arena](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) | GenAI-Arena hosts the visual generation arena, where various vision models compete based on their performance in image generation, image edition, and video generation. |
 
 # Data Evaluation
 
