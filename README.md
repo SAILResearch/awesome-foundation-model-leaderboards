@@ -314,7 +314,7 @@ Also, a listed leaderboard should be included if only:
 | [FlagEval](https://flageval.baai.ac.cn/#/leaderboard) | FlagEval is a comprehensive platform for evaluating foundation models. |
 | [GenAI-Arena](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) | GenAI-Arena hosts the visual generation arena, where various vision models compete based on their performance in image generation, image edition, and video generation. |
 
-# Endpoint Provider
+# Endpoint Evaluation
 
 | Name | Description |
 | ---- | ----------- |
