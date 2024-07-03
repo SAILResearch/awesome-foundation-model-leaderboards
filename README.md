@@ -321,6 +321,13 @@ Also, a listed leaderboard should be included if only:
 | [Artificial Analysis](https://artificialanalysis.ai) | Artificial Analysis is a platform to help users make informed decisions on AI model selection and hosting providers. |
 | [LLM API Providers Leaderboard](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) | LLM API Providers Leaderboard is a platform to compare API provider performance for over LLM endpoints across performance key metrics. |
 
+# Popularity Evaluation
+
+| Name | Description |
+| ---- | ----------- |
+| [Domain LLM Leaderboard](https://huggingface.co/spaces/NexaAIDev/domain_llm_leaderboard) | Domain LLM Leaderboard is a platform to evaluate the popularity of domain-specific foundation models. |
+| [Papers Leaderboard](https://huggingface.co/spaces/ameerazam08/Paper-LeaderBoard) | Papers Leaderboard is a platform to evaluate the popularity of machine learning papers. |
+
 # Data Evaluation
 
 | Name | Description |
