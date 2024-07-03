@@ -311,6 +311,13 @@ Also, a listed leaderboard should be included if only:
 | [FlagEval](https://flageval.baai.ac.cn/#/leaderboard) | FlagEval is a comprehensive platform for evaluating foundation models. |
 | [GenAI-Arena](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) | GenAI-Arena hosts the visual generation arena, where various vision models compete based on their performance in image generation, image edition, and video generation. |
 
+# Endpoint Provider
+
+| Name | Description |
+| ---- | ----------- |
+| [LLM API Providers Leaderboard](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) | LLM API Providers Leaderboard is a platform to compare API provider performance for over LLM endpoints across performance key metrics. |
+| [Speech to Text AI Model & Provider Leaderboard](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) | Speech to Text AI Model & Provider Leaderboard is a platform to compare speech-to-text (STT) transcription models & API providers. |
+
 # Data Evaluation
 
 | Name | Description |
