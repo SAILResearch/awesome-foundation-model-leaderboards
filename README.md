@@ -110,7 +110,6 @@ Also, a listed leaderboard should be included if only:
 | [LLMEval](http://llmeval.com) | LLMEval is a benchmark to evaluate the quality of open-domain conversations with LLMs. |
 | [LLMHallucination Leaderboard](https://huggingface.co/spaces/ramiroluo/LLMHallucination_Leaderboard) | Hallucinations Leaderboard evaluates LLMs based on an array of hallucination-related benchmarks. |
 | [LLMPerf](https://github.com/ray-project/llmperf-leaderboard) | LLMPerf is a tool to evaluate the performance of LLMs using both load and correctness tests. |
-| [LMExamQA](https://lmexam.com) | LMExamQA is a benchmark to evaluate the performance of LLMs on open-ended question-answering tasks. |
 | [LMSYS Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) | LMSYS Chatbot Arena Leaderboard hosts the chatbot arena, where various LLMs compete based on their performance in English. |
 | [LongBench](https://github.com/THUDM/LongBench) | LongBench is a benchmark for assessing the long context understanding capabilities of LLMs. |
 | [LucyEval](http://lucyeval.besteasy.com/leaderboard.html) | LucyEval offers a thorough assessment of LLMs' performance in various Chinese contexts. |
