@@ -27,7 +27,6 @@ _If you have any suggestions, critiques, or questions regarding this list, welco
 
 Also, a listed leaderboard should be included if only:
 
-* It is popular enough.
 * It is actively maintained.
 * It is related to foundation models.
 
