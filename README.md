@@ -35,8 +35,9 @@ Also, a listed leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [gradio_leaderboard](https://huggingface.co/spaces/demo-leaderboard-backend/leaderboard) | gradio_leaderboard helps users build fully functional and performant leaderboard demos with gradio. |
-| [Demo leaderboard](https://huggingface.co/spaces/demo-leaderboard-backend/leaderboard) | Demo leaderboard is a Hugging Face template to help users to easily deploy their leaderboards. |
+| [Demo leaderboard](https://huggingface.co/spaces/demo-leaderboard-backend/leaderboard) | Demo leaderboard is a Hugging Face template to help users easily deploy their leaderboards. |
 | [Leaderboard Explorer](https://huggingface.co/spaces/leaderboards/LeaderboardsExplorer) | Leaderboard Explorer is a tool to assist users in navigating through the diverse range of leaderboards available on Hugging Face Spaces. |
+| [Open LLM Leaderboard Results PR Opener](https://huggingface.co/spaces/Weyaxi/leaderboard-results-to-modelcard) | Open LLM Leaderboard Results PR Opener helps users to showcase Open LLM Leaderboard results in the model card. |
 
 # Organizations
 
