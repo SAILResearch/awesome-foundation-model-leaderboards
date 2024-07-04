@@ -30,7 +30,7 @@ Also, a listed leaderboard should be included if only:
 * It is actively maintained.
 * It is related to foundation models.
 
-# Tooling
+# Tools
 
 | Name | Description |
 | ---- | ----------- |
@@ -38,17 +38,15 @@ Also, a listed leaderboard should be included if only:
 | [Demo leaderboard](https://huggingface.co/spaces/demo-leaderboard-backend/leaderboard) | Demo leaderboard is a Hugging Face template to help users to easily deploy their leaderboards. |
 | [Leaderboard Explorer](https://huggingface.co/spaces/leaderboards/LeaderboardsExplorer) | Leaderboard Explorer is a tool to assist users in navigating through the diverse range of leaderboards available on Hugging Face Spaces. |
 
-# Model Evaluation
-
-# General
+# Organization
 
 | Name | Description |
 | ---- | ----------- |
 | [Allen Institute for AI](https://leaderboard.allenai.org) | Allen Institute for AI is a non-profit research institute with the mission of conducting high-impact AI research and engineering in service of the common good. |
-| [Holistic Evaluation of Language Models](https://crfm.stanford.edu/helm) | Holistic Evaluation of Language Models (HELM) is a reproducible and transparent framework for evaluating foundation models. |
-| [nuScenes](https://www.nuscenes.org) | nuScenes enables researchers to study challenging urban driving situations using the full sensor suite of a real self-driving car. |
-| [Robust Reading Competition](https://rrc.cvc.uab.es) | Robust Reading refers to the research area dealing with the interpretation of written communication in unconstrained settings. |
-| [SuperCLUE](https://www.superclueai.com) | SuperCLUE is a series of benchmarks for evaluating Chinese foundation models. |
+| [Papers With Code](https://paperswithcode.com) | Papers With Code is a community-driven platform for learning about state-of-the-art research papers on machine learning. |
+
+
+# Model Evaluation
 
 ## Text
 
@@ -162,6 +160,7 @@ Also, a listed leaderboard should be included if only:
 | [RABBITS](https://huggingface.co/spaces/AIM-Harvard/rabbits-leaderboard) | RABBITS is a benchmark to evaluate robustness of LLMs by evaluating their handling of synonyms, specifically brand and generic drug names. |
 | [Red Teaming Resistance Benchmark](https://huggingface.co/spaces/HaizeLabs/red-teaming-resistance-benchmark) | Red Teaming Resistance Benchmark is a benchmark to evaluate the robustness of LLMs against redteaming prompts. |
 | [Reviewer Arena](https://huggingface.co/spaces/openreviewer/reviewer-arena) | Reviewer Arena hosts the reviewer arena, where various LLMs compete based on their performance in critiquing academic papers. |
+| [Robust Reading Competition](https://rrc.cvc.uab.es) | Robust Reading refers to the research area dealing with the interpretation of written communication in unconstrained settings. |
 | [RoleEval](https://github.com/magnetic2014/roleeval) | RoleEval is a bilingual benchmark to evaluate the memorization, utilization, and reasoning capabilities of role knowledge of LLMs. |
 | [Safety Prompts](http://coai.cs.tsinghua.edu.cn/leaderboard) | Safety Prompts is a benchmark to evaluate the safety of Chinese LLMs. |
 | [SafetyBench](https://llmbench.ai/safety/data) | SafetyBench is a benchmark to evaluate the safety of LLMs. |
@@ -326,6 +325,9 @@ Also, a listed leaderboard should be included if only:
 | ---- | ----------- |
 | [FlagEval](https://flageval.baai.ac.cn/#/leaderboard) | FlagEval is a comprehensive platform for evaluating foundation models. |
 | [GenAI-Arena](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) | GenAI-Arena hosts the visual generation arena, where various vision models compete based on their performance in image generation, image edition, and video generation. |
+| [Holistic Evaluation of Language Models](https://crfm.stanford.edu/helm) | Holistic Evaluation of Language Models (HELM) is a reproducible and transparent framework for evaluating foundation models. |
+| [nuScenes](https://www.nuscenes.org) | nuScenes enables researchers to study challenging urban driving situations using the full sensor suite of a real self-driving car. |
+| [SuperCLUE](https://www.superclueai.com) | SuperCLUE is a series of benchmarks for evaluating Chinese foundation models. |
 
 # Endpoint Evaluation
 
