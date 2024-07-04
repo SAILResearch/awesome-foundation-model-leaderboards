@@ -46,9 +46,11 @@ Also, a listed leaderboard should be included if only:
 | [Papers With Code](https://paperswithcode.com) | Papers With Code is a community-driven platform for learning about state-of-the-art research papers on machine learning. |
 
 
-# Model Evaluation
+# Evaluation
 
-## Text
+## Model-oriented
+
+### Text
 
 | Name | Description |
 | ---- | ----------- |
@@ -219,6 +221,7 @@ Also, a listed leaderboard should be included if only:
 | [MULTI](https://github.com/OpenDFM/MULTI-Benchmark) | MULTI is a benchmark to evaluate MLLMs on understanding complex tables and images, and reasoning with long context. |
 | [NPHardEval4V](https://github.com/lizhouf/nphardeval4v) | NPHardEval4V is a benchmark to evaluate reasoning abilities of MLLMs through the lens of computational complexity classes. |
 | [OCRBench](https://huggingface.co/spaces/echo840/ocrbench-leaderboard) | OCRBench is a benchmark to evaluate the OCR capabilities of multimodal models. |
+| [Open CoT Leaderboard](https://huggingface.co/spaces/logikon/open_cot_leaderboard) | Open CoT Leaderboard tracks LLMs' abilities to generate effective chain-of-thought reasoning traces. |
 | [Open Parti Prompts Leaderboard](https://huggingface.co/spaces/OpenGenAI/parti-prompts-leaderboard) | Open Parti Prompts Leaderboard compares text-to-image models to each other according to human preferences. |
 | [OpenCompass Multi-modal Leaderboard](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard) | OpenCompass Multi-modal Leaderboard is a platform to evaluate and compare the performance of MLLMs. |
 | [PCA-Bench](https://github.com/pkunlp-icler/PCA-EVAL) | PCA-Bench is a benchmark to evaluate the embodied decision-making capabilities of multimodal models. |
@@ -235,7 +238,7 @@ Also, a listed leaderboard should be included if only:
 | [WildBench](https://huggingface.co/spaces/allenai/WildBench) | WildBench is a benchmark for evaluating language models on challenging tasks that closely resemble real-world applications. |
 | [WildVision Arena Leaderboard](https://huggingface.co/spaces/WildVision/vision-arena) | WildVision Arena Leaderboard hosts the chatbot arena, where various MLLMs compete based on their performance in visual understanding. |
 
-## Code
+### Code
 
 | Name | Description |
 | ---- | ----------- |
@@ -268,7 +271,7 @@ Also, a listed leaderboard should be included if only:
 | [StableToolBench](https://huggingface.co/spaces/stabletoolbench/Stable_Tool_Bench_Leaderboard) | StableToolBench is a benchmark to evaluate tool learning that aims to provide a well-balanced combination of stability and reality. |
 | [SWE-bench](https://www.swebench.com) | SWE-bench is a benchmark for evaluating LLMs on real-world software issues collected from GitHub. |
 
-## Math
+### Math
 
 | Name | Description |
 | ---- | ----------- |
@@ -279,7 +282,7 @@ Also, a listed leaderboard should be included if only:
 | [Open Multilingual Reasoning Leaderboard](https://huggingface.co/spaces/kevinpro/Open-Multilingual-Reasoning-Leaderboard) | Open Multilingual Reasoning Leaderboard tracks and ranks the reasoning performance of LLMs on multilingual mathematical reasoning benchmarks. |
 | [TabMWP](https://promptpg.github.io/leaderboard.html) | TabMWP is a benchmark to evaluate LLMs in mathematical reasoning tasks that involve both textual and tabular data. |
 
-## Video
+### Video
 
 | Name | Description |
 | ---- | ----------- |
@@ -291,7 +294,7 @@ Also, a listed leaderboard should be included if only:
 | [Video-MME](https://video-mme.github.io/home_page.html#leaderboard) | Video-MME is a benchmark to evaluate the video analysis capabilities of video models. |
 | [VNBench](https://videoniah.github.io/#leaderboard) | VNBench is a benchmark to evaluate the fine-grained understanding and spatio-temporal modeling capabilities of video models. |
 
-## Agent
+### Agent
 
 | Name | Description |
 | ---- | ----------- |
@@ -302,7 +305,7 @@ Also, a listed leaderboard should be included if only:
 | [TravelPlanner](https://huggingface.co/spaces/osunlp/TravelPlannerLeaderboard) | TravelPlanner is a benchmark to evaluate LLM agents in tool-use and complex planning within multiple constraints. |
 | [VisualWebArena](https://jykoh.com/vwa) | VisualWebArena is a benchmark to evaluate the performance of multimodal web agents on realistic visually grounded tasks. |
 
-## Audio
+### Audio
 
 | Name | Description |
 | ---- | ----------- |
@@ -310,7 +313,7 @@ Also, a listed leaderboard should be included if only:
 | [Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard) | Open ASR Leaderboard provides a platform for tracking, ranking, and evaluating Automatic Speech Recognition (ASR) models. |
 | [TTS Arena](https://huggingface.co/spaces/TTS-AGI/TTS-Arena) | TTS-Arena hosts the Text To Speech (TTS) arena, where various TTS models compete based on their performance in generating speech. |
 
-## 3D
+### 3D
 
 | Name | Description |
 | ---- | ----------- |
@@ -319,7 +322,7 @@ Also, a listed leaderboard should be included if only:
 | [3DGen-Arena](https://huggingface.co/spaces/ZhangYuhan/3DGen-Arena) | 3DGen-Arena hosts the 3D generation arena, where various 3D generative models compete based on their performance in generating 3D models. |
 | [BOP](https://bop.felk.cvut.cz/leaderboards) | BOP is a benchmark to evaluate 6D pose estimation of a rigid object from a single RGB-D input image. |
 
-## Multi-modality
+### Multi-modality
 
 | Name | Description |
 | ---- | ----------- |
@@ -329,42 +332,44 @@ Also, a listed leaderboard should be included if only:
 | [nuScenes](https://www.nuscenes.org) | nuScenes enables researchers to study challenging urban driving situations using the full sensor suite of a real self-driving car. |
 | [SuperCLUE](https://www.superclueai.com) | SuperCLUE is a series of benchmarks for evaluating Chinese foundation models. |
 
-# Endpoint Evaluation
+## Method-oriented
+
+| Name | Description |
+| ---- | ----------- |
+| [CoTaEval](https://huggingface.co/spaces/boyiwei/CoTaEval_leaderboard) | CoTaEval is a benchmark to evaluate the feasibility and side effects of copyright takedown methods for language models. |
+| [GPTEval3D Leaderboard](https://huggingface.co/spaces/GPTEval3D/Leaderboard_dev) | GPTEval3D Leaderboard check how MLLMs understand 3D content via multi-view images as input. |
+| [TOFU Leaderboard](https://huggingface.co/spaces/locuslab/tofu_leaderboard) | TOFU Leaderboard is a benchmark to evaluate the unlearning performance of LLMs in realistic scenarios. |
+| [UnlearnDiffAtk](https://huggingface.co/spaces/Intel/UnlearnDiffAtk-Benchmark) | UnlearnDiffAtk is a benchmark to evaluate the robustness of safety-driven unlearned diffusion models (DMs) (i.e., DMs after unlearning undesirable concepts, styles, or objects) across a variety of tasks. |
+
+## Endpoint-oriented
 
 | Name | Description |
 | ---- | ----------- |
 | [Artificial Analysis](https://artificialanalysis.ai) | Artificial Analysis is a platform to help users make informed decisions on AI model selection and hosting providers. |
 | [LLM API Providers Leaderboard](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) | LLM API Providers Leaderboard is a platform to compare API provider performance for over LLM endpoints across performance key metrics. |
 
-# Popularity Evaluation
+## Popularity-oriented
 
 | Name | Description |
 | ---- | ----------- |
 | [Domain LLM Leaderboard](https://huggingface.co/spaces/NexaAIDev/domain_llm_leaderboard) | Domain LLM Leaderboard is a platform to evaluate the popularity of domain-specific LLMs. |
 | [Papers Leaderboard](https://huggingface.co/spaces/ameerazam08/Paper-LeaderBoard) | Papers Leaderboard is a platform to evaluate the popularity of machine learning papers. |
 
-# Data Evaluation
+## Data-oriented
 
 | Name | Description |
 | ---- | ----------- |
 | [DataComp - CLIP](https://www.datacomp.ai/dcclip/leaderboard.html) | DataComp - CLIP is a benchmark to evaluate the performance of various image/text pairs when used with a fixed model architecture. |
 | [DataComp - LM](https://www.datacomp.ai/dclm/leaderboard.html) | DataComp - CLIP is a benchmark to evaluate the performance of various text datasets when used with a fixed model architecture. |
 
-# Method Evaluation
-
-| Name | Description |
-| ---- | ----------- |
-| [TOFU Leaderboard](https://huggingface.co/spaces/locuslab/tofu_leaderboard) | TOFU Leaderboard is a benchmark to evaluate the unlearning performance of LLMs in realistic scenarios. |
-
-# Metric Evaluation
+## Metric-oriented
 
 | Name | Description |
 | ---- | ----------- |
 | [AlignScore](https://github.com/yuh-zha/AlignScore) | AlignScore evaluates the performance of different metrics in assessing factual consistency. |
 
-# Leaderboard Evaluation
+## Meta Leaderboard
 
 | Name | Description |
 | ---- | ----------- |
 | [Open Leaderboards Leaderboard](https://huggingface.co/spaces/leaderboards/LeaderboardFinder) | Open Leaderboards Leaderboard is a meta-leaderboard that leverages human preferences to compare machine learning leaderboards. |
-
