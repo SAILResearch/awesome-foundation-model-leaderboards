@@ -3,13 +3,13 @@
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
 </div>
 
-**Awesome Foundation Model Leaderboard** is a curated list of awesome leaderboards built for foundation models organized according to [our survey](TDOO):
+**Awesome Foundation Model Leaderboard** is a curated list of awesome foundation model leaderboards (for an explanation of what a leaderboard is, please refer to this [link](https://huggingface.co/docs/leaderboards/index)), along with various development tools and evaluation organizations according to [our survey](TDOO):
 
 <p align="center"><strong>On the Workflows and Smells of Leaderboard Operations (LBOps):<br>An Exploratory Study of Foundation Model Leaderboards</strong></p>
 
 <p align="center"><a href="https://github.com/zhimin-z">Zhimin Zhao</a>†, <a href="https://abdulali.github.io">Abdul Ali Bangash</a>, <a href="https://www.filipecogo.pro">Filipe Roseiro Côgo</a>, <a href="https://mcis.cs.queensu.ca/bram.html">Bram Adams</a>, <a href="https://research.cs.queensu.ca/home/ahmed">Ahmed E. Hassan</a></p>
 
-<p align="center">Queen's University</p>
+<p align="center">Software Analysis and Intelligence Lab, Queen's University</p>
 
 <p align="center">(†: Corresponding author)</p>
 
@@ -25,7 +25,7 @@ _If you want to contribute to this list (please do), welcome to propose a pull r
 
 _If you have any suggestions, critiques, or questions regarding this list, welcome to [raise an issue](https://github.com/SAILResearch/awesome-foundation-model-leaderboards/issues/new)._
 
-Also, a [leaderboard](https://huggingface.co/docs/leaderboards/index) should be included if only:
+Also, a leaderboard should be included if only:
 
 * It is actively maintained.
 * It is related to foundation models.
