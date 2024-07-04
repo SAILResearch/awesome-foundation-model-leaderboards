@@ -339,6 +339,7 @@ Also, a listed leaderboard should be included if only:
 | [CoTaEval](https://huggingface.co/spaces/boyiwei/CoTaEval_leaderboard) | CoTaEval is a benchmark to evaluate the feasibility and side effects of copyright takedown methods for language models. |
 | [GPTEval3D Leaderboard](https://huggingface.co/spaces/GPTEval3D/Leaderboard_dev) | GPTEval3D Leaderboard check how MLLMs understand 3D content via multi-view images as input. |
 | [TOFU Leaderboard](https://huggingface.co/spaces/locuslab/tofu_leaderboard) | TOFU Leaderboard is a benchmark to evaluate the unlearning performance of LLMs in realistic scenarios. |
+| [UnlearnCanvas](https://huggingface.co/spaces/OPTML-Group/UnlearnCanvas-Benchmark) | UnlearnCanvas is a stylized image benchmark to evaluate machine unlearning for diffusion models. |
 | [UnlearnDiffAtk](https://huggingface.co/spaces/Intel/UnlearnDiffAtk-Benchmark) | UnlearnDiffAtk is a benchmark to evaluate the robustness of safety-driven unlearned diffusion models (DMs) (i.e., DMs after unlearning undesirable concepts, styles, or objects) across a variety of tasks. |
 
 ## Endpoint-oriented
