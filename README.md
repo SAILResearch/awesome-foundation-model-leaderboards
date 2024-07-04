@@ -25,7 +25,7 @@ _If you want to contribute to this list (please do), welcome to propose a pull r
 
 _If you have any suggestions, critiques, or questions regarding this list, welcome to [raise an issue](https://github.com/SAILResearch/awesome-foundation-model-leaderboards/issues/new)._
 
-Also, a listed leaderboard should be included if only:
+Also, a [leaderboard](https://huggingface.co/docs/leaderboards/index) should be included if only:
 
 * It is actively maintained.
 * It is related to foundation models.
