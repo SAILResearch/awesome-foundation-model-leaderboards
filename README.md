@@ -38,7 +38,7 @@ Also, a listed leaderboard should be included if only:
 | [Demo leaderboard](https://huggingface.co/spaces/demo-leaderboard-backend/leaderboard) | Demo leaderboard is a Hugging Face template to help users to easily deploy their leaderboards. |
 | [Leaderboard Explorer](https://huggingface.co/spaces/leaderboards/LeaderboardsExplorer) | Leaderboard Explorer is a tool to assist users in navigating through the diverse range of leaderboards available on Hugging Face Spaces. |
 
-# Organization
+# Organizations
 
 | Name | Description |
 | ---- | ----------- |
