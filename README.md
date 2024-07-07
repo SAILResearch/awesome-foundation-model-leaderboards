@@ -45,9 +45,9 @@ Also, a leaderboard should be included if only:
         - [3D](#3d)
         - [Multi-modality](#multi-modality)
     - [Method-oriented](#method-oriented)
+    - [Data-oriented](#data-oriented)
     - [Endpoint-oriented](#endpoint-oriented)
     - [User-oriented](#user-oriented)
-    - [Data-oriented](#data-oriented)
     - [Metric-oriented](#metric-oriented)
     - [Meta Leaderboard](#meta-leaderboard)
 
@@ -367,6 +367,13 @@ Also, a leaderboard should be included if only:
 | [UnlearnCanvas](https://huggingface.co/spaces/OPTML-Group/UnlearnCanvas-Benchmark) | UnlearnCanvas is a stylized image benchmark to evaluate machine unlearning for diffusion models. |
 | [UnlearnDiffAtk](https://huggingface.co/spaces/Intel/UnlearnDiffAtk-Benchmark) | UnlearnDiffAtk is a benchmark to evaluate the robustness of safety-driven unlearned diffusion models (DMs) (i.e., DMs after unlearning undesirable concepts, styles, or objects) across a variety of tasks. |
 
+## Data-oriented
+
+| Name | Description |
+| ---- | ----------- |
+| [DataComp - CLIP](https://www.datacomp.ai/dcclip/leaderboard.html) | DataComp - CLIP is a benchmark to evaluate the performance of various image/text pairs when used with a fixed model architecture. |
+| [DataComp - LM](https://www.datacomp.ai/dclm/leaderboard.html) | DataComp - CLIP is a benchmark to evaluate the performance of various text datasets when used with a fixed model architecture. |
+
 ## Endpoint-oriented
 
 | Name | Description |
@@ -380,13 +387,6 @@ Also, a leaderboard should be included if only:
 | ---- | ----------- |
 | [Domain LLM Leaderboard](https://huggingface.co/spaces/NexaAIDev/domain_llm_leaderboard) | Domain LLM Leaderboard is a platform to evaluate the popularity of domain-specific LLMs. |
 | [Papers Leaderboard](https://huggingface.co/spaces/ameerazam08/Paper-LeaderBoard) | Papers Leaderboard is a platform to evaluate the popularity of machine learning papers. |
-
-## Data-oriented
-
-| Name | Description |
-| ---- | ----------- |
-| [DataComp - CLIP](https://www.datacomp.ai/dcclip/leaderboard.html) | DataComp - CLIP is a benchmark to evaluate the performance of various image/text pairs when used with a fixed model architecture. |
-| [DataComp - LM](https://www.datacomp.ai/dclm/leaderboard.html) | DataComp - CLIP is a benchmark to evaluate the performance of various text datasets when used with a fixed model architecture. |
 
 ## Metric-oriented
 
