@@ -374,7 +374,7 @@ Also, a leaderboard should be included if only:
 | [Artificial Analysis](https://artificialanalysis.ai) | Artificial Analysis is a platform to help users make informed decisions on AI model selection and hosting providers. |
 | [LLM API Providers Leaderboard](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) | LLM API Providers Leaderboard is a platform to compare API provider performance for over LLM endpoints across performance key metrics. |
 
-## Popularity-oriented
+## User-oriented
 
 | Name | Description |
 | ---- | ----------- |
