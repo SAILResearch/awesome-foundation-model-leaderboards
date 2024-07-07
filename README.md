@@ -13,9 +13,9 @@
 
 <p align="center">(†: Corresponding author)</p>
 
-If you find our survey useful, please kindly cite our paper:
+If you find this repository useful, please consider giving us a star :star: and citation:
 
-```bibtex
+```
 TODO
 ```
 
