@@ -31,9 +31,9 @@ Also, a leaderboard should be included if only:
 * It is related to foundation models.
 
 ## Table of Contents
-- **Tools**
-- **Organizations**
-- **Evaluations**
+- [**Tools**](#tools)
+- [**Organizations**](#organizations)
+- [**Evaluations**](#evaluations)
     - [Model-oriented](#model-oriented)
         - [Text](#text)
         - [Image](#image)
