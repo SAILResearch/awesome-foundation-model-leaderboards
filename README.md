@@ -30,6 +30,27 @@ Also, a leaderboard should be included if only:
 * It is actively maintained.
 * It is related to foundation models.
 
+## Table of Contents
+- **Tools**
+- **Organizations**
+- **Evaluations**
+    - [Model-oriented](#model-oriented)
+        - [Text](#text)
+        - [Image](#image)
+        - [Code](#code)
+        - [Math](#math)
+        - [Video](#video)
+        - [Agent](#agent)
+        - [Audio](#audio)
+        - [3D](#3d)
+        - [Multi-modality](#multi-modality)
+    - [Method-oriented](#method-oriented)
+    - [Endpoint-oriented](#endpoint-oriented)
+    - [Popularity-oriented](#popularity-oriented)
+    - [Data-oriented](#data-oriented)
+    - [Metric-oriented](#metric-oriented)
+    - [Meta Leaderboard](#meta-leaderboard)
+
 # Tools
 
 | Name | Description |
@@ -50,7 +71,7 @@ Also, a leaderboard should be included if only:
 | [Papers With Code](https://paperswithcode.com) | Papers With Code is a community-driven platform for learning about state-of-the-art research papers on machine learning. |
 
 
-# Evaluation
+# Evaluations
 
 ## Model-oriented
 
