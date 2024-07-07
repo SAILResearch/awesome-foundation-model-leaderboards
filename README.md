@@ -46,7 +46,7 @@ Also, a leaderboard should be included if only:
         - [Multi-modality](#multi-modality)
     - [Method-oriented](#method-oriented)
     - [Endpoint-oriented](#endpoint-oriented)
-    - [Popularity-oriented](#popularity-oriented)
+    - [User-oriented](#user-oriented)
     - [Data-oriented](#data-oriented)
     - [Metric-oriented](#metric-oriented)
     - [Meta Leaderboard](#meta-leaderboard)
@@ -345,7 +345,7 @@ Also, a leaderboard should be included if only:
 | [3D Arena](https://huggingface.co/spaces/dylanebert/3d-arena) | 3D Arena hosts 3D generation arena, where various 3D generative models compete based on their performance in generating 3D models. |
 | [3D-POPE](https://huggingface.co/spaces/sled-umich/3D-POPE-leaderboard) | 3D-POPE is a benchmark to evaluate object hallucination in 3D generative models. |
 | [3DGen-Arena](https://huggingface.co/spaces/ZhangYuhan/3DGen-Arena) | 3DGen-Arena hosts the 3D generation arena, where various 3D generative models compete based on their performance in generating 3D models. |
-| [BOP](https://bop.felk.cvut.cz/leaderboards) | BOP is a benchmark to evaluate 6D pose estimation of a rigid object from a single RGB-D input image. |
+| [BOP](https://bop.felk.cvut.cz/leaderboards) | BOP is a benchmark for 6D pose estimation of a rigid object from a single RGB-D input image. |
 
 ### Multi-modality
 
