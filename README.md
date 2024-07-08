@@ -9,7 +9,7 @@
 
 <p align="center"><a href="https://github.com/zhimin-z">Zhimin Zhao</a>†, <a href="https://abdulali.github.io">Abdul Ali Bangash</a>, <a href="https://www.filipecogo.pro">Filipe Roseiro Côgo</a>, <a href="https://mcis.cs.queensu.ca/bram.html">Bram Adams</a>, <a href="https://research.cs.queensu.ca/home/ahmed">Ahmed E. Hassan</a></p>
 
-<p align="center">Software Analysis and Intelligence Lab, Queen's University</p>
+<p align="center"><a href="https://sail.cs.queensu.ca">Software Analysis and Intelligence Lab</a>, Queen's University</p>
 
 <p align="center">(†: Corresponding author)</p>
 
