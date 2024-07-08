@@ -16,7 +16,12 @@
 If you find this repository useful, please consider giving us a star :star: and citation:
 
 ```
-TODO
+@article{zhao2024workflows,
+      title={On the Workflows and Smells of Leaderboard Operations (LBOps): An Exploratory Study of Foundation Model Leaderboards}, 
+      author={Zhimin Zhao and Abdul Ali Bangash and Filipe Roseiro Côgo and Bram Adams and Ahmed E. Hassan},
+      journal={arXiv preprint arXiv:2407.04065},
+      year={2024},
+}
 ```
 
 Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhiminy/awesome-foundation-model-leaderboard-search) that helps you quickly navigate through the leaderboards.
