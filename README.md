@@ -364,6 +364,7 @@ Also, a leaderboard should be included if only:
 
 | Name | Description |
 | ---- | ----------- |
+| [Agent CTF Leaderboard](https://huggingface.co/spaces/autogenCTF/agent_ctf_leaderboard) | Agent CTF Leaderboard is a platform to evaluate the performance of LLM-driven agents in the field of cybersecurity, particularly CTF (capture the flag) competition issues. |
 | [CoTaEval](https://huggingface.co/spaces/boyiwei/CoTaEval_leaderboard) | CoTaEval is a benchmark to evaluate the feasibility and side effects of copyright takedown methods for language models. |
 | [GPTEval3D Leaderboard](https://huggingface.co/spaces/GPTEval3D/Leaderboard_dev) | GPTEval3D Leaderboard check how MLLMs understand 3D content via multi-view images as input. |
 | [TOFU Leaderboard](https://huggingface.co/spaces/locuslab/tofu_leaderboard) | TOFU Leaderboard is a benchmark to evaluate the unlearning performance of LLMs in realistic scenarios. |
