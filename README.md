@@ -15,10 +15,10 @@ If you find this repository useful, please consider giving us a star :star: and 
 
 ```
 @article{zhao2024workflows,
-      title={On the Workflows and Smells of Leaderboard Operations (LBOps): An Exploratory Study of Foundation Model Leaderboards}, 
-      author={Zhimin Zhao and Abdul Ali Bangash and Filipe Roseiro Côgo and Bram Adams and Ahmed E. Hassan},
-      journal={arXiv preprint arXiv:2407.04065},
-      year={2024},
+  title={On the Workflows and Smells of Leaderboard Operations (LBOps): An Exploratory Study of Foundation Model Leaderboards},
+  author={Zhao, Zhimin and Bangash, Abdul Ali and C{\^o}go, Filipe Roseiro and Adams, Bram and Hassan, Ahmed E},
+  journal={arXiv preprint arXiv:2407.04065},
+  year={2024}
 }
 ```
 
