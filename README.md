@@ -89,6 +89,7 @@ Also, a leaderboard should be included if only:
 | [ANGO](https://huggingface.co/spaces/AngoHF/ANGO-Leaderboard) | ANGO is a generation-oriented Chinese language model evaluation benchmark. |
 | [Arabic Tokenizers Leaderboard](https://huggingface.co/spaces/MohamedRashad/arabic-tokenizers-leaderboard) | Arabic Tokenizers Leaderboard compares the efficiency of LLMs in parsing Arabic in its different dialects and forms. |
 | [Arena-Hard-Auto](https://github.com/lm-sys/arena-hard-auto) | Arena-Hard-Auto is a benchmark for instruction-tuned LLMs. |
+| [Auto-Arena](https://huggingface.co/spaces/Auto-Arena/Leaderboard) | Auto-Arena is a benchmark in which various language model agents engage in peer-battles to evaluate their performance. |
 | [BenBench](https://gair-nlp.github.io/benbench) | BenBench is a benchmark to evaluate the extent to which LLMs conduct verbatim training on the training set of a benchmark over the test set to enhance capabilities. |
 | [BiGGen-Bench](https://huggingface.co/spaces/prometheus-eval/BiGGen-Bench-Leaderboard) | BiGGen-Bench is a comprehensive benchmark to evaluate LLMs across a wide variety of tasks. |
 | [Biomedical Knowledge Probing Leaderboard](https://huggingface.co/spaces/CDT-BMAI-GP/biomed_probing_leaderboard) | Biomedical Knowledge Probing Leaderboard aims to track, rank, and evaluate biomedical factual knowledge probing results in LLMs. |
@@ -335,7 +336,6 @@ Also, a leaderboard should be included if only:
 | [Agent CTF Leaderboard](https://huggingface.co/spaces/autogenCTF/agent_ctf_leaderboard) | Agent CTF Leaderboard is a platform to evaluate the performance of LLM-driven agents in the field of cybersecurity, particularly CTF (capture the flag) competition issues. |
 | [AgentBench](https://llmbench.ai/agent/data) | AgentBench is the first benchmark to evaluate language model-as-Agent across a diverse spectrum of different environments. |
 | [AgentStudio](https://skyworkai.github.io/agent-studio) | AgentStudio is an integrated solution featuring in-depth benchmark suites, realistic environments, and comprehensive toolkits. |
-| [Auto-Arena](https://huggingface.co/spaces/Auto-Arena/Leaderboard) | Auto-Arena is a benchmark in which various language model agents engage in peer-battles to evaluate their performance. |
 | [LLM Colosseum Leaderboard](https://github.com/OpenGenerativeAI/llm-colosseum) | LLM Colosseum Leaderboard is a platform to evaluate LLMs by fighting in Street Fighter 3. |
 | [TravelPlanner](https://huggingface.co/spaces/osunlp/TravelPlannerLeaderboard) | TravelPlanner is a benchmark to evaluate LLM agents in tool use and complex planning within multiple constraints. |
 | [VisualWebArena](https://jykoh.com/vwa) | VisualWebArena is a benchmark to evaluate the performance of multimodal web agents on realistic visually grounded tasks. |
