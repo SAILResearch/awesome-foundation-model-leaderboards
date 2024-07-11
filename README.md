@@ -219,6 +219,7 @@ Also, a leaderboard should be included if only:
 | [Trustbit LLM Leaderboards](https://www.trustbit.tech/en/llm-benchmarks) | Trustbit LLM Leaderboards is a platform that provides benchmarks for building and shipping products with LLMs. |
 | [TrustLLM](https://trustllmbenchmark.github.io/TrustLLM-Website/leaderboard.html) | TrustLLM is a benchmark to evaluate the trustworthiness of LLMs. |
 | [UGI Leaderboard](https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard) | UGI Leaderboard measures and compares the uncensored and controversial information known by LLMs. |
+| [ViDoRe](https://huggingface.co/spaces/vidore/vidore-leaderboard) | ViDoRe is a benchmark to evaluate retrieval models on their capacity to match queries to relevant documents at the page level. |
 | [VLLMs Leaderboard](https://huggingface.co/spaces/vlsp-2023-vllm/VLLMs-Leaderboard) | VLLMs Leaderboard aims to track, rank and evaluate open LLMs and chatbots. |
 | [Xiezhi](https://github.com/MikeGu721/XiezhiBenchmark) | Xiezhi is a benchmark for holistic domain knowledge evaluation of LLMs. |
 | [Yet Another LLM Leaderboard](https://huggingface.co/spaces/mlabonne/Yet_Another_LLM_Leaderboard) | Yet Another LLM Leaderboard is a platform for tracking, ranking, and evaluating open LLMs and chatbots. |
