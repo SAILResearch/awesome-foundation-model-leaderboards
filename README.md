@@ -47,10 +47,8 @@ Also, a leaderboard should be included if only:
         - [Audio](#audio)
         - [3D](#3d)
         - [Multi-modality](#multi-modality)
-    - [Method-oriented](#method-oriented)
+    - [Solution-oriented](#solution-oriented)
     - [Data-oriented](#data-oriented)
-    - [Endpoint-oriented](#endpoint-oriented)
-    - [User-oriented](#user-oriented)
     - [Metric-oriented](#metric-oriented)
     - [Meta Leaderboard](#meta-leaderboard)
 
