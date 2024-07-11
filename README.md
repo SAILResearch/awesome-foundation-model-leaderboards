@@ -242,6 +242,7 @@ Also, a leaderboard should be included if only:
 | [LRVS-Fashion](https://huggingface.co/spaces/Slep/LRVSF-Leaderboard) | LRVS-Fashion is a benchmark to evaluate LLMs in terms of image similarity search in fashion. |
 | [LVLM Leaderboard](https://github.com/OpenGVLab/Multi-Modality-Arena) | LVLM Leaderboard is a platform to evaluate the visual reasoning capabilities of MLLMs. |
 | [Mementos](https://mementos-bench.github.io/#leaderboard) | Mementos is a benchmark to evaluate the reasoning capabilities of MLLMs over image sequences. |
+| [MJ-Bench](https://huggingface.co/spaces/MJ-Bench/MJ-Bench-Leaderboard) | MJ-Bench is a benchmark to evaluate multimodal judges in providing feedback for image generation models across four key perspectives: alignment, safety, image quality, and bias. |
 | [MLLM-Bench](https://mllm-bench.llmzoo.com/static/leaderboard.html) | MLLM-Bench is a benchmark to evaluate the visual reasoning capabilities of MLVMs. |
 | [MMBench](https://mmbench.opencompass.org.cn/leaderboard) | MMBench is a benchmark to evaluate the visual reasoning capabilities of MLLMs. |
 | [MME](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation) | MME is a benchmark to evaluate the visual reasoning capabilities of MLLMs. |
