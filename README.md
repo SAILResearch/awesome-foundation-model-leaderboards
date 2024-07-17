@@ -3,9 +3,13 @@
 </div>
 
 <p align="center">
-    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
-    <a href="https://arxiv.org/abs/2407.04065"><img src="https://img.shields.io/badge/📃-Arxiv-b31b1b?style=for-the-badge"></a>
-</a>
+    <a href="https://awesome.re">
+        <img src="https://awesome.re/badge.svg" height="20"/>
+    </a>
+    <a href="https://arxiv.org/abs/2407.04065">
+        <img src="https://img.shields.io/badge/📃-Arxiv-b31b1b?style=for-the-badge" height="20"/>
+    </a>
+</p>
 
 **Awesome Foundation Model Leaderboard** is a curated list of awesome foundation model leaderboards (for an explanation of what a leaderboard is, please refer to this [post](https://huggingface.co/docs/leaderboards/index)), along with various development tools and evaluation organizations according to [our survey](https://arxiv.org/abs/2407.04065):
 
