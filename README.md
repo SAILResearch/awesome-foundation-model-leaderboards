@@ -5,8 +5,6 @@
 <p align="center">
     <a href="https://awesome.re">
         <img src="https://awesome.re/badge.svg" height="20"/>
-    </a>
-    <a href="https://arxiv.org/abs/2407.04065">
         <img src="https://img.shields.io/badge/📃-Arxiv-b31b1b?style=for-the-badge" height="20"/>
     </a>
 </p>
