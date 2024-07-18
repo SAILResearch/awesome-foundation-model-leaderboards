@@ -100,6 +100,7 @@ Also, a leaderboard should be included if only:
 | [Arabic Tokenizers Leaderboard](https://huggingface.co/spaces/MohamedRashad/arabic-tokenizers-leaderboard) | Arabic Tokenizers Leaderboard compares the efficiency of LLMs in parsing Arabic in its different dialects and forms. |
 | [Arena-Hard-Auto](https://github.com/lm-sys/arena-hard-auto) | Arena-Hard-Auto is a benchmark for instruction-tuned LLMs. |
 | [Auto-Arena](https://huggingface.co/spaces/Auto-Arena/Leaderboard) | Auto-Arena is a benchmark in which various language model agents engage in peer-battles to evaluate their performance. |
+| [BeHonest](https://gair-nlp.github.io/BeHonest/#leaderboard) | BeHonest is a benchmark to evaluate honesty - awareness of knowledge boundaries (self-knowledge), avoidance of deceit (non-deceptiveness), and consistency in responses (consistency) - in LLMs. |
 | [BenBench](https://gair-nlp.github.io/benbench) | BenBench is a benchmark to evaluate the extent to which LLMs conduct verbatim training on the training set of a benchmark over the test set to enhance capabilities. |
 | [BiGGen-Bench](https://huggingface.co/spaces/prometheus-eval/BiGGen-Bench-Leaderboard) | BiGGen-Bench is a comprehensive benchmark to evaluate LLMs across a wide variety of tasks. |
 | [Biomedical Knowledge Probing Leaderboard](https://huggingface.co/spaces/CDT-BMAI-GP/biomed_probing_leaderboard) | Biomedical Knowledge Probing Leaderboard aims to track, rank, and evaluate biomedical factual knowledge probing results in LLMs. |
