@@ -60,6 +60,8 @@ Also, a leaderboard should be included if only:
     - [Metric-oriented](#metric-oriented)
     - [Meta Leaderboard](#meta-leaderboard)
 
+
+
 # Tools
 
 | Name | Description |
@@ -71,6 +73,8 @@ Also, a leaderboard should be included if only:
 | [open-llm-leaderboard-renamer](https://huggingface.co/spaces/Weyaxi/open-llm-leaderboard-renamer) | open-llm-leaderboard-renamer helps users rename their models in Open LLM Leaderboard easily. |
 | [Open LLM Leaderboard Results PR Opener](https://huggingface.co/spaces/Weyaxi/leaderboard-results-to-modelcard) | Open LLM Leaderboard Results PR Opener helps users showcase Open LLM Leaderboard results in their model cards. |
 | [Open LLM Leaderboard Scraper](https://github.com/Weyaxi/scrape-open-llm-leaderboard) | Open LLM Leaderboard Scraper helps users scrape and export data from Open LLM Leaderboard. |
+
+
 
 # Organizations
 
@@ -209,6 +213,7 @@ Also, a leaderboard should be included if only:
 | [SeaExam](https://huggingface.co/spaces/SeaLLMs/SeaExam_leaderboard) | SeaExam is a benchmark to evaluate LLMs for Southeast Asian (SEA) languages. |
 | [SEAL](https://scale.com/leaderboard) | SEAL is an expert-driven private evaluation platform for LLMs. |
 | [SeaEval](https://huggingface.co/spaces/SeaEval/SeaEval_Leaderboard) | SeaEval is a benchmark to evaluate the performance of multilingual LLMs in understanding and reasoning with natural language, as well as comprehending cultural practices, nuances, and values. |
+| [Spec-Bench](https://github.com/hemingkx/Spec-Bench/blob/main/Leaderboard.md) | Spec-Bench is a benchmark to evaluate speculative decoding methods across diverse scenarios. |
 | [SuperBench](https://fm.ai.tsinghua.edu.cn/superbench) | SuperBench is a comprehensive evaluation system of tasks and dimensions to assess the overall capabilities of LLMs. |
 | [SuperGLUE](https://super.gluebenchmark.com/leaderboard) | SuperGLUE is a benchmark to evaluate the performance of LLMs on a set of challenging language understanding tasks. |
 | [SuperLim](https://lab.kb.se/leaderboard/results) | SuperLim is a benchmark to evaluate the language understanding capabilities of LLMs in Swedish. |
