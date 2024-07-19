@@ -324,9 +324,10 @@ Also, a leaderboard should be included if only:
 | ---- | ----------- |
 | [MathBench](https://open-compass.github.io/MathBench) | MathBench is a multi-level difficulty mathematics evaluation benchmark for LLMs. |
 | [MathEval](https://matheval.ai/leaderboard) | MathEval is a benchmark to evaluate the mathematical capabilities of LLMs. |
-| [MathVerse](https://mathverse-cuhk.github.io/#leaderboard) | MathVerse is a benchmark to evaluate the capabilities of vision-LLMs in interpreting and reasoning with visual information in mathematical problems. |
+| [MathVerse](https://mathverse-cuhk.github.io/#leaderboard) | MathVerse is a benchmark to evaluate vision-language models in interpreting and reasoning with visual information in mathematical problems. |
 | [MathVista](https://mathvista.github.io/#leaderboard) | MathVista is a benchmark to evaluate mathematical reasoning in visual contexts. |
 | [Open Multilingual Reasoning Leaderboard](https://huggingface.co/spaces/kevinpro/Open-Multilingual-Reasoning-Leaderboard) | Open Multilingual Reasoning Leaderboard tracks and ranks the reasoning performance of LLMs on multilingual mathematical reasoning benchmarks. |
+| [SciBench](https://scibench-ucla.github.io/#leaderboard) | SciBench is a benchmark to evaluate the reasoning capabilities of LLMs for solving complex scientific problems. |
 | [TabMWP](https://promptpg.github.io/leaderboard.html) | TabMWP is a benchmark to evaluate LLMs in mathematical reasoning tasks that involve both textual and tabular data. |
 
 ### Video
