@@ -5,7 +5,12 @@
 <p align="center">
     <a href="https://awesome.re">
         <img src="https://awesome.re/badge.svg" height="20"/>
-        <img src="https://img.shields.io/badge/📃-Arxiv-b31b1b?style=for-the-badge" height="20"/>
+    </a>
+    <a href="https://github.com/SAILResearch/awesome-foundation-model-leaderboards/fork">
+        <img src="https://img.shields.io/badge/PRs-Welcome-red" height="20"/>
+    </a>
+    <a href="https://arxiv.org/abs/2407.04065">
+        <img src="https://img.shields.io/badge/📃-Arxiv-b31b1b" height="20"/>
     </a>
 </p>
 
