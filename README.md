@@ -15,7 +15,7 @@
 
 <p align="center"><strong>On the Workflows and Smells of Leaderboard Operations (LBOps):<br>An Exploratory Study of Foundation Model Leaderboards</strong></p>
 
-<p align="center"><a href="https://github.com/zhimin-z">Zhimin Zhao</a>, <a href="https://abdulali.github.io">Abdul Ali Bangash</a>, <a href="https://www.filipecogo.pro">Filipe Roseiro Côgo</a>, <a href="https://mcis.cs.queensu.ca/bram.html">Bram Adams</a>, <a href="https://research.cs.queensu.ca/home/ahmed">Ahmed E. Hassan</a></p>
+<p align="center"><a href="https://github.com/zhimin-z">Zhimin (Jimmy) Zhao</a>, <a href="https://abdulali.github.io">Abdul Ali Bangash</a>, <a href="https://www.filipecogo.pro">Filipe Roseiro Côgo</a>, <a href="https://mcis.cs.queensu.ca/bram.html">Bram Adams</a>, <a href="https://research.cs.queensu.ca/home/ahmed">Ahmed E. Hassan</a></p>
 
 <p align="center"><a href="https://sail.cs.queensu.ca">Software Analysis and Intelligence Lab (SAIL)</a></p>
 
@@ -32,7 +32,7 @@ If you find this repository useful, please consider giving us a star :star: and 
 
 Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhiminy/awesome-foundation-model-leaderboard-search) that helps you quickly navigate through the leaderboards.
 
-_If you want to contribute to this list (please do), welcome to propose a pull request._
+_If you want to contribute to this list (please do), welcome to [propose a pull request](https://github.com/SAILResearch/awesome-foundation-model-leaderboards/fork)._
 
 _If you have any suggestions, critiques, or questions regarding this list, welcome to [raise an issue](https://github.com/SAILResearch/awesome-foundation-model-leaderboards/issues/new)._
 
