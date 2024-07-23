@@ -200,11 +200,11 @@ Also, a leaderboard should be included if only:
 | [Powered-by-Intel LLM Leaderboard](https://huggingface.co/spaces/Intel/powered_by_intel_llm_leaderboard) | Powered-by-Intel LLM Leaderboard evaluates, scores, and ranks LLMs that have been pre-trained or fine-tuned on Intel Hardware. |
 | [PubMedQA](https://pubmedqa.github.io) | PubMedQA is a benchmark to evaluate biomedical research question answering. |
 | [PromptBench](https://llm-eval.github.io/pages/leaderboard/advprompt.html) | PromptBench is a benchmark to evaluate the robustness of LLMs on adversarial prompts. |
-| [QuALITY](https://nyu-mll.github.io/quality) | QuALITY is a benchmark to evaluate multiple-choice question answering with long context. |
+| [QuALITY](https://nyu-mll.github.io/quality) | QuALITY is a benchmark for evaluating multiple-choice question-answering with a long context. |
 | [RABBITS](https://huggingface.co/spaces/AIM-Harvard/rabbits-leaderboard) | RABBITS is a benchmark to evaluate the robustness of LLMs by evaluating their handling of synonyms, specifically brand and generic drug names. |
 | [Red Teaming Resistance Benchmark](https://huggingface.co/spaces/HaizeLabs/red-teaming-resistance-benchmark) | Red Teaming Resistance Benchmark is a benchmark to evaluate the robustness of LLMs against red teaming prompts. |
 | [Reviewer Arena](https://huggingface.co/spaces/openreviewer/reviewer-arena) | Reviewer Arena hosts the reviewer arena, where various LLMs compete based on their performance in critiquing academic papers. |
-| [Robust Reading Competition](https://rrc.cvc.uab.es) | Robust Reading refers to the research area dealing with the interpretation of written communication in unconstrained settings. |
+| [Robust Reading Competition](https://rrc.cvc.uab.es) | Robust Reading refers to the research area on interpreting written communication in unconstrained settings. |
 | [RoleEval](https://github.com/magnetic2014/roleeval) | RoleEval is a bilingual benchmark to evaluate the memorization, utilization, and reasoning capabilities of role knowledge of LLMs. |
 | [Safety Prompts](http://coai.cs.tsinghua.edu.cn/leaderboard) | Safety Prompts is a benchmark to evaluate the safety of Chinese LLMs. |
 | [SafetyBench](https://llmbench.ai/safety/data) | SafetyBench is a benchmark to evaluate the safety of LLMs. |
