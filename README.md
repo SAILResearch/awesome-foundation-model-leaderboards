@@ -332,6 +332,7 @@ Also, a leaderboard should be included if only:
 | [Open Multilingual Reasoning Leaderboard](https://huggingface.co/spaces/kevinpro/Open-Multilingual-Reasoning-Leaderboard) | Open Multilingual Reasoning Leaderboard tracks and ranks the reasoning performance of LLMs on multilingual mathematical reasoning benchmarks. |
 | [SciBench](https://scibench-ucla.github.io/#leaderboard) | SciBench is a benchmark to evaluate the reasoning capabilities of LLMs for solving complex scientific problems. |
 | [TabMWP](https://promptpg.github.io/leaderboard.html) | TabMWP is a benchmark to evaluate LLMs in mathematical reasoning tasks that involve both textual and tabular data. |
+| [We-Math](https://promptpg.github.io/leaderboard.html) | We-Math is a benchmark to evaluate the human-like mathematical reasoning capabilities of LLMs with problem-solving principles beyond the end-to-end performance. |
 
 ### Video
 
