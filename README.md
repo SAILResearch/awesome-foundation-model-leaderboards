@@ -210,7 +210,7 @@ Also, a leaderboard should be included if only:
 | [SafetyBench](https://llmbench.ai/safety/data) | SafetyBench is a benchmark to evaluate the safety of LLMs. |
 | [SALAD-Bench](https://huggingface.co/spaces/OpenSafetyLab/Salad-Bench-Leaderboard) | SALAD-Bench is a benchmark for evaluating the safety and security of LLMs. |
 | [ScandEval](https://scandeval.com) | ScandEval is a benchmark to evaluate LLMs on tasks in Scandinavian languages as well as German, Dutch, and English. |
-| [SciKnowEval](https://github.com/HICAI-ZJU/SciKnowEval) | SciKnowEval is a benchmark to evaluate LLMs based on their proficiency in studying extensively, enquiring earnestly, thinking profoundly, discerning clearly, and practicing assiduously. |
+| [SciKnowEval](http://scimind.ai/sciknoweval) | SciKnowEval is a benchmark to evaluate LLMs based on their proficiency in studying extensively, enquiring earnestly, thinking profoundly, discerning clearly, and practicing assiduously. |
 | [SCROLLS](https://www.scrolls-benchmark.com/leaderboard) | SCROLLS is a benchmark to evaluate the reasoning capabilities of LLMs over long texts. |
 | [SeaExam](https://huggingface.co/spaces/SeaLLMs/SeaExam_leaderboard) | SeaExam is a benchmark to evaluate LLMs for Southeast Asian (SEA) languages. |
 | [SEAL](https://scale.com/leaderboard) | SEAL is an expert-driven private evaluation platform for LLMs. |
