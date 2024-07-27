@@ -410,4 +410,4 @@ Also, a leaderboard should be included if only:
 
 | Name | Description |
 | ---- | ----------- |
-| [Open Leaderboards Leaderboard](https://huggingface.co/spaces/leaderboards/LeaderboardFinder) | Open Leaderboards Leaderboard is a meta-leaderboard that leverages human preferences to compare machine learning leaderboards. |
+| [Open Leaderboards Leaderboard](https://huggingface.co/spaces/mrfakename/open-leaderboards-leaderboard) | Open Leaderboards Leaderboard is a meta-leaderboard that leverages human preferences to compare machine learning leaderboards. |
