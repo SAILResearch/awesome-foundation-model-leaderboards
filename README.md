@@ -267,6 +267,7 @@ Also, a leaderboard should be included if only:
 | [MMT-Bench](https://mmt-bench.github.io/#leaderboard) | MMT-Bench is a benchmark to evaluate MLLMs across a wide array of multimodal tasks that require expert knowledge as well as deliberate visual recognition, localization, reasoning, and planning. |
 | [Multimodal Hallucination Leaderboard](https://huggingface.co/spaces/scb10x/multimodal-hallucination-leaderboard) | Multimodal Hallucination Leaderboard compares MLLMs based on hallucination levels in various tasks. |
 | [MULTI](https://github.com/OpenDFM/MULTI-Benchmark) | MULTI is a benchmark to evaluate MLLMs on understanding complex tables and images, and reasoning with long context. |
+| [MultiTrust](https://multi-trust.github.io/#leaderboard) | MultiTrust is a benchmark to evaluate the trustworthiness of MLLMs across five primary aspects: truthfulness, safety, robustness, fairness, and privacy. |
 | [NPHardEval4V](https://github.com/lizhouf/nphardeval4v) | NPHardEval4V is a benchmark to evaluate the reasoning abilities of MLLMs through the lens of computational complexity classes. |
 | [OCRBench](https://huggingface.co/spaces/echo840/ocrbench-leaderboard) | OCRBench is a benchmark to evaluate the OCR capabilities of multimodal models. |
 | [Open CoT Leaderboard](https://huggingface.co/spaces/logikon/open_cot_leaderboard) | Open CoT Leaderboard tracks LLMs' abilities to generate effective chain-of-thought reasoning traces. |
