@@ -109,6 +109,7 @@ Also, a leaderboard should be included if only:
 | [C-Eval Hard](https://cevalbenchmark.com/static/leaderboard.html) | C-Eval Hard is a more challenging version of C-Eval, which involves complex LaTeX equations and requires non-trivial reasoning abilities to solve. |
 | [Chain-of-Thought Hub](https://github.com/FranxYao/chain-of-thought-hub) | Chain-of-Thought Hub is a benchmark to evaluate the reasoning capabilities of LLMs. |
 | [ChineseFactEval](https://github.com/GAIR-NLP/factool/tree/main/datasets/chinese) | ChineseFactEval is a factuality benchmark for Chinese LLMs. |
+| [CompassAcademic Large Language Model Leaderboard](https://rank.opencompass.org.cn/leaderboard-llm-academic) | CompassAcademic Large Language Model Leaderboard is a platform to evaluate the comprehensive reasoning abilities of LLMs. |
 | [Compass Arena](https://rank.opencompass.org.cn/leaderboard-arena) | Compass Arena hosts the chatbot arena, where various LLMs compete based on their performance in chatting. |
 | [CLEM](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard) | CLEM is a framework designed for the systematic evaluation of chat-optimized LLMs as conversational agents. |
 | [CLiB](https://github.com/jeinlee1991/chinese-llm-benchmark) | CLiB is a benchmark to evaluate Chinese LLMs. |
@@ -183,7 +184,7 @@ Also, a leaderboard should be included if only:
 | [oobabooga](https://oobabooga.github.io/benchmark.html) | Oobabooga is a benchmark to perform repeatable performance tests of LLMs with the oobabooga web UI. |
 | [Open-LLM-Leaderboard](https://huggingface.co/spaces/Open-Style/OSQ-Leaderboard) | Open-LLM-Leaderboard evaluates LLMs in terms of language understanding and reasoning by transitioning from multiple-choice questions (MCQs) to open-style questions. |
 | [Open-source Model Fine-Tuning Leaderboard](https://predibase.com/fine-tuning-index) | Open-source Model Fine-Tuning Leaderboard is a platform to rank and showcase models that have been fine-tuned using open-source datasets or frameworks. |
-| [OpenCompass Large Language Model Leaderboard ](https://rank.opencompass.org.cn/leaderboard-llm-v2) | OpenCompass Large Language Model Leaderboard is a platform for a fair, open, and reproducible large model evaluation. |
+| [OpenCompass Large Language Model Leaderboard ](https://rank.opencompass.org.cn/leaderboard-llm) | OpenCompass Large Language Model Leaderboard is a platform for a fair, open, and reproducible large model evaluation. |
 | [OpenEval](http://openeval.org.cn/rank) | OpenEval is a multidimensional and open evaluation system to assess Chinese LLMs. |
 | [OpenLLM Turkish leaderboard](https://huggingface.co/spaces/malhajar/OpenLLMTurkishLeaderboard) | OpenLLM Turkish leaderboard tracks progress and ranks the performance of LLMs in Turkish. |
 | [Open Arabic LLM Leaderboard](https://huggingface.co/spaces/OALL/Open-Arabic-LLM-Leaderboard) | Open Arabic LLM Leaderboard tracks progress and ranks the performance of LLMs in Arabic. |
@@ -272,7 +273,7 @@ Also, a leaderboard should be included if only:
 | [OCRBench](https://huggingface.co/spaces/echo840/ocrbench-leaderboard) | OCRBench is a benchmark to evaluate the OCR capabilities of multimodal models. |
 | [Open CoT Leaderboard](https://huggingface.co/spaces/logikon/open_cot_leaderboard) | Open CoT Leaderboard tracks LLMs' abilities to generate effective chain-of-thought reasoning traces. |
 | [Open Parti Prompts Leaderboard](https://huggingface.co/spaces/OpenGenAI/parti-prompts-leaderboard) | Open Parti Prompts Leaderboard compares text-to-image models to each other according to human preferences. |
-| [OpenCompass Multi-modal Leaderboard](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard) | OpenCompass Multi-modal Leaderboard is a platform to evaluate and compare the performance of MLLMs. |
+| [OpenCompass Multi-modal Leaderboard](https://rank.opencompass.org.cn/leaderboard-multimodal) | OpenCompass Multi-modal Leaderboard is a platform to evaluate and compare the performance of MLLMs. |
 | [PCA-Bench](https://github.com/pkunlp-icler/PCA-EVAL) | PCA-Bench is a benchmark to evaluate the embodied decision-making capabilities of multimodal models. |
 | [Q-Bench](https://huggingface.co/spaces/q-future/Q-Bench-Leaderboard) | Q-Bench is a benchmark to evaluate the visual reasoning capabilities of MLLMs. |
 | [RewardBench](https://huggingface.co/spaces/allenai/reward-bench) | RewardBench is a benchmark to evaluate the capabilities and safety of reward models. |
