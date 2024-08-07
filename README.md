@@ -107,6 +107,7 @@ Also, a leaderboard should be included if only:
 | [BotChat](https://botchat.opencompass.org.cn) | BotChat assesses the multi-round chatting capabilities of LLMs through a proxy task, evaluating whether two ChatBot instances can engage in smooth and fluent conversation with each other. |
 | [C-Eval](https://cevalbenchmark.com/static/leaderboard.html) | C-Eval is a Chinese evaluation suite for LLMs. |
 | [C-Eval Hard](https://cevalbenchmark.com/static/leaderboard.html) | C-Eval Hard is a more challenging version of C-Eval, which involves complex LaTeX equations and requires non-trivial reasoning abilities to solve. |
+| [Capability leaderboard](https://github.com/bigai-nlco/LooGLE) | Capability leaderboard is a platform to evaluate long context understanding capabilties of LLMs. |
 | [Chain-of-Thought Hub](https://github.com/FranxYao/chain-of-thought-hub) | Chain-of-Thought Hub is a benchmark to evaluate the reasoning capabilities of LLMs. |
 | [ChineseFactEval](https://github.com/GAIR-NLP/factool/tree/main/datasets/chinese) | ChineseFactEval is a factuality benchmark for Chinese LLMs. |
 | [CompassAcademic Large Language Model Leaderboard](https://rank.opencompass.org.cn/leaderboard-llm-academic) | CompassAcademic Large Language Model Leaderboard is a platform to evaluate the comprehensive reasoning abilities of LLMs. |
