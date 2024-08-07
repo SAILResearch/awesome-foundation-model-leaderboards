@@ -250,7 +250,6 @@ Also, a leaderboard should be included if only:
 | [ChEF](https://openlamm.github.io/Leaderboards) | ChEF is a benchmark to evaluate MLLMs across various visual reasoning tasks. |
 | [ConTextual](https://huggingface.co/spaces/ucla-contextual/contextual_leaderboard) | ConTextual is a benchmark to evaluate MLLMs across context-sensitive text-rich visual reasoning tasks. |
 | [CORE-MM](https://core-mm.github.io) | CORE-MM is a benchmark to evaluate the open-ended visual question-answering (VQA) capabilities of MLLMs. |
-| [Diffusion Arena](https://huggingface.co/spaces/henry21/diffusion-arena) | Diffusion Arena hosts the diffusion arena, where various MLLMs compete based on their performance in image generation. |
 | [DreamBench++](https://dreambenchplus.github.io/#leaderboard) | DreamBench++ is a human-aligned benchmark automated by multimodal models for personalized image generation. |
 | [EgoPlan-Bench](https://huggingface.co/spaces/ChenYi99/EgoPlan-Bench_Leaderboard) | EgoPlan-Bench is a benchmark to evaluate planning abilities of MLLMs in real-world, egocentric scenarios. |
 | [GlitchBench](https://huggingface.co/spaces/glitchbench/Leaderboard) | GlitchBench is a benchmark to evaluate the reasoning capabilities of MLLMs in the context of detecting video game glitches. |
