@@ -46,6 +46,7 @@ Also, a leaderboard should be included if only:
 - [**Organizations**](#organizations)
 - [**Evaluations**](#evaluations)
     - [Model-oriented](#model-oriented)
+        - [Comprehensive](#comprehensive)
         - [Text](#text)
         - [Image](#image)
         - [Code](#code)
@@ -54,7 +55,6 @@ Also, a leaderboard should be included if only:
         - [Agent](#agent)
         - [Audio](#audio)
         - [3D](#3d)
-        - [Multi-modality](#multi-modality)
     - [Solution-oriented](#solution-oriented)
     - [Data-oriented](#data-oriented)
     - [Metric-oriented](#metric-oriented)
@@ -88,6 +88,17 @@ Also, a leaderboard should be included if only:
 
 ## Model-oriented
 
+### Comprehensive
+
+| Name | Description |
+| ---- | ----------- |
+| [CompassRank](https://rank.opencompass.org.cn) | CompassRank is a platform to offer a comprehensive, objective, and neutral evaluation reference of foundation mdoels for the industry and research. |
+| [FlagEval](https://flageval.baai.ac.cn/#/leaderboard) | FlagEval is a comprehensive platform for evaluating foundation models. |
+| [GenAI-Arena](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) | GenAI-Arena hosts the visual generation arena, where various vision models compete based on their performance in image generation, image edition, and video generation. |
+| [Holistic Evaluation of Language Models](https://crfm.stanford.edu/helm) | Holistic Evaluation of Language Models (HELM) is a reproducible and transparent framework for evaluating foundation models. |
+| [nuScenes](https://www.nuscenes.org) | nuScenes enables researchers to study challenging urban driving situations using the full sensor suite of a real self-driving car. |
+| [SuperCLUE](https://www.superclueai.com) | SuperCLUE is a series of benchmarks for evaluating Chinese foundation models. |
+
 ### Text
 
 | Name | Description |
@@ -110,8 +121,6 @@ Also, a leaderboard should be included if only:
 | [Capability leaderboard](https://github.com/bigai-nlco/LooGLE) | Capability leaderboard is a platform to evaluate long context understanding capabilties of LLMs. |
 | [Chain-of-Thought Hub](https://github.com/FranxYao/chain-of-thought-hub) | Chain-of-Thought Hub is a benchmark to evaluate the reasoning capabilities of LLMs. |
 | [ChineseFactEval](https://github.com/GAIR-NLP/factool/tree/main/datasets/chinese) | ChineseFactEval is a factuality benchmark for Chinese LLMs. |
-| [CompassAcademic Large Language Model Leaderboard](https://rank.opencompass.org.cn/leaderboard-llm-academic) | CompassAcademic Large Language Model Leaderboard is a platform to evaluate the comprehensive reasoning abilities of LLMs. |
-| [Compass Arena](https://rank.opencompass.org.cn/leaderboard-arena) | Compass Arena hosts the chatbot arena, where various LLMs compete based on their performance in chatting. |
 | [CLEM](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard) | CLEM is a framework designed for the systematic evaluation of chat-optimized LLMs as conversational agents. |
 | [CLiB](https://github.com/jeinlee1991/chinese-llm-benchmark) | CLiB is a benchmark to evaluate Chinese LLMs. |
 | [CMMLU](https://github.com/haonan-li/CMMLU) | CMMLU is a Chinese benchmark to evaluate LLMs' knowledge and reasoning capabilities. |
@@ -185,7 +194,6 @@ Also, a leaderboard should be included if only:
 | [oobabooga](https://oobabooga.github.io/benchmark.html) | Oobabooga is a benchmark to perform repeatable performance tests of LLMs with the oobabooga web UI. |
 | [Open-LLM-Leaderboard](https://huggingface.co/spaces/Open-Style/OSQ-Leaderboard) | Open-LLM-Leaderboard evaluates LLMs in terms of language understanding and reasoning by transitioning from multiple-choice questions (MCQs) to open-style questions. |
 | [Open-source Model Fine-Tuning Leaderboard](https://predibase.com/fine-tuning-index) | Open-source Model Fine-Tuning Leaderboard is a platform to rank and showcase models that have been fine-tuned using open-source datasets or frameworks. |
-| [OpenCompass Large Language Model Leaderboard ](https://rank.opencompass.org.cn/leaderboard-llm) | OpenCompass Large Language Model Leaderboard is a platform for a fair, open, and reproducible large model evaluation. |
 | [OpenEval](http://openeval.org.cn/rank) | OpenEval is a multidimensional and open evaluation system to assess Chinese LLMs. |
 | [OpenLLM Turkish leaderboard](https://huggingface.co/spaces/malhajar/OpenLLMTurkishLeaderboard) | OpenLLM Turkish leaderboard tracks progress and ranks the performance of LLMs in Turkish. |
 | [Open Arabic LLM Leaderboard](https://huggingface.co/spaces/OALL/Open-Arabic-LLM-Leaderboard) | Open Arabic LLM Leaderboard tracks progress and ranks the performance of LLMs in Arabic. |
@@ -273,7 +281,6 @@ Also, a leaderboard should be included if only:
 | [OCRBench](https://huggingface.co/spaces/echo840/ocrbench-leaderboard) | OCRBench is a benchmark to evaluate the OCR capabilities of multimodal models. |
 | [Open CoT Leaderboard](https://huggingface.co/spaces/logikon/open_cot_leaderboard) | Open CoT Leaderboard tracks LLMs' abilities to generate effective chain-of-thought reasoning traces. |
 | [Open Parti Prompts Leaderboard](https://huggingface.co/spaces/OpenGenAI/parti-prompts-leaderboard) | Open Parti Prompts Leaderboard compares text-to-image models to each other according to human preferences. |
-| [OpenCompass Multi-modal Leaderboard](https://rank.opencompass.org.cn/leaderboard-multimodal) | OpenCompass Multi-modal Leaderboard is a platform to evaluate and compare the performance of MLLMs. |
 | [PCA-Bench](https://github.com/pkunlp-icler/PCA-EVAL) | PCA-Bench is a benchmark to evaluate the embodied decision-making capabilities of multimodal models. |
 | [Q-Bench](https://huggingface.co/spaces/q-future/Q-Bench-Leaderboard) | Q-Bench is a benchmark to evaluate the visual reasoning capabilities of MLLMs. |
 | [RewardBench](https://huggingface.co/spaces/allenai/reward-bench) | RewardBench is a benchmark to evaluate the capabilities and safety of reward models. |
@@ -376,16 +383,6 @@ Also, a leaderboard should be included if only:
 | [3DGen-Arena](https://huggingface.co/spaces/ZhangYuhan/3DGen-Arena) | 3DGen-Arena hosts the 3D generation arena, where various 3D generative models compete based on their performance in generating 3D models. |
 | [BOP](https://bop.felk.cvut.cz/leaderboards) | BOP is a benchmark for 6D pose estimation of a rigid object from a single RGB-D input image. |
 | [GPTEval3D Leaderboard](https://huggingface.co/spaces/GPTEval3D/Leaderboard_dev) | GPTEval3D Leaderboard check how MLLMs understand 3D content via multi-view images as input. |
-
-### Multi-modality
-
-| Name | Description |
-| ---- | ----------- |
-| [FlagEval](https://flageval.baai.ac.cn/#/leaderboard) | FlagEval is a comprehensive platform for evaluating foundation models. |
-| [GenAI-Arena](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) | GenAI-Arena hosts the visual generation arena, where various vision models compete based on their performance in image generation, image edition, and video generation. |
-| [Holistic Evaluation of Language Models](https://crfm.stanford.edu/helm) | Holistic Evaluation of Language Models (HELM) is a reproducible and transparent framework for evaluating foundation models. |
-| [nuScenes](https://www.nuscenes.org) | nuScenes enables researchers to study challenging urban driving situations using the full sensor suite of a real self-driving car. |
-| [SuperCLUE](https://www.superclueai.com) | SuperCLUE is a series of benchmarks for evaluating Chinese foundation models. |
 
 ## Solution-oriented
 
