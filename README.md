@@ -142,6 +142,7 @@ Also, a leaderboard should be included if only:
 | [FuseReviews](https://huggingface.co/spaces/lovodkin93/FuseReviews-Leaderboard) | FuseReviews aims to advance grounded text generation tasks, including long-form question-answering and summarization. |
 | [FELM](https://hkust-nlp.github.io/felm) | FELM is a meta benchmark to evaluate factuality evaluation benchmark for LLMs. |
 | [GAIA](https://huggingface.co/spaces/gaia-benchmark/leaderboard) | GAIA aims to test fundamental abilities that an AI assistant should possess. |
+| [GPT-Fathom](https://github.com/GPT-Fathom/GPT-Fathom) | GPT-Fathom is an LLM evaluation suite, benchmarking 10+ leading LLMs as well as OpenAI's legacy models on 20+ curated benchmarks across 7 capability categories, all under aligned settings. |
 | [Guerra LLM AI Leaderboard](https://huggingface.co/spaces/luisrguerra/guerra-llm-ai-leaderboard) | Guerra LLM AI Leaderboard compares and ranks the performance of LLMs across quality, price, performance, context window, and others. |
 | [Hallucinations Leaderboard](https://huggingface.co/spaces/hallucinations-leaderboard/leaderboard) | Hallucinations Leaderboard aims to track, rank and evaluate hallucinations in LLMs. |
 | [HalluQA](https://github.com/OpenMOSS/HalluQA) | HalluQA is a benchmark to evaluate the phenomenon of hallucinations in Chinese LLMs. |
