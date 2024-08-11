@@ -303,7 +303,7 @@ Also, a leaderboard should be included if only:
 
 | Name | Description |
 | ---- | ----------- |
-| [Berkeley Function Calling Leaderboard](https://huggingface.co/spaces/gorilla-llm/berkeley-function-calling-leaderboard) | Berkeley Function Calling Leaderboard evaluates the ability of LLMs to accurately call functions (also known as tools). |
+| [Berkeley Function Calling Leaderboard](https://huggingface.co/spaces/gorilla-llm/berkeley-function-calling-leaderboard) | Berkeley Function Calling Leaderboard evaluates the ability of LLMs to call functions (also known as tools) accurately. |
 | [BigCodeBench](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard) | BigCodeBench is a benchmark for code generation with practical and challenging programming tasks. |
 | [Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) | Big Code Models Leaderboard to assess the performance of LLMs on code-related tasks. |
 | [BIRD](https://bird-bench.github.io) | BIRD is a benchmark to evaluate the performance of text-to-SQL parsing systems. |
@@ -317,6 +317,7 @@ Also, a leaderboard should be included if only:
 | [DS-1000](https://ds1000-code-gen.github.io/model_DS1000.html) | DS-1000 is a meta benchmark to evaluate code generation models in data science tasks. |
 | [EffiBench](https://huggingface.co/spaces/EffiBench/effibench-leaderboard) | EffiBench is a benchmark to evaluate the efficiency of LLMs in code generation. |
 | [EvalPlus](https://evalplus.github.io/leaderboard.html) | EvalPlus is a benchmark to evaluate the code generation performance of LLMs. |
+| [EvoCodeBench](https://github.com/seketeam/EvoCodeBench) | EvoCodeBench is an evolutionary code generation benchmark aligned with real-world code repositories. |
 | [EvoEval](https://evo-eval.github.io/leaderboard.html) | EvoEval is a benchmark to evaluate the coding abilities of LLMs, created by evolving existing benchmarks into different targeted domains. |
 | [BigCodeBench](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard) | BigCodeBench is a benchmark for code generation with practical and challenging programming tasks. |
 | [InfiBench](https://infi-coder.github.io/infibench) | InfiBench is a benchmark to evaluate code models on answering freeform real-world code-related questions. |
