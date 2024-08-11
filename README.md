@@ -265,8 +265,9 @@ Also, a leaderboard should be included if only:
 | [GlitchBench](https://huggingface.co/spaces/glitchbench/Leaderboard) | GlitchBench is a benchmark to evaluate the reasoning capabilities of MLLMs in the context of detecting video game glitches. |
 | [HallusionBench](https://github.com/tianyi-lab/HallusionBench) | HallusionBench is a benchmark to evaluate the image-context reasoning capabilities of MLLMs. |
 | [InfiMM-Eval](https://infimm.github.io/InfiMM-Eval) | InfiMM-Eval is a benchmark to evaluate the open-ended VQA capabilities of MLLMs. |
-| [LRVS-Fashion](https://huggingface.co/spaces/Slep/LRVSF-Leaderboard) | LRVS-Fashion is a benchmark to evaluate LLMs in terms of image similarity search in fashion. |
+| [LRVS-Fashion](https://huggingface.co/spaces/Slep/LRVSF-Leaderboard) | LRVS-Fashion is a benchmark to evaluate LLMs regarding image similarity search in fashion. |
 | [LVLM Leaderboard](https://github.com/OpenGVLab/Multi-Modality-Arena) | LVLM Leaderboard is a platform to evaluate the visual reasoning capabilities of MLLMs. |
+| [M3CoT](https://lightchen233.github.io/m3cot.github.io/leaderboard.html) | M3CoT is a benchmark for multi-domain multi-step multi-modal chain-of-thought of MLLMs. |
 | [Mementos](https://mementos-bench.github.io/#leaderboard) | Mementos is a benchmark to evaluate the reasoning capabilities of MLLMs over image sequences. |
 | [MJ-Bench](https://huggingface.co/spaces/MJ-Bench/MJ-Bench-Leaderboard) | MJ-Bench is a benchmark to evaluate multimodal judges in providing feedback for image generation models across four key perspectives: alignment, safety, image quality, and bias. |
 | [MLLM-Bench](https://mllm-bench.llmzoo.com/static/leaderboard.html) | MLLM-Bench is a benchmark to evaluate the visual reasoning capabilities of MLVMs. |
