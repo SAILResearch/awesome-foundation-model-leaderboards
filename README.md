@@ -184,6 +184,7 @@ Also, a leaderboard should be included if only:
 | [MMLU](https://github.com/hendrycks/test) | MMLU is a benchmark to evaluate the performance of LLMs across a wide array of natural language understanding tasks. |
 | [MMLU-by-task Leaderboard](https://huggingface.co/spaces/CoreyMorris/MMLU-by-task-Leaderboard) | MMLU-by-task Leaderboard provides a platform for evaluating and comparing various ML models across different language understanding tasks. |
 | [MMLU-Pro](https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro) | MMLU-Pro is a more challenging version of MMLU to evaluate the reasoning capabilities of LLMs. |
+| [ModelScope LLM Leaderboard](https://modelscope.cn/leaderboard/58/ranking?type=free) | ModelScope LLM Leaderboard is a platform to evaluate LLMs objectively and comprehensively. |
 | [MSTEB](https://huggingface.co/spaces/clibrain/Spanish-Embeddings-Leaderboard) | MSTEB is a benchmark for measuring the performance of text embedding models in Spanish. |
 | [MTEB](https://huggingface.co/spaces/mteb/leaderboard) | MTEB is a massive benchmark for measuring the performance of text embedding models on diverse embedding tasks across 112 languages. |
 | [MY Malay LLM Leaderboard](https://huggingface.co/spaces/mesolitica/malay-llm-leaderboard) | MY Malay LLM Leaderboard aims to track, rank, and evaluate open LLMs on Malay tasks. |
