@@ -368,6 +368,7 @@ Also, a leaderboard should be included if only:
 | [LLM Colosseum Leaderboard](https://github.com/OpenGenerativeAI/llm-colosseum) | LLM Colosseum Leaderboard is a platform to evaluate LLMs by fighting in Street Fighter 3. |
 | [TravelPlanner](https://huggingface.co/spaces/osunlp/TravelPlannerLeaderboard) | TravelPlanner is a benchmark to evaluate LLM agents in tool use and complex planning within multiple constraints. |
 | [VisualWebArena](https://jykoh.com/vwa) | VisualWebArena is a benchmark to evaluate the performance of multimodal web agents on realistic visually grounded tasks. |
+| [WebArena](https://github.com/web-arena-x/webarena) | WebArena is a standalone, self-hostable web environment to evaluate autonomous agents. |
 
 ### Audio
 
