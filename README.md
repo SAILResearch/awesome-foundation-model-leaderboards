@@ -215,6 +215,7 @@ Also, a leaderboard should be included if only:
 | [PromptBench](https://llm-eval.github.io/pages/leaderboard/advprompt.html) | PromptBench is a benchmark to evaluate the robustness of LLMs on adversarial prompts. |
 | [QuALITY](https://nyu-mll.github.io/quality) | QuALITY is a benchmark for evaluating multiple-choice question-answering with a long context. |
 | [RABBITS](https://huggingface.co/spaces/AIM-Harvard/rabbits-leaderboard) | RABBITS is a benchmark to evaluate the robustness of LLMs by evaluating their handling of synonyms, specifically brand and generic drug names. |
+| [RedTeam Arena](https://redarena.ai/leaderboard) | RedTeam Arena is a red-teaming platform for LLMs. |
 | [Red Teaming Resistance Benchmark](https://huggingface.co/spaces/HaizeLabs/red-teaming-resistance-benchmark) | Red Teaming Resistance Benchmark is a benchmark to evaluate the robustness of LLMs against red teaming prompts. |
 | [Reviewer Arena](https://huggingface.co/spaces/openreviewer/reviewer-arena) | Reviewer Arena hosts the reviewer arena, where various LLMs compete based on their performance in critiquing academic papers. |
 | [Robust Reading Competition](https://rrc.cvc.uab.es) | Robust Reading refers to the research area on interpreting written communication in unconstrained settings. |
