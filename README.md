@@ -80,7 +80,7 @@ Also, a leaderboard should be included if only:
 
 | Name | Description |
 | ---- | ----------- |
-| [Allen Institute for AI](https://leaderboard.allenai.org) | Allen Institute for AI is a non-profit research institute with the mission of conducting high-impact AI research and engineering in service of the common good. |
+| [Allen Institute for AI](https://leaderboard.allenai.org) | Allen Institute for AI is a non-profit research institute that aims to conduct high-impact AI research and engineering for the common good. |
 | [Papers With Code](https://paperswithcode.com) | Papers With Code is a community-driven platform for learning about state-of-the-art research papers on machine learning. |
 
 
@@ -288,7 +288,7 @@ Also, a leaderboard should be included if only:
 | [PCA-Bench](https://github.com/pkunlp-icler/PCA-EVAL) | PCA-Bench is a benchmark to evaluate the embodied decision-making capabilities of multimodal models. |
 | [Q-Bench](https://huggingface.co/spaces/q-future/Q-Bench-Leaderboard) | Q-Bench is a benchmark to evaluate the visual reasoning capabilities of MLLMs. |
 | [RewardBench](https://huggingface.co/spaces/allenai/reward-bench) | RewardBench is a benchmark to evaluate the capabilities and safety of reward models. |
-| [ScienceQA](https://scienceqa.github.io/leaderboard.html) | ScienceQA is a benchmark to evaluate the multi-hop reasoning ability and interpretability of AI systems in the context of science question answering. |
+| [ScienceQA](https://scienceqa.github.io/leaderboard.html) | ScienceQA is a benchmark used to evaluate the multi-hop reasoning ability and interpretability of AI systems in the context of answering science questions. |
 | [SciGraphQA](https://github.com/findalexli/SciGraphQA) | SciGraphQA is a benchmark to evaluate the MLLMs in scientific graph question-answering. |
 | [SEED-Bench](https://huggingface.co/spaces/AILab-CVC/SEED-Bench_Leaderboard) | SEED-Bench is a benchmark to evaluate the text and image generation of multimodal models. |
 | [UnlearnCanvas](https://huggingface.co/spaces/OPTML-Group/UnlearnCanvas-Benchmark) | UnlearnCanvas is a stylized image benchmark to evaluate machine unlearning for diffusion models. |
@@ -298,6 +298,7 @@ Also, a leaderboard should be included if only:
 | [Vibe-Eval](https://github.com/reka-ai/reka-vibe-eval) | Vibe-Eval is a benchmark to evaluate MLLMs for challenging cases. |
 | [VideoHallucer](https://videohallucer.github.io) | VideoHallucer is a benchmark to detect hallucinations in MLLMs. |
 | [VisIT-Bench](https://visit-bench.github.io) | VisIT-Bench is a benchmark to evaluate the instruction-following capabilities of MLLMs for real-world use. |
+| [Waymo Open Dataset Challenges](https://waymo.com/open/challenges) | Waymo Open Dataset Challenges hold diverse self-driving datasets to evaluate ML models. |
 | [WHOOPS!](https://huggingface.co/spaces/nlphuji/WHOOPS-Leaderboard-Full) | WHOOPS! is a benchmark to evaluate the visual commonsense reasoning abilities of MLLMs. |
 | [WildBench](https://huggingface.co/spaces/allenai/WildBench) | WildBench is a benchmark for evaluating language models on challenging tasks that closely resemble real-world applications. |
 | [WildVision Arena Leaderboard](https://huggingface.co/spaces/WildVision/vision-arena) | WildVision Arena Leaderboard hosts the chatbot arena, where various MLLMs compete based on their performance in visual understanding. |
