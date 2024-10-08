@@ -73,6 +73,7 @@ Also, a leaderboard should be included if only:
 | [Open LLM Leaderboard Renamer](https://huggingface.co/spaces/Weyaxi/open-llm-leaderboard-renamer) | open-llm-leaderboard-renamer helps users rename their models in Open LLM Leaderboard easily. |
 | [Open LLM Leaderboard Results PR Opener](https://huggingface.co/spaces/Weyaxi/leaderboard-results-to-modelcard) | Open LLM Leaderboard Results PR Opener helps users showcase Open LLM Leaderboard results in their model cards. |
 | [Open LLM Leaderboard Scraper](https://github.com/Weyaxi/scrape-open-llm-leaderboard) | Open LLM Leaderboard Scraper helps users scrape and export data from Open LLM Leaderboard. |
+| [Progress Tracker](https://huggingface.co/spaces/andrewrreed/closed-vs-open-arena-elo) | This app visualizes the progress of proprietary and open-source LLMs over time as scored by the [LMSYS Chatbot Arena](https://lmarena.ai/?leaderboard). |
 
 
 
