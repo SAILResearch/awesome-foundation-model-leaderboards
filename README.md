@@ -97,6 +97,7 @@ Also, a leaderboard should be included if only:
 | [CompassRank](https://rank.opencompass.org.cn) | CompassRank is a platform to offer a comprehensive, objective, and neutral evaluation reference of foundation mdoels for the industry and research. |
 | [FlagEval](https://flageval.baai.ac.cn/#/leaderboard) | FlagEval is a comprehensive platform for evaluating foundation models. |
 | [GenAI Arena](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) | GenAI Arena hosts the visual generation arena, where various vision models compete based on their performance in image generation, image edition, and video generation. |
+| [Generative AI Leaderboards](https://accubits.com/generative-ai-models-leaderboard) | Generative AI Leaderboard ranks the top-performing generative AI models based on various metrics. |
 | [Holistic Evaluation of Language Models](https://crfm.stanford.edu/helm) | Holistic Evaluation of Language Models (HELM) is a reproducible and transparent framework for evaluating foundation models. |
 | [nuScenes](https://www.nuscenes.org) | nuScenes enables researchers to study challenging urban driving situations using the full sensor suite of a real self-driving car. |
 | [Robust Reading Competition](https://rrc.cvc.uab.es) | Robust Reading refers to the research area on interpreting written communication in unconstrained settings. |
@@ -107,14 +108,19 @@ Also, a leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [ACLUE](https://github.com/isen-zhang/ACLUE/blob/main/README_EN.md#leaderboard-) | ACLUE is an evaluation benchmark for ancient Chinese language comprehension. |
+| [African Languages LLM Eval Leaderboard](https://huggingface.co/spaces/taresco/open_african_languages_eval_leaderboard) | African Languages LLM Eval Leaderboard tracks progress and ranks performance of LLMs on African languages. |
+| [AgentBoard](https://hkust-nlp.github.io/agentboard/static/leaderboard.html) | AgentBoard is a benchmark designed for multi-turn LLM agents, complemented by an analytical evaluation board for detailed model assessment beyond final success rates. |
 | [AGIEval](https://github.com/ruixiangcui/AGIEval?tab=readme-ov-file#leaderboard) | AGIEval is a human-centric benchmark to evaluate the general abilities of foundation models in tasks pertinent to human cognition and problem-solving. |
+| [Aiera Leaderboard](https://huggingface.co/spaces/Aiera/aiera-finance-leaderboard) | Aiera Leaderboard evaluates LLM performance on financial intelligence tasks, including speaker assignments, speaker change identification, abstractive summarizations, calculation-based Q&A, and financial sentiment tagging. |
 | [AIR-Bench](https://huggingface.co/spaces/AIR-Bench/leaderboard) | AIR-Bench is a benchmark to evaluate heterogeneous information retrieval capabilities of language models. |
 | [AlignBench](https://llmbench.ai/align/data) | AlignBench is a multi-dimensional benchmark for evaluating LLMs' alignment in Chinese. |
 | [AlpacaEval](https://tatsu-lab.github.io/alpaca_eval) | AlpacaEval is an automatic evaluator designed for instruction-following LLMs. |
 | [ANGO](https://huggingface.co/spaces/AngoHF/ANGO-Leaderboard) | ANGO is a generation-oriented Chinese language model evaluation benchmark. |
 | [Arabic Tokenizers Leaderboard](https://huggingface.co/spaces/MohamedRashad/arabic-tokenizers-leaderboard) | Arabic Tokenizers Leaderboard compares the efficiency of LLMs in parsing Arabic in its different dialects and forms. |
 | [Arena-Hard-Auto](https://github.com/lmarena/arena-hard-auto?tab=readme-ov-file#full-leaderboard-updated-0831) | Arena-Hard-Auto is a benchmark for instruction-tuned LLMs. |
+| [AutoRace](https://www.llm-reasoners.net/leaderboard) | AutoRace focuses on the direct evaluation of LLM reasoning chains with metric AutoRace (Automated Reasoning Chain Evaluation). |
 | [Auto Arena](https://huggingface.co/spaces/Auto-Arena/Leaderboard) | Auto Arena is a benchmark in which various language model agents engage in peer-battles to evaluate their performance. |
+| [Auto-J](https://github.com/GAIR-NLP/auto-j?tab=readme-ov-file#leaderboard) | Auto-J hosts evaluation results on the pairwise response comparison and critique generation tasks. |
 | [BeHonest](https://gair-nlp.github.io/BeHonest/#leaderboard) | BeHonest is a benchmark to evaluate honesty - awareness of knowledge boundaries (self-knowledge), avoidance of deceit (non-deceptiveness), and consistency in responses (consistency) - in LLMs. |
 | [BenBench](https://gair-nlp.github.io/benbench) | BenBench is a benchmark to evaluate the extent to which LLMs conduct verbatim training on the training set of a benchmark over the test set to enhance capabilities. |
 | [BiGGen-Bench](https://huggingface.co/spaces/prometheus-eval/BiGGen-Bench-Leaderboard) | BiGGen-Bench is a comprehensive benchmark to evaluate LLMs across a wide variety of tasks. |
@@ -250,7 +256,8 @@ Also, a leaderboard should be included if only:
 
 | Name | Description |
 | ---- | ----------- |
-| [AesBench](https://aesbench.github.io) | AesBench is a benchmark to evaluate multimodal LLMs (MLLM) on image aesthetics perception. |
+| [Abstract Image](https://multi-modal-self-instruct.github.io/#leaderboard) | Abstract Image is a benchmark to evaluate multimodal LLMs (MLLM) in understanding and visually reasoning about abstract images, such as maps, charts, and layouts. |
+| [AesBench](https://aesbench.github.io) | AesBench is a benchmark to evaluate MLLMs on image aesthetics perception. |
 | [BLINK](https://github.com/zeyofu/BLINK_Benchmark?tab=readme-ov-file#-mini-leaderboard) | BLINK is a benchmark to evaluate the core visual perception abilities of MLLMs. |
 | [CharXiv](https://charxiv.github.io/#leaderboard) | CharXiv is a benchmark to evaluate chart understanding capabilities of MLLMs. |
 | [ConTextual](https://huggingface.co/spaces/ucla-contextual/contextual_leaderboard) | ConTextual is a benchmark to evaluate MLLMs across context-sensitive text-rich visual reasoning tasks. |
@@ -299,6 +306,7 @@ Also, a leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards) | Aider LLM Leaderboards evaluate LLM's ability to follow system prompts to edit code. |
+| [AppWorld](https://github.com/stonybrooknlp/appworld/tree/main?tab=readme-ov-file#trophy-leaderboard) | AppWorld is a high-fidelity execution environment of 9 day-to-day apps, operable via 457 APIs, populated with digital activities of ~100 people living in a simulated world. |
 | [Berkeley Function-Calling Leaderboard](https://huggingface.co/spaces/gorilla-llm/berkeley-function-calling-leaderboard) | Berkeley Function-Calling Leaderboard evaluates the ability of LLMs to call functions (also known as tools) accurately. |
 | [BigCodeBench](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard) | BigCodeBench is a benchmark for code generation with practical and challenging programming tasks. |
 | [Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) | Big Code Models Leaderboard to assess the performance of LLMs on code-related tasks. |
@@ -331,6 +339,7 @@ Also, a leaderboard should be included if only:
 
 | Name | Description |
 | ---- | ----------- |
+| [Abel](https://gair-nlp.github.io/abel) | Abel is a platform to evaluate the mathematical capabilities of LLMs. |
 | [MathBench](https://open-compass.github.io/MathBench) | MathBench is a multi-level difficulty mathematics evaluation benchmark for LLMs. |
 | [MathEval](https://matheval.ai/leaderboard) | MathEval is a benchmark to evaluate the mathematical capabilities of LLMs. |
 | [MathVerse](https://mathverse-cuhk.github.io/#leaderboard) | MathVerse is a benchmark to evaluate vision-language models in interpreting and reasoning with visual information in mathematical problems. |
@@ -369,6 +378,7 @@ Also, a leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [AIR-Bench](https://github.com/OFA-Sys/AIR-Bench?tab=readme-ov-file#leaderboard) | AIR-Bench is a benchmark to evaluate the ability of audio models to understand various types of audio signals (including human speech, natural sounds and music), and furthermore, to interact with humans in textual format. |
+| [AudioBench](https://huggingface.co/spaces/AudioLLMs/AudioBench-Leaderboard) | AudioBench is a benchmark for general instruction-following audio models. |
 | [Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard) | Open ASR Leaderboard provides a platform for tracking, ranking, and evaluating Automatic Speech Recognition (ASR) models. |
 | [TTS Arena](https://huggingface.co/spaces/TTS-AGI/TTS-Arena) | TTS-Arena hosts the Text To Speech (TTS) arena, where various TTS models compete based on their performance in generating speech. |
 
