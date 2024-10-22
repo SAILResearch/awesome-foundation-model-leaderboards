@@ -45,7 +45,7 @@ Also, a leaderboard should be included if only:
 - [**Tools**](#tools)
 - [**Organizations**](#organizations)
 - [**Evaluations**](#evaluations)
-    - [Model Comparison](#model-comparison)
+    - [Model Ranking](#model-ranking)
         - [Comprehensive](#comprehensive)
         - [Text](#text)
         - [Image](#image)
@@ -55,9 +55,9 @@ Also, a leaderboard should be included if only:
         - [Agent](#agent)
         - [Audio](#audio)
         - [3D](#3d)
-    - [Data Comparison](#data-comparison)
-    - [Metric Comparison](#metric-comparison)
-    - [Leaderboard Comparison](#leaderboard-comparison)
+    - [Data Ranking](#data-ranking)
+    - [Metric Ranking](#metric-ranking)
+    - [Leaderboard Ranking](#leaderboard-ranking)
 
 
 
@@ -86,7 +86,7 @@ Also, a leaderboard should be included if only:
 
 # Evaluations
 
-## Model Comparison
+## Model Ranking
 
 ### Comprehensive
 
@@ -396,26 +396,26 @@ Also, a leaderboard should be included if only:
 | [BOP](https://bop.felk.cvut.cz/leaderboards) | BOP is a benchmark for 6D pose estimation of a rigid object from a single RGB-D input image. |
 | [GPTEval3D Leaderboard](https://huggingface.co/spaces/GPTEval3D/Leaderboard_dev) | GPTEval3D Leaderboard check how MLLMs understand 3D content via multi-view images as input. |
 
-## Data Comparison
+## Data Ranking
 
 | Name | Description |
 | ---- | ----------- |
 | [DataComp - CLIP](https://www.datacomp.ai/dcclip/leaderboard.html) | DataComp - CLIP is a benchmark to evaluate the performance of various image/text pairs when used with a fixed model architecture. |
 | [DataComp - LM](https://www.datacomp.ai/dclm/leaderboard.html) | DataComp - CLIP is a benchmark to evaluate the performance of various text datasets when used with a fixed model architecture. |
 
-## Metric Comparison
+## Metric Ranking
 
 | Name | Description |
 | ---- | ----------- |
 | [AlignScore](https://github.com/yuh-zha/AlignScore) | AlignScore evaluates the performance of different metrics in assessing factual consistency. |
 
-## Paper Comparison
+## Paper Ranking
 
 | Name | Description |
 | ---- | ----------- |
 | [Papers Leaderboard](https://huggingface.co/spaces/ameerazam08/Paper-LeaderBoard) | Papers Leaderboard is a platform to evaluate the popularity of machine learning papers. |
 
-## Leaderboard Comparison
+## Leaderboard Ranking
 
 | Name | Description |
 | ---- | ----------- |
