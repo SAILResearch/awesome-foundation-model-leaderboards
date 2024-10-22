@@ -55,7 +55,7 @@ Also, a leaderboard should be included if only:
         - [Agent](#agent)
         - [Audio](#audio)
         - [3D](#3d)
-    - [Data Ranking](#data-ranking)
+    - [Dataset Ranking](#dataset-ranking)
     - [Metric Ranking](#metric-ranking)
     - [Leaderboard Ranking](#leaderboard-ranking)
 
@@ -396,7 +396,7 @@ Also, a leaderboard should be included if only:
 | [BOP](https://bop.felk.cvut.cz/leaderboards) | BOP is a benchmark for 6D pose estimation of a rigid object from a single RGB-D input image. |
 | [GPTEval3D Leaderboard](https://huggingface.co/spaces/GPTEval3D/Leaderboard_dev) | GPTEval3D Leaderboard check how MLLMs understand 3D content via multi-view images as input. |
 
-## Data Ranking
+## Dataset Ranking
 
 | Name | Description |
 | ---- | ----------- |
