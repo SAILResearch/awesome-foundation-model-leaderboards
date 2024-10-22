@@ -57,6 +57,7 @@ Also, a leaderboard should be included if only:
         - [3D](#3d)
     - [Dataset Ranking](#dataset-ranking)
     - [Metric Ranking](#metric-ranking)
+    - [Paper Ranking](#paper-ranking)
     - [Leaderboard Ranking](#leaderboard-ranking)
 
 
