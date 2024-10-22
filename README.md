@@ -45,7 +45,7 @@ Also, a leaderboard should be included if only:
 - [**Tools**](#tools)
 - [**Organizations**](#organizations)
 - [**Evaluations**](#evaluations)
-    - [Model-oriented](#model-oriented)
+    - [Model Comparison](#model-comparison)
         - [Comprehensive](#comprehensive)
         - [Text](#text)
         - [Image](#image)
@@ -55,10 +55,9 @@ Also, a leaderboard should be included if only:
         - [Agent](#agent)
         - [Audio](#audio)
         - [3D](#3d)
-    - [Solution-oriented](#solution-oriented)
-    - [Data-oriented](#data-oriented)
-    - [Metric-oriented](#metric-oriented)
-    - [Meta Leaderboard](#meta-leaderboard)
+    - [Data Comparison](#data-comparison)
+    - [Metric Comparison](#metric-comparison)
+    - [Leaderboard Comparison](#leaderboard-comparison)
 
 
 
@@ -87,12 +86,13 @@ Also, a leaderboard should be included if only:
 
 # Evaluations
 
-## Model-oriented
+## Model Comparison
 
 ### Comprehensive
 
 | Name | Description |
 | ---- | ----------- |
+| [Artificial Analysis](https://artificialanalysis.ai) | Artificial Analysis is a platform to help users make informed decisions on AI model selection and hosting providers. |
 | [CompassRank](https://rank.opencompass.org.cn) | CompassRank is a platform to offer a comprehensive, objective, and neutral evaluation reference of foundation mdoels for the industry and research. |
 | [FlagEval](https://flageval.baai.ac.cn/#/leaderboard) | FlagEval is a comprehensive platform for evaluating foundation models. |
 | [GenAI-Arena](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) | GenAI-Arena hosts the visual generation arena, where various vision models compete based on their performance in image generation, image edition, and video generation. |
@@ -283,6 +283,7 @@ Also, a leaderboard should be included if only:
 | [MULTI](https://github.com/OpenDFM/MULTI-Benchmark) | MULTI is a benchmark to evaluate MLLMs on understanding complex tables and images, and reasoning with long context. |
 | [MultiTrust](https://multi-trust.github.io/#leaderboard) | MultiTrust is a benchmark to evaluate the trustworthiness of MLLMs across five primary aspects: truthfulness, safety, robustness, fairness, and privacy. |
 | [NPHardEval4V](https://github.com/lizhouf/nphardeval4v) | NPHardEval4V is a benchmark to evaluate the reasoning abilities of MLLMs through the lens of computational complexity classes. |
+| [Provider Leaderboard](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) | LLM API Providers Leaderboard is a platform to compare API provider performance for over LLM endpoints across performance key metrics. |
 | [OCRBench](https://huggingface.co/spaces/echo840/ocrbench-leaderboard) | OCRBench is a benchmark to evaluate the OCR capabilities of multimodal models. |
 | [Open CoT Leaderboard](https://huggingface.co/spaces/logikon/open_cot_leaderboard) | Open CoT Leaderboard tracks LLMs' abilities to generate effective chain-of-thought reasoning traces. |
 | [Open Parti Prompts Leaderboard](https://huggingface.co/spaces/OpenGenAI/parti-prompts-leaderboard) | Open Parti Prompts Leaderboard compares text-to-image models to each other according to human preferences. |
@@ -395,28 +396,26 @@ Also, a leaderboard should be included if only:
 | [BOP](https://bop.felk.cvut.cz/leaderboards) | BOP is a benchmark for 6D pose estimation of a rigid object from a single RGB-D input image. |
 | [GPTEval3D Leaderboard](https://huggingface.co/spaces/GPTEval3D/Leaderboard_dev) | GPTEval3D Leaderboard check how MLLMs understand 3D content via multi-view images as input. |
 
-## Solution-oriented
-
-| Name | Description |
-| ---- | ----------- |
-| [Artificial Analysis](https://artificialanalysis.ai) | Artificial Analysis is a platform to help users make informed decisions on AI model selection and hosting providers. |
-| [Papers Leaderboard](https://huggingface.co/spaces/ameerazam08/Paper-LeaderBoard) | Papers Leaderboard is a platform to evaluate the popularity of machine learning papers. |
-| [Provider Leaderboard](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) | LLM API Providers Leaderboard is a platform to compare API provider performance for over LLM endpoints across performance key metrics. |
-
-## Data-oriented
+## Data Comparison
 
 | Name | Description |
 | ---- | ----------- |
 | [DataComp - CLIP](https://www.datacomp.ai/dcclip/leaderboard.html) | DataComp - CLIP is a benchmark to evaluate the performance of various image/text pairs when used with a fixed model architecture. |
 | [DataComp - LM](https://www.datacomp.ai/dclm/leaderboard.html) | DataComp - CLIP is a benchmark to evaluate the performance of various text datasets when used with a fixed model architecture. |
 
-## Metric-oriented
+## Metric Comparison
 
 | Name | Description |
 | ---- | ----------- |
 | [AlignScore](https://github.com/yuh-zha/AlignScore) | AlignScore evaluates the performance of different metrics in assessing factual consistency. |
 
-## Meta Leaderboard
+## Paper Comparison
+
+| Name | Description |
+| ---- | ----------- |
+| [Papers Leaderboard](https://huggingface.co/spaces/ameerazam08/Paper-LeaderBoard) | Papers Leaderboard is a platform to evaluate the popularity of machine learning papers. |
+
+## Leaderboard Comparison
 
 | Name | Description |
 | ---- | ----------- |
