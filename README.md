@@ -197,9 +197,10 @@ Also, a leaderboard should be included if only:
 | [JMMMU](https://huggingface.co/spaces/JMMMU/JMMMU_Leaderboard) | JMMMU (Japanese MMMU) is a multimodal benchmark to evaluate LMM performance in Japanese. |
 | [JustEval](https://allenai.github.io/re-align/just_eval.html) | JustEval is a powerful tool designed for fine-grained evaluation of LLMs. |
 | [KoLA](http://103.238.162.37:31622/LeaderBoard) | KoLA is a benchmark to evaluate the world knowledge of LLMs. |
-| [L-Eval](https://l-eval.github.io) | L-Eval is a Long Context Language Model (LCLM) evaluation benchmark to evaluate the performance of handling extensive context. |
+| [LaMP](https://lamp-benchmark.github.io/leaderboard) | LaMP (Language Models Personalization) is a benchmark to evaluate personalization capabilities of language models. |
 | [Language Model Council](https://llm-council.com) | Language Model Council (LMC) is a benchmark to evaluate tasks that are highly subjective and often lack majoritarian human agreement. |
 | [LawBench](https://lawbench.opencompass.org.cn/leaderboard) | LawBench is a benchmark to evaluate the legal capabilities of LLMs. |
+| [La Leaderboard](https://huggingface.co/spaces/la-leaderboard/la-leaderboard) | La Leaderboard evaluates and tracks LLM memorization, reasoning and linguistic capabilities in Spain, LATAM and Caribbean. |
 | [LogicKor](https://lk.instruct.kr) | LogicKor is a benchmark to evaluate the multidisciplinary thinking capabilities of Korean LLMs. |
 | [LongICL Leaderboard](https://huggingface.co/spaces/TIGER-Lab/LongICL-Leaderboard) | LongICL Leaderboard is a platform to evaluate long in-context learning evaluations for LLMs. |
 | [LooGLE](https://bigai-nlco.github.io/LooGLE/#-capability-leaderboard) | LooGLE is a benchmark to evaluate long context understanding capabilties of LLMs. |
@@ -207,16 +208,32 @@ Also, a leaderboard should be included if only:
 | [LLM Benchmarker Suite](https://llm-evals.formula-labs.com) | LLM Benchmarker Suite is a benchmark to evaluate the comprehensive capabilities of LLMs. |
 | [Large Language Model Assessment in English Contexts](https://huggingface.co/spaces/CathieDaDa/LLM_leaderboard_en) | Large Language Model Assessment in English Contexts is a platform to evaluate LLMs in the English context. |
 | [Large Language Model Assessment in the Chinese Context](https://huggingface.co/spaces/CathieDaDa/LLM_leaderboard) | Large Language Model Assessment in the Chinese Context is a platform to evaluate LLMs in the Chinese context. |
+| [LIBRA](https://huggingface.co/spaces/ai-forever/LIBRA-Leaderboard) | LIBRA is a benchmark for evaluating LLMs' capabilities in understanding and processing long Russian text. |
+| [LibrAI-Eval GenAI Leaderboard](https://test.leaderboard.librai.tech/LeaderBoard) | LibrAI-Eval GenAI Leaderboard focuses on the balance between the LLM’s capability and safety in English. |
+| [LiveBench](https://livebench.ai/) | LiveBench is a benchmark for LLMs to minimize test set contamination and enable objective, automated evaluation across diverse, regularly updated tasks. |
 | [LLMEval](http://llmeval.com) | LLMEval is a benchmark to evaluate the quality of open-domain conversations with LLMs. |
+| [Llmeval-Gaokao2024-Math](https://github.com/llmeval/Llmeval-Gaokao2024-Math?tab=readme-ov-file#%E8%AF%84%E6%B5%8B%E7%BB%93%E6%9E%9C) | Llmeval-Gaokao2024-Math is a benchmark for evaluating LLMs on 2024 Gaokao-level math problems in Chinese. | 
 | [LLMHallucination Leaderboard](https://huggingface.co/spaces/ramiroluo/LLMHallucination_Leaderboard) | Hallucinations Leaderboard evaluates LLMs based on an array of hallucination-related benchmarks. |
 | [LLMPerf](https://github.com/ray-project/llmperf-leaderboard) | LLMPerf is a tool to evaluate the performance of LLMs using both load and correctness tests. |
 | [LLMs Disease Risk Prediction Leaderboard](https://huggingface.co/spaces/TemryL/LLM-Disease-Risk-Leaderboard) | LLMs Disease Risk Prediction Leaderboard is a platform to evaluate LLMs on disease risk prediction. |
+| [LLM Leaderboard](https://klu.ai/llm-leaderboard) | LLM Leaderboard tracks and evaluates LLM providers, enabling selection of the optimal API and model for user needs. |
 | [LLM Leaderboard for CRM](https://huggingface.co/spaces/Salesforce/crm_llm_leaderboard) | CRM LLM Leaderboard is a platform to evaluate the efficacy of LLMs for business applications. |
+| [LLM Observatory](https://ai-sandbox.list.lu/llm-leaderboard) | LLM Observatory is a benchmark that assesses and ranks Large Language Models based on their performance in avoiding social biases across categories like LGBTIQ+ orientation, age, gender, politics, race, religion, and xenophobia. |
+| [LLM Price Leaderboard](https://huggingface.co/spaces/seawolf2357/leaderboard_llm_price) | LLM Price Leaderboard tracks and compares LLM costs based on one million tokens. |
+| [LLM Rankings](https://openrouter.ai/rankings) | LLM Rankings offers a real-time comparison of language models based on normalized token usage for prompts and completions, updated frequently. |
+| [LLM Roleplay Leaderboard](https://huggingface.co/spaces/hackathonM/Roleplay_leaderboard) | LLM Roleplay Leaderboard evaluates human and AI performance in a social werewolf game for NPC development. |
 | [LLM Safety Leaderboard](https://huggingface.co/spaces/AI-Secure/llm-trustworthy-leaderboard) | LLM Safety Leaderboard aims to provide a unified evaluation for language model safety. |
+| [LLM Use Case Leaderboard](https://llmleaderboard.goml.io) | LLM Use Case Leaderboard tracks and evaluates LLMs in business usecases. |
+| [LLM-AggreFact](https://llm-aggrefact.github.io) | LLM-AggreFact is a fact-checking benchmark that aggregates most up-to-date publicly available datasets on grounded factuality evaluation. |
 | [LLM-Leaderboard](https://github.com/LudwigStumpp/llm-leaderboard?tab=readme-ov-file#leaderboard) | LLM-Leaderboard is a joint community effort to create one central leaderboard for LLMs. |
 | [LLM-Perf Leaderboard](https://huggingface.co/spaces/optimum/llm-perf-leaderboard) | LLM-Perf Leaderboard aims to benchmark the performance of LLMs with different hardware, backends, and optimizations. |
+| [LMExamQA](https://lmexam.com) | LMExamQA is a benchmarking framework where a language model acts as an examiner to generate questions and evaluate responses in a reference-free, automated manner for comprehensive, equitable assessment. |
 | [LongBench](https://github.com/THUDM/LongBench?tab=readme-ov-file#%EF%B8%8F-leaderboard) | LongBench is a benchmark for assessing the long context understanding capabilities of LLMs. |
+| [Loong](https://github.com/MozerWang/Loong?tab=readme-ov-file#leaderboard) | Loong is a long-context benchmark for evaluating LLMs' multi-document QA abilities across financial, legal, and academic scenarios. |
+| [Low-bit Quantized Open LLM Leaderboard](https://huggingface.co/spaces/Intel/low_bit_open_llm_leaderboard) | Low-bit Quantized Open LLM Leaderboard tracks and compares quantization LLMs with different quantization algorithms. |
+| [LV-Eval](https://github.com/infinigence/LVEval?tab=readme-ov-file#leaderboard) | LV-Eval is a long-context benchmark with five length levels and advanced techniques for accurate evaluation of LLMs on single-hop and multi-hop QA tasks across bilingual datasets. |
 | [LucyEval](http://lucyeval.besteasy.com/leaderboard.html) | LucyEval offers a thorough assessment of LLMs' performance in various Chinese contexts. |
+| [L-Eval](https://l-eval.github.io) | L-Eval is a Long Context Language Model (LCLM) evaluation benchmark to evaluate the performance of handling extensive context. |
 | [M3KE](https://github.com/tjunlp-lab/M3KE?tab=readme-ov-file#evaluation-leaderboard-more-models-to-be-added) | M3KE is a massive multi-level multi-subject knowledge evaluation benchmark to measure the knowledge acquired by Chinese LLMs. |
 | [MINT](https://xwang.dev/mint-bench) | MINT is a benchmark to evaluate LLMs' ability to solve tasks with multi-turn interactions by using tools and leveraging natural language feedback. |
 | [MedBench](https://medbench.opencompass.org.cn/leaderboard) | MedBench is a benchmark to evaluate the mastery of knowledge and reasoning abilities in medical LLMs. |
@@ -405,6 +422,7 @@ Also, a leaderboard should be included if only:
 | [ChronoMagic-Bench](https://huggingface.co/spaces/BestWishYsh/ChronoMagic-Bench) | ChronoMagic-Bench is a benchmark to evaluate video models' ability to generate time-lapse videos with high metamorphic amplitude and temporal coherence across physics, biology, and chemistry domains using free-form text control. |
 | [DREAM-1K](https://tarsier-vlm.github.io) | DREAM-1K is a benchmark to evaluate video description performance on 1,000 diverse video clips featuring rich events, actions, and motions from movies, animations, stock videos, YouTube, and TikTok-style short videos. |
 | [LongVideoBench](https://huggingface.co/spaces/longvideobench/LongVideoBench) | LongVideoBench is a benchmark to evaluate the capabilities of video models in answering referred reasoning questions, which are dependent on long frame inputs and cannot be well-addressed by a single frame or a few sparse frames. |
+| [LVBench](https://lvbench.github.io) | LVBench is a benchmark to evaluate multimodal models on long video understanding tasks requiring extended memory and comprehension capabilities. |
 | [MLVU](https://github.com/JUNJIE99/MLVU?tab=readme-ov-file#trophy-mini-leaderboard-mlvu-dev-set) | MLVU is a benchmark to evaluate video models in multi-task long video understanding. |
 | [MMToM-QA](https://chuanyangjin.com/mmtom-qa-leaderboard) | MMToM-QA is a multimodal benchmark to evaluate machine Theory of Mind (ToM), the ability to understand people's minds. |
 | [MVBench](https://huggingface.co/spaces/OpenGVLab/MVBench_Leaderboard) | MVBench is a benchmark to evaluate the temporal understanding capabilities of video models in dynamic video tasks. |
@@ -420,6 +438,7 @@ Also, a leaderboard should be included if only:
 | [AgentBench](https://llmbench.ai/agent/data) | AgentBench is the benchmark to evaluate language model-as-Agent across a diverse spectrum of different environments. |
 | [AgentStudio](https://skyworkai.github.io/agent-studio) | AgentStudio is an integrated solution featuring in-depth benchmark suites, realistic environments, and comprehensive toolkits. |
 | [CharacterEval](https://github.com/morecry/CharacterEval?tab=readme-ov-file#leaderboard) | CharacterEval is a benchmark to evaluate Role-Playing Conversational Agents (RPCAs) using multi-turn dialogues and character profiles, with metrics spanning four dimensions. |
+| [Leetcode-Hard Gym](https://github.com/GammaTauAI/leetcode-hard-gym?tab=readme-ov-file#leaderboard-for-leetcode-hard-python-pass1) | Leetcode-Hard Gym is an RL environment interface to LeetCode's submission server for evaluating codegen agents. |
 | [LLM Colosseum Leaderboard](https://github.com/OpenGenerativeAI/llm-colosseum?tab=readme-ov-file#results) | LLM Colosseum Leaderboard is a platform to evaluate LLMs by fighting in Street Fighter 3. |
 | [TravelPlanner](https://huggingface.co/spaces/osunlp/TravelPlannerLeaderboard) | TravelPlanner is a benchmark to evaluate LLM agents in tool use and complex planning within multiple constraints. |
 | [VisualWebArena](https://jykoh.com/vwa) | VisualWebArena is a benchmark to evaluate the performance of multimodal web agents on realistic visually grounded tasks. |
