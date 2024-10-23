@@ -68,7 +68,6 @@ Also, a leaderboard should be included if only:
 | ---- | ----------- |
 | [Demo Leaderboard](https://huggingface.co/spaces/demo-leaderboard-backend/leaderboard) | Demo leaderboard helps users easily deploy their leaderboards with a standardized template. |
 | [Demo Leaderboard Backend](https://huggingface.co/spaces/demo-leaderboard-backend/backend) | Demo leaderboard backend helps users manage the leaderboard and handle submission requests, check [this](https://huggingface.co/docs/leaderboards/leaderboards/building_page) for details. |
-| [Gradio Leaderboard](https://huggingface.co/spaces/sai9949/Gradio-Leaderboard) | gradio_leaderboard helps users build fully functional and performant leaderboard demos with gradio. |
 | [Leaderboard Explorer](https://huggingface.co/spaces/leaderboards/LeaderboardsExplorer) | Leaderboard Explorer helps users navigate the diverse range of leaderboards available on Hugging Face Spaces. |
 | [Open LLM Leaderboard Renamer](https://huggingface.co/spaces/Weyaxi/open-llm-leaderboard-renamer) | open-llm-leaderboard-renamer helps users rename their models in Open LLM Leaderboard easily. |
 | [Open LLM Leaderboard Results PR Opener](https://huggingface.co/spaces/Weyaxi/leaderboard-results-to-modelcard) | Open LLM Leaderboard Results PR Opener helps users showcase Open LLM Leaderboard results in their model cards. |
@@ -342,7 +341,10 @@ Also, a leaderboard should be included if only:
 | [CRUXEval](https://crux-eval.github.io/leaderboard.html) | CRUXEval is a benchmark to evaluate code reasoning, understanding, and execution capabilities of LLMs. |
 | [CSpider](https://taolusi.github.io/CSpider-explorer) | CSpider is a benchmark to evaluate systems' ability to generate SQL queries from Chinese natural language across diverse, complex, and cross-domain databases. |
 | [CyberSecEval](https://huggingface.co/spaces/facebook/CyberSecEval) | CyberSecEval is a benchmark to evaluate the cybersecurity of LLMs as coding assistants. |
+| [DevOps AI Assistant Open Leaderboard](https://github.com/opstower-ai/devops-ai-open-leaderboard?tab=readme-ov-file#-current-leaderboard) | DevOps AI Assistant Open Leaderboard tracks, ranks, and evaluates DevOps AI Assistants across knowledge domains. |
 | [DevOps-Eval](https://github.com/codefuse-ai/codefuse-devops-eval?tab=readme-ov-file#-leaderboard) | DevOps-Eval is a benchmark to evaluate code models in the DevOps/AIOps field. |
+| [DomainEval](https://domaineval.github.io/leaderboard.html) | DomainEval is an auto-constructed benchmark for multi-domain code generation. |
+| [Dr.Spider](https://github.com/awslabs/diagnostic-robustness-text-to-sql?tab=readme-ov-file#leaderboard) | Dr.Spider is a benchmark to evaluate the robustness of text-to-SQL models using 17 perturbation test sets from various angles. |
 | [EffiBench](https://huggingface.co/spaces/EffiBench/effibench-leaderboard) | EffiBench is a benchmark to evaluate the efficiency of LLMs in code generation. |
 | [EvalPlus](https://evalplus.github.io/leaderboard.html) | EvalPlus is a benchmark to evaluate the code generation performance of LLMs. |
 | [EvoCodeBench](https://github.com/seketeam/EvoCodeBench?tab=readme-ov-file#leaderboard) | EvoCodeBench is an evolutionary code generation benchmark aligned with real-world code repositories. |
@@ -378,6 +380,7 @@ Also, a leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [ChronoMagic-Bench](https://huggingface.co/spaces/BestWishYsh/ChronoMagic-Bench) | ChronoMagic-Bench is a benchmark to evaluate video models' ability to generate time-lapse videos with high metamorphic amplitude and temporal coherence across physics, biology, and chemistry domains using free-form text control. |
+| [DREAM-1K](https://tarsier-vlm.github.io) | DREAM-1K is a benchmark to evaluate video description performance on 1,000 diverse video clips featuring rich events, actions, and motions from movies, animations, stock videos, YouTube, and TikTok-style short videos. |
 | [LongVideoBench](https://huggingface.co/spaces/longvideobench/LongVideoBench) | LongVideoBench is a benchmark to evaluate the capabilities of video models in answering referred reasoning questions, which are dependent on long frame inputs and cannot be well-addressed by a single frame or a few sparse frames. |
 | [MLVU](https://github.com/JUNJIE99/MLVU?tab=readme-ov-file#trophy-mini-leaderboard-mlvu-dev-set) | MLVU is a benchmark to evaluate video models in multi-task long video understanding. |
 | [MMToM-QA](https://chuanyangjin.com/mmtom-qa-leaderboard) | MMToM-QA is a multimodal benchmark to evaluate machine Theory of Mind (ToM), the ability to understand people's minds. |
