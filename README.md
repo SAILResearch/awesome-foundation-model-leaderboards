@@ -181,9 +181,11 @@ Also, a leaderboard should be included if only:
 | [Hebrew LLM Leaderboard](https://huggingface.co/spaces/hebrew-llm-leaderboard/leaderboard) | Hebrew LLM Leaderboard tracks and ranks language models according to their success on various tasks on Hebrew. |
 | [HellaSwag](https://rowanzellers.com/hellaswag) | HellaSwag is a benchmark to evaluate common-sense reasoning in LLMs. |
 | [Hughes Hallucination Evaluation Model leaderboard](https://huggingface.co/spaces/vectara/leaderboard) | Hughes Hallucination Evaluation Model leaderboard is a platform to evaluate how often a language model introduces hallucinations when summarizing a document. |
+| [Icelandic LLM leaderboard](https://huggingface.co/spaces/mideind/icelandic-llm-leaderboard) | Icelandic LLM leaderboard tracks and compare models on Icelandic-language tasks. |
 | [IFEval](https://huggingface.co/spaces/Krisseck/IFEval-Leaderboard) | IFEval is a benchmark to evaluate LLMs' instruction following capabilities with verifiable instructions. |
-| [Indic LLM Leaderboard](https://huggingface.co/spaces/Cognitive-Lab/indic_llm_leaderboard) | Indic LLM Leaderboard is a benchmark to track progress and rank the performance of Indic LLMs. |
+| [IL-TUR](https://huggingface.co/spaces/Exploration-Lab/IL-TUR-Leaderboard) | IL-TUR is a benchmark for evaluating language models on monolingual and multilingual tasks focused on understanding and reasoning over Indian legal documents. |
 | [InstructEval](https://declare-lab.github.io/instruct-eval) | InstructEval is an evaluation suite to assess instruction selection methods in the context of LLMs. |
+| [Italian LLM-Leaderboard](https://huggingface.co/spaces/rstless-research/italian_open_llm_leaderboard) | Italian LLM-Leaderboard tracks and compares LLMs in Italian-language tasks. |
 | [Japanese Chatbot Arena](https://huggingface.co/spaces/yutohub/japanese-chatbot-arena-leaderboard) | Japanese Chatbot Arena hosts the chatbot arena, where various LLMs compete based on their performance in Japanese. |
 | [JustEval](https://allenai.github.io/re-align/just_eval.html) | JustEval is a powerful tool designed for fine-grained evaluation of LLMs. |
 | [KoLA](http://103.238.162.37:31622/LeaderBoard) | KoLA is a benchmark to evaluate the world knowledge of LLMs. |
@@ -298,6 +300,7 @@ Also, a leaderboard should be included if only:
 | [GAVIE](https://github.com/FuxiaoLiu/LRV-Instruction?tab=readme-ov-file#leaderboards) | GAVIE is a GPT-4-assisted benchmark for evaluating hallucination in LMMs by scoring accuracy and relevancy without relying on human-annotated groundtruth. |
 | [GlitchBench](https://huggingface.co/spaces/glitchbench/Leaderboard) | GlitchBench is a benchmark to evaluate the reasoning capabilities of MLLMs in the context of detecting video game glitches. |
 | [HallusionBench](https://github.com/tianyi-lab/HallusionBench?tab=readme-ov-file#leaderboard) | HallusionBench is a benchmark to evaluate the image-context reasoning capabilities of MLLMs. |
+| [Indico LLM Leaderboard](https://indicodata.ai/llm) | Indico LLM Leaderboard evaluates and compares the accuracy of various language models across providers, datasets, and capabilities like text classification, key information extraction, and generative summarization. |
 | [InfiMM-Eval](https://infimm.github.io/InfiMM-Eval) | InfiMM-Eval is a benchmark to evaluate the open-ended VQA capabilities of MLLMs. |
 | [LRVSF Leaderboard](https://huggingface.co/spaces/Slep/LRVSF-Leaderboard) | LRVSF Leaderboard is a platform to evaluate LLMs regarding image similarity search in fashion. |
 | [LVLM Leaderboard](https://github.com/OpenGVLab/Multi-Modality-Arena?tab=readme-ov-file#lvlm-leaderboard) | LVLM Leaderboard is a platform to evaluate the visual reasoning capabilities of MLLMs. |
