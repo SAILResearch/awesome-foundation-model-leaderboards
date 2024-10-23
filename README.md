@@ -133,7 +133,7 @@ Also, a leaderboard should be included if only:
 | [CFLUE](https://github.com/aliyun/cflue?tab=readme-ov-file#leaderboard) | CFLUE is a benchmark to evaluate LLMs' understanding and processing capabilities in the Chinese financial domain. |
 | [Ch3Ef](https://openlamm.github.io/ch3ef/leaderboard.html) | Ch3Ef is a benchmark to evaluate alignment with human expectations using 1002 human-annotated samples across 12 domains and 46 tasks based on the hhh principle. |
 | [Chain-of-Thought Hub](https://github.com/FranxYao/chain-of-thought-hub?tab=readme-ov-file#leaderboard---main) | Chain-of-Thought Hub is a benchmark to evaluate the reasoning capabilities of LLMs. |
-| [Chatbot Arena](https://lmarena.ai/?leaderboard) | Chatbot Arena hosts a chatbot arena where various LLMs compete based on their user satisfaction. |
+| [Chatbot Arena](https://lmarena.ai/?leaderboard) | Chatbot Arena hosts a chatbot arena where various LLMs compete based on user satisfaction. |
 | [ChemBench](https://lamalab-org.github.io/chem-bench/leaderboard) | ChemBench is a benchmark to evaluate the chemical knowledge and reasoning abilities of LLMs. |
 | [CLEM Leaderboard](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard) | CLEM is a framework designed for the systematic evaluation of chat-optimized LLMs as conversational agents. |
 | [CLEVA](http://www.lavicleva.com) | CLEVA is a benchmark to evaluate large language models on 31 tasks using 370K Chinese queries from 84 diverse datasets and 9 metrics. |
@@ -264,7 +264,7 @@ Also, a leaderboard should be included if only:
 | [OpenEval](http://openeval.org.cn/rank) | OpenEval is a platform assessto evaluate Chinese LLMs. |
 | [OpenLLM Turkish leaderboard](https://huggingface.co/spaces/malhajar/OpenLLMTurkishLeaderboard) | OpenLLM Turkish leaderboard tracks progress and ranks the performance of LLMs in Turkish. |
 | [Openness Leaderboard](https://huggingface.co/spaces/Shitqq/Openness-leaderboard) | Openness Leaderboard tracks and evaluates models' transparency in terms of open access to weights, data, and licenses, exposing models that fall short of openness standards. |
-| [Openness Leaderboard](https://opening-up-chatgpt.github.io/) | Openness Leaderboard is a tool that tracks the openness of instruction-tuned LLMs, evaluating their transparency, data, and model availability. |
+| [Openness Leaderboard](https://opening-up-chatgpt.github.io) | Openness Leaderboard is a tool that tracks the openness of instruction-tuned LLMs, evaluating their transparency, data, and model availability. |
 | [OpenResearcher](https://github.com/GAIR-NLP/OpenResearcher?tab=readme-ov-file#-performance) | OpenResearcher contains the benchmarking results on various RAG-related systems as a leaderboard. |
 | [Open Arabic LLM Leaderboard](https://huggingface.co/spaces/OALL/Open-Arabic-LLM-Leaderboard) | Open Arabic LLM Leaderboard tracks progress and ranks the performance of LLMs in Arabic. |
 | [Open Chinese LLM Leaderboard](https://huggingface.co/spaces/BAAI/open_cn_llm_leaderboard) | Open Chinese LLM Leaderboard aims to track, rank, and evaluate open Chinese LLMs. |
@@ -295,10 +295,16 @@ Also, a leaderboard should be included if only:
 | [QAConv](https://github.com/salesforce/QAConv?tab=readme-ov-file#leaderboard) | QAConv is a benchmark for question answering using complex, domain-specific, and asynchronous conversations as the knowledge source. |
 | [QuALITY](https://nyu-mll.github.io/quality) | QuALITY is a benchmark for evaluating multiple-choice question-answering with a long context. |
 | [RABBITS](https://huggingface.co/spaces/AIM-Harvard/rabbits-leaderboard) | RABBITS is a benchmark to evaluate the robustness of LLMs by evaluating their handling of synonyms, specifically brand and generic drug names. |
+| [Rakuda](https://yuzuai.jp/benchmark) | Rakuda is a benchmark to evaluate LLMs based on how well they answer a set of open-ended questions about Japanese topics. |
 | [RedTeam Arena](https://redarena.ai/leaderboard) | RedTeam Arena is a red-teaming platform for LLMs. |
 | [Red Teaming Resistance Benchmark](https://huggingface.co/spaces/HaizeLabs/red-teaming-resistance-benchmark) | Red Teaming Resistance Benchmark is a benchmark to evaluate the robustness of LLMs against red teaming prompts. |
+| [ReST-MCTS*](https://github.com/THUDM/ReST-MCTS?tab=readme-ov-file#leaderboard) | ReST-MCTS* is a reinforced self-training method that uses tree search and process reward inference to collect high-quality reasoning traces for training policy and reward models without manual step annotations. |
 | [Reviewer Arena](https://huggingface.co/spaces/openreviewer/reviewer-arena) | Reviewer Arena hosts the reviewer arena, where various LLMs compete based on their performance in critiquing academic papers. |
 | [RoleEval](https://github.com/magnetic2014/roleeval?tab=readme-ov-file#leaderboard-5-shot) | RoleEval is a bilingual benchmark to evaluate the memorization, utilization, and reasoning capabilities of role knowledge of LLMs. |
+| [RPBench Leaderboard](https://boson.ai/rpbench) | RPBench-Auto is an automated pipeline for evaluating large language models using 80 personae for character-based and 80 scenes for scene-based role-playing. |
+| [Russian Chatbot Arena](https://huggingface.co/spaces/LLMArena/llmarena-leaderboard) | Chatbot Arena hosts a chatbot arena where various LLMs compete in Russian based on user satisfaction. |
+| [Russian SuperGLUE](https://russiansuperglue.com/leaderboard/2) | Russian SuperGLUE is a benchmark for Russian language models, focusing on logic, commonsense, and reasoning tasks. |
+| [R-Judge](https://rjudgebench.github.io/leaderboard.html) | R-Judge is a benchmark to evaluate the proficiency of LLMs in judging and identifying safety risks given agent interaction records. |
 | [Safety Prompts](http://coai.cs.tsinghua.edu.cn/leaderboard) | Safety Prompts is a benchmark to evaluate the safety of Chinese LLMs. |
 | [SafetyBench](https://llmbench.ai/safety/data) | SafetyBench is a benchmark to evaluate the safety of LLMs. |
 | [SALAD-Bench](https://huggingface.co/spaces/OpenSafetyLab/Salad-Bench-Leaderboard) | SALAD-Bench is a benchmark for evaluating the safety and security of LLMs. |
@@ -432,6 +438,7 @@ Also, a leaderboard should be included if only:
 | [PECC](https://huggingface.co/spaces/PatrickHaller/pecc-leaderboard) | PECC is a benchmark that evaluates code generation by requiring models to comprehend and extract problem requirements from narrative-based descriptions to produce syntactically accurate solutions. |
 | [ProLLM Benchmarks](https://prollm.toqan.ai/leaderboard) | ProLLM Benchmarks is a practical and reliable LLM benchmark designed for real-world business use cases across multiple industries and programming languages. |
 | [PyBench](https://github.com/Mercury7353/PyBench?tab=readme-ov-file#-leaderboard) | PyBench is a benchmark evaluating LLM on real-world coding tasks including chart analysis, text analysis, image/ audio editing, complex math and software/website development. |
+| [RACE](https://huggingface.co/spaces/jszheng/RACE_leaderboard) | RACE is a benchmark to evaluate the ability of LLMs to generate code that is correct and meets the requirements of real-world development scenarios. |
 | [RepoQA](https://evalplus.github.io/repoqa.html) | RepoQA is a benchmark to evaluate the long-context code understanding ability of LLMs.
 | [Spider](https://yale-lily.github.io/spider) | Spider is a benchmark to evaluate the performance of natural language interfaces for cross-domain databases. |
 | [StableToolBench](https://huggingface.co/spaces/stabletoolbench/Stable_Tool_Bench_Leaderboard) | StableToolBench is a benchmark to evaluate tool learning that aims to provide a well-balanced combination of stability and reality. |
