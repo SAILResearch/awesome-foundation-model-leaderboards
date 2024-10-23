@@ -112,6 +112,7 @@ Also, a leaderboard should be included if only:
 | [AGIEval](https://github.com/ruixiangcui/AGIEval?tab=readme-ov-file#leaderboard) | AGIEval is a human-centric benchmark to evaluate the general abilities of foundation models in tasks pertinent to human cognition and problem-solving. |
 | [Aiera Leaderboard](https://huggingface.co/spaces/Aiera/aiera-finance-leaderboard) | Aiera Leaderboard evaluates LLM performance on financial intelligence tasks, including speaker assignments, speaker change identification, abstractive summarizations, calculation-based Q&A, and financial sentiment tagging. |
 | [AIR-Bench](https://huggingface.co/spaces/AIR-Bench/leaderboard) | AIR-Bench is a benchmark to evaluate heterogeneous information retrieval capabilities of language models. |
+| [AI Energy Score Leaderboard](https://huggingface.co/spaces/EnergyStarAI/2024_Leaderboard) | AI Energy Score Leaderboard tracks and compares different models in terms of energy efficiency. |
 | [ai-benchmarks](https://github.com/fixie-ai/ai-benchmarks?tab=readme-ov-file#leaderboard) | ai-benchmarks contains a handful of evaluation results for the response latency of popular AI services. |
 | [AlignBench](https://llmbench.ai/align/data) | AlignBench is a multi-dimensional benchmark for evaluating LLMs' alignment in Chinese. |
 | [AlpacaEval](https://tatsu-lab.github.io/alpaca_eval) | AlpacaEval is an automatic evaluator designed for instruction-following LLMs. |
@@ -157,6 +158,8 @@ Also, a leaderboard should be included if only:
 | [Domain LLM Leaderboard](https://huggingface.co/spaces/NexaAIDev/domain_llm_leaderboard) | Domain LLM Leaderboard is a platform to evaluate the popularity of domain-specific LLMs. |
 | [Enterprise Scenarios leaderboard](https://huggingface.co/spaces/PatronusAI/enterprise_scenarios_leaderboard) | Enterprise Scenarios Leaderboard aims to assess the performance of LLMs on real-world enterprise use cases. |
 | [EQ-Bench](https://eqbench.com) | EQ-Bench is a benchmark to evaluate aspects of emotional intelligence in LLMs. |
+| [European LLM Leaderboard](https://huggingface.co/spaces/openGPT-X/european-llm-leaderboard) | European LLM Leaderboard tracks and compares performance of LLMs in European languages. |
+| [Eval Arena](https://crux-eval.github.io/eval-arena) | Eval Arena measures noise levels, model quality, and benchmark quality by comparing model pairs across several LLM evaluation benchmarks with example-level analysis and pairwise comparisons. |
 | [Factuality Leaderboard](https://github.com/gair-nlp/factool?tab=readme-ov-file#factuality-leaderboard) | Factuality Leaderboard compares the factual capabilities of LLMs. |
 | [FELM](https://hkust-nlp.github.io/felm) | FELM is a meta benchmark to evaluate factuality evaluation benchmark for LLMs. |
 | [Fine-Tuning Leaderboard](https://predibase.com/fine-tuning-index) | Fine-Tuning Leaderboard is a platform to rank and showcase models that have been fine-tuned using open-source datasets or frameworks. |
