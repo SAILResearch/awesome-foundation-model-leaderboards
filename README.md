@@ -248,26 +248,29 @@ Also, a leaderboard should be included if only:
 | [MMLU-by-task Leaderboard](https://huggingface.co/spaces/CoreyMorris/MMLU-by-task-Leaderboard) | MMLU-by-task Leaderboard provides a platform for evaluating and comparing various ML models across different language understanding tasks. |
 | [MMLU-Pro](https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro) | MMLU-Pro is a more challenging version of MMLU to evaluate the reasoning capabilities of LLMs. |
 | [ModelScope LLM Leaderboard](https://modelscope.cn/leaderboard/58/ranking?type=free) | ModelScope LLM Leaderboard is a platform to evaluate LLMs objectively and comprehensively. |
-| [Model Evaluation Leaderboard](https://github.com/databricks/databricks-ml-examples?tab=readme-ov-file) | Model Evaluation Leaderboard tracks and evaluates text generation models based on their performance across various benchmarks using Mosaic Eval Gauntlet framework. |
+| [Model Evaluation Leaderboard](https://github.com/databricks/databricks-ml-examples?tab=readme-ov-file#model-evaluation-leaderboard) | Model Evaluation Leaderboard tracks and evaluates text generation models based on their performance across various benchmarks using Mosaic Eval Gauntlet framework. |
 | [MSNP Leaderboard](https://huggingface.co/spaces/evilfreelancer/msnp-leaderboard) | MSNP Leaderboard tracks and evaluates quantized GGUF models' performance on various GPU and CPU combinations using single-node setups via Ollama. |
 | [MSTEB](https://huggingface.co/spaces/clibrain/Spanish-Embeddings-Leaderboard) | MSTEB is a benchmark for measuring the performance of text embedding models in Spanish. |
 | [MTEB](https://huggingface.co/spaces/mteb/leaderboard) | MTEB is a massive benchmark for measuring the performance of text embedding models on diverse embedding tasks across 112 languages. |
 | [MTEB Arena](https://huggingface.co/spaces/mteb/arena) | MTEB Arena host a model arena for dynamic, real-world assessment of embedding models through user-based query and retrieval comparisons. |
-| [MT-Bench-101](https://github.com/mtbench101/mt-bench-101?tab=readme-ov-file) | MT-Bench-101 is a fine-grained benchmark for evaluating LLMs in multi-turn dialogues. |
+| [MT-Bench-101](https://github.com/mtbench101/mt-bench-101?tab=readme-ov-file#leaderboard) | MT-Bench-101 is a fine-grained benchmark for evaluating LLMs in multi-turn dialogues. |
 | [MY Malay LLM Leaderboard](https://huggingface.co/spaces/mesolitica/malay-llm-leaderboard) | MY Malay LLM Leaderboard aims to track, rank, and evaluate open LLMs on Malay tasks. |
 | [NoCha](https://novelchallenge.github.io) | NoCha is a benchmark to evaluate how well long-context language models can verify claims written about fictional books. |
 | [NPHardEval](https://huggingface.co/spaces/NPHardEval/NPHardEval-leaderboard) | NPHardEval is a benchmark to evaluate the reasoning abilities of LLMs through the lens of computational complexity classes. |
 | [Occiglot Euro LLM Leaderboard](https://huggingface.co/spaces/occiglot/euro-llm-leaderboard) | Occiglot Euro LLM Leaderboard compares LLMs in four main languages from the Okapi benchmark and Belebele (French, Italian, German, Spanish and Dutch). |
+| [OlympiadBench](https://github.com/OpenBMB/OlympiadBench?tab=readme-ov-file#leaderboard) | OlympiadBench is a bilingual multimodal scientific benchmark featuring 8,476 Olympiad-level mathematics and physics problems with expert-level step-by-step reasoning annotations. |
 | [OlympicArena](https://gair-nlp.github.io/OlympicArena/#leaderboard) | OlympicArena is a benchmark to evaluate the advanced capabilities of LLMs across a broad spectrum of Olympic-level challenges. |
 | [oobabooga](https://oobabooga.github.io/benchmark.html) | Oobabooga is a benchmark to perform repeatable performance tests of LLMs with the oobabooga web UI. |
-| [Open-LLM-Leaderboard](https://huggingface.co/spaces/Open-Style/OSQ-Leaderboard) | Open-LLM-Leaderboard evaluates LLMs in language understanding and reasoning by transitioning from multiple-choice questions (MCQs) to open-style questions. |
 | [OpenEval](http://openeval.org.cn/rank) | OpenEval is a platform assessto evaluate Chinese LLMs. |
 | [OpenLLM Turkish leaderboard](https://huggingface.co/spaces/malhajar/OpenLLMTurkishLeaderboard) | OpenLLM Turkish leaderboard tracks progress and ranks the performance of LLMs in Turkish. |
 | [Openness Leaderboard](https://huggingface.co/spaces/Shitqq/Openness-leaderboard) | Openness Leaderboard tracks and evaluates models' transparency in terms of open access to weights, data, and licenses, exposing models that fall short of openness standards. |
 | [Openness Leaderboard](https://opening-up-chatgpt.github.io/) | Openness Leaderboard is a tool that tracks the openness of instruction-tuned LLMs, evaluating their transparency, data, and model availability. |
 | [OpenResearcher](https://github.com/GAIR-NLP/OpenResearcher?tab=readme-ov-file#-performance) | OpenResearcher contains the benchmarking results on various RAG-related systems as a leaderboard. |
 | [Open Arabic LLM Leaderboard](https://huggingface.co/spaces/OALL/Open-Arabic-LLM-Leaderboard) | Open Arabic LLM Leaderboard tracks progress and ranks the performance of LLMs in Arabic. |
+| [Open Chinese LLM Leaderboard](https://huggingface.co/spaces/BAAI/open_cn_llm_leaderboard) | Open Chinese LLM Leaderboard aims to track, rank, and evaluate open Chinese LLMs. |
+| [Open CoT Leaderboard](https://huggingface.co/spaces/logikon/open_cot_leaderboard) | Open CoT Leaderboard tracks LLMs' abilities to generate effective chain-of-thought reasoning traces. |
 | [Open Dutch LLM Evaluation Leaderboard](https://huggingface.co/spaces/BramVanroy/open_dutch_llm_leaderboard) | Open Dutch LLM Evaluation Leaderboard tracks progress and ranks the performance of LLMs in Dutch. |
+| [Open Financial LLM Leaderboard](https://huggingface.co/spaces/TheFinAI/Open-Financial-LLM-Leaderboard) | Open Financial LLM Leaderboard aims to evaluate and compare the performance of financial LLMs. |
 | [Open ITA LLM Leaderboard](https://huggingface.co/spaces/FinancialSupport/open_ita_llm_leaderboard) | Open ITA LLM Leaderboard tracks progress and ranks the performance of LLMs in Italian. |
 | [Open Ko-LLM Leaderboard](https://huggingface.co/spaces/upstage/open-ko-llm-leaderboard) | Open Ko-LLM Leaderboard tracks progress and ranks the performance of LLMs in Korean. |
 | [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) | Open LLM Leaderboard tracks progress and ranks the performance of LLMs in English. |
@@ -276,11 +279,20 @@ Also, a leaderboard should be included if only:
 | [Open MOE LLM Leaderboard](https://huggingface.co/spaces/sparse-generative-ai/open-moe-llm-leaderboard) | OPEN MOE LLM Leaderboard assesses the performance and efficiency of various Mixture of Experts (MoE) LLMs. |
 | [Open Multilingual LLM Evaluation Leaderboard](https://huggingface.co/spaces/uonlp/open_multilingual_llm_leaderboard) | Open Multilingual LLM Evaluation Leaderboard tracks progress and ranks the performance of LLMs in multiple languages. |
 | [Open PL LLM Leaderboard](https://huggingface.co/spaces/speakleash/open_pl_llm_leaderboard) | Open PL LLM Leaderboard is a platform for assessing the performance of various LLMs in Polish. |
-| [Open Portuguese LLM Leaderboardd](https://huggingface.co/spaces/eduagarcia/open_pt_llm_leaderboard) | Open Portuguese LLM Leaderboardd tracks progress and ranks the performance of LLMs in Portuguese. |
+| [Open Portuguese LLM Leaderboard](https://huggingface.co/spaces/eduagarcia/open_pt_llm_leaderboard) | Open PT LLM Leaderboard aims to evaluate and compare LLMs in the Portuguese-language tasks. |
+| [Open Taiwan LLM leaderboard](https://huggingface.co/spaces/yentinglin/open-tw-llm-leaderboard) | Open Taiwan LLM leaderboard showcases the performance of LLMs on various Taiwanese Mandarin language understanding tasks. |
+| [Open-LLM-Leaderboard](https://huggingface.co/spaces/Open-Style/OSQ-Leaderboard) | Open-LLM-Leaderboard evaluates LLMs in language understanding and reasoning by transitioning from multiple-choice questions (MCQs) to open-style questions. |
+| [OPUS-MT Dashboard](https://opus.nlpl.eu/dashboard) | OPUS-MT Dashboard is a platform to track and compare machine translation models across multiple language pairs and metrics. |
 | [OR-Bench](https://huggingface.co/spaces/bench-llms/or-bench-leaderboard) | OR-Bench is a benchmark to evaluate the over-refusal of enhanced safety in LLMs. |
+| [ParsBench](https://huggingface.co/spaces/ParsBench/leaderboard) | ParsBench provides toolkits for benchmarking LLMs based on the Persian language. |
+| [Persian LLM Leaderboard](https://huggingface.co/spaces/MatinaAI/persian_llm_leaderboard) | Persian LLM Leaderboard provides a reliable evaluation of LLMs in Persian Language. |
+| [Pinocchio ITA leaderboard](https://huggingface.co/spaces/mii-llm/pinocchio-ita-leaderboard) | Pinocchio ITA leaderboard tracks and evaluates LLMs in Italian Language. |
+| [PL-MTEB](https://huggingface.co/spaces/PL-MTEB/leaderboard) | PL-MTEB (Polish Massive Text Embedding Benchmark) is a benchmark for evaluating text embeddings in Polish across 28 NLP tasks. |
+| [Polish Medical Leaderboard](https://huggingface.co/spaces/speakleash/polish_medical_leaderboard) | Polish Medical Leaderboard evaluates language models on Polish board certification examinations. |
 | [Powered-by-Intel LLM Leaderboard](https://huggingface.co/spaces/Intel/powered_by_intel_llm_leaderboard) | Powered-by-Intel LLM Leaderboard evaluates, scores, and ranks LLMs that have been pre-trained or fine-tuned on Intel Hardware. |
 | [PubMedQA](https://pubmedqa.github.io) | PubMedQA is a benchmark to evaluate biomedical research question answering. |
 | [PromptBench](https://llm-eval.github.io/pages/leaderboard) | PromptBench is a benchmark to evaluate the robustness of LLMs on adversarial prompts. |
+| [QAConv](https://github.com/salesforce/QAConv?tab=readme-ov-file#leaderboard) | QAConv is a benchmark for question answering using complex, domain-specific, and asynchronous conversations as the knowledge source. |
 | [QuALITY](https://nyu-mll.github.io/quality) | QuALITY is a benchmark for evaluating multiple-choice question-answering with a long context. |
 | [RABBITS](https://huggingface.co/spaces/AIM-Harvard/rabbits-leaderboard) | RABBITS is a benchmark to evaluate the robustness of LLMs by evaluating their handling of synonyms, specifically brand and generic drug names. |
 | [RedTeam Arena](https://redarena.ai/leaderboard) | RedTeam Arena is a red-teaming platform for LLMs. |
@@ -325,7 +337,7 @@ Also, a leaderboard should be included if only:
 | [Abstract Image](https://multi-modal-self-instruct.github.io/#leaderboard) | Abstract Image is a benchmark to evaluate multimodal LLMs (MLLM) in understanding and visually reasoning about abstract images, such as maps, charts, and layouts. |
 | [AesBench](https://aesbench.github.io) | AesBench is a benchmark to evaluate MLLMs on image aesthetics perception. |
 | [BLINK](https://github.com/zeyofu/BLINK_Benchmark?tab=readme-ov-file#-mini-leaderboard) | BLINK is a benchmark to evaluate the core visual perception abilities of MLLMs. |
-| [BlinkCode](https://huggingface.co/spaces/yajuniverse/BlinkCode_leaderboard) | BlinkCode is a benchmark to evaluate MLLMs across 15 vision-language models (VLMs) and 9 tasks, measuring accuracy and image reconstruction performance.  |
+| [BlinkCode](https://huggingface.co/spaces/yajuniverse/BlinkCode_leaderboard) | BlinkCode is a benchmark to evaluate MLLMs across 15 vision-language models (VLMs) and 9 tasks, measuring accuracy and image reconstruction performance. |
 | [CARES](https://cares-ai.github.io/#leaderboard) | CARES is a benchmark to evaluate the trustworthiness of Med-LVLMs across trustfulness, fairness, safety, privacy, and robustness using 41K question-answer pairs from 16 medical image modalities and 27 anatomical regions. |
 | [ChartMimic](https://chartmimic.github.io) | ChartMimic is a benchmark to evaluate the visually-grounded code generation capabilities of large multimodal models using charts and textual instructions. |
 | [CharXiv](https://charxiv.github.io/#leaderboard) | CharXiv is a benchmark to evaluate chart understanding capabilities of MLLMs. |
@@ -360,13 +372,6 @@ Also, a leaderboard should be included if only:
 | [NPHardEval4V](https://github.com/lizhouf/nphardeval4v?tab=readme-ov-file#leaderboard) | NPHardEval4V is a benchmark to evaluate the reasoning abilities of MLLMs through the lens of computational complexity classes. |
 | [Provider Leaderboard](https://leaderboard.withmartian.com) | LLM API Providers Leaderboard is a platform to compare API provider performance for over LLM endpoints across performance key metrics. |
 | [OCRBench](https://huggingface.co/spaces/echo840/ocrbench-leaderboard) | OCRBench is a benchmark to evaluate the OCR capabilities of multimodal models. |
-| [OlympiadBench](https://github.com/OpenBMB/OlympiadBench?tab=readme-ov-file#leaderboard) | OlympiadBench is a bilingual multimodal scientific benchmark featuring 8,476 Olympiad-level mathematics and physics problems with expert-level step-by-step reasoning annotations. |
-| [Open Chinese LLM Leaderboard](https://huggingface.co/spaces/BAAI/open_cn_llm_leaderboard) | Open Chinese LLM Leaderboard aims to track, rank, and evaluate open Chinese LLMs. |
-| [Open CoT Leaderboard](https://huggingface.co/spaces/logikon/open_cot_leaderboard) | Open CoT Leaderboard tracks LLMs' abilities to generate effective chain-of-thought reasoning traces. |
-| [Open Financial LLM Leaderboard](https://huggingface.co/spaces/TheFinAI/Open-Financial-LLM-Leaderboard) | Open Financial LLM Leaderboard aims to evaluate and compare the performance of financial LLMs. |
-| [Open Portuguese LLM Leaderboard](https://huggingface.co/spaces/eduagarcia/open_pt_llm_leaderboard) | Open PT LLM Leaderboard aims to evaluate and compare LLMs in the Portuguese-language tasks. |
-| [Open Taiwan LLM leaderboard](https://huggingface.co/spaces/yentinglin/open-tw-llm-leaderboard) | Open Taiwan LLM leaderboard showcases the performance of LLMs on various Taiwanese Mandarin language understanding tasks. |
-| [OPUS-MT Dashboard](https://opus.nlpl.eu/dashboard) | OPUS-MT Dashboard is a platform to track and compare machine translation models across multiple language pairs and metrics. |
 | [PCA-Bench](https://github.com/pkunlp-icler/PCA-EVAL?tab=readme-ov-file#leaderboard) | PCA-Bench is a benchmark to evaluate the embodied decision-making capabilities of multimodal models. |
 | [Q-Bench](https://huggingface.co/spaces/q-future/Q-Bench-Leaderboard) | Q-Bench is a benchmark to evaluate the visual reasoning capabilities of MLLMs. |
 | [RewardBench](https://huggingface.co/spaces/allenai/reward-bench) | RewardBench is a benchmark to evaluate the capabilities and safety of reward models. |
@@ -424,6 +429,9 @@ Also, a leaderboard should be included if only:
 | [NaturalCodeBench](https://github.com/THUDM/NaturalCodeBench?tab=readme-ov-file#leaderboard) | NaturalCodeBench is a benchmark to mirror the complexity and variety of scenarios in real coding tasks. |
 | [Nexus Function Calling Leaderboard](https://huggingface.co/spaces/Nexusflow/Nexus_Function_Calling_Leaderboard) | Nexus Function Calling Leaderboard is a platform to evaluate code models on performing function calling and API usage.
 | [NL2SQL360](https://nl2sql360.github.io/#leaderboard) | NL2SQL360 is a comprehensive evaluation framework for comparing and optimizing NL2SQL methods across various application scenarios. |
+| [PECC](https://huggingface.co/spaces/PatrickHaller/pecc-leaderboard) | PECC is a benchmark that evaluates code generation by requiring models to comprehend and extract problem requirements from narrative-based descriptions to produce syntactically accurate solutions. |
+| [ProLLM Benchmarks](https://prollm.toqan.ai/leaderboard) | ProLLM Benchmarks is a practical and reliable LLM benchmark designed for real-world business use cases across multiple industries and programming languages. |
+| [PyBench](https://github.com/Mercury7353/PyBench?tab=readme-ov-file#-leaderboard) | PyBench is a benchmark evaluating LLM on real-world coding tasks including chart analysis, text analysis, image/ audio editing, complex math and software/website development. |
 | [RepoQA](https://evalplus.github.io/repoqa.html) | RepoQA is a benchmark to evaluate the long-context code understanding ability of LLMs.
 | [Spider](https://yale-lily.github.io/spider) | Spider is a benchmark to evaluate the performance of natural language interfaces for cross-domain databases. |
 | [StableToolBench](https://huggingface.co/spaces/stabletoolbench/Stable_Tool_Bench_Leaderboard) | StableToolBench is a benchmark to evaluate tool learning that aims to provide a well-balanced combination of stability and reality. |
@@ -458,6 +466,7 @@ Also, a leaderboard should be included if only:
 | [MathVista](https://mathvista.github.io/#leaderboard) | MathVista is a benchmark to evaluate mathematical reasoning in visual contexts. |
 | [MATH-V](https://mathvision-cuhk.github.io) | MATH-Vision (MATH-V) is a benchmark of 3,040 visually contextualized math problems from competitions, covering 16 disciplines and 5 difficulty levels to evaluate LMMs' mathematical reasoning. |
 | [Open Multilingual Reasoning Leaderboard](https://huggingface.co/spaces/kevinpro/Open-Multilingual-Reasoning-Leaderboard) | Open Multilingual Reasoning Leaderboard tracks and ranks the reasoning performance of LLMs on multilingual mathematical reasoning benchmarks. |
+| [PutnamBench](https://trishullab.github.io/PutnamBench/leaderboard.html) | PutnamBench is a benchmark to evaluate the formal mathematical reasoning capabilities of LLMs on the Putnam Competition. |
 | [SciBench](https://scibench-ucla.github.io/#leaderboard) | SciBench is a benchmark to evaluate the reasoning capabilities of LLMs for solving complex scientific problems. |
 | [TabMWP](https://promptpg.github.io/leaderboard.html) | TabMWP is a benchmark to evaluate LLMs in mathematical reasoning tasks that involve both textual and tabular data. |
 | [We-Math](https://we-math.github.io/#leaderboard) | We-Math is a benchmark to evaluate the human-like mathematical reasoning capabilities of LLMs with problem-solving principles beyond the end-to-end performance. |
@@ -485,6 +494,7 @@ Also, a leaderboard should be included if only:
 | [AIR-Bench](https://github.com/OFA-Sys/AIR-Bench?tab=readme-ov-file#leaderboard) | AIR-Bench is a benchmark to evaluate the ability of audio models to understand various types of audio signals (including human speech, natural sounds and music), and furthermore, to interact with humans in textual format. |
 | [AudioBench](https://huggingface.co/spaces/AudioLLMs/AudioBench-Leaderboard) | AudioBench is a benchmark for general instruction-following audio models. |
 | [Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard) | Open ASR Leaderboard provides a platform for tracking, ranking, and evaluating Automatic Speech Recognition (ASR) models. |
+| [Polish ASR Leaderboard](https://huggingface.co/spaces/amu-cai/pl-asr-leaderboard) | Polish ASR leaderboard aims to provide comprehensive overview of performance of ASR/STT systems for Polish. |
 | [TTS Arena](https://huggingface.co/spaces/TTS-AGI/TTS-Arena) | TTS-Arena hosts the Text To Speech (TTS) arena, where various TTS models compete based on their performance in generating speech. |
 
 ### 3D
