@@ -159,6 +159,7 @@ Also, a leaderboard should be included if only:
 | [Enterprise Scenarios leaderboard](https://huggingface.co/spaces/PatronusAI/enterprise_scenarios_leaderboard) | Enterprise Scenarios Leaderboard aims to assess the performance of LLMs on real-world enterprise use cases. |
 | [EQ-Bench](https://eqbench.com) | EQ-Bench is a benchmark to evaluate aspects of emotional intelligence in LLMs. |
 | [European LLM Leaderboard](https://huggingface.co/spaces/openGPT-X/european-llm-leaderboard) | European LLM Leaderboard tracks and compares performance of LLMs in European languages. |
+| [EvalGPT.ai](https://github.com/h2oai/h2o-LLM-eval?tab=readme-ov-file#elo-leaderboard) | EvalGPT.ai hosts a chatbot arena to compare and rank the performance of LLMs. |
 | [Eval Arena](https://crux-eval.github.io/eval-arena) | Eval Arena measures noise levels, model quality, and benchmark quality by comparing model pairs across several LLM evaluation benchmarks with example-level analysis and pairwise comparisons. |
 | [Factuality Leaderboard](https://github.com/gair-nlp/factool?tab=readme-ov-file#factuality-leaderboard) | Factuality Leaderboard compares the factual capabilities of LLMs. |
 | [FanOutQA](https://fanoutqa.com/leaderboard) | FanOutQA is a high quality, multi-hop, multi-document benchmark for large language models using English Wikipedia as its knowledge base. |
@@ -172,9 +173,12 @@ Also, a leaderboard should be included if only:
 | [FuseReviews](https://huggingface.co/spaces/lovodkin93/FuseReviews-Leaderboard) | FuseReviews aims to advance grounded text generation tasks, including long-form question-answering and summarization. |
 | [GAIA](https://huggingface.co/spaces/gaia-benchmark/leaderboard) | GAIA aims to test fundamental abilities that an AI assistant should possess. |
 | [GPT-Fathom](https://github.com/GPT-Fathom/GPT-Fathom?tab=readme-ov-file#-leaderboard) | GPT-Fathom is an LLM evaluation suite, benchmarking 10+ leading LLMs as well as OpenAI's legacy models on 20+ curated benchmarks across 7 capability categories, all under aligned settings. |
+| [GrailQA](https://dki-lab.github.io/GrailQA) | Strongly Generalizable Question Answering (GrailQA) is a large-scale, high-quality benchmark for question answering on knowledge bases (KBQA) on Freebase with 64,331 questions annotated with both answers and corresponding logical forms in different syntax (i.e., SPARQL, S-expression, etc.). |
+| [GTBench](https://huggingface.co/spaces/GTBench/GTBench) | GTBench is a benchmark to evaluate and rank LLMs' reasoning abilities in competitive environments through game-theoretic tasks, e.g., board and card games. |
 | [Guerra LLM AI Leaderboard](https://huggingface.co/spaces/luisrguerra/guerra-llm-ai-leaderboard) | Guerra LLM AI Leaderboard compares and ranks the performance of LLMs across quality, price, performance, context window, and others. |
 | [Hallucinations Leaderboard](https://huggingface.co/spaces/hallucinations-leaderboard/leaderboard) | Hallucinations Leaderboard aims to track, rank and evaluate hallucinations in LLMs. |
 | [HalluQA](https://github.com/OpenMOSS/HalluQA?tab=readme-ov-file#leaderboard) | HalluQA is a benchmark to evaluate the phenomenon of hallucinations in Chinese LLMs. |
+| [Hebrew LLM Leaderboard](https://huggingface.co/spaces/hebrew-llm-leaderboard/leaderboard) | Hebrew LLM Leaderboard tracks and ranks language models according to their success on various tasks on Hebrew. |
 | [HellaSwag](https://rowanzellers.com/hellaswag) | HellaSwag is a benchmark to evaluate common-sense reasoning in LLMs. |
 | [Hughes Hallucination Evaluation Model leaderboard](https://huggingface.co/spaces/vectara/leaderboard) | Hughes Hallucination Evaluation Model leaderboard is a platform to evaluate how often a language model introduces hallucinations when summarizing a document. |
 | [IFEval](https://huggingface.co/spaces/Krisseck/IFEval-Leaderboard) | IFEval is a benchmark to evaluate LLMs' instruction following capabilities with verifiable instructions. |
@@ -291,6 +295,7 @@ Also, a leaderboard should be included if only:
 | [CORE-MM](https://core-mm.github.io) | CORE-MM is a benchmark to evaluate the open-ended visual question-answering (VQA) capabilities of MLLMs. |
 | [DreamBench++](https://dreambenchplus.github.io/#leaderboard) | DreamBench++ is a human-aligned benchmark automated by multimodal models for personalized image generation. |
 | [EgoPlan-Bench](https://huggingface.co/spaces/ChenYi99/EgoPlan-Bench_Leaderboard) | EgoPlan-Bench is a benchmark to evaluate planning abilities of MLLMs in real-world, egocentric scenarios. |
+| [GAVIE](https://github.com/FuxiaoLiu/LRV-Instruction?tab=readme-ov-file#leaderboards) | GAVIE is a GPT-4-assisted benchmark for evaluating hallucination in LMMs by scoring accuracy and relevancy without relying on human-annotated groundtruth. |
 | [GlitchBench](https://huggingface.co/spaces/glitchbench/Leaderboard) | GlitchBench is a benchmark to evaluate the reasoning capabilities of MLLMs in the context of detecting video game glitches. |
 | [HallusionBench](https://github.com/tianyi-lab/HallusionBench?tab=readme-ov-file#leaderboard) | HallusionBench is a benchmark to evaluate the image-context reasoning capabilities of MLLMs. |
 | [InfiMM-Eval](https://infimm.github.io/InfiMM-Eval) | InfiMM-Eval is a benchmark to evaluate the open-ended VQA capabilities of MLLMs. |
@@ -410,6 +415,7 @@ Also, a leaderboard should be included if only:
 | [TravelPlanner](https://huggingface.co/spaces/osunlp/TravelPlannerLeaderboard) | TravelPlanner is a benchmark to evaluate LLM agents in tool use and complex planning within multiple constraints. |
 | [VisualWebArena](https://jykoh.com/vwa) | VisualWebArena is a benchmark to evaluate the performance of multimodal web agents on realistic visually grounded tasks. |
 | [WebArena](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ) | WebArena is a standalone, self-hostable web environment to evaluate autonomous agents. |
+| [γ-Bench](https://github.com/CUHK-ARISE/GAMABench?tab=readme-ov-file#leaderboard) | γ-Bench is a framework for evaluating LLMs' gaming abilities in multi-agent environments using eight classical game theory scenarios and a dynamic scoring scheme. |
 
 ### Audio
 
