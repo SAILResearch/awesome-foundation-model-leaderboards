@@ -101,6 +101,8 @@ Also, a leaderboard should be included if only:
 | [nuScenes](https://www.nuscenes.org) | nuScenes enables researchers to study challenging urban driving situations using the full sensor suite of a real self-driving car. |
 | [Robust Reading Competition](https://rrc.cvc.uab.es) | Robust Reading refers to the research area on interpreting written communication in unconstrained settings. |
 | [SuperCLUE](https://www.superclueai.com) | SuperCLUE is a series of benchmarks for evaluating Chinese foundation models. |
+| [Vals AI](https://www.vals.ai) | Vals AI is a platform evaluating generative AI accuracy and efficacy on real-world legal tasks. |
+| [Vellum LLM Leaderboard](https://www.vellum.ai/llm-leaderboard) | Vellum LLM Leaderboard shows a comparison of capabilities, price and context window for leading commercial and open-source LLMs. |
 
 ### Text
 
@@ -343,10 +345,15 @@ Also, a leaderboard should be included if only:
 | [T-Eval](https://open-compass.github.io/T-Eval/leaderboard.html) | T-Eval is a benchmark for evaluating the tool utilization capability of LLMs. |
 | [UGI Leaderboard](https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard) | UGI Leaderboard measures and compares the uncensored and controversial information known by LLMs. |
 | [UltraEval](https://ultraeval.openbmb.cn/rank) | UltraEval is an open-source framework for transparent and reproducible benchmarking of LLMs across various performance dimensions. |
+| [VCR](https://visualcommonsense.com/leaderboard) | Visual Commonsense Reasoning (VCR) is a benchmark for cognition-level visual understanding, requiring models to answer visual questions and provide rationales for their answers. |
 | [ViDoRe](https://huggingface.co/spaces/vidore/vidore-leaderboard) | ViDoRe is a benchmark to evaluate retrieval models on their capacity to match queries to relevant documents at the page level. |
 | [VLLMs Leaderboard](https://huggingface.co/spaces/vlsp-2023-vllm/VLLMs-Leaderboard) | VLLMs Leaderboard aims to track, rank and evaluate open LLMs and chatbots. |
+| [VMLU](https://vmlu.ai/leaderboard) | VMLU is a benchmark to evaluate overall capabilities of foundation models in Vietnamese. |
 | [Xiezhi](https://github.com/MikeGu721/XiezhiBenchmark?tab=readme-ov-file#leaderboard) | Xiezhi is a benchmark for holistic domain knowledge evaluation of LLMs. |
+| [Yanolja Arena](https://huggingface.co/spaces/yanolja/arena) | Yanolja Arena host a model arena to evaluate the capabilities of LLMs in summarizing and translating text. |
 | [Yet Another LLM Leaderboard](https://huggingface.co/spaces/mlabonne/Yet_Another_LLM_Leaderboard) | Yet Another LLM Leaderboard is a platform for tracking, ranking, and evaluating open LLMs and chatbots. |
+| [ZebraLogic](https://huggingface.co/spaces/allenai/ZebraLogic) | ZebraLogic is a benchmark evaluating LLMs' logical reasoning using Logic Grid Puzzles, a type of Constraint Satisfaction Problem (CSP). |
+| [ZeroSumEval](https://huggingface.co/spaces/HishamYahya/ZeroSumEval_Leaderboard) | Zero Sum Eval is a benchmark for evaluating chess matches between LLMs. |
 
 ## Image
 
@@ -457,6 +464,8 @@ Also, a leaderboard should be included if only:
 | [Spider](https://yale-lily.github.io/spider) | Spider is a benchmark to evaluate the performance of natural language interfaces for cross-domain databases. |
 | [StableToolBench](https://huggingface.co/spaces/stabletoolbench/Stable_Tool_Bench_Leaderboard) | StableToolBench is a benchmark to evaluate tool learning that aims to provide a well-balanced combination of stability and reality. |
 | [SWE-bench](https://www.swebench.com) | SWE-bench is a benchmark for evaluating LLMs on real-world software issues collected from GitHub. |
+| [WebApp1K](https://huggingface.co/spaces/onekq-ai/WebApp1K-models-leaderboard) | WebApp1K is a benchmark to evaluate LLMs on their abilities to develop real-world web applications. |
+| [WILDS](https://wilds.stanford.edu/leaderboard) | WILDS is a benchmark of in-the-wild distribution shifts spanning diverse data modalities and applications, from tumor identification to wildlife monitoring to poverty mapping. |
 
 ### Video
 
@@ -473,6 +482,9 @@ Also, a leaderboard should be included if only:
 | [TempCompass](https://huggingface.co/spaces/lyx97/TempCompass) | TempCompass is a benchmark to evaluate Video LLMs' temporal perception using 410 videos and 7,540 task instructions across 11 temporal aspects and 4 task types. |
 | [VBench](https://vchitect.github.io/VBench-project) | VBench is a benchmark to evaluate video generation capabilities of video models. |
 | [VideoNIAH](https://videoniah.github.io/#leaderboard) | VideoNIAH is a benchmark to evaluate the fine-grained understanding and spatio-temporal modeling capabilities of video models. |
+| [VideoPhy](https://github.com/Hritikbansal/videophy) | VideoPhy is a benchmark to evaluate generated videos for adherence to physical commonsense in real-world material interactions. |
+| [VideoScore](https://huggingface.co/spaces/TIGER-Lab/VideoScore-Leaderboard) | VideoScore is a benchmark to evaluate text-to-video generative models on five key dimensions. |
+| [VideoVista](https://videovista.github.io/#leaderboard) | VideoVista is a benchmark with 25,000 questions from 3,400 videos across 14 categories, covering 19 understanding and 8 reasoning tasks. |
 | [Video-Bench](https://huggingface.co/spaces/LanguageBind/Video-Bench) | Video-Bench is a benchmark to evaluate the video-exclusive understanding, prior knowledge incorporation, and video-based decision-making abilities of video models. |
 | [Video-MME](https://video-mme.github.io/home_page.html#leaderboard) | Video-MME is a benchmark to evaluate the video analysis capabilities of video models. |
 
@@ -505,9 +517,12 @@ Also, a leaderboard should be included if only:
 | [MAgIC](https://github.com/cathyxl/MAgIC?tab=readme-ov-file#leaderboard) | MAgIC is a benchmark to measure the abilities of cognition, adaptability, rationality and collaboration of LLMs within multi-agent sytems. |
 | [Olas Predict Benchmark](https://huggingface.co/spaces/valory/olas-prediction-leaderboard) | Olas Predict Benchmark is a benchmark to evaluate agents on historical and future event forecasting. |
 | [TravelPlanner](https://huggingface.co/spaces/osunlp/TravelPlannerLeaderboard) | TravelPlanner is a benchmark to evaluate LLM agents in tool use and complex planning within multiple constraints. |
+| [VAB](https://github.com/THUDM/VisualAgentBench?tab=readme-ov-file#leaderboard) | VisualAgentBench (VAB) is a benchmark to evaluate and develop LMMs as visual foundation agents, which comprises 5 distinct environments across 3 types of representative visual agent tasks. |
 | [VisualWebArena](https://jykoh.com/vwa) | VisualWebArena is a benchmark to evaluate the performance of multimodal web agents on realistic visually grounded tasks. |
+| [WebAgent Leaderboard](https://huggingface.co/spaces/meghsn/WebAgent-Leaderboard) | WebAgent Leaderboard tracks and evaluates LLMs, VLMs, and agents on web navigation tasks. |
 | [WebArena](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ) | WebArena is a standalone, self-hostable web environment to evaluate autonomous agents. |
 | [γ-Bench](https://github.com/CUHK-ARISE/GAMABench?tab=readme-ov-file#leaderboard) | γ-Bench is a framework for evaluating LLMs' gaming abilities in multi-agent environments using eight classical game theory scenarios and a dynamic scoring scheme. |
+| [τ-Bench](https://github.com/sierra-research/tau-bench?tab=readme-ov-file#leaderboard) | τ-bench is a benchmark that emulates dynamic conversations between a language model-simulated user and a language agent equipped with domain-specific API tools and policy guidelines. |
 
 ### Audio
 
@@ -519,6 +534,7 @@ Also, a leaderboard should be included if only:
 | [Polish ASR Leaderboard](https://huggingface.co/spaces/amu-cai/pl-asr-leaderboard) | Polish ASR leaderboard aims to provide comprehensive overview of performance of ASR/STT systems for Polish. |
 | [SALMon](https://pages.cs.huji.ac.il/adiyoss-lab/salmon) | SALMon is an evaluation suite that benchmarks speech language models on consistency, background noise, emotion, speaker identity, and room impulse response. |
 | [TTS Arena](https://huggingface.co/spaces/TTS-AGI/TTS-Arena) | TTS-Arena hosts the Text To Speech (TTS) arena, where various TTS models compete based on their performance in generating speech. |
+| [Whisper Leaderboard](https://huggingface.co/spaces/philipp-zettl/whisper-leaderboard) | Whisper Leaderboard is a platform tracking and comparing audio models' speech recognition performance on various datasets. |
 
 ### 3D
 
