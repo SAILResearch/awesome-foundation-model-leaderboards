@@ -122,7 +122,7 @@ Also, a leaderboard should be included if only:
 | [AutoRace](https://www.llm-reasoners.net/leaderboard) | AutoRace focuses on the direct evaluation of LLM reasoning chains with metric AutoRace (Automated Reasoning Chain Evaluation). |
 | [Auto Arena](https://huggingface.co/spaces/Auto-Arena/Leaderboard) | Auto Arena is a benchmark in which various language model agents engage in peer-battles to evaluate their performance. |
 | [Auto-J](https://github.com/GAIR-NLP/auto-j?tab=readme-ov-file#leaderboard) | Auto-J hosts evaluation results on the pairwise response comparison and critique generation tasks. |
-| [BABILong](https://huggingface.co/spaces/RMT-team/babilong) | BABILong |
+| [BABILong](https://huggingface.co/spaces/RMT-team/babilong) | BABILong is a benchmark for evaluating the performance of language models in processing arbitrarily long documents with distributed facts. |
 | [BBL](https://github.com/google/BIG-bench#big-bench-lite-leaderboard) | BBL (BIG-bench Lite) is a small subset of 24 diverse JSON tasks from BIG-bench. It is designed to provide a canonical measure of model performance, while being far cheaper to evaluate than the full set of more than 200 programmatic and JSON tasks in BIG-bench. |
 | [BeHonest](https://gair-nlp.github.io/BeHonest/#leaderboard) | BeHonest is a benchmark to evaluate honesty - awareness of knowledge boundaries (self-knowledge), avoidance of deceit (non-deceptiveness), and consistency in responses (consistency) - in LLMs. |
 | [BenBench](https://gair-nlp.github.io/benbench) | BenBench is a benchmark to evaluate the extent to which LLMs conduct verbatim training on the training set of a benchmark over the test set to enhance capabilities. |
@@ -310,16 +310,23 @@ Also, a leaderboard should be included if only:
 | [SALAD-Bench](https://huggingface.co/spaces/OpenSafetyLab/Salad-Bench-Leaderboard) | SALAD-Bench is a benchmark for evaluating the safety and security of LLMs. |
 | [ScandEval](https://scandeval.com) | ScandEval is a benchmark to evaluate LLMs on tasks in Scandinavian languages as well as German, Dutch, and English. |
 | [Science Leaderboard](https://huggingface.co/spaces/wenhu/Science-Leaderboard) | Science Leaderboard is a platform to evaluate LLMs' capabilities to solve science problems. |
+| [SciGLM](https://github.com/THUDM/SciGLM?tab=readme-ov-file#leaderboard) | SciGLM is a suite of scientific language models that use a self-reflective instruction annotation framework to enhance scientific reasoning by generating and revising step-by-step solutions to unlabelled questions. |
 | [SciKnowEval](http://scimind.ai/sciknoweval) | SciKnowEval is a benchmark to evaluate LLMs based on their proficiency in studying extensively, enquiring earnestly, thinking profoundly, discerning clearly, and practicing assiduously. |
 | [SCROLLS](https://www.scrolls-benchmark.com/leaderboard) | SCROLLS is a benchmark to evaluate the reasoning capabilities of LLMs over long texts. |
 | [SeaExam](https://huggingface.co/spaces/SeaLLMs/SeaExam_leaderboard) | SeaExam is a benchmark to evaluate LLMs for Southeast Asian (SEA) languages. |
 | [SEAL LLM Leaderboards](https://scale.com/leaderboard) | SEAL LLM Leaderboards is an expert-driven private evaluation platform for LLMs. |
 | [SeaEval](https://huggingface.co/spaces/SeaEval/SeaEval_Leaderboard) | SeaEval is a benchmark to evaluate the performance of multilingual LLMs in understanding and reasoning with natural language, as well as comprehending cultural practices, nuances, and values. |
+| [SEA HELM](https://leaderboard.sea-lion.ai) | SEA HELM is a benchmark to evaluate LLMs' performance across English and Southeast Asian tasks, focusing on chat, instruction-following, and linguistic capabilities. |
+| [SecEval](https://github.com/XuanwuAI/SecEval?tab=readme-ov-file#leaderboard) | SecEval is a benchmark to evaluate cybersecurity knowledge of foundation models. |
+| [Self-Improving Leaderboard](https://huggingface.co/spaces/junkim100/self-improving-leaderboard) | Self-Improving Leaderboard (SIL) is a dynamic platform that continuously updates test datasets and rankings to provide real-time performance insights for open-source LLMs and chatbots. |
 | [Spec-Bench](https://github.com/hemingkx/Spec-Bench/blob/main/Leaderboard.md) | Spec-Bench is a benchmark to evaluate speculative decoding methods across diverse scenarios. |
+| [StructEval](https://huggingface.co/spaces/Bowieee/StructEval_leaderboard) | StructEval is a benchmark to evaluate LLMs by conducting structured assessments across multiple cognitive levels and critical concepts. |
+| [Subquadratic LLM Leaderboard](https://huggingface.co/spaces/devingulliver/subquadratic-llm-leaderboard) | Subquadratic LLM Leaderboard evaluates LLMs with subquadratic/attention-free architectures (i.e. RWKV & Mamba). |
 | [SuperBench](https://fm.ai.tsinghua.edu.cn/superbench) | SuperBench is a comprehensive system of tasks and dimensions to evaluate the overall capabilities of LLMs. |
 | [SuperGLUE](https://super.gluebenchmark.com/leaderboard) | SuperGLUE is a benchmark to evaluate the performance of LLMs on a set of challenging language understanding tasks. |
 | [SuperLim](https://lab.kb.se/leaderboard/results) | SuperLim is a benchmark to evaluate the language understanding capabilities of LLMs in Swedish. |
 | [Swahili LLM-Leaderboard](https://github.com/msamwelmollel/Swahili_LLM_Leaderboard?tab=readme-ov-file#leaderboard) | Swahili LLM-Leaderboard is a joint community effort to create one central leaderboard for LLMs. |
+| [S-Eval](https://huggingface.co/spaces/IS2Lab/S-Eval) | S-Eval is a comprehensive, multi-dimensional safety benchmark with 220,000 prompts designed to evaluate LLM safety across various risk dimensions. |
 | [T-Eval](https://open-compass.github.io/T-Eval/leaderboard.html) | T-Eval is a benchmark for evaluating the tool utilization capability of LLMs. |
 | [TAT-DQA](https://nextplusplus.github.io/TAT-DQA) | TAT-DQA is a benchmark to evaluate LLMs on the discrete reasoning over documents that combine both structured and unstructured information. |
 | [TAT-QA](https://nextplusplus.github.io/TAT-QA) | TAT-QA is a benchmark to evaluate LLMs on the discrete reasoning over documents that combines both tabular and textual content. |
@@ -440,6 +447,8 @@ Also, a leaderboard should be included if only:
 | [PyBench](https://github.com/Mercury7353/PyBench?tab=readme-ov-file#-leaderboard) | PyBench is a benchmark evaluating LLM on real-world coding tasks including chart analysis, text analysis, image/ audio editing, complex math and software/website development. |
 | [RACE](https://huggingface.co/spaces/jszheng/RACE_leaderboard) | RACE is a benchmark to evaluate the ability of LLMs to generate code that is correct and meets the requirements of real-world development scenarios. |
 | [RepoQA](https://evalplus.github.io/repoqa.html) | RepoQA is a benchmark to evaluate the long-context code understanding ability of LLMs.
+| [SciCode](https://github.com/scicode-bench/SciCode?tab=readme-ov-file#-leaderboard) | SciCode is a benchmark designed to evaluate language models in generating code to solve realistic scientific research problems. |
+| [SolidityBench](https://huggingface.co/spaces/braindao/solbench-leaderboard) | SolidityBench is a benchmark to evaluate and rank the ability of LLMs in generating and auditing smart contracts. |
 | [Spider](https://yale-lily.github.io/spider) | Spider is a benchmark to evaluate the performance of natural language interfaces for cross-domain databases. |
 | [StableToolBench](https://huggingface.co/spaces/stabletoolbench/Stable_Tool_Bench_Leaderboard) | StableToolBench is a benchmark to evaluate tool learning that aims to provide a well-balanced combination of stability and reality. |
 | [SWE-bench](https://www.swebench.com) | SWE-bench is a benchmark for evaluating LLMs on real-world software issues collected from GitHub. |
@@ -502,6 +511,7 @@ Also, a leaderboard should be included if only:
 | [AudioBench](https://huggingface.co/spaces/AudioLLMs/AudioBench-Leaderboard) | AudioBench is a benchmark for general instruction-following audio models. |
 | [Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard) | Open ASR Leaderboard provides a platform for tracking, ranking, and evaluating Automatic Speech Recognition (ASR) models. |
 | [Polish ASR Leaderboard](https://huggingface.co/spaces/amu-cai/pl-asr-leaderboard) | Polish ASR leaderboard aims to provide comprehensive overview of performance of ASR/STT systems for Polish. |
+| [SALMon](https://pages.cs.huji.ac.il/adiyoss-lab/salmon) | SALMon is an evaluation suite that benchmarks speech language models on consistency, background noise, emotion, speaker identity, and room impulse response. |
 | [TTS Arena](https://huggingface.co/spaces/TTS-AGI/TTS-Arena) | TTS-Arena hosts the Text To Speech (TTS) arena, where various TTS models compete based on their performance in generating speech. |
 
 ### 3D
