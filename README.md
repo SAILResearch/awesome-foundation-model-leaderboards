@@ -353,7 +353,7 @@ Also, a leaderboard should be included if only:
 | [Yanolja Arena](https://huggingface.co/spaces/yanolja/arena) | Yanolja Arena host a model arena to evaluate the capabilities of LLMs in summarizing and translating text. |
 | [Yet Another LLM Leaderboard](https://huggingface.co/spaces/mlabonne/Yet_Another_LLM_Leaderboard) | Yet Another LLM Leaderboard is a platform for tracking, ranking, and evaluating open LLMs and chatbots. |
 | [ZebraLogic](https://huggingface.co/spaces/allenai/ZebraLogic) | ZebraLogic is a benchmark evaluating LLMs' logical reasoning using Logic Grid Puzzles, a type of Constraint Satisfaction Problem (CSP). |
-| [ZeroSumEval](https://huggingface.co/spaces/HishamYahya/ZeroSumEval_Leaderboard) | Zero Sum Eval is a benchmark for evaluating chess matches between LLMs. |
+| [ZeroSumEval](https://huggingface.co/spaces/HishamYahya/ZeroSumEval_Leaderboard) | ZeroSumEval is a competitive evaluation framework for LLMs using multiplayer simulations with clear win conditions. |
 
 ## Image
 
