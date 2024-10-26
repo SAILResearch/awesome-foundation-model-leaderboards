@@ -43,7 +43,7 @@ Also, a leaderboard should be included if only:
 
 ## Table of Contents
 - [**Tools**](#tools)
-- [**Organizations**](#organizations)
+- [**Challenges**](#challenges)
 - [**Evaluations**](#evaluations)
     - [Model Ranking](#model-ranking)
         - [Comprehensive](#comprehensive)
@@ -55,6 +55,7 @@ Also, a leaderboard should be included if only:
         - [Agent](#agent)
         - [Audio](#audio)
         - [3D](#3d)
+    - [Database Ranking](#database-ranking)
     - [Dataset Ranking](#dataset-ranking)
     - [Metric Ranking](#metric-ranking)
     - [Paper Ranking](#paper-ranking)
@@ -76,12 +77,28 @@ Also, a leaderboard should be included if only:
 
 
 
-# Organizations
+# Challenges
 
 | Name | Description |
 | ---- | ----------- |
-| [Allen Institute for AI](https://leaderboard.allenai.org) | Allen Institute for AI is a non-profit research institute that aims to conduct high-impact AI research and engineering for the common good. |
-| [Papers With Code](https://paperswithcode.com) | Papers With Code is a community-driven platform for learning about state-of-the-art research papers on machine learning. |
+| [AIcrowd](https://www.aicrowd.com/challenges) | AIcrowd hosts machine learning challenges and competitions across domains such as computer vision, NLP, and reinforcement learning, aimed at both researchers and practitioners. |
+| [AI Hub](https://eu.aihub.ml/competitions) | AI Hub offers a variety of competitions to encourage AI solutions to real-world problems, with a focus on innovation and collaboration. |
+| [AI Studio](https://aistudio.baidu.com/competition) | AI Studio offers AI competitions mainly for computer vision, NLP, and other data-driven tasks, allowing users to develop and showcase their AI skills. |
+| [Allen Institute for AI](https://leaderboard.allenai.org) | The Allen Institute for AI provides leaderboards and benchmarks on tasks in natural language understanding, commonsense reasoning, and other areas in AI research. |
+| [Codabench](https://www.codabench.org) | Codabench is an open-source platform for benchmarking AI models, enabling customizable, user-driven challenges across various AI domains. |
+| [DataFountain](https://www.datafountain.cn/competitions) | DataFountain is a Chinese AI competition platform featuring challenges in finance, healthcare, and smart cities, encouraging solutions for industry-related problems. |
+| [DrivenData](https://www.drivendata.org/competitions) | DrivenData hosts machine learning challenges with a social impact, aiming to solve issues in areas, such as public health, disaster relief, and sustainable development. |
+| [Dynabench](https://dynabench.org/tasks) | Dynabench offers dynamic benchmarks where models are evaluated continuously, often involving human interaction, to ensure robustness in evolving AI tasks. |
+| [Eval AI](https://eval.ai/web/challenges/list) | EvalAI is a platform for hosting and participating in AI challenges, widely used by researchers for benchmarking models in tasks, such as image classification, NLP, and reinforcement learning. |
+| [Grand Challenge](https://grand-challenge.org/challenges) | Grand Challenge provides a platform for medical imaging challenges, supporting advancements in medical AI, particularly in areas, such as radiology and pathology. |
+| [Hilti](https://www.hilti-challenge.com) | Hilti hosts challenges aimed at advancing AI and machine learning in the construction industry, with a focus on practical, industry-relevant applications. |
+| [InsightFace](https://insightface.ai/challenges) | InsightFace focuses on AI challenges related to face recognition, verification, and analysis, supporting advancements in identity verification and security. |
+| [Kaggle](https://www.kaggle.com/competitions) | Kaggle is one of the largest platforms for data science and machine learning competitions, covering a broad range of topics from image classification to NLP and predictive modeling. |
+| [nuScenes](https://www.nuscenes.org) | nuScenes enables researchers to study challenging urban driving situations using the full sensor suite of a real self-driving car, facilitating research in autonomous driving. |
+| [Papers With Code](https://paperswithcode.com) | Papers With Code provides open-source leaderboards and benchmarks, linking AI research papers with code to foster transparency and reproducibility in machine learning. |
+| [Robust Reading Competition](https://rrc.cvc.uab.es) | Robust Reading refers to the research area on interpreting written communication in unconstrained settings, with competitions focused on text recognition in real-world environments. |
+| [Tianchi](https://tianchi.aliyun.com/competition) | Tianchi, hosted by Alibaba, offers a range of AI competitions, particularly popular in Asia, with a focus on commerce, healthcare, and logistics. |
+
 
 
 # Evaluations
@@ -98,8 +115,6 @@ Also, a leaderboard should be included if only:
 | [GenAI Arena](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) | GenAI Arena hosts the visual generation arena, where various vision models compete based on their performance in image generation, image edition, and video generation. |
 | [Generative AI Leaderboards](https://accubits.com/generative-ai-models-leaderboard) | Generative AI Leaderboard ranks the top-performing generative AI models based on various metrics. |
 | [Holistic Evaluation of Language Models](https://crfm.stanford.edu/helm) | Holistic Evaluation of Language Models (HELM) is a reproducible and transparent framework for evaluating foundation models. |
-| [nuScenes](https://www.nuscenes.org) | nuScenes enables researchers to study challenging urban driving situations using the full sensor suite of a real self-driving car. |
-| [Robust Reading Competition](https://rrc.cvc.uab.es) | Robust Reading refers to the research area on interpreting written communication in unconstrained settings. |
 | [SuperCLUE](https://www.superclueai.com) | SuperCLUE is a series of benchmarks for evaluating Chinese foundation models. |
 | [Vals AI](https://www.vals.ai) | Vals AI is a platform evaluating generative AI accuracy and efficacy on real-world legal tasks. |
 | [Vellum LLM Leaderboard](https://www.vellum.ai/llm-leaderboard) | Vellum LLM Leaderboard shows a comparison of capabilities, price and context window for leading commercial and open-source LLMs. |
@@ -545,6 +560,12 @@ Also, a leaderboard should be included if only:
 | [3DGen Arena](https://huggingface.co/spaces/ZhangYuhan/3DGen-Arena) | 3DGen Arena hosts the 3D generation arena, where various 3D generative models compete based on their performance in generating 3D models. |
 | [BOP](https://bop.felk.cvut.cz/leaderboards) | BOP is a benchmark for 6D pose estimation of a rigid object from a single RGB-D input image. |
 | [GPTEval3D](https://huggingface.co/spaces/GPTEval3D/Leaderboard_dev) | GPTEval3D is a benchmark to evaluate MLLMs' capabiltiies of 3D content understanding via multi-view images as input. |
+
+## Database Ranking
+
+| Name | Description |
+| ---- | ----------- |
+| [VectorDBBench](https://zilliz.com/vector-database-benchmark-tool) | VectorDBBench is a benchmark to evaluate performance, cost-effectiveness, and scalability of various vector databases and cloud-based vector database services. |
 
 ## Dataset Ranking
 
