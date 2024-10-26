@@ -44,7 +44,7 @@ Also, a leaderboard should be included if only:
 ## Table of Contents
 - [**Tools**](#tools)
 - [**Challenges**](#challenges)
-- [**Evaluations**](#evaluations)
+- [**Rankings**](#rankings)
     - [Model Ranking](#model-ranking)
         - [Comprehensive](#comprehensive)
         - [Text](#text)
@@ -100,7 +100,7 @@ Also, a leaderboard should be included if only:
 
 
 
-# Evaluations
+# Rankings
 
 ## Model Ranking
 
