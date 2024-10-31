@@ -171,6 +171,7 @@ Also, a leaderboard should be included if only:
 | [CyberMetric](https://github.com/cybermetric/CyberMetric?tab=readme-ov-file#llm-leaderboard-on-cybermetric-dataset) | CyberMetric is a benchmark to evaluate the cybersecurity knowledge of LLMs. |
 | [CzechBench](https://huggingface.co/spaces/CIIRC-NLP/czechbench_leaderboard) | CzechBench is a benchmark to evaluate Czech language models. |
 | [C-Eval](https://cevalbenchmark.com/static/leaderboard.html) | C-Eval is a Chinese evaluation suite for LLMs. |
+| [Decentralized Arena Leaderboard](https://huggingface.co/spaces/LLM360/de-arena) | Decentralized Arena hosts a decentralized and democratic platform for LLM evaluation, automating and scaling assessments across diverse, user-defined dimensions, including mathematics, logic, and science. |
 | [DecodingTrust](https://decodingtrust.github.io/leaderboard) | DecodingTrust is a platform to evaluate the trustworthiness of LLMs. |
 | [Domain LLM Leaderboard](https://huggingface.co/spaces/NexaAIDev/domain_llm_leaderboard) | Domain LLM Leaderboard is a platform to evaluate the popularity of domain-specific LLMs. |
 | [Enterprise Scenarios leaderboard](https://huggingface.co/spaces/PatronusAI/enterprise_scenarios_leaderboard) | Enterprise Scenarios Leaderboard tracks and evaluates the performance of LLMs on real-world enterprise use cases. |
