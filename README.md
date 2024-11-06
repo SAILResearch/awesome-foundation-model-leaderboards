@@ -259,6 +259,7 @@ Also, a leaderboard should be included if only:
 | [MedBench](https://medbench.opencompass.org.cn/leaderboard) | MedBench is a benchmark to evaluate the mastery of knowledge and reasoning abilities in medical LLMs. |
 | [MedS-Bench](https://henrychur.github.io/MedS-Bench) | MedS-Bench is a medical benchmark that evaluates LLMs across 11 task categories using 39 diverse datasets. |
 | [Meta Open LLM leaderboard](https://huggingface.co/spaces/felixz/meta_open_llm_leaderboard) | The Meta Open LLM leaderboard serves as a central hub for consolidating data from various open LLM leaderboards into a single, user-friendly visualization page. |
+| [MIMIC Clinical Decision Making Leaderboard](https://huggingface.co/spaces/MIMIC-CDM/leaderboard) | MIMIC Clinical Decision Making Leaderboard tracks and evaluates LLms in realistic clinical decision-making for abdominal pathologies. |
 | [MixEval](https://mixeval.github.io/#leaderboard) | MixEval is a benchmark to evaluate LLMs via by strategically mixing off-the-shelf benchmarks. |
 | [ML.ENERGY Leaderboard](https://ml.energy/leaderboard) | ML.ENERGY Leaderboard evaluates the energy consumption of LLMs. |
 | [MMedBench](https://henrychur.github.io/MultilingualMedQA) | MMedBench is a medical benchmark to evaluate LLMs in multilingual comprehension. |
