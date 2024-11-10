@@ -366,6 +366,7 @@ Also, a leaderboard should be included if only:
 | [ViDoRe](https://huggingface.co/spaces/vidore/vidore-leaderboard) | ViDoRe is a benchmark to evaluate retrieval models on their capacity to match queries to relevant documents at the page level. |
 | [VLLMs Leaderboard](https://huggingface.co/spaces/vlsp-2023-vllm/VLLMs-Leaderboard) | VLLMs Leaderboard aims to track, rank and evaluate open LLMs and chatbots. |
 | [VMLU](https://vmlu.ai/leaderboard) | VMLU is a benchmark to evaluate overall capabilities of foundation models in Vietnamese. |
+| [WildBench](https://huggingface.co/spaces/allenai/WildBench) | WildBench is a benchmark for evaluating language models on challenging tasks that closely resemble real-world applications. |
 | [Xiezhi](https://github.com/MikeGu721/XiezhiBenchmark?tab=readme-ov-file#leaderboard) | Xiezhi is a benchmark for holistic domain knowledge evaluation of LLMs. |
 | [Yanolja Arena](https://huggingface.co/spaces/yanolja/arena) | Yanolja Arena host a model arena to evaluate the capabilities of LLMs in summarizing and translating text. |
 | [Yet Another LLM Leaderboard](https://huggingface.co/spaces/mlabonne/Yet_Another_LLM_Leaderboard) | Yet Another LLM Leaderboard is a platform for tracking, ranking, and evaluating open LLMs and chatbots. |
@@ -427,7 +428,7 @@ Also, a leaderboard should be included if only:
 | [VisIT-Bench](https://visit-bench.github.io) | VisIT-Bench is a benchmark to evaluate the instruction-following capabilities of MLLMs for real-world use. |
 | [Waymo Open Dataset Challenges](https://waymo.com/open/challenges) | Waymo Open Dataset Challenges hold diverse self-driving datasets to evaluate ML models. |
 | [WHOOPS!](https://huggingface.co/spaces/nlphuji/WHOOPS-Leaderboard-Full) | WHOOPS! is a benchmark to evaluate the visual commonsense reasoning abilities of MLLMs. |
-| [WildBench](https://huggingface.co/spaces/allenai/WildBench) | WildBench is a benchmark for evaluating language models on challenging tasks that closely resemble real-world applications. |
+| [WildVision-Bench](https://github.com/WildVision-AI/WildVision-Bench?tab=readme-ov-file#leaderboard-vision_bench_0617) | WildVision-Bench is a benchmark to evaluate VLMs in the wild with human preferences. |
 | [WildVision Arena](https://huggingface.co/spaces/WildVision/vision-arena) | WildVision Arena hosts the chatbot arena where various MLLMs compete based on their performance in visual understanding. |
 
 ### Code
