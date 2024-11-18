@@ -114,6 +114,7 @@ Also, a leaderboard should be included if only:
 | [GenAI Arena](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) | GenAI Arena hosts the visual generation arena, where various vision models compete based on their performance in image generation, image edition, and video generation. |
 | [Generative AI Leaderboards](https://accubits.com/generative-ai-models-leaderboard) | Generative AI Leaderboard ranks the top-performing generative AI models based on various metrics. |
 | [Holistic Evaluation of Language Models](https://crfm.stanford.edu/helm) | Holistic Evaluation of Language Models (HELM) is a reproducible and transparent framework for evaluating foundation models. |
+| [MEGA-Bench](https://huggingface.co/spaces/TIGER-Lab/MEGA-Bench) | MEGA-Bench is a benchmark for multimodal evaluation with diverse tasks across 8 application types, 7 input formats, 6 output formats, and 10 multimodal skills, spanning single-image, multi-image, and video tasks. |
 | [Papers With Code](https://paperswithcode.com) | Papers With Code provides open-source leaderboards and benchmarks, linking AI research papers with code to foster transparency and reproducibility in machine learning. |
 | [SuperCLUE](https://www.superclueai.com) | SuperCLUE is a series of benchmarks for evaluating Chinese foundation models. |
 | [Vals AI](https://www.vals.ai) | Vals AI is a platform evaluating generative AI accuracy and efficacy on real-world legal tasks. |
