@@ -153,6 +153,7 @@ Also, a leaderboard should be included if only:
 | [Chain-of-Thought Hub](https://github.com/FranxYao/chain-of-thought-hub?tab=readme-ov-file#leaderboard---main) | Chain-of-Thought Hub is a benchmark to evaluate the reasoning capabilities of LLMs. |
 | [Chatbot Arena](https://lmarena.ai/?leaderboard) | Chatbot Arena hosts a chatbot arena where various LLMs compete based on user satisfaction. |
 | [ChemBench](https://lamalab-org.github.io/chem-bench/leaderboard) | ChemBench is a benchmark to evaluate the chemical knowledge and reasoning abilities of LLMs. |
+| [Chinese SimpleQA](http://47.109.32.164) | Chinese SimpleQA is a Chinese benchmark to evaluate the factuality ability of language models to answer short questions. |
 | [CLEM Leaderboard](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard) | CLEM is a framework designed for the systematic evaluation of chat-optimized LLMs as conversational agents. |
 | [CLEVA](http://www.lavicleva.com) | CLEVA is a benchmark to evaluate LLMs on 31 tasks using 370K Chinese queries from 84 diverse datasets and 9 metrics. |
 | [Chinese Large Model Leaderboard](https://github.com/jeinlee1991/chinese-llm-benchmark?tab=readme-ov-file#-%E6%8E%92%E8%A1%8C%E6%A6%9C) | Chinese Large Model Leaderboard is a platform to evaluate the performance of Chinese LLMs. |
