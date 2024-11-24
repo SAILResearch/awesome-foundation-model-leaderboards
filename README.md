@@ -55,6 +55,7 @@ Also, a leaderboard should be included if only:
         - [Agent](#agent)
         - [Audio](#audio)
         - [3D](#3d)
+        - [Multimodal](#multimodal)
     - [Database Ranking](#database-ranking)
     - [Dataset Ranking](#dataset-ranking)
     - [Metric Ranking](#metric-ranking)
@@ -111,13 +112,10 @@ Also, a leaderboard should be included if only:
 | [Artificial Analysis](https://artificialanalysis.ai) | Artificial Analysis is a platform to help users make informed decisions on AI model selection and hosting providers. |
 | [CompassRank](https://rank.opencompass.org.cn) | CompassRank is a platform to offer a comprehensive, objective, and neutral evaluation reference of foundation mdoels for the industry and research. |
 | [FlagEval](https://flageval.baai.ac.cn/#/leaderboard) | FlagEval is a comprehensive platform for evaluating foundation models. |
-| [GenAI Arena](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) | GenAI Arena hosts the visual generation arena, where various vision models compete based on their performance in image generation, image edition, and video generation. |
 | [Generative AI Leaderboards](https://accubits.com/generative-ai-models-leaderboard) | Generative AI Leaderboard ranks the top-performing generative AI models based on various metrics. |
 | [Holistic Evaluation of Language Models](https://crfm.stanford.edu/helm) | Holistic Evaluation of Language Models (HELM) is a reproducible and transparent framework for evaluating foundation models. |
-| [MEGA-Bench](https://huggingface.co/spaces/TIGER-Lab/MEGA-Bench) | MEGA-Bench is a benchmark for multimodal evaluation with diverse tasks across 8 application types, 7 input formats, 6 output formats, and 10 multimodal skills, spanning single-image, multi-image, and video tasks. |
 | [Papers With Code](https://paperswithcode.com) | Papers With Code provides open-source leaderboards and benchmarks, linking AI research papers with code to foster transparency and reproducibility in machine learning. |
 | [SuperCLUE](https://www.superclueai.com) | SuperCLUE is a series of benchmarks for evaluating Chinese foundation models. |
-| [Vals AI](https://www.vals.ai) | Vals AI is a platform evaluating generative AI accuracy and efficacy on real-world legal tasks. |
 | [Vellum LLM Leaderboard](https://www.vellum.ai/llm-leaderboard) | Vellum LLM Leaderboard shows a comparison of capabilities, price and context window for leading commercial and open-source LLMs. |
 
 ### Text
@@ -364,6 +362,7 @@ Also, a leaderboard should be included if only:
 | [T-Eval](https://open-compass.github.io/T-Eval/leaderboard.html) | T-Eval is a benchmark for evaluating the tool utilization capability of LLMs. |
 | [UGI Leaderboard](https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard) | UGI Leaderboard measures and compares the uncensored and controversial information known by LLMs. |
 | [UltraEval](https://ultraeval.openbmb.cn/rank) | UltraEval is an open-source framework for transparent and reproducible benchmarking of LLMs across various performance dimensions. |
+| [Vals AI](https://www.vals.ai) | Vals AI is a platform evaluating generative AI accuracy and efficacy on real-world legal tasks. |
 | [VCR](https://visualcommonsense.com/leaderboard) | Visual Commonsense Reasoning (VCR) is a benchmark for cognition-level visual understanding, requiring models to answer visual questions and provide rationales for their answers. |
 | [ViDoRe](https://huggingface.co/spaces/vidore/vidore-leaderboard) | ViDoRe is a benchmark to evaluate retrieval models on their capacity to match queries to relevant documents at the page level. |
 | [VLLMs Leaderboard](https://huggingface.co/spaces/vlsp-2023-vllm/VLLMs-Leaderboard) | VLLMs Leaderboard aims to track, rank and evaluate open LLMs and chatbots. |
@@ -566,6 +565,12 @@ Also, a leaderboard should be included if only:
 | [3DGen Arena](https://huggingface.co/spaces/ZhangYuhan/3DGen-Arena) | 3DGen Arena hosts the 3D generation arena, where various 3D generative models compete based on their performance in generating 3D models. |
 | [BOP](https://bop.felk.cvut.cz/leaderboards) | BOP is a benchmark for 6D pose estimation of a rigid object from a single RGB-D input image. |
 | [GPTEval3D](https://huggingface.co/spaces/GPTEval3D/Leaderboard_dev) | GPTEval3D is a benchmark to evaluate MLLMs' capabiltiies of 3D content understanding via multi-view images as input. |
+
+### Multimodal
+
+| [GenAI Arena](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) | GenAI Arena hosts the visual generation arena, where various vision models compete based on their performance in image generation, image edition, and video generation. |
+| [Labelbox Leaderboards](https://labelbox.com/leaderboards) | Labelbox Leaderboards evaluate performance of generative AI models using their data factory: platform, scientific process and expert humans.
+| [MEGA-Bench](https://huggingface.co/spaces/TIGER-Lab/MEGA-Bench) | MEGA-Bench is a benchmark for multimodal evaluation with diverse tasks across 8 application types, 7 input formats, 6 output formats, and 10 multimodal skills, spanning single-image, multi-image, and video tasks. |
 
 ## Database Ranking
 
