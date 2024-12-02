@@ -1,4 +1,5 @@
 <div align="center">
+    <img src="https://github.com/user-attachments/assets/7d987c01-a398-413c-9860-c1704352a7fe" alt="lbops" width="300"/>
     <h1>Awesome Foundation Model Leaderboard</h1>
     <a href="https://awesome.re">
         <img src="https://awesome.re/badge.svg" height="20"/>
@@ -6,8 +7,8 @@
     <a href="https://github.com/SAILResearch/awesome-foundation-model-leaderboards/fork">
         <img src="https://img.shields.io/badge/PRs-Welcome-red" height="20"/>
     </a>
-    <a href="https://arxiv.org/abs/2407.04065">
-        <img src="https://img.shields.io/badge/📃-Arxiv-b31b1b" height="20"/>
+    <a href="https://arxiv.org/pdf/2407.04065.pdf">
+        <img src="https://img.shields.io/badge/Arxiv-2407.04065-red" height="20"/>
     </a>
 </div>
 
