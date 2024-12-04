@@ -458,7 +458,7 @@ Also, a leaderboard should be included if only:
 | [DevOps AI Assistant Open Leaderboard](https://github.com/opstower-ai/devops-ai-open-leaderboard?tab=readme-ov-file#-current-leaderboard) | DevOps AI Assistant Open Leaderboard tracks, ranks, and evaluates DevOps AI Assistants across knowledge domains. |
 | [DevOps-Eval](https://github.com/codefuse-ai/codefuse-devops-eval?tab=readme-ov-file#-leaderboard) | DevOps-Eval is a benchmark to evaluate code models in the DevOps/AIOps field. |
 | [DomainEval](https://domaineval.github.io/leaderboard.html) | DomainEval is an auto-constructed benchmark for multi-domain code generation. |
-| [Dr.Spider](https://github.com/awslabs/diagnostic-robustness-text-to-sql?tab=readme-ov-file#leaderboard) | Dr.Spider is a benchmark to evaluate the robustness of text-to-SQL models using 17 perturbation test sets from various angles. |
+| [Dr.Spider](https://github.com/awslabs/diagnostic-robustness-text-to-sql?tab=readme-ov-file#leaderboard) | Dr.Spider is a benchmark to evaluate the robustness of text-to-SQL models using different perturbation test sets. |
 | [EffiBench](https://huggingface.co/spaces/EffiBench/effibench-leaderboard) | EffiBench is a benchmark to evaluate the efficiency of LLMs in code generation. |
 | [EvalPlus](https://evalplus.github.io/leaderboard.html) | EvalPlus is a benchmark to evaluate the code generation performance of LLMs. |
 | [EvoCodeBench](https://github.com/seketeam/EvoCodeBench?tab=readme-ov-file#leaderboard) | EvoCodeBench is an evolutionary code generation benchmark aligned with real-world code repositories. |
