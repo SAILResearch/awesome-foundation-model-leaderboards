@@ -71,6 +71,7 @@ Also, a leaderboard should be included if only:
 | ---- | ----------- |
 | [Demo Leaderboard](https://huggingface.co/spaces/demo-leaderboard-backend/leaderboard) | Demo leaderboard helps users easily deploy their leaderboards with a standardized template. |
 | [Demo Leaderboard Backend](https://huggingface.co/spaces/demo-leaderboard-backend/backend) | Demo leaderboard backend helps users manage the leaderboard and handle submission requests, check [this](https://huggingface.co/docs/leaderboards/leaderboards/building_page) for details. |
+| [Kaggle Competition Creation](https://www.kaggle.com/competitions?new=true) | Kaggle Competition Creation enables you to design and launch custom competitions, leveraging your datasets to engage the data science community. |
 | [Leaderboard Explorer](https://huggingface.co/spaces/leaderboards/LeaderboardsExplorer) | Leaderboard Explorer helps users navigate the diverse range of leaderboards available on Hugging Face Spaces. |
 | [Open LLM Leaderboard Renamer](https://huggingface.co/spaces/Weyaxi/open-llm-leaderboard-renamer) | open-llm-leaderboard-renamer helps users rename their models in Open LLM Leaderboard easily. |
 | [Open LLM Leaderboard Results PR Opener](https://huggingface.co/spaces/Weyaxi/leaderboard-results-to-modelcard) | Open LLM Leaderboard Results PR Opener helps users showcase Open LLM Leaderboard results in their model cards. |
