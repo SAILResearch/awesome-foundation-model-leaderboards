@@ -486,6 +486,7 @@ Also, a leaderboard should be included if only:
 | [StableToolBench](https://huggingface.co/spaces/stabletoolbench/Stable_Tool_Bench_Leaderboard) | StableToolBench is a benchmark to evaluate tool learning that aims to provide a well-balanced combination of stability and reality. |
 | [SWE-bench](https://www.swebench.com) | SWE-bench is a benchmark for evaluating LLMs on real-world software issues collected from GitHub. |
 | [WebApp1K](https://huggingface.co/spaces/onekq-ai/WebApp1K-models-leaderboard) | WebApp1K is a benchmark to evaluate LLMs on their abilities to develop real-world web applications. |
+| [WebDev Arena](https://web.lmarena.ai/leaderboard) | WebDev Arena hosts a chatbot arena where various LLMs compete based on website development. |
 | [WILDS](https://wilds.stanford.edu/leaderboard) | WILDS is a benchmark of in-the-wild distribution shifts spanning diverse data modalities and applications, from tumor identification to wildlife monitoring to poverty mapping. |
 
 ### Video
