@@ -126,7 +126,6 @@ Also, a leaderboard should be included if only:
 | ---- | ----------- |
 | [ACLUE](https://github.com/isen-zhang/ACLUE/blob/main/README_EN.md#leaderboard-) | ACLUE is an evaluation benchmark for ancient Chinese language comprehension. |
 | [African Languages LLM Eval Leaderboard](https://huggingface.co/spaces/taresco/open_african_languages_eval_leaderboard) | African Languages LLM Eval Leaderboard tracks progress and ranks performance of LLMs on African languages. |
-| [AgentBoard](https://hkust-nlp.github.io/agentboard/static/leaderboard.html) | AgentBoard is a benchmark for multi-turn LLM agents, complemented by an analytical evaluation board for detailed model assessment beyond final success rates. |
 | [AGIEval](https://github.com/ruixiangcui/AGIEval?tab=readme-ov-file#leaderboard) | AGIEval is a human-centric benchmark to evaluate the general abilities of foundation models in tasks pertinent to human cognition and problem-solving. |
 | [Aiera Leaderboard](https://huggingface.co/spaces/Aiera/aiera-finance-leaderboard) | Aiera Leaderboard evaluates LLM performance on financial intelligence tasks, including speaker assignments, speaker change identification, abstractive summarizations, calculation-based Q&A, and financial sentiment tagging. |
 | [AIR-Bench](https://huggingface.co/spaces/AIR-Bench/leaderboard) | AIR-Bench is a benchmark to evaluate heterogeneous information retrieval capabilities of language models. |
@@ -532,7 +531,9 @@ Also, a leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [AgentBench](https://llmbench.ai/agent/data) | AgentBench is the benchmark to evaluate language model-as-Agent across a diverse spectrum of different environments. |
+| [AgentBoard](https://hkust-nlp.github.io/agentboard/static/leaderboard.html) | AgentBoard is a benchmark for multi-turn LLM agents, complemented by an analytical evaluation board for detailed model assessment beyond final success rates. |
 | [AgentStudio](https://skyworkai.github.io/agent-studio) | AgentStudio is an integrated solution featuring in-depth benchmark suites, realistic environments, and comprehensive toolkits. |
+| [BrowserGym Leaderboard](https://huggingface.co/spaces/ServiceNow/browsergym-leaderboard) | BrowserGym Leaderboard is a platform to evaluate LLMs, VLMs, and agents on web navigation tasks. |
 | [CharacterEval](https://github.com/morecry/CharacterEval?tab=readme-ov-file#leaderboard) | CharacterEval is a benchmark to evaluate Role-Playing Conversational Agents (RPCAs) using multi-turn dialogues and character profiles, with metrics spanning four dimensions. |
 | [GTA](https://github.com/open-compass/GTA?tab=readme-ov-file#leaderboard) | GTA is a benchmark to evaluate the tool-use capability of LLM-based agents in real-world scenarios.
 | [Leetcode-Hard Gym](https://github.com/GammaTauAI/leetcode-hard-gym?tab=readme-ov-file#leaderboard-for-leetcode-hard-python-pass1) | Leetcode-Hard Gym is an RL environment interface to LeetCode's submission server for evaluating codegen agents. |
