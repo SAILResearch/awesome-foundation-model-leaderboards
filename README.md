@@ -23,11 +23,12 @@
 If you find this repository useful, please consider giving us a star :star: and citation:
 
 ```
-@article{zhao2024workflows,
+@article{zhao2025workflows,
   title={On the Workflows and Smells of Leaderboard Operations (LBOps): An Exploratory Study of Foundation Model Leaderboards},
   author={Zhao, Zhimin and Bangash, Abdul Ali and C{\^o}go, Filipe Roseiro and Adams, Bram and Hassan, Ahmed E},
-  journal={arXiv preprint arXiv:2407.04065},
-  year={2024}
+  journal={IEEE Transactions on Software Engineering},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
