@@ -58,6 +58,7 @@ Also, a leaderboard should be included if only:
         - [Audio](#audio)
         - [3D](#3d)
         - [Multimodal](#multimodal)
+        - [Medical](#medical)
     - [Database Ranking](#database-ranking)
     - [Dataset Ranking](#dataset-ranking)
     - [Metric Ranking](#metric-ranking)
@@ -157,7 +158,6 @@ Also, a leaderboard should be included if only:
 | [CLEM Leaderboard](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard) | CLEM is a framework designed for the systematic evaluation of chat-optimized LLMs as conversational agents. |
 | [CLEVA](http://www.lavicleva.com) | CLEVA is a benchmark to evaluate LLMs on 31 tasks using 370K Chinese queries from 84 diverse datasets and 9 metrics. |
 | [Chinese Large Model Leaderboard](https://github.com/jeinlee1991/chinese-llm-benchmark?tab=readme-ov-file#-%E6%8E%92%E8%A1%8C%E6%A6%9C) | Chinese Large Model Leaderboard is a platform to evaluate the performance of Chinese LLMs. |
-| [CMB](https://cmedbenchmark.llmzoo.com/static/leaderboard.html) | CMB is a multi-level medical benchmark in Chinese. |
 | [CMMLU](https://github.com/haonan-li/CMMLU/blob/master/README_EN.md#leaderboard) | CMMLU is a benchmark to evaluate the performance of LLMs in various subjects within the Chinese cultural context. |
 | [CMMMU](https://cmmmu-benchmark.github.io/#leaderboard) | CMMMU is a benchmark to evaluate LMMs on tasks demanding college-level subject knowledge and deliberate reasoning in a Chinese context. |
 | [CommonGen](https://inklab.usc.edu/CommonGen/leaderboard.html) | CommonGen is a benchmark to evaluate generative commonsense reasoning by testing machines on their ability to compose coherent sentences using a given set of common concepts. |
@@ -213,7 +213,6 @@ Also, a leaderboard should be included if only:
 | [Japanese Chatbot Arena](https://huggingface.co/spaces/yutohub/japanese-chatbot-arena-leaderboard) | Japanese Chatbot Arena hosts the chatbot arena, where various LLMs compete based on their performance in Japanese. |
 | [Japanese Language Model Financial Evaluation Harness](https://github.com/pfnet-research/japanese-lm-fin-harness?tab=readme-ov-file#0-shot-leaderboard) | Japanese Language Model Financial Evaluation Harness is a harness for Japanese language model evaluation in the financial domain. |
 | [Japanese LLM Roleplay Benchmark](https://github.com/oshizo/japanese-llm-roleplay-benchmark?tab=readme-ov-file#leaderboard-v20231103) | Japanese LLM Roleplay Benchmark is a benchmark to evaluate the performance of Japanese LLMs in character roleplay. |
-| [JMED-LLM](https://github.com/sociocom/JMED-LLM?tab=readme-ov-file#leaderboard) | JMED-LLM (Japanese Medical Evaluation Dataset for Large Language Models) is a benchmark for evaluating LLMs in the medical field of Japanese. |
 | [JMMMU](https://huggingface.co/spaces/JMMMU/JMMMU_Leaderboard) | JMMMU (Japanese MMMU) is a multimodal benchmark to evaluate LMM performance in Japanese. |
 | [JustEval](https://allenai.github.io/re-align/just_eval.html) | JustEval is a powerful tool designed for fine-grained evaluation of LLMs. |
 | [KoLA](http://103.238.162.37:31622/LeaderBoard) | KoLA is a benchmark to evaluate the world knowledge of LLMs. |
@@ -257,14 +256,10 @@ Also, a leaderboard should be included if only:
 | [M3KE](https://github.com/tjunlp-lab/M3KE?tab=readme-ov-file#evaluation-leaderboard-more-models-to-be-added) | M3KE is a massive multi-level multi-subject knowledge evaluation benchmark to measure the knowledge acquired by Chinese LLMs. |
 | [MetaCritique](https://github.com/GAIR-NLP/MetaCritique?tab=readme-ov-file#leaderboard) | MetaCritique is a judge that can evaluate human-written or LLMs-generated critique by generating critique. |
 | [MINT](https://xwang.dev/mint-bench) | MINT is a benchmark to evaluate LLMs' ability to solve tasks with multi-turn interactions by using tools and leveraging natural language feedback. |
-| [Mirage](https://teddy-xionggz.github.io/MIRAGE) | Mirage is a benchmark for medical information retrieval-augmented generation, featuring 7,663 questions from five medical QA datasets and tested with 41 configurations using the MedRag toolkit. |
-| [MedBench](https://medbench.opencompass.org.cn/leaderboard) | MedBench is a benchmark to evaluate the mastery of knowledge and reasoning abilities in medical LLMs. |
-| [MedS-Bench](https://henrychur.github.io/MedS-Bench) | MedS-Bench is a medical benchmark that evaluates LLMs across 11 task categories using 39 diverse datasets. |
 | [Meta Open LLM leaderboard](https://huggingface.co/spaces/felixz/meta_open_llm_leaderboard) | The Meta Open LLM leaderboard serves as a central hub for consolidating data from various open LLM leaderboards into a single, user-friendly visualization page. |
 | [MIMIC Clinical Decision Making Leaderboard](https://huggingface.co/spaces/MIMIC-CDM/leaderboard) | MIMIC Clinical Decision Making Leaderboard tracks and evaluates LLms in realistic clinical decision-making for abdominal pathologies. |
 | [MixEval](https://mixeval.github.io/#leaderboard) | MixEval is a benchmark to evaluate LLMs via by strategically mixing off-the-shelf benchmarks. |
 | [ML.ENERGY Leaderboard](https://ml.energy/leaderboard) | ML.ENERGY Leaderboard evaluates the energy consumption of LLMs. |
-| [MMedBench](https://henrychur.github.io/MultilingualMedQA) | MMedBench is a medical benchmark to evaluate LLMs in multilingual comprehension. |
 | [MMLU](https://github.com/hendrycks/test?tab=readme-ov-file#test-leaderboard) | MMLU is a benchmark to evaluate the performance of LLMs across a wide array of natural language understanding tasks. |
 | [MMLU-by-task Leaderboard](https://huggingface.co/spaces/CoreyMorris/MMLU-by-task-Leaderboard) | MMLU-by-task Leaderboard provides a platform for evaluating and comparing various ML models across different language understanding tasks. |
 | [MMLU-Pro](https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro) | MMLU-Pro is a more challenging version of MMLU to evaluate the reasoning capabilities of LLMs. |
@@ -295,7 +290,6 @@ Also, a leaderboard should be included if only:
 | [Open ITA LLM Leaderboard](https://huggingface.co/spaces/FinancialSupport/open_ita_llm_leaderboard) | Open ITA LLM Leaderboard tracks progress and ranks the performance of LLMs in Italian. |
 | [Open Ko-LLM Leaderboard](https://huggingface.co/spaces/upstage/open-ko-llm-leaderboard) | Open Ko-LLM Leaderboard tracks progress and ranks the performance of LLMs in Korean. |
 | [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) | Open LLM Leaderboard tracks progress and ranks the performance of LLMs in English. |
-| [Open Medical-LLM Leaderboard](https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard) | Open Medical-LLM Leaderboard aims to track, rank, and evaluate open LLMs in the medical domain. |
 | [Open MLLM Leaderboard](https://huggingface.co/spaces/Wwwduojin/MLLM_leaderboard) | Open MLLM Leaderboard aims to track, rank and evaluate LLMs and chatbots. |
 | [Open MOE LLM Leaderboard](https://huggingface.co/spaces/sparse-generative-ai/open-moe-llm-leaderboard) | OPEN MOE LLM Leaderboard assesses the performance and efficiency of various Mixture of Experts (MoE) LLMs. |
 | [Open Multilingual LLM Evaluation Leaderboard](https://huggingface.co/spaces/uonlp/open_multilingual_llm_leaderboard) | Open Multilingual LLM Evaluation Leaderboard tracks progress and ranks the performance of LLMs in multiple languages. |
@@ -309,9 +303,6 @@ Also, a leaderboard should be included if only:
 | [Persian LLM Leaderboard](https://huggingface.co/spaces/MatinaAI/persian_llm_leaderboard) | Persian LLM Leaderboard provides a reliable evaluation of LLMs in Persian Language. |
 | [Pinocchio ITA leaderboard](https://huggingface.co/spaces/mii-llm/pinocchio-ita-leaderboard) | Pinocchio ITA leaderboard tracks and evaluates LLMs in Italian Language. |
 | [PL-MTEB](https://huggingface.co/spaces/PL-MTEB/leaderboard) | PL-MTEB (Polish Massive Text Embedding Benchmark) is a benchmark for evaluating text embeddings in Polish across 28 NLP tasks. |
-| [Polish Medical Leaderboard](https://huggingface.co/spaces/speakleash/polish_medical_leaderboard) | Polish Medical Leaderboard evaluates language models on Polish board certification examinations. |
-| [Powered-by-Intel LLM Leaderboard](https://huggingface.co/spaces/Intel/powered_by_intel_llm_leaderboard) | Powered-by-Intel LLM Leaderboard evaluates, scores, and ranks LLMs that have been pre-trained or fine-tuned on Intel Hardware. |
-| [PubMedQA](https://pubmedqa.github.io) | PubMedQA is a benchmark to evaluate biomedical research question answering. |
 | [PromptBench](https://llm-eval.github.io/pages/leaderboard) | PromptBench is a benchmark to evaluate the robustness of LLMs on adversarial prompts. |
 | [QAConv](https://github.com/salesforce/QAConv?tab=readme-ov-file#leaderboard) | QAConv is a benchmark for question answering using complex, domain-specific, and asynchronous conversations as the knowledge source. |
 | [QuALITY](https://nyu-mll.github.io/quality) | QuALITY is a benchmark for evaluating multiple-choice question-answering with a long context. |
@@ -384,7 +375,6 @@ Also, a leaderboard should be included if only:
 | [AesBench](https://aesbench.github.io) | AesBench is a benchmark to evaluate MLLMs on image aesthetics perception. |
 | [BLINK](https://github.com/zeyofu/BLINK_Benchmark?tab=readme-ov-file#-mini-leaderboard) | BLINK is a benchmark to evaluate the core visual perception abilities of MLLMs. |
 | [BlinkCode](https://huggingface.co/spaces/yajuniverse/BlinkCode_leaderboard) | BlinkCode is a benchmark to evaluate MLLMs across 15 vision-language models (VLMs) and 9 tasks, measuring accuracy and image reconstruction performance. |
-| [CARES](https://cares-ai.github.io/#leaderboard) | CARES is a benchmark to evaluate the trustworthiness of Med-LVLMs across trustfulness, fairness, safety, privacy, and robustness using 41K question-answer pairs from 16 medical image modalities and 27 anatomical regions. |
 | [ChartMimic](https://chartmimic.github.io) | ChartMimic is a benchmark to evaluate the visually-grounded code generation capabilities of large multimodal models using charts and textual instructions. |
 | [CharXiv](https://charxiv.github.io/#leaderboard) | CharXiv is a benchmark to evaluate chart understanding capabilities of MLLMs. |
 | [ConTextual](https://huggingface.co/spaces/ucla-contextual/contextual_leaderboard) | ConTextual is a benchmark to evaluate MLLMs across context-sensitive text-rich visual reasoning tasks. |
@@ -578,6 +568,23 @@ Also, a leaderboard should be included if only:
 | [GenAI Arena](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) | GenAI Arena hosts the visual generation arena, where various vision models compete based on their performance in image generation, image edition, and video generation. |
 | [Labelbox Leaderboards](https://labelbox.com/leaderboards) | Labelbox Leaderboards evaluate performance of generative AI models using their data factory: platform, scientific process and expert humans.
 | [MEGA-Bench](https://huggingface.co/spaces/TIGER-Lab/MEGA-Bench) | MEGA-Bench is a benchmark for multimodal evaluation with diverse tasks across 8 application types, 7 input formats, 6 output formats, and 10 multimodal skills, spanning single-image, multi-image, and video tasks. |
+
+### Medical
+
+| Name | Description |
+| ---- | ----------- |
+| [CARES](https://cares-ai.github.io/#leaderboard) | CARES is a benchmark to evaluate the trustworthiness of Med-LVLMs across trustfulness, fairness, safety, privacy, and robustness using 41K question-answer pairs from 16 medical image modalities and 27 anatomical regions. |
+| [CMB](https://cmedbenchmark.llmzoo.com/static/leaderboard.html) | CMB is a multi-level medical benchmark in Chinese. |
+| [JMED-LLM](https://github.com/sociocom/JMED-LLM?tab=readme-ov-file#leaderboard) | JMED-LLM (Japanese Medical Evaluation Dataset for Large Language Models) is a benchmark for evaluating LLMs in the medical field of Japanese. |
+| [Mirage](https://teddy-xionggz.github.io/MIRAGE) | Mirage is a benchmark for medical information retrieval-augmented generation, featuring 7,663 questions from five medical QA datasets and tested with 41 configurations using the MedRag toolkit. |
+| [MedArena](https://medarena.ai/leaderboard) | MedArena provides a platform for clinicians to compare the performance of different LLMs on clinical tasks. |
+| [MedBench](https://medbench.opencompass.org.cn/leaderboard) | MedBench is a benchmark to evaluate the mastery of knowledge and reasoning abilities in medical LLMs. |
+| [MedS-Bench](https://henrychur.github.io/MedS-Bench) | MedS-Bench is a medical benchmark that evaluates LLMs across 11 task categories using 39 diverse datasets. |
+| [MMedBench](https://henrychur.github.io/MultilingualMedQA) | MMedBench is a medical benchmark to evaluate LLMs in multilingual comprehension. |
+| [Open Medical-LLM Leaderboard](https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard) | Open Medical-LLM Leaderboard aims to track, rank, and evaluate open LLMs in the medical domain. |
+| [Polish Medical Leaderboard](https://huggingface.co/spaces/speakleash/polish_medical_leaderboard) | Polish Medical Leaderboard evaluates language models on Polish board certification examinations. |
+| [Powered-by-Intel LLM Leaderboard](https://huggingface.co/spaces/Intel/powered_by_intel_llm_leaderboard) | Powered-by-Intel LLM Leaderboard evaluates, scores, and ranks LLMs that have been pre-trained or fine-tuned on Intel Hardware. |
+| [PubMedQA](https://pubmedqa.github.io) | PubMedQA is a benchmark to evaluate biomedical research question answering. |
 
 ## Database Ranking
 
