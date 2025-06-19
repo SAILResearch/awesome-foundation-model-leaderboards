@@ -118,6 +118,7 @@ Also, a leaderboard should be included if only:
 | [FlagEval](https://flageval.baai.ac.cn/#/leaderboard) | FlagEval is a comprehensive platform for evaluating foundation models. |
 | [Generative AI Leaderboards](https://accubits.com/generative-ai-models-leaderboard) | Generative AI Leaderboard ranks the top-performing generative AI models based on various metrics. |
 | [Holistic Evaluation of Language Models](https://crfm.stanford.edu/helm) | Holistic Evaluation of Language Models (HELM) is a reproducible and transparent framework for evaluating foundation models. |
+| [LMArena](https://lmarena.ai/leaderboard) | LMArena operates a chatbot arena where various foundation models compete based on user preferences across multiple categories: text generation, web development, computer vision, text-to-image synthesis, search capabilities, and coding assistance. |
 | [Papers With Code](https://paperswithcode.com) | Papers With Code provides open-source leaderboards and benchmarks, linking AI research papers with code to foster transparency and reproducibility in machine learning. |
 | [SuperCLUE](https://www.superclueai.com) | SuperCLUE is a series of benchmarks for evaluating Chinese foundation models. |
 | [Vellum LLM Leaderboard](https://www.vellum.ai/llm-leaderboard) | Vellum LLM Leaderboard shows a comparison of capabilities, price and context window for leading commercial and open-source LLMs. |
@@ -152,7 +153,6 @@ Also, a leaderboard should be included if only:
 | [CFLUE](https://github.com/aliyun/cflue?tab=readme-ov-file#leaderboard) | CFLUE is a benchmark to evaluate LLMs' understanding and processing capabilities in the Chinese financial domain. |
 | [Ch3Ef](https://openlamm.github.io/ch3ef/leaderboard.html) | Ch3Ef is a benchmark to evaluate alignment with human expectations using 1002 human-annotated samples across 12 domains and 46 tasks based on the hhh principle. |
 | [Chain-of-Thought Hub](https://github.com/FranxYao/chain-of-thought-hub?tab=readme-ov-file#leaderboard---main) | Chain-of-Thought Hub is a benchmark to evaluate the reasoning capabilities of LLMs. |
-| [Chatbot Arena](https://lmarena.ai/?leaderboard) | Chatbot Arena hosts a chatbot arena where various LLMs compete based on user satisfaction. |
 | [ChemBench](https://lamalab-org.github.io/chem-bench/leaderboard) | ChemBench is a benchmark to evaluate the chemical knowledge and reasoning abilities of LLMs. |
 | [Chinese SimpleQA](http://47.109.32.164) | Chinese SimpleQA is a Chinese benchmark to evaluate the factuality ability of language models to answer short questions. |
 | [CLEM Leaderboard](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard) | CLEM is a framework designed for the systematic evaluation of chat-optimized LLMs as conversational agents. |
