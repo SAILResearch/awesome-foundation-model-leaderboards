@@ -55,10 +55,11 @@ Also, a leaderboard should be included if only:
         - [Video](#video)
         - [Math](#math)
         - [Agent](#agent)
+        - [Medical](#medical)
         - [Audio](#audio)
         - [3D](#3d)
+        - [Game](#game)
         - [Multimodal](#multimodal)
-        - [Medical](#medical)
     - [Database Ranking](#database-ranking)
     - [Dataset Ranking](#dataset-ranking)
     - [Metric Ranking](#metric-ranking)
@@ -195,7 +196,6 @@ Also, a leaderboard should be included if only:
 | [GAVIE](https://github.com/FuxiaoLiu/LRV-Instruction?tab=readme-ov-file#leaderboards) | GAVIE is a GPT-4-assisted benchmark for evaluating hallucination in LMMs by scoring accuracy and relevancy without relying on human-annotated groundtruth. |
 | [GPT-Fathom](https://github.com/GPT-Fathom/GPT-Fathom?tab=readme-ov-file#-leaderboard) | GPT-Fathom is an LLM evaluation suite, benchmarking 10+ leading LLMs as well as OpenAI's legacy models on 20+ curated benchmarks across 7 capability categories, all under aligned settings. |
 | [GrailQA](https://dki-lab.github.io/GrailQA) | Strongly Generalizable Question Answering (GrailQA) is a large-scale, high-quality benchmark for question answering on knowledge bases (KBQA) on Freebase with 64,331 questions annotated with both answers and corresponding logical forms in different syntax (i.e., SPARQL, S-expression, etc.). |
-| [GTBench](https://huggingface.co/spaces/GTBench/GTBench) | GTBench is a benchmark to evaluate and rank LLMs' reasoning abilities in competitive environments through game-theoretic tasks, e.g., board and card games. |
 | [Guerra LLM AI Leaderboard](https://huggingface.co/spaces/luisrguerra/guerra-llm-ai-leaderboard) | Guerra LLM AI Leaderboard compares and ranks the performance of LLMs across quality, price, performance, context window, and others. |
 | [Hallucinations Leaderboard](https://huggingface.co/spaces/hallucinations-leaderboard/leaderboard) | Hallucinations Leaderboard aims to track, rank and evaluate hallucinations in LLMs. |
 | [HalluQA](https://github.com/OpenMOSS/HalluQA?tab=readme-ov-file#leaderboard) | HalluQA is a benchmark to evaluate the phenomenon of hallucinations in Chinese LLMs. |
@@ -240,7 +240,6 @@ Also, a leaderboard should be included if only:
 | [LLM Observatory](https://ai-sandbox.list.lu/llm-leaderboard) | LLM Observatory is a benchmark that assesses and ranks LLMs based on their performance in avoiding social biases across categories like LGBTIQ+ orientation, age, gender, politics, race, religion, and xenophobia. |
 | [LLM Price Leaderboard](https://huggingface.co/spaces/seawolf2357/leaderboard_llm_price) | LLM Price Leaderboard tracks and compares LLM costs based on one million tokens. |
 | [LLM Rankings](https://openrouter.ai/rankings) | LLM Rankings offers a real-time comparison of language models based on normalized token usage for prompts and completions, updated frequently. |
-| [LLM Roleplay Leaderboard](https://huggingface.co/spaces/hackathonM/Roleplay_leaderboard) | LLM Roleplay Leaderboard evaluates human and AI performance in a social werewolf game for NPC development. |
 | [LLM Safety Leaderboard](https://huggingface.co/spaces/AI-Secure/llm-trustworthy-leaderboard) | LLM Safety Leaderboard aims to provide a unified evaluation for language model safety. |
 | [LLM Use Case Leaderboard](https://llmleaderboard.goml.io) | LLM Use Case Leaderboard tracks and evaluates LLMs in business usecases. |
 | [LLM-AggreFact](https://llm-aggrefact.github.io) | LLM-AggreFact is a fact-checking benchmark that aggregates most up-to-date publicly available datasets on grounded factuality evaluation. |
@@ -381,7 +380,6 @@ Also, a leaderboard should be included if only:
 | [CORE-MM](https://core-mm.github.io) | CORE-MM is a benchmark to evaluate the open-ended visual question-answering (VQA) capabilities of MLLMs. |
 | [DreamBench++](https://dreambenchplus.github.io/#leaderboard) | DreamBench++ is a human-aligned benchmark automated by multimodal models for personalized image generation. |
 | [EgoPlan-Bench](https://huggingface.co/spaces/ChenYi99/EgoPlan-Bench_Leaderboard) | EgoPlan-Bench is a benchmark to evaluate planning abilities of MLLMs in real-world, egocentric scenarios. |
-| [GlitchBench](https://huggingface.co/spaces/glitchbench/Leaderboard) | GlitchBench is a benchmark to evaluate the reasoning capabilities of MLLMs in the context of detecting video game glitches. |
 | [HallusionBench](https://github.com/tianyi-lab/HallusionBench?tab=readme-ov-file#leaderboard) | HallusionBench is a benchmark to evaluate the image-context reasoning capabilities of MLLMs. |
 | [InfiMM-Eval](https://infimm.github.io/InfiMM-Eval) | InfiMM-Eval is a benchmark to evaluate the open-ended VQA capabilities of MLLMs. |
 | [LRVSF Leaderboard](https://huggingface.co/spaces/Slep/LRVSF-Leaderboard) | LRVSF Leaderboard is a platform to evaluate LLMs regarding image similarity search in fashion. |
@@ -539,8 +537,24 @@ Also, a leaderboard should be included if only:
 | [Olas Predict Benchmark](https://huggingface.co/spaces/valory/olas-prediction-leaderboard) | Olas Predict Benchmark is a benchmark to evaluate agents on historical and future event forecasting. |
 | [TravelPlanner](https://huggingface.co/spaces/osunlp/TravelPlannerLeaderboard) | TravelPlanner is a benchmark to evaluate LLM agents in tool use and complex planning within multiple constraints. |
 | [VAB](https://github.com/THUDM/VisualAgentBench?tab=readme-ov-file#leaderboard) | VisualAgentBench (VAB) is a benchmark to evaluate and develop LMMs as visual foundation agents, which comprises 5 distinct environments across 3 types of representative visual agent tasks. |
-| [γ-Bench](https://github.com/CUHK-ARISE/GAMABench?tab=readme-ov-file#leaderboard) | γ-Bench is a framework for evaluating LLMs' gaming abilities in multi-agent environments using eight classical game theory scenarios and a dynamic scoring scheme. |
 | [τ-Bench](https://github.com/sierra-research/tau-bench?tab=readme-ov-file#leaderboard) | τ-bench is a benchmark that emulates dynamic conversations between a language model-simulated user and a language agent equipped with domain-specific API tools and policy guidelines. |
+
+### Medical
+
+| Name | Description |
+| ---- | ----------- |
+| [CARES](https://cares-ai.github.io/#leaderboard) | CARES is a benchmark to evaluate the trustworthiness of Med-LVLMs across trustfulness, fairness, safety, privacy, and robustness using 41K question-answer pairs from 16 medical image modalities and 27 anatomical regions. |
+| [CMB](https://cmedbenchmark.llmzoo.com/static/leaderboard.html) | CMB is a multi-level medical benchmark in Chinese. |
+| [JMED-LLM](https://github.com/sociocom/JMED-LLM?tab=readme-ov-file#leaderboard) | JMED-LLM (Japanese Medical Evaluation Dataset for Large Language Models) is a benchmark for evaluating LLMs in the medical field of Japanese. |
+| [Mirage](https://teddy-xionggz.github.io/MIRAGE) | Mirage is a benchmark for medical information retrieval-augmented generation, featuring 7,663 questions from five medical QA datasets and tested with 41 configurations using the MedRag toolkit. |
+| [MedArena](https://medarena.ai/leaderboard) | MedArena provides a platform for clinicians to compare the performance of different LLMs on clinical tasks. |
+| [MedBench](https://medbench.opencompass.org.cn/leaderboard) | MedBench is a benchmark to evaluate the mastery of knowledge and reasoning abilities in medical LLMs. |
+| [MedS-Bench](https://henrychur.github.io/MedS-Bench) | MedS-Bench is a medical benchmark that evaluates LLMs across 11 task categories using 39 diverse datasets. |
+| [MMedBench](https://henrychur.github.io/MultilingualMedQA) | MMedBench is a medical benchmark to evaluate LLMs in multilingual comprehension. |
+| [Open Medical-LLM Leaderboard](https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard) | Open Medical-LLM Leaderboard aims to track, rank, and evaluate open LLMs in the medical domain. |
+| [Polish Medical Leaderboard](https://huggingface.co/spaces/speakleash/polish_medical_leaderboard) | Polish Medical Leaderboard evaluates language models on Polish board certification examinations. |
+| [Powered-by-Intel LLM Leaderboard](https://huggingface.co/spaces/Intel/powered_by_intel_llm_leaderboard) | Powered-by-Intel LLM Leaderboard evaluates, scores, and ranks LLMs that have been pre-trained or fine-tuned on Intel Hardware. |
+| [PubMedQA](https://pubmedqa.github.io) | PubMedQA is a benchmark to evaluate biomedical research question answering. |
 
 ### Audio
 
@@ -564,6 +578,16 @@ Also, a leaderboard should be included if only:
 | [BOP](https://bop.felk.cvut.cz/leaderboards) | BOP is a benchmark for 6D pose estimation of a rigid object from a single RGB-D input image. |
 | [GPTEval3D](https://huggingface.co/spaces/GPTEval3D/Leaderboard_dev) | GPTEval3D is a benchmark to evaluate MLLMs' capabiltiies of 3D content understanding via multi-view images as input. |
 
+### Game
+
+| Name | Description |
+| ---- | ----------- |
+| [γ-Bench](https://github.com/CUHK-ARISE/GAMABench?tab=readme-ov-file#leaderboard) | γ-Bench is a framework for evaluating LLMs' gaming abilities in multi-agent environments using eight classical game theory scenarios and a dynamic scoring scheme. |
+| [GlitchBench](https://huggingface.co/spaces/glitchbench/Leaderboard) | GlitchBench is a benchmark to evaluate the reasoning capabilities of MLLMs in the context of detecting video game glitches. |
+| [LLM Roleplay Leaderboard](https://huggingface.co/spaces/hackathonM/Roleplay_leaderboard) | LLM Roleplay Leaderboard evaluates human and AI performance in a social werewolf game for NPC development. |
+| [LMGame Bench](https://huggingface.co/spaces/lmgame/lmgame_bench) | LMGame Bench is a benchmark for evaluating large language models' performance on game-playing tasks and strategic reasoning abilities. |
+| [GTBench](https://huggingface.co/spaces/GTBench/GTBench) | GTBench is a benchmark to evaluate and rank LLMs' reasoning abilities in competitive environments through game-theoretic tasks, e.g., board and card games. |
+
 ### Multimodal
 
 | Name | Description |
@@ -571,23 +595,6 @@ Also, a leaderboard should be included if only:
 | [GenAI Arena](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) | GenAI Arena hosts the visual generation arena, where various vision models compete based on their performance in image generation, image edition, and video generation. |
 | [Labelbox Leaderboards](https://labelbox.com/leaderboards) | Labelbox Leaderboards evaluate performance of generative AI models using their data factory: platform, scientific process and expert humans.
 | [MEGA-Bench](https://huggingface.co/spaces/TIGER-Lab/MEGA-Bench) | MEGA-Bench is a benchmark for multimodal evaluation with diverse tasks across 8 application types, 7 input formats, 6 output formats, and 10 multimodal skills, spanning single-image, multi-image, and video tasks. |
-
-### Medical
-
-| Name | Description |
-| ---- | ----------- |
-| [CARES](https://cares-ai.github.io/#leaderboard) | CARES is a benchmark to evaluate the trustworthiness of Med-LVLMs across trustfulness, fairness, safety, privacy, and robustness using 41K question-answer pairs from 16 medical image modalities and 27 anatomical regions. |
-| [CMB](https://cmedbenchmark.llmzoo.com/static/leaderboard.html) | CMB is a multi-level medical benchmark in Chinese. |
-| [JMED-LLM](https://github.com/sociocom/JMED-LLM?tab=readme-ov-file#leaderboard) | JMED-LLM (Japanese Medical Evaluation Dataset for Large Language Models) is a benchmark for evaluating LLMs in the medical field of Japanese. |
-| [Mirage](https://teddy-xionggz.github.io/MIRAGE) | Mirage is a benchmark for medical information retrieval-augmented generation, featuring 7,663 questions from five medical QA datasets and tested with 41 configurations using the MedRag toolkit. |
-| [MedArena](https://medarena.ai/leaderboard) | MedArena provides a platform for clinicians to compare the performance of different LLMs on clinical tasks. |
-| [MedBench](https://medbench.opencompass.org.cn/leaderboard) | MedBench is a benchmark to evaluate the mastery of knowledge and reasoning abilities in medical LLMs. |
-| [MedS-Bench](https://henrychur.github.io/MedS-Bench) | MedS-Bench is a medical benchmark that evaluates LLMs across 11 task categories using 39 diverse datasets. |
-| [MMedBench](https://henrychur.github.io/MultilingualMedQA) | MMedBench is a medical benchmark to evaluate LLMs in multilingual comprehension. |
-| [Open Medical-LLM Leaderboard](https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard) | Open Medical-LLM Leaderboard aims to track, rank, and evaluate open LLMs in the medical domain. |
-| [Polish Medical Leaderboard](https://huggingface.co/spaces/speakleash/polish_medical_leaderboard) | Polish Medical Leaderboard evaluates language models on Polish board certification examinations. |
-| [Powered-by-Intel LLM Leaderboard](https://huggingface.co/spaces/Intel/powered_by_intel_llm_leaderboard) | Powered-by-Intel LLM Leaderboard evaluates, scores, and ranks LLMs that have been pre-trained or fine-tuned on Intel Hardware. |
-| [PubMedQA](https://pubmedqa.github.io) | PubMedQA is a benchmark to evaluate biomedical research question answering. |
 
 ## Database Ranking
 
