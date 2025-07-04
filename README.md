@@ -80,6 +80,7 @@ Also, a leaderboard should be included if only:
 | [Open LLM Leaderboard Results PR Opener](https://huggingface.co/spaces/Weyaxi/leaderboard-results-to-modelcard) | Open LLM Leaderboard Results PR Opener helps users showcase Open LLM Leaderboard results in their model cards. |
 | [Open LLM Leaderboard Scraper](https://github.com/Weyaxi/scrape-open-llm-leaderboard) | Open LLM Leaderboard Scraper helps users scrape and export data from Open LLM Leaderboard. |
 | [Progress Tracker](https://huggingface.co/spaces/andrewrreed/closed-vs-open-arena-elo) | This app visualizes the progress of proprietary and open-source LLMs over time as scored by the [LMSYS Chatbot Arena](https://lmarena.ai/?leaderboard). |
+| [Yupp](https://yupp.ai/leaderboard) | Yupp is a platform that enables users to compare outputs from multiple AI models side by side, select their preferred response, and provide feedback. |
 
 
 
