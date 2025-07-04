@@ -79,9 +79,6 @@ Also, a leaderboard should be included if only:
 | [Open LLM Leaderboard Renamer](https://huggingface.co/spaces/Weyaxi/open-llm-leaderboard-renamer) | open-llm-leaderboard-renamer helps users rename their models in Open LLM Leaderboard easily. |
 | [Open LLM Leaderboard Results PR Opener](https://huggingface.co/spaces/Weyaxi/leaderboard-results-to-modelcard) | Open LLM Leaderboard Results PR Opener helps users showcase Open LLM Leaderboard results in their model cards. |
 | [Open LLM Leaderboard Scraper](https://github.com/Weyaxi/scrape-open-llm-leaderboard) | Open LLM Leaderboard Scraper helps users scrape and export data from Open LLM Leaderboard. |
-| [Progress Tracker](https://huggingface.co/spaces/andrewrreed/closed-vs-open-arena-elo) | This app visualizes the progress of proprietary and open-source LLMs over time as scored by the [LMSYS Chatbot Arena](https://lmarena.ai/?leaderboard). |
-| [Vals AI](https://www.vals.ai) | Val AI builds custom, industry-specific benchmarks using private datasets to provide unbiased third-party evaluations of LLM performance. |
-| [Yupp Leaderboard](https://yupp.ai/leaderboard) | Yupp is a platform that enables users to compare outputs from multiple AI models side by side, select their preferred response, and provide feedback. |
 
 
 
@@ -124,7 +121,9 @@ Also, a leaderboard should be included if only:
 | [LMArena](https://lmarena.ai/leaderboard) | LMArena operates a chatbot arena where various foundation models compete based on user preferences across multiple categories: text generation, web development, computer vision, text-to-image synthesis, search capabilities, and coding assistance. |
 | [Papers With Code](https://paperswithcode.com) | Papers With Code provides open-source leaderboards and benchmarks, linking AI research papers with code to foster transparency and reproducibility in machine learning. |
 | [SuperCLUE](https://www.superclueai.com) | SuperCLUE is a series of benchmarks for evaluating Chinese foundation models. |
+| [Vals AI](https://www.vals.ai) | Val AI builds custom, industry-specific benchmarks using private datasets to provide unbiased third-party evaluations of LLM performance. |
 | [Vellum LLM Leaderboard](https://www.vellum.ai/llm-leaderboard) | Vellum LLM Leaderboard shows a comparison of capabilities, price and context window for leading commercial and open-source LLMs. |
+| [Yupp Leaderboard](https://yupp.ai/leaderboard) | Yupp is a platform that enables users to compare outputs from multiple AI models side by side, select their preferred response, and provide feedback. |
 
 ### Text
 
