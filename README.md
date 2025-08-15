@@ -228,6 +228,7 @@ Also, a leaderboard should be included if only:
 | [LLM Benchmarker Suite](https://llm-evals.formula-labs.com) | LLM Benchmarker Suite is a benchmark to evaluate the comprehensive capabilities of LLMs. |
 | [Large Language Model Assessment in English Contexts](https://huggingface.co/spaces/CathieDaDa/LLM_leaderboard_en) | Large Language Model Assessment in English Contexts is a platform to evaluate LLMs in the English context. |
 | [Large Language Model Assessment in the Chinese Context](https://huggingface.co/spaces/CathieDaDa/LLM_leaderboard) | Large Language Model Assessment in the Chinese Context is a platform to evaluate LLMs in the Chinese context. |
+| [LegalBench](https://www.legalevalhub.ai/leaderboard/legalbench_full) | LegalBench is a comprehensive benchmark for evaluating legal reasoning in LLMs. |
 | [LIBRA](https://huggingface.co/spaces/ai-forever/LIBRA-Leaderboard) | LIBRA is a benchmark for evaluating LLMs' capabilities in understanding and processing long Russian text. |
 | [LibrAI-Eval GenAI Leaderboard](https://test.leaderboard.librai.tech/LeaderBoard) | LibrAI-Eval GenAI Leaderboard focuses on the balance between the LLM’s capability and safety in English. |
 | [LiveBench](https://livebench.ai) | LiveBench is a benchmark for LLMs to minimize test set contamination and enable objective, automated evaluation across diverse, regularly updated tasks. |
