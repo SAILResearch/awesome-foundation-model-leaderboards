@@ -50,8 +50,8 @@ Also, a leaderboard should be included if only:
     - [Model Ranking](#model-ranking)
         - [Comprehensive](#comprehensive)
         - [Text](#text)
-        - [Image](#image)
         - [Software](#software)
+        - [Image](#image)
         - [Video](#video)
         - [Math](#math)
         - [Agent](#agent)
@@ -369,62 +369,6 @@ Also, a leaderboard should be included if only:
 | [ZebraLogic](https://huggingface.co/spaces/allenai/ZebraLogic) | ZebraLogic is a benchmark evaluating LLMs' logical reasoning using Logic Grid Puzzles, a type of Constraint Satisfaction Problem (CSP). |
 | [ZeroSumEval](https://huggingface.co/spaces/HishamYahya/ZeroSumEval_Leaderboard) | ZeroSumEval is a competitive evaluation framework for LLMs using multiplayer simulations with clear win conditions. |
 
-## Image
-
-| Name | Description |
-| ---- | ----------- |
-| [Abstract Image](https://multi-modal-self-instruct.github.io/#leaderboard) | Abstract Image is a benchmark to evaluate multimodal LLMs (MLLM) in understanding and visually reasoning about abstract images, such as maps, charts, and layouts. |
-| [AesBench](https://aesbench.github.io) | AesBench is a benchmark to evaluate MLLMs on image aesthetics perception. |
-| [BLINK](https://github.com/zeyofu/BLINK_Benchmark?tab=readme-ov-file#-mini-leaderboard) | BLINK is a benchmark to evaluate the core visual perception abilities of MLLMs. |
-| [BlinkCode](https://huggingface.co/spaces/yajuniverse/BlinkCode_leaderboard) | BlinkCode is a benchmark to evaluate MLLMs across 15 vision-language models (VLMs) and 9 tasks, measuring accuracy and image reconstruction performance. |
-| [ChartMimic](https://chartmimic.github.io) | ChartMimic is a benchmark to evaluate the visually-grounded code generation capabilities of large multimodal models using charts and textual instructions. |
-| [CharXiv](https://charxiv.github.io/#leaderboard) | CharXiv is a benchmark to evaluate chart understanding capabilities of MLLMs. |
-| [ConTextual](https://huggingface.co/spaces/ucla-contextual/contextual_leaderboard) | ConTextual is a benchmark to evaluate MLLMs across context-sensitive text-rich visual reasoning tasks. |
-| [CORE-MM](https://core-mm.github.io) | CORE-MM is a benchmark to evaluate the open-ended visual question-answering (VQA) capabilities of MLLMs. |
-| [DreamBench++](https://dreambenchplus.github.io/#leaderboard) | DreamBench++ is a human-aligned benchmark automated by multimodal models for personalized image generation. |
-| [EgoPlan-Bench](https://huggingface.co/spaces/ChenYi99/EgoPlan-Bench_Leaderboard) | EgoPlan-Bench is a benchmark to evaluate planning abilities of MLLMs in real-world, egocentric scenarios. |
-| [HallusionBench](https://github.com/tianyi-lab/HallusionBench?tab=readme-ov-file#leaderboard) | HallusionBench is a benchmark to evaluate the image-context reasoning capabilities of MLLMs. |
-| [InfiMM-Eval](https://infimm.github.io/InfiMM-Eval) | InfiMM-Eval is a benchmark to evaluate the open-ended VQA capabilities of MLLMs. |
-| [LRVSF Leaderboard](https://huggingface.co/spaces/Slep/LRVSF-Leaderboard) | LRVSF Leaderboard is a platform to evaluate LLMs regarding image similarity search in fashion. |
-| [LVLM Leaderboard](https://github.com/OpenGVLab/Multi-Modality-Arena?tab=readme-ov-file#lvlm-leaderboard) | LVLM Leaderboard is a platform to evaluate the visual reasoning capabilities of MLLMs. |
-| [M3CoT](https://lightchen233.github.io/m3cot.github.io/leaderboard.html) | M3CoT is a benchmark for multi-domain multi-step multi-modal chain-of-thought of MLLMs. |
-| [Mementos](https://mementos-bench.github.io/#leaderboard) | Mementos is a benchmark to evaluate the reasoning capabilities of MLLMs over image sequences. |
-| [MJ-Bench](https://huggingface.co/spaces/MJ-Bench/MJ-Bench-Leaderboard) | MJ-Bench is a benchmark to evaluate multimodal judges in providing feedback for image generation models across four key perspectives: alignment, safety, image quality, and bias. |
-| [MLLM-as-a-Judge](https://mllm-judge.github.io/leaderboard.html) | MLLM-as-a-Judge is a benchmark with human annotations to evaluate MLLMs' judging capabilities in scoring, pair comparison, and batch ranking tasks across multimodal domains. |
-| [MLLM-Bench](https://mllm-bench.llmzoo.com/static/leaderboard.html) | MLLM-Bench is a benchmark to evaluate the visual reasoning capabilities of MLVMs. |
-| [MMBench Leaderboard](https://mmbench.opencompass.org.cn/leaderboard) | MMBench Leaderboard is a platform to evaluate the visual reasoning capabilities of MLLMs. |
-| [MME](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation?tab=readme-ov-file#leaderboards-of-available-models-unavailable-version) | MME is a benchmark to evaluate the visual reasoning capabilities of MLLMs. |
-| [MME-RealWorld](https://mme-realworld.github.io/home_page.html#leaderboard) | MME-RealWorld is a large-scale, high-resolution benchmark featuring 29,429 human-annotated QA pairs across 43 tasks. |
-| [MMIU](https://mmiu-bench.github.io/#leaderboard) | MMIU (Ultimodal Multi-image Understanding) is a benchmark to evaluate MLLMs across 7 multi-image relationships, 52 tasks, 77K images, and 11K curated multiple-choice questions. |
-| [MMMU](https://mmmu-benchmark.github.io/#leaderboard) | MMMU is a benchmark to evaluate the performance of multimodal models on tasks that demand college-level subject knowledge and expert-level reasoning across various disciplines. |
-| [MMR](https://github.com/BAAI-DCAI/Multimodal-Robustness-Benchmark?tab=readme-ov-file#-leaderboard) | MMR is a benchmark to evaluate the robustness of MLLMs in visual understanding by assessing their ability to handle leading questions, rather than just accuracy in answering. |
-| [MMSearch](https://mmsearch.github.io/#leaderboard) | MMSearch is a benchmark to evaluate the multimodal search performance of LMMs. |
-| [MMStar](https://mmstar-benchmark.github.io/#Leaderboard) | MMStar is a benchmark to evaluate the multi-modal capacities of MLLMs. |
-| [MMT-Bench](https://mmt-bench.github.io/#leaderboard) | MMT-Bench is a benchmark to evaluate MLLMs across a wide array of multimodal tasks that require expert knowledge as well as deliberate visual recognition, localization, reasoning, and planning. |
-| [MM-NIAH](https://mm-niah.github.io/#overall_test_leaderboard) | MM-NIAH (Needle In A Multimodal Haystack) is a benchmark to evaluate MLLMs' ability to comprehend long multimodal documents through retrieval, counting, and reasoning tasks involving both text and image data. |
-| [MTVQA](https://bytedance.github.io/MTVQA/#leaderboard) | MTVQA is a multilingual visual text comprehension benchmark to evaluate MLLMs. |
-| [Multimodal Hallucination Leaderboard](https://huggingface.co/spaces/scb10x/multimodal-hallucination-leaderboard) | Multimodal Hallucination Leaderboard compares MLLMs based on hallucination levels in various tasks. |
-| [MULTI-Benchmark](https://github.com/OpenDFM/MULTI-Benchmark?tab=readme-ov-file#-leaderboard) | MULTI-Benchmark is a benchmark to evaluate MLLMs on understanding complex tables and images, and reasoning with long context. |
-| [MultiTrust](https://multi-trust.github.io/#leaderboard) | MultiTrust is a benchmark to evaluate the trustworthiness of MLLMs across five primary aspects: truthfulness, safety, robustness, fairness, and privacy. |
-| [NPHardEval4V](https://github.com/lizhouf/nphardeval4v?tab=readme-ov-file#leaderboard) | NPHardEval4V is a benchmark to evaluate the reasoning abilities of MLLMs through the lens of computational complexity classes. |
-| [Provider Leaderboard](https://leaderboard.withmartian.com) | LLM API Providers Leaderboard is a platform to compare API provider performance for over LLM endpoints across performance key metrics. |
-| [OCRBench](https://huggingface.co/spaces/echo840/ocrbench-leaderboard) | OCRBench is a benchmark to evaluate the OCR capabilities of multimodal models. |
-| [PCA-Bench](https://github.com/pkunlp-icler/PCA-EVAL?tab=readme-ov-file#leaderboard) | PCA-Bench is a benchmark to evaluate the embodied decision-making capabilities of multimodal models. |
-| [Q-Bench](https://huggingface.co/spaces/q-future/Q-Bench-Leaderboard) | Q-Bench is a benchmark to evaluate the visual reasoning capabilities of MLLMs. |
-| [RewardBench](https://huggingface.co/spaces/allenai/reward-bench) | RewardBench is a benchmark to evaluate the capabilities and safety of reward models. |
-| [ScienceQA](https://scienceqa.github.io/leaderboard.html) | ScienceQA is a benchmark used to evaluate the multi-hop reasoning ability and interpretability of AI systems in the context of answering science questions. |
-| [SciGraphQA](https://github.com/findalexli/SciGraphQA?tab=readme-ov-file#leaderboard) | SciGraphQA is a benchmark to evaluate the MLLMs in scientific graph question-answering. |
-| [SEED-Bench](https://huggingface.co/spaces/AILab-CVC/SEED-Bench_Leaderboard) | SEED-Bench is a benchmark to evaluate the text and image generation of multimodal models. |
-| [URIAL](https://huggingface.co/spaces/allenai/URIAL-Bench) | URIAL is a benchmark to evaluate the capacity of language models for alignment without introducing the factors of fine-tuning (learning rate, data, etc.), which are hard to control for fair comparisons. |
-| [UPD Leaderboard](https://huggingface.co/spaces/MM-UPD/MM-UPD_Leaderboard) | UPD Leaderboard is a platform to evaluate the trustworthiness of MLLMs in unsolvable problem detection. |
-| [Vibe-Eval](https://github.com/reka-ai/reka-vibe-eval?tab=readme-ov-file#leaderboard-) | Vibe-Eval is a benchmark to evaluate MLLMs for challenging cases. |
-| [VideoHallucer](https://videohallucer.github.io) | VideoHallucer is a benchmark to detect hallucinations in MLLMs. |
-| [VisIT-Bench](https://visit-bench.github.io) | VisIT-Bench is a benchmark to evaluate the instruction-following capabilities of MLLMs for real-world use. |
-| [Waymo Open Dataset Challenges](https://waymo.com/open/challenges) | Waymo Open Dataset Challenges hold diverse self-driving datasets to evaluate ML models. |
-| [WHOOPS!](https://huggingface.co/spaces/nlphuji/WHOOPS-Leaderboard-Full) | WHOOPS! is a benchmark to evaluate the visual commonsense reasoning abilities of MLLMs. |
-| [WildVision-Bench](https://github.com/WildVision-AI/WildVision-Bench?tab=readme-ov-file#leaderboard-vision_bench_0617) | WildVision-Bench is a benchmark to evaluate VLMs in the wild with human preferences. |
-| [WildVision Arena](https://huggingface.co/spaces/WildVision/vision-arena) | WildVision Arena hosts the chatbot arena where various MLLMs compete based on their performance in visual understanding. |
-
 ### Software
 
 | Name | Description |
@@ -492,6 +436,62 @@ Also, a leaderboard should be included if only:
 | [WebApp1K](https://huggingface.co/spaces/onekq-ai/WebApp1K-models-leaderboard) | WebApp1K is a benchmark to evaluate LLMs on their abilities to develop real-world web applications. |
 | [WebDev Arena](https://web.lmarena.ai/leaderboard) | WebDev Arena hosts a chatbot arena where various LLMs compete based on website development. |
 | [WILDS](https://wilds.stanford.edu/leaderboard) | WILDS is a benchmark of in-the-wild distribution shifts spanning diverse data modalities and applications, from tumor identification to wildlife monitoring to poverty mapping. |
+
+## Image
+
+| Name | Description |
+| ---- | ----------- |
+| [Abstract Image](https://multi-modal-self-instruct.github.io/#leaderboard) | Abstract Image is a benchmark to evaluate multimodal LLMs (MLLM) in understanding and visually reasoning about abstract images, such as maps, charts, and layouts. |
+| [AesBench](https://aesbench.github.io) | AesBench is a benchmark to evaluate MLLMs on image aesthetics perception. |
+| [BLINK](https://github.com/zeyofu/BLINK_Benchmark?tab=readme-ov-file#-mini-leaderboard) | BLINK is a benchmark to evaluate the core visual perception abilities of MLLMs. |
+| [BlinkCode](https://huggingface.co/spaces/yajuniverse/BlinkCode_leaderboard) | BlinkCode is a benchmark to evaluate MLLMs across 15 vision-language models (VLMs) and 9 tasks, measuring accuracy and image reconstruction performance. |
+| [ChartMimic](https://chartmimic.github.io) | ChartMimic is a benchmark to evaluate the visually-grounded code generation capabilities of large multimodal models using charts and textual instructions. |
+| [CharXiv](https://charxiv.github.io/#leaderboard) | CharXiv is a benchmark to evaluate chart understanding capabilities of MLLMs. |
+| [ConTextual](https://huggingface.co/spaces/ucla-contextual/contextual_leaderboard) | ConTextual is a benchmark to evaluate MLLMs across context-sensitive text-rich visual reasoning tasks. |
+| [CORE-MM](https://core-mm.github.io) | CORE-MM is a benchmark to evaluate the open-ended visual question-answering (VQA) capabilities of MLLMs. |
+| [DreamBench++](https://dreambenchplus.github.io/#leaderboard) | DreamBench++ is a human-aligned benchmark automated by multimodal models for personalized image generation. |
+| [EgoPlan-Bench](https://huggingface.co/spaces/ChenYi99/EgoPlan-Bench_Leaderboard) | EgoPlan-Bench is a benchmark to evaluate planning abilities of MLLMs in real-world, egocentric scenarios. |
+| [HallusionBench](https://github.com/tianyi-lab/HallusionBench?tab=readme-ov-file#leaderboard) | HallusionBench is a benchmark to evaluate the image-context reasoning capabilities of MLLMs. |
+| [InfiMM-Eval](https://infimm.github.io/InfiMM-Eval) | InfiMM-Eval is a benchmark to evaluate the open-ended VQA capabilities of MLLMs. |
+| [LRVSF Leaderboard](https://huggingface.co/spaces/Slep/LRVSF-Leaderboard) | LRVSF Leaderboard is a platform to evaluate LLMs regarding image similarity search in fashion. |
+| [LVLM Leaderboard](https://github.com/OpenGVLab/Multi-Modality-Arena?tab=readme-ov-file#lvlm-leaderboard) | LVLM Leaderboard is a platform to evaluate the visual reasoning capabilities of MLLMs. |
+| [M3CoT](https://lightchen233.github.io/m3cot.github.io/leaderboard.html) | M3CoT is a benchmark for multi-domain multi-step multi-modal chain-of-thought of MLLMs. |
+| [Mementos](https://mementos-bench.github.io/#leaderboard) | Mementos is a benchmark to evaluate the reasoning capabilities of MLLMs over image sequences. |
+| [MJ-Bench](https://huggingface.co/spaces/MJ-Bench/MJ-Bench-Leaderboard) | MJ-Bench is a benchmark to evaluate multimodal judges in providing feedback for image generation models across four key perspectives: alignment, safety, image quality, and bias. |
+| [MLLM-as-a-Judge](https://mllm-judge.github.io/leaderboard.html) | MLLM-as-a-Judge is a benchmark with human annotations to evaluate MLLMs' judging capabilities in scoring, pair comparison, and batch ranking tasks across multimodal domains. |
+| [MLLM-Bench](https://mllm-bench.llmzoo.com/static/leaderboard.html) | MLLM-Bench is a benchmark to evaluate the visual reasoning capabilities of MLVMs. |
+| [MMBench Leaderboard](https://mmbench.opencompass.org.cn/leaderboard) | MMBench Leaderboard is a platform to evaluate the visual reasoning capabilities of MLLMs. |
+| [MME](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation?tab=readme-ov-file#leaderboards-of-available-models-unavailable-version) | MME is a benchmark to evaluate the visual reasoning capabilities of MLLMs. |
+| [MME-RealWorld](https://mme-realworld.github.io/home_page.html#leaderboard) | MME-RealWorld is a large-scale, high-resolution benchmark featuring 29,429 human-annotated QA pairs across 43 tasks. |
+| [MMIU](https://mmiu-bench.github.io/#leaderboard) | MMIU (Ultimodal Multi-image Understanding) is a benchmark to evaluate MLLMs across 7 multi-image relationships, 52 tasks, 77K images, and 11K curated multiple-choice questions. |
+| [MMMU](https://mmmu-benchmark.github.io/#leaderboard) | MMMU is a benchmark to evaluate the performance of multimodal models on tasks that demand college-level subject knowledge and expert-level reasoning across various disciplines. |
+| [MMR](https://github.com/BAAI-DCAI/Multimodal-Robustness-Benchmark?tab=readme-ov-file#-leaderboard) | MMR is a benchmark to evaluate the robustness of MLLMs in visual understanding by assessing their ability to handle leading questions, rather than just accuracy in answering. |
+| [MMSearch](https://mmsearch.github.io/#leaderboard) | MMSearch is a benchmark to evaluate the multimodal search performance of LMMs. |
+| [MMStar](https://mmstar-benchmark.github.io/#Leaderboard) | MMStar is a benchmark to evaluate the multi-modal capacities of MLLMs. |
+| [MMT-Bench](https://mmt-bench.github.io/#leaderboard) | MMT-Bench is a benchmark to evaluate MLLMs across a wide array of multimodal tasks that require expert knowledge as well as deliberate visual recognition, localization, reasoning, and planning. |
+| [MM-NIAH](https://mm-niah.github.io/#overall_test_leaderboard) | MM-NIAH (Needle In A Multimodal Haystack) is a benchmark to evaluate MLLMs' ability to comprehend long multimodal documents through retrieval, counting, and reasoning tasks involving both text and image data. |
+| [MTVQA](https://bytedance.github.io/MTVQA/#leaderboard) | MTVQA is a multilingual visual text comprehension benchmark to evaluate MLLMs. |
+| [Multimodal Hallucination Leaderboard](https://huggingface.co/spaces/scb10x/multimodal-hallucination-leaderboard) | Multimodal Hallucination Leaderboard compares MLLMs based on hallucination levels in various tasks. |
+| [MULTI-Benchmark](https://github.com/OpenDFM/MULTI-Benchmark?tab=readme-ov-file#-leaderboard) | MULTI-Benchmark is a benchmark to evaluate MLLMs on understanding complex tables and images, and reasoning with long context. |
+| [MultiTrust](https://multi-trust.github.io/#leaderboard) | MultiTrust is a benchmark to evaluate the trustworthiness of MLLMs across five primary aspects: truthfulness, safety, robustness, fairness, and privacy. |
+| [NPHardEval4V](https://github.com/lizhouf/nphardeval4v?tab=readme-ov-file#leaderboard) | NPHardEval4V is a benchmark to evaluate the reasoning abilities of MLLMs through the lens of computational complexity classes. |
+| [Provider Leaderboard](https://leaderboard.withmartian.com) | LLM API Providers Leaderboard is a platform to compare API provider performance for over LLM endpoints across performance key metrics. |
+| [OCRBench](https://huggingface.co/spaces/echo840/ocrbench-leaderboard) | OCRBench is a benchmark to evaluate the OCR capabilities of multimodal models. |
+| [PCA-Bench](https://github.com/pkunlp-icler/PCA-EVAL?tab=readme-ov-file#leaderboard) | PCA-Bench is a benchmark to evaluate the embodied decision-making capabilities of multimodal models. |
+| [Q-Bench](https://huggingface.co/spaces/q-future/Q-Bench-Leaderboard) | Q-Bench is a benchmark to evaluate the visual reasoning capabilities of MLLMs. |
+| [RewardBench](https://huggingface.co/spaces/allenai/reward-bench) | RewardBench is a benchmark to evaluate the capabilities and safety of reward models. |
+| [ScienceQA](https://scienceqa.github.io/leaderboard.html) | ScienceQA is a benchmark used to evaluate the multi-hop reasoning ability and interpretability of AI systems in the context of answering science questions. |
+| [SciGraphQA](https://github.com/findalexli/SciGraphQA?tab=readme-ov-file#leaderboard) | SciGraphQA is a benchmark to evaluate the MLLMs in scientific graph question-answering. |
+| [SEED-Bench](https://huggingface.co/spaces/AILab-CVC/SEED-Bench_Leaderboard) | SEED-Bench is a benchmark to evaluate the text and image generation of multimodal models. |
+| [URIAL](https://huggingface.co/spaces/allenai/URIAL-Bench) | URIAL is a benchmark to evaluate the capacity of language models for alignment without introducing the factors of fine-tuning (learning rate, data, etc.), which are hard to control for fair comparisons. |
+| [UPD Leaderboard](https://huggingface.co/spaces/MM-UPD/MM-UPD_Leaderboard) | UPD Leaderboard is a platform to evaluate the trustworthiness of MLLMs in unsolvable problem detection. |
+| [Vibe-Eval](https://github.com/reka-ai/reka-vibe-eval?tab=readme-ov-file#leaderboard-) | Vibe-Eval is a benchmark to evaluate MLLMs for challenging cases. |
+| [VideoHallucer](https://videohallucer.github.io) | VideoHallucer is a benchmark to detect hallucinations in MLLMs. |
+| [VisIT-Bench](https://visit-bench.github.io) | VisIT-Bench is a benchmark to evaluate the instruction-following capabilities of MLLMs for real-world use. |
+| [Waymo Open Dataset Challenges](https://waymo.com/open/challenges) | Waymo Open Dataset Challenges hold diverse self-driving datasets to evaluate ML models. |
+| [WHOOPS!](https://huggingface.co/spaces/nlphuji/WHOOPS-Leaderboard-Full) | WHOOPS! is a benchmark to evaluate the visual commonsense reasoning abilities of MLLMs. |
+| [WildVision-Bench](https://github.com/WildVision-AI/WildVision-Bench?tab=readme-ov-file#leaderboard-vision_bench_0617) | WildVision-Bench is a benchmark to evaluate VLMs in the wild with human preferences. |
+| [WildVision Arena](https://huggingface.co/spaces/WildVision/vision-arena) | WildVision Arena hosts the chatbot arena where various MLLMs compete based on their performance in visual understanding. |
 
 ### Video
 
