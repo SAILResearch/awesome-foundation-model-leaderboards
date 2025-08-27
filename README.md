@@ -430,6 +430,7 @@ Also, a leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards) | Aider LLM Leaderboards evaluate LLM's ability to follow system prompts to edit code. |
+| [AndroidWorld](https://docs.google.com/spreadsheets/d/1cchzP9dlTZ3WXQTfYNhh3avxoLipqHN75v1Tb86uhHo) | AndroidWorld is a comprehensive testing framework to evaluate the abilities of AI models, specifically autonomous agents, in controlling and interacting with a mobile device. |
 | [AppWorld](https://github.com/stonybrooknlp/appworld/tree/main?tab=readme-ov-file#trophy-leaderboard) | AppWorld is a high-fidelity execution environment of 9 day-to-day apps, operable via 457 APIs, populated with digital activities of ~100 people living in a simulated world. |
 | [Berkeley Function-Calling Leaderboard](https://huggingface.co/spaces/gorilla-llm/berkeley-function-calling-leaderboard) | Berkeley Function-Calling Leaderboard evaluates the ability of LLMs to call functions (also known as tools) accurately. |
 | [BigCodeBench](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard) | BigCodeBench is a benchmark for code generation with practical and challenging programming tasks. |
