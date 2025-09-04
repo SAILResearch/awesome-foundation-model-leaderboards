@@ -522,6 +522,7 @@ Also, a leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [Abel](https://gair-nlp.github.io/abel) | Abel is a platform to evaluate the mathematical capabilities of LLMs. |
+| [MathArena](https://matharena.ai) | MathArena is a platform for evaluation of LLMs on the latest math competitions and olympiads. |
 | [MathBench](https://open-compass.github.io/MathBench) | MathBench is a multi-level difficulty mathematics evaluation benchmark for LLMs. |
 | [MathEval](https://matheval.ai/leaderboard) | MathEval is a benchmark to evaluate the mathematical capabilities of LLMs. |
 | [MathUserEval](https://github.com/THUDM/ChatGLM-Math?tab=readme-ov-file#%E6%8E%92%E8%A1%8C%E6%A6%9Cleaderboard) | MathUserEval is a benchmark featuring university exam questions and math-related queries derived from simulated conversations with experienced annotators. |
