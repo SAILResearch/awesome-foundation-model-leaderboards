@@ -50,7 +50,7 @@ Also, a leaderboard should be included if only:
     - [Model Ranking](#model-ranking)
         - [Comprehensive](#comprehensive)
         - [Text](#text)
-        - [Software](#software)
+        - [Code](#code)
         - [Image](#image)
         - [Video](#video)
         - [Math](#math)
@@ -369,7 +369,7 @@ Also, a leaderboard should be included if only:
 | [ZebraLogic](https://huggingface.co/spaces/allenai/ZebraLogic) | ZebraLogic is a benchmark evaluating LLMs' logical reasoning using Logic Grid Puzzles, a type of Constraint Satisfaction Problem (CSP). |
 | [ZeroSumEval](https://huggingface.co/spaces/HishamYahya/ZeroSumEval_Leaderboard) | ZeroSumEval is a competitive evaluation framework for LLMs using multiplayer simulations with clear win conditions. |
 
-### Software
+### Code
 
 | Name | Description |
 | ---- | ----------- |
@@ -419,6 +419,7 @@ Also, a leaderboard should be included if only:
 | [ProLLM Benchmarks](https://prollm.toqan.ai/leaderboard) | ProLLM Benchmarks is a practical and reliable LLM benchmark designed for real-world business use cases across multiple industries and programming languages. |
 | [PyBench](https://github.com/Mercury7353/PyBench?tab=readme-ov-file#-leaderboard) | PyBench is a benchmark evaluating LLM on real-world coding tasks including chart analysis, text analysis, image/ audio editing, complex math and software/website development. |
 | [RACE](https://huggingface.co/spaces/jszheng/RACE_leaderboard) | RACE is a benchmark to evaluate the ability of LLMs to generate code that is correct and meets the requirements of real-world development scenarios. |
+| [RepairBench](https://repairbench.github.io) | RepairBench is a benchmark to evaluate the program repair capabilities of AI models by testing their ability to fix real-world software bugs. |
 | [ResearchCodeBench](https://researchcodebench.github.io/leaderboard/index.html) | ResearchCodeBench is a benchmark for evaluating LLMs on their ability to translate novel machine learning research papers into executable code. |
 | [RepoQA](https://evalplus.github.io/repoqa.html) | RepoQA is a benchmark to evaluate the long-context code understanding ability of LLMs.
 | [ScreenSpot](https://gui-agent.github.io/grounding-leaderboard/screenspot.html) | ScreenSpot is a benchmark to evaluate the ability of models to perform GUI grounding across various platforms, including mobile (iOS, Android), desktop (macOS, Windows), and web environments, based on over 1,200 instructions. |
