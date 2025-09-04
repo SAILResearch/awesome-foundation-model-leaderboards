@@ -595,6 +595,7 @@ Also, a leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [γ-Bench](https://github.com/CUHK-ARISE/GAMABench?tab=readme-ov-file#leaderboard) | γ-Bench is a framework for evaluating LLMs' gaming abilities in multi-agent environments using eight classical game theory scenarios and a dynamic scoring scheme. |
+| [Elo Leaderboard](https://werewolf.foaster.ai) | Elo Leaderboard is a platform to evaluate LLMs' ability to deceive, deduce, and form alliances in the classic social deduction game of Werewolf, revealing which models excel at strategic reasoning and social manipulation. |
 | [GlitchBench](https://huggingface.co/spaces/glitchbench/Leaderboard) | GlitchBench is a benchmark to evaluate the reasoning capabilities of MLLMs in the context of detecting video game glitches. |
 | [LLM Roleplay Leaderboard](https://huggingface.co/spaces/hackathonM/Roleplay_leaderboard) | LLM Roleplay Leaderboard evaluates human and AI performance in a social werewolf game for NPC development. |
 | [LMGame Bench](https://huggingface.co/spaces/lmgame/lmgame_bench) | LMGame Bench is a benchmark for evaluating large language models' performance on game-playing tasks and strategic reasoning abilities. |
