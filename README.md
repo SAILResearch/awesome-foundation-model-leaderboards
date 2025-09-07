@@ -617,7 +617,7 @@ Also, a leaderboard should be included if only:
 
 | Name | Description |
 | ---- | ----------- |
-| [Tracking AI leaderboard](https://www.trackingai.org) | Tracking AI leaderboard is an online ranking of AI models based on their performance on various IQ-style evaluations. |
+| [Tracking AI leaderboard](https://www.trackingai.org) | Tracking AI leaderboard is an online ranking platform of AI models based on their performance on various IQ-style evaluations. |
 
 ## Database Ranking
 
