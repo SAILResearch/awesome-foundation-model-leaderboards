@@ -415,6 +415,7 @@ Also, a leaderboard should be included if only:
 | [NaturalCodeBench](https://github.com/THUDM/NaturalCodeBench?tab=readme-ov-file#leaderboard) | NaturalCodeBench is a benchmark to mirror the complexity and variety of scenarios in real coding tasks. |
 | [Nexus Function Calling Leaderboard](https://huggingface.co/spaces/Nexusflow/Nexus_Function_Calling_Leaderboard) | Nexus Function Calling Leaderboard is a platform to evaluate code models on performing function calling and API usage.
 | [NL2SQL360](https://nl2sql360.github.io/#leaderboard) | NL2SQL360 is a comprehensive evaluation framework for comparing and optimizing NL2SQL methods across various application scenarios. |
+| [OpsEval](https://nl2sql360.github.io/#leaderboard) | OpsEval is a benchmark designed to assess the performance of LLMs in IT Operations (AIOps). |
 | [OSWorld](https://os-world.github.io) | OSWorld is a benchmark to evaluate multimodal AI agents on their ability to perform 369 realistic, open-ended tasks within a virtual computer environment across various applications and operating systems. |
 | [PECC](https://huggingface.co/spaces/PatrickHaller/pecc-leaderboard) | PECC is a benchmark that evaluates code generation by requiring models to comprehend and extract problem requirements from narrative-based descriptions to produce syntactically accurate solutions. |
 | [ProLLM Benchmarks](https://prollm.toqan.ai/leaderboard) | ProLLM Benchmarks is a practical and reliable LLM benchmark designed for real-world business use cases across multiple industries and programming languages. |
