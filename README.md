@@ -390,6 +390,7 @@ Also, a leaderboard should be included if only:
 | [Code Lingua](https://codetlingua.github.io/leaderboard.html) | Code Lingua is a benchmark to compare the ability of code models to understand what the code implements in source languages and translate the same semantics in target languages. |
 | [Coding LLMs Leaderboard](https://leaderboard.tabbyml.com) | Coding LLMs Leaderboard is a platform to evaluate and rank LLMs across various programming tasks. |
 | [Commit-0](https://commit-0.github.io/analysis) | Commit-0 is a from-scratch AI coding challenge to rebuild 54 core Python libraries, ensuring they pass unit tests with significant test coverage, lint/type checking, and cloud-based distributed development. |
+| [CompileBench](https://www.compilebench.com) | CompileBench is a benchmark to evaluate how well LLMs can handle real-world software engineering challenges, including dependency hell, legacy toolchains, and cryptic compile errors. |
 | [CRUXEval](https://crux-eval.github.io/leaderboard.html) | CRUXEval is a benchmark to evaluate code reasoning, understanding, and execution capabilities of LLMs. |
 | [CSpider](https://taolusi.github.io/CSpider-explorer) | CSpider is a benchmark to evaluate systems' ability to generate SQL queries from Chinese natural language across diverse, complex, and cross-domain databases. |
 | [CyberSecEval](https://huggingface.co/spaces/facebook/CyberSecEval) | CyberSecEval is a benchmark to evaluate the cybersecurity of LLMs as coding assistants. |
