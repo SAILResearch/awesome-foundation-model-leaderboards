@@ -12,7 +12,7 @@
     </a>
 </div>
 
-**Awesome Large AI Model Leaderboard** is a curated list of awesome AI model leaderboards (for an explanation of what a leaderboard is, please refer to this [tutorial](https://huggingface.co/docs/leaderboards/index)), along with various development tools and evaluation organizations according to [our survey](https://arxiv.org/abs/2407.04065):
+**Awesome Large AI Model Leaderboard** is a curated list of awesome large AI model leaderboards, along with various development tools and evaluation organizations according to [our recent survey](https://arxiv.org/abs/2407.04065):
 
 <p align="center"><strong>On the Workflows and Smells of Leaderboard Operations (LBOps):<br>An Exploratory Study of Foundation Model Leaderboards</strong></p>
 
