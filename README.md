@@ -60,7 +60,7 @@ Also, a leaderboard should be included if only:
         - [3D](#3d)
         - [Game](#game)
         - [Multimodal](#multimodal)
-        - [Intelligence Quotient](#intelligence-quotient)
+        - [Time](#time)
     - [Database Ranking](#database-ranking)
     - [Dataset Ranking](#dataset-ranking)
     - [Metric Ranking](#metric-ranking)
@@ -307,7 +307,6 @@ Also, a leaderboard should be included if only:
 | [Pinocchio ITA leaderboard](https://huggingface.co/spaces/mii-llm/pinocchio-ita-leaderboard) | Pinocchio ITA leaderboard tracks and evaluates LLMs in Italian Language. |
 | [PL-MTEB](https://huggingface.co/spaces/PL-MTEB/leaderboard) | PL-MTEB (Polish Massive Text Embedding Benchmark) is a benchmark for evaluating text embeddings in Polish across 28 NLP tasks. |
 | [PromptBench](https://llm-eval.github.io/pages/leaderboard) | PromptBench is a benchmark to evaluate the robustness of LLMs on adversarial prompts. |
-| [Prophet Arena](https://www.prophetarena.co/leaderboard) | Prophet Arena is a real-world benchmark to evaluate LLMs on their ability to forecast future events and quantify uncertainty. |
 | [QAConv](https://github.com/salesforce/QAConv?tab=readme-ov-file#leaderboard) | QAConv is a benchmark for question answering using complex, domain-specific, and asynchronous conversations as the knowledge source. |
 | [QuALITY](https://nyu-mll.github.io/quality) | QuALITY is a benchmark for evaluating multiple-choice question-answering with a long context. |
 | [RABBITS](https://huggingface.co/spaces/AIM-Harvard/rabbits-leaderboard) | RABBITS is a benchmark to evaluate the robustness of LLMs by evaluating their handling of synonyms, specifically brand and generic drug names. |
@@ -353,6 +352,7 @@ Also, a leaderboard should be included if only:
 | [Toloka LLM Leaderboard](https://huggingface.co/spaces/toloka/open-llm-leaderboard) | Toloka LLM Leaderboard is a benchmark to evaluate LLMs based on authentic user prompts and expert human evaluation. |
 | [Toolbench](https://huggingface.co/spaces/qiantong-xu/toolbench-leaderboard) | ToolBench is a platform for training, serving, and evaluating LLMs specifically for tool learning. |
 | [Toxicity Leaderboard](https://huggingface.co/spaces/Bias-Leaderboard/leaderboard) | Toxicity Leaderboard evaluates the toxicity of LLMs. |
+| [Tracking AI leaderboard](https://www.trackingai.org) | Tracking AI leaderboard is an online ranking platform of AI models based on their performance on various IQ-style evaluations. |
 | [Trustbit LLM Leaderboards](https://www.trustbit.tech/en/llm-benchmarks) | Trustbit LLM Leaderboards is a platform that provides benchmarks for building and shipping products with LLMs. |
 | [TrustLLM](https://trustllmbenchmark.github.io/TrustLLM-Website/leaderboard.html) | TrustLLM is a benchmark to evaluate the trustworthiness of LLMs. |
 | [TuringAdvice](https://rowanzellers.com/advice) | TuringAdvice is a benchmark for evaluating language models' ability to generate helpful advice for real-life, open-ended situations. |
@@ -618,11 +618,12 @@ Also, a leaderboard should be included if only:
 | [Labelbox Leaderboards](https://labelbox.com/leaderboards) | Labelbox Leaderboards evaluate performance of generative AI models using their data factory: platform, scientific process and expert humans.
 | [MEGA-Bench](https://huggingface.co/spaces/TIGER-Lab/MEGA-Bench) | MEGA-Bench is a benchmark for multimodal evaluation with diverse tasks across 8 application types, 7 input formats, 6 output formats, and 10 multimodal skills, spanning single-image, multi-image, and video tasks. |
 
-### Intelligence Quotient
+### Time
 
 | Name | Description |
 | ---- | ----------- |
-| [Tracking AI leaderboard](https://www.trackingai.org) | Tracking AI leaderboard is an online ranking platform of AI models based on their performance on various IQ-style evaluations. |
+| [FutureX](https://futurex-ai.github.io) | FutureX is a live benchmark to evaluate how effectively AI agents can predict real-world, future-oriented events across various domains, deliberately avoiding data contamination by only using questions where the answer is not yet known. |
+| [Prophet Arena](https://www.prophetarena.co/leaderboard) | Prophet Arena is a real-world benchmark to evaluate LLMs on their ability to forecast future events and quantify uncertainty. |
 
 ## Database Ranking
 
