@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://github.com/user-attachments/assets/7d987c01-a398-413c-9860-c1704352a7fe" alt="lbops" width="300"/>
-    <h1>Awesome Foundation Model Leaderboard</h1>
+    <h1>Awesome Large AI Model Leaderboard</h1>
     <a href="https://awesome.re">
         <img src="https://awesome.re/badge.svg" height="20"/>
     </a>
@@ -12,7 +12,7 @@
     </a>
 </div>
 
-**Awesome Foundation Model Leaderboard** is a curated list of awesome foundation model leaderboards (for an explanation of what a leaderboard is, please refer to this [tutorial](https://huggingface.co/docs/leaderboards/index)), along with various development tools and evaluation organizations according to [our survey](https://arxiv.org/abs/2407.04065):
+**Awesome Large AI Model Leaderboard** is a curated list of awesome AI model leaderboards (for an explanation of what a leaderboard is, please refer to this [tutorial](https://huggingface.co/docs/leaderboards/index)), along with various development tools and evaluation organizations according to [our survey](https://arxiv.org/abs/2407.04065):
 
 <p align="center"><strong>On the Workflows and Smells of Leaderboard Operations (LBOps):<br>An Exploratory Study of Foundation Model Leaderboards</strong></p>
 
@@ -41,7 +41,7 @@ _If you have any suggestions, critiques, or questions regarding this list, welco
 Also, a leaderboard should be included if only:
 
 * It is actively maintained.
-* It is related to foundation models.
+* It is related to large AI models.
 
 ## Table of Contents
 - [**Tools**](#tools)
@@ -116,7 +116,7 @@ Also, a leaderboard should be included if only:
 | ---- | ----------- |
 | [AI Benchmarking Hub](https://epoch.ai/benchmarks) | AI Benchmarking Hub tracks and compares AI model performance in reasoning, coding, and knowledge tasks. |
 | [Artificial Analysis](https://artificialanalysis.ai) | Artificial Analysis is a platform to help users make informed decisions on AI model selection and hosting providers. |
-| [CompassRank](https://rank.opencompass.org.cn) | CompassRank is a platform to offer a comprehensive, objective, and neutral evaluation reference of foundation mdoels for the industry and research. |
+| [CompassRank](https://rank.opencompass.org.cn) | CompassRank is a platform to offer a comprehensive, objective, and neutral evaluation reference of foundation models for the industry and research. |
 | [FlagEval](https://flageval.baai.ac.cn/#/leaderboard) | FlagEval is a comprehensive platform for evaluating foundation models. |
 | [Generative AI Leaderboards](https://accubits.com/generative-ai-models-leaderboard) | Generative AI Leaderboard ranks the top-performing generative AI models based on various metrics. |
 | [Holistic Evaluation of Language Models](https://crfm.stanford.edu/helm) | Holistic Evaluation of Language Models (HELM) is a reproducible and transparent framework for evaluating foundation models. |
