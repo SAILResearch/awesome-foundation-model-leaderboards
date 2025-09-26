@@ -123,6 +123,8 @@ Also, a leaderboard should be included if only:
 | [LMArena](https://lmarena.ai/leaderboard) | LMArena operates a chatbot arena where various foundation models compete based on user preferences across multiple categories: text generation, web development, computer vision, text-to-image synthesis, search capabilities, and coding assistance. |
 | [Openrouter Leaderboard](https://openrouter.ai/rankings) | Openrouter Leaderboard offers a real-time comparison of language models based on normalized token usage for prompts and completions, updated frequently. |
 | [Papers With Code](https://paperswithcode.com) | Papers With Code provides open-source leaderboards and benchmarks, linking AI research papers with code to foster transparency and reproducibility in machine learning. |
+| [SEAL LLM Leaderboards](https://scale.com/leaderboard) | SEAL LLM Leaderboards evaluate agentic, frontier, safety, and public-sentiment of the latest LLMs. |
+| [SEAL Showdown](https://scale.com/showdown) | SEAL Showdown ranks AI models based on how they perform in real-world use. Votes are blind, optional, and organic, so rankings reflect authentic preferences. |
 | [SuperCLUE](https://www.superclueai.com) | SuperCLUE is a series of benchmarks for evaluating Chinese foundation models. |
 | [Vals AI](https://www.vals.ai) | Val AI builds custom, industry-specific benchmarks using private datasets to provide unbiased third-party evaluations of LLM performance. |
 | [Vellum LLM Leaderboard](https://www.vellum.ai/llm-leaderboard) | Vellum LLM Leaderboard shows a comparison of capabilities, price and context window for leading commercial and open-source LLMs. |
@@ -329,7 +331,6 @@ Also, a leaderboard should be included if only:
 | [SciKnowEval](http://scimind.ai/sciknoweval) | SciKnowEval is a benchmark to evaluate LLMs based on their proficiency in studying extensively, enquiring earnestly, thinking profoundly, discerning clearly, and practicing assiduously. |
 | [SCROLLS](https://www.scrolls-benchmark.com/leaderboard) | SCROLLS is a benchmark to evaluate the reasoning capabilities of LLMs over long texts. |
 | [SeaExam](https://huggingface.co/spaces/SeaLLMs/SeaExam_leaderboard) | SeaExam is a benchmark to evaluate LLMs for Southeast Asian (SEA) languages. |
-| [SEAL LLM Leaderboards](https://scale.com/leaderboard) | SEAL LLM Leaderboards is an expert-driven private evaluation platform for LLMs. |
 | [SeaEval](https://huggingface.co/spaces/SeaEval/SeaEval_Leaderboard) | SeaEval is a benchmark to evaluate the performance of multilingual LLMs in understanding and reasoning with natural language, as well as comprehending cultural practices, nuances, and values. |
 | [SEA HELM](https://leaderboard.sea-lion.ai) | SEA HELM is a benchmark to evaluate LLMs' performance across English and Southeast Asian tasks, focusing on chat, instruction-following, and linguistic capabilities. |
 | [SecEval](https://github.com/XuanwuAI/SecEval?tab=readme-ov-file#leaderboard) | SecEval is a benchmark to evaluate cybersecurity knowledge of foundation models. |
