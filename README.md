@@ -606,9 +606,10 @@ Also, a leaderboard should be included if only:
 | [γ-Bench](https://github.com/CUHK-ARISE/GAMABench?tab=readme-ov-file#leaderboard) | γ-Bench is a framework for evaluating LLMs' gaming abilities in multi-agent environments using eight classical game theory scenarios and a dynamic scoring scheme. |
 | [Elo Leaderboard](https://werewolf.foaster.ai) | Elo Leaderboard is a platform to evaluate LLMs' ability to deceive, deduce, and form alliances in the classic social deduction game of Werewolf, revealing which models excel at strategic reasoning and social manipulation. |
 | [GlitchBench](https://huggingface.co/spaces/glitchbench/Leaderboard) | GlitchBench is a benchmark to evaluate the reasoning capabilities of MLLMs in the context of detecting video game glitches. |
+| [GTBench](https://huggingface.co/spaces/GTBench/GTBench) | GTBench is a benchmark to evaluate and rank LLMs' reasoning abilities in competitive environments through game-theoretic tasks, e.g., board and card games. |
 | [LLM Roleplay Leaderboard](https://huggingface.co/spaces/hackathonM/Roleplay_leaderboard) | LLM Roleplay Leaderboard evaluates human and AI performance in a social werewolf game for NPC development. |
 | [LMGame Bench](https://huggingface.co/spaces/lmgame/lmgame_bench) | LMGame Bench is a benchmark for evaluating large language models' performance on game-playing tasks and strategic reasoning abilities. |
-| [GTBench](https://huggingface.co/spaces/GTBench/GTBench) | GTBench is a benchmark to evaluate and rank LLMs' reasoning abilities in competitive environments through game-theoretic tasks, e.g., board and card games. |
+| [VideoGameQA-Bench](https://asgaardlab.github.io/videogameqa-bench) | VideoGameQA-Bench is a comprehensive benchmark designed to evaluate how well VLMs can perform various quality assurance (QA) tasks in video games, such as detecting glitches, comparing visual changes, and generating bug reports. |
 
 ### Multimodal
 
