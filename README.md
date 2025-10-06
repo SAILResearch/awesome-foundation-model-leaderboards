@@ -272,8 +272,6 @@ Also, a leaderboard should be included if only:
 | [Model Evaluation Leaderboard](https://github.com/databricks/databricks-ml-examples?tab=readme-ov-file#model-evaluation-leaderboard) | Model Evaluation Leaderboard tracks and evaluates text generation models based on their performance across various benchmarks using Mosaic Eval Gauntlet framework. |
 | [MSNP Leaderboard](https://huggingface.co/spaces/evilfreelancer/msnp-leaderboard) | MSNP Leaderboard tracks and evaluates quantized GGUF models' performance on various GPU and CPU combinations using single-node setups via Ollama. |
 | [MSTEB](https://huggingface.co/spaces/clibrain/Spanish-Embeddings-Leaderboard) | MSTEB is a benchmark for measuring the performance of text embedding models in Spanish. |
-| [MTEB](https://huggingface.co/spaces/mteb/leaderboard) | MTEB is a massive benchmark for measuring the performance of text embedding models on diverse embedding tasks across 112 languages. |
-| [MTEB Arena](https://huggingface.co/spaces/mteb/arena) | MTEB Arena host a model arena for dynamic, real-world assessment of embedding models through user-based query and retrieval comparisons. |
 | [MT-Bench-101](https://github.com/mtbench101/mt-bench-101?tab=readme-ov-file#leaderboard) | MT-Bench-101 is a fine-grained benchmark for evaluating LLMs in multi-turn dialogues. |
 | [MY Malay LLM Leaderboard](https://huggingface.co/spaces/mesolitica/malay-llm-leaderboard) | MY Malay LLM Leaderboard aims to track, rank, and evaluate open LLMs on Malay tasks. |
 | [NoCha](https://novelchallenge.github.io) | NoCha is a benchmark to evaluate how well long-context language models can verify claims written about fictional books. |
@@ -319,6 +317,7 @@ Also, a leaderboard should be included if only:
 | [Reviewer Arena](https://huggingface.co/spaces/openreviewer/reviewer-arena) | Reviewer Arena hosts the reviewer arena, where various LLMs compete based on their performance in critiquing academic papers. |
 | [RoleEval](https://github.com/magnetic2014/roleeval?tab=readme-ov-file#leaderboard-5-shot) | RoleEval is a bilingual benchmark to evaluate the memorization, utilization, and reasoning capabilities of role knowledge of LLMs. |
 | [RPBench Leaderboard](https://boson.ai/rpbench) | RPBench-Auto is an automated pipeline for evaluating LLMs using 80 personae for character-based and 80 scenes for scene-based role-playing. |
+| [RTEB](https://huggingface.co/spaces/mteb/leaderboard) | RTEB (ReTrieval Embedding Benchmark) is a comprehensive benchmark for evaluating text retrieval models across multiple specialized domains including legal, finance, code, and healthcare. |
 | [Russian Chatbot Arena](https://huggingface.co/spaces/LLMArena/llmarena-leaderboard) | Chatbot Arena hosts a chatbot arena where various LLMs compete in Russian based on user satisfaction. |
 | [Russian SuperGLUE](https://russiansuperglue.com/leaderboard/2) | Russian SuperGLUE is a benchmark for Russian language models, focusing on logic, commonsense, and reasoning tasks. |
 | [R-Judge](https://rjudgebench.github.io/leaderboard.html) | R-Judge is a benchmark to evaluate the proficiency of LLMs in judging and identifying safety risks given agent interaction records. |
