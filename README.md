@@ -120,6 +120,7 @@ Also, a leaderboard should be included if only:
 | [FlagEval](https://flageval.baai.ac.cn/#/leaderboard) | FlagEval is a comprehensive platform for evaluating foundation models. |
 | [Generative AI Leaderboards](https://accubits.com/generative-ai-models-leaderboard) | Generative AI Leaderboard ranks the top-performing generative AI models based on various metrics. |
 | [Holistic Evaluation of Language Models](https://crfm.stanford.edu/helm) | Holistic Evaluation of Language Models (HELM) is a reproducible and transparent framework for evaluating foundation models. |
+| [LLM Stats](https://llm-stats.com/) | LLM Stats, the most comprehensive LLM leaderboard, benchmarks and compares API models using daily-updated, open-source community data on capability, price, speed, and context length. |
 | [LMArena](https://lmarena.ai/leaderboard) | LMArena operates a chatbot arena where various foundation models compete based on user preferences across multiple categories: text generation, web development, computer vision, text-to-image synthesis, search capabilities, and coding assistance. |
 | [Openrouter Leaderboard](https://openrouter.ai/rankings) | Openrouter Leaderboard offers a real-time comparison of language models based on normalized token usage for prompts and completions, updated frequently. |
 | [Papers With Code](https://paperswithcode.com) | Papers With Code provides open-source leaderboards and benchmarks, linking AI research papers with code to foster transparency and reproducibility in machine learning. |
