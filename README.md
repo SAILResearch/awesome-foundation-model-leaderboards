@@ -452,6 +452,7 @@ Also, a leaderboard should be included if only:
 | ---- | ----------- |
 | [Abstract Image](https://multi-modal-self-instruct.github.io/#leaderboard) | Abstract Image is a benchmark to evaluate multimodal LLMs (MLLM) in understanding and visually reasoning about abstract images, such as maps, charts, and layouts. |
 | [AesBench](https://aesbench.github.io) | AesBench is a benchmark to evaluate MLLMs on image aesthetics perception. |
+| [ARC-AGI Leaderboard](https://arcprize.org/leaderboard) | ARC-AGI leaderboard publicly tracks and compares the efficiency and capability of artificial intelligence systems against human performance on the ARC-AGI-2 benchmark as part of an open-source research competition aimed at advancing artificial general intelligence. |
 | [BLINK](https://github.com/zeyofu/BLINK_Benchmark?tab=readme-ov-file#-mini-leaderboard) | BLINK is a benchmark to evaluate the core visual perception abilities of MLLMs. |
 | [BlinkCode](https://huggingface.co/spaces/yajuniverse/BlinkCode_leaderboard) | BlinkCode is a benchmark to evaluate MLLMs across 15 vision-language models (VLMs) and 9 tasks, measuring accuracy and image reconstruction performance. |
 | [ChartMimic](https://chartmimic.github.io) | ChartMimic is a benchmark to evaluate the visually-grounded code generation capabilities of large multimodal models using charts and textual instructions. |
