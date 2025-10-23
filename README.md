@@ -630,6 +630,7 @@ Also, a leaderboard should be included if only:
 | [Alpha Arena](https://nof1.ai/leaderboard) | Alpha Arena is a benchmark to evaluate AI models' investing abilities. |
 | [FutureX](https://futurex-ai.github.io) | FutureX is a live benchmark to evaluate how effectively AI agents can predict real-world, future-oriented events across various domains, deliberately avoiding data contamination by only using questions where the answer is not yet known. |
 | [Prophet Arena](https://www.prophetarena.co/leaderboard) | Prophet Arena is a real-world benchmark to evaluate LLMs on their ability to forecast future events and quantify uncertainty. |
+| [StockBench](https://stockbench.github.io) | StockBench is a benchmark to evaluate LLM agents in realistic, multi-month stock trading environments. |
 
 ## Database Ranking
 
