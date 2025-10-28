@@ -549,12 +549,14 @@ Also, a leaderboard should be included if only:
 
 | Name | Description |
 | ---- | ----------- |
+| [Agent Arena](https://www.agent-arena.com/leaderboard) | Agent Arena ranks AI agents, models, tools, and frameworks using ELO-Style ratings from battles, offering insights into agent capabilities across various categories and leverages battle data to evaluate individual agent components. |
 | [AgentBench](https://llmbench.ai/agent/data) | AgentBench is the benchmark to evaluate language model-as-Agent across a diverse spectrum of different environments. |
 | [AgentBoard](https://hkust-nlp.github.io/agentboard/static/leaderboard.html) | AgentBoard is a benchmark for multi-turn LLM agents, complemented by an analytical evaluation board for detailed model assessment beyond final success rates. |
 | [AgentStudio](https://skyworkai.github.io/agent-studio) | AgentStudio is an integrated solution featuring in-depth benchmark suites, realistic environments, and comprehensive toolkits. |
 | [BrowseComp](https://www.kaggle.com/benchmarks/openai/browsecomp) | BrowseComp is a benchmark to evaluate the ability of AI agents to locate hard-to-find information. |
 | [BrowserGym Leaderboard](https://huggingface.co/spaces/ServiceNow/browsergym-leaderboard) | BrowserGym Leaderboard is a platform to evaluate LLMs, VLMs, and agents on web navigation tasks. |
 | [CharacterEval](https://github.com/morecry/CharacterEval?tab=readme-ov-file#leaderboard) | CharacterEval is a benchmark to evaluate Role-Playing Conversational Agents (RPCAs) using multi-turn dialogues and character profiles, with metrics spanning four dimensions. |
+| [Computer Agent Arena](https://arena.xlang.ai/leaderboard) | Computer Agent Arena is an open evaluation platform where users can compare LLM/VLM-based AI agents performing real-world computer tasks, ranging from general computer use to specialized workflows like coding, data analysis, and video editing. |
 | [GTA](https://github.com/open-compass/GTA?tab=readme-ov-file#leaderboard) | GTA is a benchmark to evaluate the tool-use capability of LLM-based agents in real-world scenarios.
 | [Leetcode-Hard Gym](https://github.com/GammaTauAI/leetcode-hard-gym?tab=readme-ov-file#leaderboard-for-leetcode-hard-python-pass1) | Leetcode-Hard Gym is an RL environment interface to LeetCode's submission server for evaluating codegen agents. |
 | [LLM Colosseum Leaderboard](https://github.com/OpenGenerativeAI/llm-colosseum?tab=readme-ov-file#results) | LLM Colosseum Leaderboard is a platform to evaluate LLMs by fighting in Street Fighter 3. |
