@@ -146,7 +146,8 @@ Also, a leaderboard should be included if only:
 | [AlpacaEval](https://tatsu-lab.github.io/alpaca_eval) | AlpacaEval is an automatic evaluator designed for instruction-following LLMs. |
 | [ANGO](https://huggingface.co/spaces/AngoHF/ANGO-Leaderboard) | ANGO is a generation-oriented Chinese language model evaluation benchmark. |
 | [Arabic Tokenizers Leaderboard](https://huggingface.co/spaces/MohamedRashad/arabic-tokenizers-leaderboard) | Arabic Tokenizers Leaderboard compares the efficiency of LLMs in parsing Arabic in its different dialects and forms. |
-| [Arena-Hard-Auto](https://github.com/lmarena/arena-hard-auto?tab=readme-ov-file#full-leaderboard-updated-0831) | Arena-Hard-Auto is a benchmark for instruction-tuned LLMs. |
+| [Arena-Hard-Auto](https://github.com/lmarena/arena-hard-auto?tab=readme-ov-file#leaderboard) | Arena-Hard-Auto is a benchmark for instruction-tuned LLMs. |
+| [AutoBench LLM Leaderboard](https://huggingface.co/spaces/AutoBench/AutoBench-Leaderboard) | AutoBench LLM Leaderboard is a platform where LLMs rank LLMs' responses in terms of performance, cost, and latency metrics. |
 | [AutoRace](https://www.llm-reasoners.net/leaderboard) | AutoRace focuses on the direct evaluation of LLM reasoning chains with metric AutoRace (Automated Reasoning Chain Evaluation). |
 | [Auto Arena](https://huggingface.co/spaces/Auto-Arena/Leaderboard) | Auto Arena is a benchmark in which various language model agents engage in peer-battles to evaluate their performance. |
 | [Auto-J](https://github.com/GAIR-NLP/auto-j?tab=readme-ov-file#leaderboard) | Auto-J hosts evaluation results on the pairwise response comparison and critique generation tasks. |
@@ -430,7 +431,6 @@ Also, a leaderboard should be included if only:
 | [ScreenSpot](https://gui-agent.github.io/grounding-leaderboard/screenspot.html) | ScreenSpot is a benchmark to evaluate the ability of models to perform GUI grounding across various platforms, including mobile (iOS, Android), desktop (macOS, Windows), and web environments, based on over 1,200 instructions. |
 | [ScreenSpot-Pro](https://gui-agent.github.io/grounding-leaderboard) | ScreenSpot-Pro is a benchmark to evaluate the ability of multi-modal large language models (MLLMs) to accurately locate specific GUI elements in complex, high-resolution desktop applications. |
 | [SciCode](https://github.com/scicode-bench/SciCode?tab=readme-ov-file#-leaderboard) | SciCode is a benchmark designed to evaluate language models in generating code to solve realistic scientific research problems. |
-| [SE Arena](https://huggingface.co/spaces/SE-Arena/Software-Engineering-Arena) | SE Arena provides a platform for software developers to compare the performance of different FMs on software engineering tasks. |
 | [SolidityBench](https://huggingface.co/spaces/braindao/solbench-leaderboard) | SolidityBench is a benchmark to evaluate and rank the ability of LLMs in generating and auditing smart contracts. |
 | [Spider](https://yale-lily.github.io/spider) | Spider is a benchmark to evaluate the performance of natural language interfaces for cross-domain databases. |
 | [StableToolBench](https://huggingface.co/spaces/stabletoolbench/Stable_Tool_Bench_Leaderboard) | StableToolBench is a benchmark to evaluate tool learning that aims to provide a well-balanced combination of stability and reality. |
@@ -438,6 +438,7 @@ Also, a leaderboard should be included if only:
 | [SWE-bench-Live](https://swe-bench-live.github.io) | SWE-bench-Live is a live benchmark to evaluate an AI system's ability to complete real-world software engineering tasks. |
 | [SWE-Bench Pro](https://swe-bench-live.github.io) | SWE-Bench Pro is a benchmark to evaluate an AI system's ability for challenging long-horizon software engineering tasks. |
 | [SWE-Effi](https://centre-for-software-excellence.github.io/SWE-Effi) | SWE-Effi is an evaluation framework to evaluate the effectiveness of SWE agents by balancing performance metrics with resource consumption. |
+| [SWE-Model-Arena](https://huggingface.co/spaces/SWE-Arena/SWE-Model-Arena) | SWE-Model-Arena provides a platform for software developers to compare the performance of different FMs on software engineering tasks. |
 | [SWE-rebench](https://swe-rebench.com) | SWE-rebench is a continuously updated benchmark designed to provide more accurate and reliable evaluations of software engineering LLMs by using real-world tasks from GitHub that are less prone to data contamination. |
 | [Terminal-Bench](https://www.tbench.ai/leaderboard) | Terminal-Bench is a benchmark to measure the capabilities of AI agents in a terminal environment. |
 | [UI-I2E-Bench](https://microsoft.github.io/FIVE-UI-Evol) | UI-I2E-Bench is a benchmark for GUI visual grounding. It incorporates implicit instructions and long-tail UI element types, with element-to-screen size ratios that better reflect real-world scenarios. |
