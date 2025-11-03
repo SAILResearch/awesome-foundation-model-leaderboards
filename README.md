@@ -164,7 +164,7 @@ Also, a leaderboard should be included if only:
 | [Chain-of-Thought Hub](https://github.com/FranxYao/chain-of-thought-hub?tab=readme-ov-file#leaderboard---main) | Chain-of-Thought Hub is a benchmark to evaluate the reasoning capabilities of LLMs. |
 | [ChemBench](https://lamalab-org.github.io/chem-bench/leaderboard) | ChemBench is a benchmark to evaluate the chemical knowledge and reasoning abilities of LLMs. |
 | [Chinese SimpleQA](http://47.109.32.164) | Chinese SimpleQA is a Chinese benchmark to evaluate the factuality ability of language models to answer short questions. |
-| [CLEM Leaderboard](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard) | CLEM is a framework designed for the systematic evaluation of chat-optimized LLMs as conversational agents. |
+| [CLEM](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard) | CLEM is a framework designed for the systematic evaluation of chat-optimized LLMs as conversational agents. |
 | [CLEVA](http://www.lavicleva.com) | CLEVA is a benchmark to evaluate LLMs on 31 tasks using 370K Chinese queries from 84 diverse datasets and 9 metrics. |
 | [Chinese Large Model Leaderboard](https://github.com/jeinlee1991/chinese-llm-benchmark?tab=readme-ov-file#-%E6%8E%92%E8%A1%8C%E6%A6%9C) | Chinese Large Model Leaderboard is a platform to evaluate the performance of Chinese LLMs. |
 | [CMMLU](https://github.com/haonan-li/CMMLU/blob/master/README_EN.md#leaderboard) | CMMLU is a benchmark to evaluate the performance of LLMs in various subjects within the Chinese cultural context. |
@@ -182,7 +182,7 @@ Also, a leaderboard should be included if only:
 | [CyberMetric](https://github.com/cybermetric/CyberMetric?tab=readme-ov-file#llm-leaderboard-on-cybermetric-dataset) | CyberMetric is a benchmark to evaluate the cybersecurity knowledge of LLMs. |
 | [CzechBench](https://huggingface.co/spaces/CIIRC-NLP/czechbench_leaderboard) | CzechBench is a benchmark to evaluate Czech language models. |
 | [C-Eval](https://cevalbenchmark.com/static/leaderboard.html) | C-Eval is a Chinese evaluation suite for LLMs. |
-| [Decentralized Arena Leaderboard](https://huggingface.co/spaces/LLM360/de-arena) | Decentralized Arena hosts a decentralized and democratic platform for LLM evaluation, automating and scaling assessments across diverse, user-defined dimensions, including mathematics, logic, and science. |
+| [Decentralized Arena](https://huggingface.co/spaces/LLM360/de-arena) | Decentralized Arena hosts a decentralized and democratic platform for LLM evaluation, automating and scaling assessments across diverse, user-defined dimensions, including mathematics, logic, and science. |
 | [DecodingTrust](https://decodingtrust.github.io/leaderboard) | DecodingTrust is a platform to evaluate the trustworthiness of LLMs. |
 | [Domain LLM Leaderboard](https://huggingface.co/spaces/NexaAIDev/domain_llm_leaderboard) | Domain LLM Leaderboard is a platform to evaluate the popularity of domain-specific LLMs. |
 | [Enterprise Scenarios leaderboard](https://huggingface.co/spaces/PatronusAI/enterprise_scenarios_leaderboard) | Enterprise Scenarios Leaderboard tracks and evaluates the performance of LLMs on real-world enterprise use cases. |
@@ -229,7 +229,7 @@ Also, a leaderboard should be included if only:
 | [LawBench](https://lawbench.opencompass.org.cn/leaderboard) | LawBench is a benchmark to evaluate the legal capabilities of LLMs. |
 | [La Leaderboard](https://huggingface.co/spaces/la-leaderboard/la-leaderboard) | La Leaderboard evaluates and tracks LLM memorization, reasoning and linguistic capabilities in Spain, LATAM and Caribbean. |
 | [LogicKor](https://lk.instruct.kr) | LogicKor is a benchmark to evaluate the multidisciplinary thinking capabilities of Korean LLMs. |
-| [LongICL Leaderboard](https://huggingface.co/spaces/TIGER-Lab/LongICL-Leaderboard) | LongICL Leaderboard is a platform to evaluate long in-context learning evaluations for LLMs. |
+| [LongICL](https://huggingface.co/spaces/TIGER-Lab/LongICL-Leaderboard) | LongICLBench is a benchmark to evaluate long in-context learning evaluations for LLMs. |
 | [LooGLE](https://bigai-nlco.github.io/LooGLE/#-capability-leaderboard) | LooGLE is a benchmark to evaluate long context understanding capabilties of LLMs. |
 | [LAiW](https://huggingface.co/spaces/daishen/SCULAiW) | LAiW is a benchmark to evaluate Chinese legal language understanding and reasoning. |
 | [LLM Benchmarker Suite](https://llm-evals.formula-labs.com) | LLM Benchmarker Suite is a benchmark to evaluate the comprehensive capabilities of LLMs. |
@@ -318,7 +318,6 @@ Also, a leaderboard should be included if only:
 | [ReST-MCTS*](https://github.com/THUDM/ReST-MCTS?tab=readme-ov-file#leaderboard) | ReST-MCTS* is a reinforced self-training method that uses tree search and process reward inference to collect high-quality reasoning traces for training policy and reward models without manual step annotations. |
 | [Reviewer Arena](https://huggingface.co/spaces/openreviewer/reviewer-arena) | Reviewer Arena hosts the reviewer arena, where various LLMs compete based on their performance in critiquing academic papers. |
 | [RoleEval](https://github.com/magnetic2014/roleeval?tab=readme-ov-file#leaderboard-5-shot) | RoleEval is a bilingual benchmark to evaluate the memorization, utilization, and reasoning capabilities of role knowledge of LLMs. |
-| [RPBench Leaderboard](https://boson.ai/rpbench) | RPBench-Auto is an automated pipeline for evaluating LLMs using 80 personae for character-based and 80 scenes for scene-based role-playing. |
 | [RTEB](https://huggingface.co/spaces/mteb/leaderboard) | RTEB (ReTrieval Embedding Benchmark) is a comprehensive benchmark for evaluating text retrieval models across multiple specialized domains including legal, finance, code, and healthcare. |
 | [Russian Chatbot Arena](https://huggingface.co/spaces/LLMArena/llmarena-leaderboard) | Chatbot Arena hosts a chatbot arena where various LLMs compete in Russian based on user satisfaction. |
 | [Russian SuperGLUE](https://russiansuperglue.com/leaderboard/2) | Russian SuperGLUE is a benchmark for Russian language models, focusing on logic, commonsense, and reasoning tasks. |
@@ -443,7 +442,6 @@ Also, a leaderboard should be included if only:
 | [Terminal-Bench](https://www.tbench.ai/leaderboard) | Terminal-Bench is a benchmark to measure the capabilities of AI agents in a terminal environment. |
 | [UI-I2E-Bench](https://microsoft.github.io/FIVE-UI-Evol) | UI-I2E-Bench is a benchmark for GUI visual grounding. It incorporates implicit instructions and long-tail UI element types, with element-to-screen size ratios that better reflect real-world scenarios. |
 | [VisualWebArena](https://jykoh.com/vwa) | VisualWebArena is a benchmark to evaluate the performance of multimodal web agents on realistic visually grounded tasks. |
-| [WebAgent Leaderboard](https://huggingface.co/spaces/meghsn/WebAgent-Leaderboard) | WebAgent Leaderboard tracks and evaluates LLMs, VLMs, and agents on web navigation tasks. |
 | [WebArena](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ) | WebArena is a standalone, self-hostable web environment to evaluate autonomous agents. |
 | [WebApp1K](https://huggingface.co/spaces/onekq-ai/WebApp1K-models-leaderboard) | WebApp1K is a benchmark to evaluate LLMs on their abilities to develop real-world web applications. |
 | [WebDev Arena](https://web.lmarena.ai/leaderboard) | WebDev Arena hosts a chatbot arena where various LLMs compete based on website development. |
@@ -473,7 +471,7 @@ Also, a leaderboard should be included if only:
 | [MJ-Bench](https://huggingface.co/spaces/MJ-Bench/MJ-Bench-Leaderboard) | MJ-Bench is a benchmark to evaluate multimodal judges in providing feedback for image generation models across four key perspectives: alignment, safety, image quality, and bias. |
 | [MLLM-as-a-Judge](https://mllm-judge.github.io/leaderboard.html) | MLLM-as-a-Judge is a benchmark with human annotations to evaluate MLLMs' judging capabilities in scoring, pair comparison, and batch ranking tasks across multimodal domains. |
 | [MLLM-Bench](https://mllm-bench.llmzoo.com/static/leaderboard.html) | MLLM-Bench is a benchmark to evaluate the visual reasoning capabilities of MLVMs. |
-| [MMBench Leaderboard](https://mmbench.opencompass.org.cn/leaderboard) | MMBench Leaderboard is a platform to evaluate the visual reasoning capabilities of MLLMs. |
+| [MMBench](https://mmbench.opencompass.org.cn/leaderboard) | MMBench is a collection of benchmarks to evaluate the multi-modal reasoning capabilities of MLLMs. |
 | [MME](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation?tab=readme-ov-file#leaderboards-of-available-models-unavailable-version) | MME is a benchmark to evaluate the visual reasoning capabilities of MLLMs. |
 | [MME-RealWorld](https://mme-realworld.github.io/home_page.html#leaderboard) | MME-RealWorld is a large-scale, high-resolution benchmark featuring 29,429 human-annotated QA pairs across 43 tasks. |
 | [MMIU](https://mmiu-bench.github.io/#leaderboard) | MMIU (Ultimodal Multi-image Understanding) is a benchmark to evaluate MLLMs across 7 multi-image relationships, 52 tasks, 77K images, and 11K curated multiple-choice questions. |
@@ -554,7 +552,7 @@ Also, a leaderboard should be included if only:
 | [AgentBoard](https://hkust-nlp.github.io/agentboard/static/leaderboard.html) | AgentBoard is a benchmark for multi-turn LLM agents, complemented by an analytical evaluation board for detailed model assessment beyond final success rates. |
 | [AgentStudio](https://skyworkai.github.io/agent-studio) | AgentStudio is an integrated solution featuring in-depth benchmark suites, realistic environments, and comprehensive toolkits. |
 | [BrowseComp](https://www.kaggle.com/benchmarks/openai/browsecomp) | BrowseComp is a benchmark to evaluate the ability of AI agents to locate hard-to-find information. |
-| [BrowserGym Leaderboard](https://huggingface.co/spaces/ServiceNow/browsergym-leaderboard) | BrowserGym Leaderboard is a platform to evaluate LLMs, VLMs, and agents on web navigation tasks. |
+| [BrowserGym Leaderboard](https://huggingface.co/spaces/ServiceNow/browsergym-leaderboard) | BrowserGym is a gym environment to evaluate LLMs, VLMs, and agents on web navigation tasks. |
 | [CharacterEval](https://github.com/morecry/CharacterEval?tab=readme-ov-file#leaderboard) | CharacterEval is a benchmark to evaluate Role-Playing Conversational Agents (RPCAs) using multi-turn dialogues and character profiles, with metrics spanning four dimensions. |
 | [Computer Agent Arena](https://arena.xlang.ai/leaderboard) | Computer Agent Arena is an open evaluation platform where users can compare LLM/VLM-based AI agents performing real-world computer tasks, ranging from general computer use to specialized workflows like coding, data analysis, and video editing. |
 | [Galileo Agent Leaderboard](https://huggingface.co/spaces/galileo-ai/agent-leaderboard) | Galileo Agent Leaderboard is an open evaluation platform to track and evaluate LLM agents in task completion and tool calling across business domains. |
