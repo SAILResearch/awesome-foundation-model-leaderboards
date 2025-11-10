@@ -119,6 +119,7 @@ Also, a leaderboard should be included if only:
 | [Artificial Analysis](https://artificialanalysis.ai) | Artificial Analysis is a platform to help users make informed decisions on AI model selection and hosting providers. |
 | [CompassRank](https://rank.opencompass.org.cn) | CompassRank is a platform to offer a comprehensive, objective, and neutral evaluation reference of foundation models for the industry and research. |
 | [FlagEval](https://flageval.baai.ac.cn/#/leaderboard) | FlagEval is a comprehensive platform for evaluating foundation models. |
+| [GDPval](https://evals.openai.com/gdpval/leaderboard) | GDPval evaluates AI model performance on real-world economically valuable tasks across 44 occupations. |
 | [Generative AI Leaderboards](https://accubits.com/generative-ai-models-leaderboard) | Generative AI Leaderboard ranks the top-performing generative AI models based on various metrics. |
 | [Holistic Evaluation of Language Models](https://crfm.stanford.edu/helm) | Holistic Evaluation of Language Models (HELM) is a reproducible and transparent framework for evaluating foundation models. |
 | [LLM Stats](https://llm-stats.com/) | LLM Stats, the most comprehensive LLM leaderboard, benchmarks and compares API models using daily-updated, open-source community data on capability, price, speed, and context length. |
@@ -390,6 +391,7 @@ Also, a leaderboard should be included if only:
 | [CodeScope](https://haitianliu22.github.io/code-scope-benchmark/leaderboard.html) | CodeScope is a benchmark to evaluate LLM coding capabilities across 43 languages and 8 tasks, considering difficulty, efficiency, and length. |
 | [CodeTransOcean](https://yuchen814.github.io/CodeTransOcean/#leadboard) | CodeTransOcean is a benchmark to evaluate code translation across a wide variety of programming languages, including popular, niche, and LLM-translated code. |
 | [Code Lingua](https://codetlingua.github.io/leaderboard.html) | Code Lingua is a benchmark to compare the ability of code models to understand what the code implements in source languages and translate the same semantics in target languages. |
+| [CodeClash](https://codeclash.ai) | CodeClash benchmarks LLMs on goal-oriented software engineering through competitive coding tournaments. |
 | [Coding LLMs Leaderboard](https://leaderboard.tabbyml.com) | Coding LLMs Leaderboard is a platform to evaluate and rank LLMs across various programming tasks. |
 | [Commit-0](https://commit-0.github.io/analysis) | Commit-0 is a from-scratch AI coding challenge to rebuild 54 core Python libraries, ensuring they pass unit tests with significant test coverage, lint/type checking, and cloud-based distributed development. |
 | [CompileBench](https://www.compilebench.com) | CompileBench is a benchmark to evaluate how well LLMs can handle real-world software engineering challenges, including dependency hell, legacy toolchains, and cryptic compile errors. |
@@ -613,6 +615,7 @@ Also, a leaderboard should be included if only:
 | [Elo Leaderboard](https://werewolf.foaster.ai) | Elo Leaderboard is a platform to evaluate LLMs' ability to deceive, deduce, and form alliances in the classic social deduction game of Werewolf, revealing which models excel at strategic reasoning and social manipulation. |
 | [GlitchBench](https://huggingface.co/spaces/glitchbench/Leaderboard) | GlitchBench is a benchmark to evaluate the reasoning capabilities of MLLMs in the context of detecting video game glitches. |
 | [GTBench](https://huggingface.co/spaces/GTBench/GTBench) | GTBench is a benchmark to evaluate and rank LLMs' reasoning abilities in competitive environments through game-theoretic tasks, e.g., board and card games. |
+| [Husky Hold'em Bench](https://huskybench.com) | Husky Hold'em Bench evaluates LLMs on strategic poker gameplay decision-making under computational constraints. |
 | [LLM Roleplay Leaderboard](https://huggingface.co/spaces/hackathonM/Roleplay_leaderboard) | LLM Roleplay Leaderboard evaluates human and AI performance in a social werewolf game for NPC development. |
 | [LMGame Bench](https://huggingface.co/spaces/lmgame/lmgame_bench) | LMGame Bench is a benchmark for evaluating large language models' performance on game-playing tasks and strategic reasoning abilities. |
 | [VideoGameQA-Bench](https://asgaardlab.github.io/videogameqa-bench) | VideoGameQA-Bench is a comprehensive benchmark designed to evaluate how well VLMs can perform various quality assurance (QA) tasks in video games, such as detecting glitches, comparing visual changes, and generating bug reports. |
