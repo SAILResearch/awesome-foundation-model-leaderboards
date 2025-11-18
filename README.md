@@ -422,7 +422,6 @@ Also, a leaderboard should be included if only:
 | [Nexus Function Calling Leaderboard](https://huggingface.co/spaces/Nexusflow/Nexus_Function_Calling_Leaderboard) | Nexus Function Calling Leaderboard is a platform to evaluate code models on performing function calling and API usage.
 | [NL2SQL360](https://nl2sql360.github.io/#leaderboard) | NL2SQL360 is a comprehensive evaluation framework for comparing and optimizing NL2SQL methods across various application scenarios. |
 | [OpsEval](https://nl2sql360.github.io/#leaderboard) | OpsEval is a benchmark designed to assess the performance of LLMs in IT Operations (AIOps). |
-| [OSWorld](https://os-world.github.io) | OSWorld is a benchmark to evaluate multimodal AI agents on their ability to perform 369 realistic, open-ended tasks within a virtual computer environment across various applications and operating systems. |
 | [PECC](https://huggingface.co/spaces/PatrickHaller/pecc-leaderboard) | PECC is a benchmark that evaluates code generation by requiring models to comprehend and extract problem requirements from narrative-based descriptions to produce syntactically accurate solutions. |
 | [ProLLM Benchmarks](https://prollm.toqan.ai/leaderboard) | ProLLM Benchmarks is a practical and reliable LLM benchmark designed for real-world business use cases across multiple industries and programming languages. |
 | [PyBench](https://github.com/Mercury7353/PyBench?tab=readme-ov-file#-leaderboard) | PyBench is a benchmark evaluating LLM on real-world coding tasks including chart analysis, text analysis, image/ audio editing, complex math and software/website development. |
@@ -430,7 +429,7 @@ Also, a leaderboard should be included if only:
 | [RepairBench](https://repairbench.github.io) | RepairBench is a benchmark to evaluate the program repair capabilities of AI models by testing their ability to fix real-world software bugs. |
 | [ResearchCodeBench](https://researchcodebench.github.io/leaderboard/index.html) | ResearchCodeBench is a benchmark for evaluating LLMs on their ability to translate novel machine learning research papers into executable code. |
 | [RepoQA](https://evalplus.github.io/repoqa.html) | RepoQA is a benchmark to evaluate the long-context code understanding ability of LLMs.
-| [ScreenSpot](https://gui-agent.github.io/grounding-leaderboard/screenspot.html) | ScreenSpot is a benchmark to evaluate the ability of models to perform GUI grounding across various platforms, including mobile (iOS, Android), desktop (macOS, Windows), and web environments, based on over 1,200 instructions. |
+| [ScreenSpot](https://gui-agent.github.io/grounding-leaderboard/screenspot.html) | ScreenSpot is a benchmark to evaluate the ability of VLMs to perform GUI grounding across various platforms, including mobile (iOS, Android), desktop (macOS, Windows), and web environments, based on over 1,200 instructions. |
 | [ScreenSpot-Pro](https://gui-agent.github.io/grounding-leaderboard) | ScreenSpot-Pro is a benchmark to evaluate the ability of multi-modal large language models (MLLMs) to accurately locate specific GUI elements in complex, high-resolution desktop applications. |
 | [SciCode](https://github.com/scicode-bench/SciCode?tab=readme-ov-file#-leaderboard) | SciCode is a benchmark designed to evaluate language models in generating code to solve realistic scientific research problems. |
 | [SolidityBench](https://huggingface.co/spaces/braindao/solbench-leaderboard) | SolidityBench is a benchmark to evaluate and rank the ability of LLMs in generating and auditing smart contracts. |
@@ -444,8 +443,6 @@ Also, a leaderboard should be included if only:
 | [SWE-rebench](https://swe-rebench.com) | SWE-rebench is a continuously updated benchmark designed to provide more accurate and reliable evaluations of software engineering LLMs by using real-world tasks from GitHub that are less prone to data contamination. |
 | [Terminal-Bench](https://www.tbench.ai/leaderboard) | Terminal-Bench is a benchmark to measure the capabilities of AI agents in a terminal environment. |
 | [UI-I2E-Bench](https://microsoft.github.io/FIVE-UI-Evol) | UI-I2E-Bench is a benchmark for GUI visual grounding. It incorporates implicit instructions and long-tail UI element types, with element-to-screen size ratios that better reflect real-world scenarios. |
-| [VisualWebArena](https://jykoh.com/vwa) | VisualWebArena is a benchmark to evaluate the performance of multimodal web agents on realistic visually grounded tasks. |
-| [WebArena](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ) | WebArena is a standalone, self-hostable web environment to evaluate autonomous agents. |
 | [WebApp1K](https://huggingface.co/spaces/onekq-ai/WebApp1K-models-leaderboard) | WebApp1K is a benchmark to evaluate LLMs on their abilities to develop real-world web applications. |
 | [WebDev Arena](https://web.lmarena.ai/leaderboard) | WebDev Arena hosts a chatbot arena where various LLMs compete based on website development. |
 | [WILDS](https://wilds.stanford.edu/leaderboard) | WILDS is a benchmark of in-the-wild distribution shifts spanning diverse data modalities and applications, from tumor identification to wildlife monitoring to poverty mapping. |
@@ -554,6 +551,7 @@ Also, a leaderboard should be included if only:
 | [AgentBench](https://llmbench.ai/agent/data) | AgentBench is the benchmark to evaluate language model-as-Agent across a diverse spectrum of different environments. |
 | [AgentBoard](https://hkust-nlp.github.io/agentboard/static/leaderboard.html) | AgentBoard is a benchmark for multi-turn LLM agents, complemented by an analytical evaluation board for detailed model assessment beyond final success rates. |
 | [AgentStudio](https://skyworkai.github.io/agent-studio) | AgentStudio is an integrated solution featuring in-depth benchmark suites, realistic environments, and comprehensive toolkits. |
+| [AssistantBench](https://huggingface.co/spaces/AssistantBench/leaderboard) | AssistantBench aims to evaluate the ability of web agents to assist with real and time-consuming tasks. |
 | [BrowseComp](https://www.kaggle.com/benchmarks/openai/browsecomp) | BrowseComp is a benchmark to evaluate the ability of AI agents to locate hard-to-find information. |
 | [BrowserGym Leaderboard](https://huggingface.co/spaces/ServiceNow/browsergym-leaderboard) | BrowserGym is a gym environment to evaluate LLMs, VLMs, and agents on web navigation tasks. |
 | [CharacterEval](https://github.com/morecry/CharacterEval?tab=readme-ov-file#leaderboard) | CharacterEval is a benchmark to evaluate Role-Playing Conversational Agents (RPCAs) using multi-turn dialogues and character profiles, with metrics spanning four dimensions. |
@@ -565,8 +563,11 @@ Also, a leaderboard should be included if only:
 | [MAgIC](https://github.com/cathyxl/MAgIC?tab=readme-ov-file#leaderboard) | MAgIC is a benchmark to measure the abilities of cognition, adaptability, rationality and collaboration of LLMs within multi-agent sytems. |
 | [MCPMark](https://mcpmark.ai) | MCPMark is a benchmark to evaluate model and agent capabilities in real-world MCP tasks. |
 | [Olas Predict Benchmark](https://huggingface.co/spaces/valory/olas-prediction-leaderboard) | Olas Predict Benchmark is a benchmark to evaluate agents on historical and future event forecasting. |
+| [OSWorld](https://os-world.github.io) | OSWorld is a benchmark to evaluate multimodal AI agents on their ability to perform 369 realistic, open-ended tasks within a virtual computer environment across various applications and operating systems. |
 | [TravelPlanner](https://huggingface.co/spaces/osunlp/TravelPlannerLeaderboard) | TravelPlanner is a benchmark to evaluate LLM agents in tool use and complex planning within multiple constraints. |
 | [VAB](https://github.com/THUDM/VisualAgentBench?tab=readme-ov-file#leaderboard) | VisualAgentBench (VAB) is a benchmark to evaluate and develop LMMs as visual foundation agents, which comprises 5 distinct environments across 3 types of representative visual agent tasks. |
+| [VisualWebArena](https://jykoh.com/vwa) | VisualWebArena is a benchmark to evaluate the performance of multimodal web agents on realistic visually grounded tasks. |
+| [WebArena](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ) | WebArena is a standalone, self-hostable web environment to evaluate autonomous agents. |
 | [τ-Bench](https://github.com/sierra-research/tau-bench?tab=readme-ov-file#leaderboard) | τ-bench is a benchmark that emulates dynamic conversations between a language model-simulated user and a language agent equipped with domain-specific API tools and policy guidelines. |
 
 ### Medical
