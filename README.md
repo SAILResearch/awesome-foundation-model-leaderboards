@@ -393,6 +393,7 @@ Also, a leaderboard should be included if only:
 | [CodeTransOcean](https://yuchen814.github.io/CodeTransOcean/#leadboard) | CodeTransOcean is a benchmark to evaluate code translation across a wide variety of programming languages, including popular, niche, and LLM-translated code. |
 | [Code Lingua](https://codetlingua.github.io/leaderboard.html) | Code Lingua is a benchmark to compare the ability of code models to understand what the code implements in source languages and translate the same semantics in target languages. |
 | [CodeClash](https://codeclash.ai) | CodeClash benchmarks LLMs on goal-oriented software engineering through competitive coding tournaments. |
+| [CodeElo](https://codeelo-bench.github.io/#leaderboard-table) | CodeElo is a benchmark to evaluate LLMs on code generation through competitive Elo-style ratings. |
 | [Coding LLMs Leaderboard](https://leaderboard.tabbyml.com) | Coding LLMs Leaderboard is a platform to evaluate and rank LLMs across various programming tasks. |
 | [Commit-0](https://commit-0.github.io/analysis) | Commit-0 is a from-scratch AI coding challenge to rebuild 54 core Python libraries, ensuring they pass unit tests with significant test coverage, lint/type checking, and cloud-based distributed development. |
 | [CompileBench](https://www.compilebench.com) | CompileBench is a benchmark to evaluate how well LLMs can handle real-world software engineering challenges, including dependency hell, legacy toolchains, and cryptic compile errors. |
