@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/7d987c01-a398-413c-9860-c1704352a7fe" alt="lbops" width="500"/>
+    <img src="https://github.com/user-attachments/assets/fcf1133a-d462-49e0-9085-e9e082f48b7c" alt="lbops" width="500"/>
     <h1>Awesome Large AI Model Leaderboard</h1>
     <a href="https://awesome.re">
         <img src="https://awesome.re/badge.svg" height="20"/>
