@@ -468,6 +468,7 @@ Also, a leaderboard should be included if only:
 | [LRVSF Leaderboard](https://huggingface.co/spaces/Slep/LRVSF-Leaderboard) | LRVSF Leaderboard is a platform to evaluate LLMs regarding image similarity search in fashion. |
 | [LVLM Leaderboard](https://github.com/OpenGVLab/Multi-Modality-Arena?tab=readme-ov-file#lvlm-leaderboard) | LVLM Leaderboard is a platform to evaluate the visual reasoning capabilities of MLLMs. |
 | [M3CoT](https://lightchen233.github.io/m3cot.github.io/leaderboard.html) | M3CoT is a benchmark for multi-domain multi-step multi-modal chain-of-thought of MLLMs. |
+| [MageBench](https://huggingface.co/spaces/microsoft/MageBench-Leaderboard) | MageBench is a benchmark to evaluate multimodal large language models. |
 | [Mementos](https://mementos-bench.github.io/#leaderboard) | Mementos is a benchmark to evaluate the reasoning capabilities of MLLMs over image sequences. |
 | [MJ-Bench](https://huggingface.co/spaces/MJ-Bench/MJ-Bench-Leaderboard) | MJ-Bench is a benchmark to evaluate multimodal judges in providing feedback for image generation models across four key perspectives: alignment, safety, image quality, and bias. |
 | [MLLM-as-a-Judge](https://mllm-judge.github.io/leaderboard.html) | MLLM-as-a-Judge is a benchmark with human annotations to evaluate MLLMs' judging capabilities in scoring, pair comparison, and batch ranking tasks across multimodal domains. |
