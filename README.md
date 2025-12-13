@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://github.com/user-attachments/assets/1165c100-971b-4336-bd75-f5664311643c" alt="lbops" width="360"/>
-    <h1>Awesome Large AI Model Leaderboard</h1>
+    <h1>Awesome AI Leaderboard</h1>
     <a href="https://awesome.re">
         <img src="https://awesome.re/badge.svg" height="20"/>
     </a>
@@ -12,7 +12,7 @@
     </a>
 </div>
 
-**Awesome Large AI Model Leaderboard** is a curated list of awesome leaderboards on large AI models, along with various development tools and evaluation organizations according to [our recent survey](https://arxiv.org/abs/2407.04065):
+**Awesome AI Leaderboard** is a curated list of awesome leaderboards on AIs, along with various development tools and evaluation organizations according to [our recent survey](https://arxiv.org/abs/2407.04065):
 
 <p align="center"><strong>On the Workflows and Smells of Leaderboard Operations (LBOps):<br>An Exploratory Study of Foundation Model Leaderboards</strong></p>
 
@@ -41,7 +41,7 @@ _If you have any suggestions, critiques, or questions regarding this list, welco
 Also, a leaderboard should be included if only:
 
 * It is actively maintained.
-* It is related to large AI models.
+* It is related to AIs.
 
 ## Table of Contents
 - [**Tools**](#tools)
