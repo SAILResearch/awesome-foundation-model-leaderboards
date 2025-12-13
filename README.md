@@ -12,7 +12,7 @@
     </a>
 </div>
 
-**Awesome AI Leaderboard** is a curated list of awesome leaderboards on AIs, along with various development tools and evaluation organizations according to [our recent survey](https://arxiv.org/abs/2407.04065):
+**Awesome AI Leaderboard** is a curated list of awesome AI leaderboards, along with various development tools and evaluation organizations according to [our recent survey](https://arxiv.org/abs/2407.04065):
 
 <p align="center"><strong>On the Workflows and Smells of Leaderboard Operations (LBOps):<br>An Exploratory Study of Foundation Model Leaderboards</strong></p>
 
@@ -36,12 +36,12 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 
 _If you want to contribute to this list (please do), welcome to [propose a pull request](https://github.com/SAILResearch/awesome-foundation-model-leaderboards/fork)._
 
-_If you have any suggestions, critiques, or questions regarding this list, welcome to [raise an issue](https://github.com/SAILResearch/awesome-foundation-model-leaderboards/issues/new)._
+_If you have any suggestions, critiques, or questions regarding this list, welcome to [re an issue](https://github.com/SAILResearch/awesome-foundation-model-leaderboards/issues/new)._
 
 Also, a leaderboard should be included if only:
 
 * It is actively maintained.
-* It is related to AIs.
+* It is related to AI.
 
 ## Table of Contents
 - [**Tools**](#tools)
