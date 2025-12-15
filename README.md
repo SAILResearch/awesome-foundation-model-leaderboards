@@ -193,6 +193,7 @@ Also, a leaderboard should be included if only:
 | [EvalGPT.ai](https://github.com/h2oai/h2o-LLM-eval?tab=readme-ov-file#elo-leaderboard) | EvalGPT.ai hosts a chatbot arena to compare and rank the performance of LLMs. |
 | [Eval Arena](https://crux-eval.github.io/eval-arena) | Eval Arena measures noise levels, model quality, and benchmark quality by comparing model pairs across several LLM evaluation benchmarks with example-level analysis and pairwise comparisons. |
 | [Factuality Leaderboard](https://github.com/gair-nlp/factool?tab=readme-ov-file#factuality-leaderboard) | Factuality Leaderboard compares the factual capabilities of LLMs. |
+| [FACTS Grounding](https://www.kaggle.com/benchmarks/google/facts-grounding) | FACTS Grounding is a benchmark to evaluate the ability of language models to ground their responses in factual information. |
 | [FanOutQA](https://fanoutqa.com/leaderboard) | FanOutQA is a high quality, multi-hop, multi-document benchmark for LLMs using English Wikipedia as its knowledge base. |
 | [FastEval](https://fasteval.github.io/FastEval) | FastEval is a toolkit for quickly evaluating instruction-following and chat language models on various benchmarks with fast inference and detailed performance insights. |
 | [FELM](https://hkust-nlp.github.io/felm) | FELM is a meta benchmark to evaluate factuality evaluation benchmark for LLMs. |
