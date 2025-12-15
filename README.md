@@ -36,7 +36,7 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 
 _If you want to contribute to this list (please do), welcome to [propose a pull request](https://github.com/SAILResearch/awesome-foundation-model-leaderboards/fork)._
 
-_If you have any suggestions, critiques, or questions regarding this list, welcome to [re an issue](https://github.com/SAILResearch/awesome-foundation-model-leaderboards/issues/new)._
+_If you have any suggestions, critiques, or questions regarding this list, welcome to [raise issue](https://github.com/SAILResearch/awesome-foundation-model-leaderboards/issues/new)._
 
 Also, a leaderboard should be included if only:
 
