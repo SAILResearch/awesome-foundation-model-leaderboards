@@ -576,6 +576,7 @@ Also, a leaderboard should be included if only:
 | [MultiTrust](https://multi-trust.github.io/#leaderboard) | MultiTrust is a benchmark to evaluate the trustworthiness of MLLMs across five primary aspects: truthfulness, safety, robustness, fairness, and privacy. |
 | [OR-Bench](https://huggingface.co/spaces/bench-llms/or-bench-leaderboard) | OR-Bench is a benchmark to evaluate the over-refusal of enhanced safety in LLMs. |
 | [R-Judge](https://rjudgebench.github.io/leaderboard.html) | R-Judge is a benchmark to evaluate the proficiency of LLMs in judging and identifying safety risks given agent interaction records. |
+| [RedCode](https://redcode-agent.github.io/#leaderboard) | RedCode is a benchmark to evaluate the safety of AI coding agents. |
 | [SafetyBench](https://llmbench.ai/safety/data) | SafetyBench is a benchmark to evaluate the safety of LLMs. |
 | [Safety Prompts](http://coai.cs.tsinghua.edu.cn/leaderboard) | Safety Prompts is a benchmark to evaluate the safety of Chinese LLMs. |
 | [SALAD-Bench](https://huggingface.co/spaces/OpenSafetyLab/Salad-Bench-Leaderboard) | SALAD-Bench is a benchmark for evaluating the safety and security of LLMs. |
