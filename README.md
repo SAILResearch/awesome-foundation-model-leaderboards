@@ -55,6 +55,7 @@ Also, a leaderboard should be included if only:
         - [Video](#video)
         - [Math](#math)
         - [Agent](#agent)
+        - [Safety](#safety)
         - [Medical](#medical)
         - [Audio](#audio)
         - [3D](#3d)
@@ -199,7 +200,6 @@ Also, a leaderboard should be included if only:
 | [FELM](https://hkust-nlp.github.io/felm) | FELM is a meta benchmark to evaluate factuality evaluation benchmark for LLMs. |
 | [FinEval](https://github.com/SUFE-AIFLM-Lab/FinEval?tab=readme-ov-file#performance-leaderboard) | FinEval is a benchmark to evaluate financial domain knowledge in LLMs. |
 | [Fine-tuning Leaderboard](https://predibase.com/fine-tuning-index) | Fine-tuning Leaderboard is a platform to rank and showcase models that have been fine-tuned using open-source datasets or frameworks. |
-| [Flames](https://github.com/AIFlames/Flames?tab=readme-ov-file#-leaderboard) | Flames is a highly adversarial Chinese benchmark for evaluating LLMs' value alignment across fairness, safety, morality, legality, and data protection. |
 | [FollowBench](https://github.com/YJiangcm/FollowBench?tab=readme-ov-file#%EF%B8%8F-leaderboard) | FollowBench is a multi-level fine-grained constraints following benchmark to evaluate the instruction-following capability of LLMs. |
 | [Forbidden Question Dataset](https://junjie-chu.github.io/Public_Comprehensive_Assessment_Jailbreak/leaderboard) | Forbidden Question Dataset is a benchmark containing 160 questions from 160 violated categories, with corresponding targets for evaluating jailbreak methods. |
 | [FuseReviews](https://huggingface.co/spaces/lovodkin93/FuseReviews-Leaderboard) | FuseReviews aims to advance grounded text generation tasks, including long-form question-answering and summarization. |
@@ -251,7 +251,6 @@ Also, a leaderboard should be included if only:
 | [LLM Leaderboard for CRM](https://huggingface.co/spaces/Salesforce/crm_llm_leaderboard) | CRM LLM Leaderboard is a platform to evaluate the efficacy of LLMs for business applications. |
 | [LLM Observatory](https://ai-sandbox.list.lu/llm-leaderboard) | LLM Observatory is a benchmark that assesses and ranks LLMs based on their performance in avoiding social biases across categories like LGBTIQ+ orientation, age, gender, politics, race, religion, and xenophobia. |
 | [LLM Price Leaderboard](https://huggingface.co/spaces/seawolf2357/leaderboard_llm_price) | LLM Price Leaderboard tracks and compares LLM costs based on one million tokens. |
-| [LLM Safety Leaderboard](https://huggingface.co/spaces/AI-Secure/llm-trustworthy-leaderboard) | LLM Safety Leaderboard aims to provide a unified evaluation for language model safety. |
 | [LLM Use Case Leaderboard](https://llmleaderboard.goml.io) | LLM Use Case Leaderboard tracks and evaluates LLMs in business usecases. |
 | [LLM-AggreFact](https://llm-aggrefact.github.io) | LLM-AggreFact is a fact-checking benchmark that aggregates most up-to-date publicly available datasets on grounded factuality evaluation. |
 | [LLM-Leaderboard](https://github.com/LudwigStumpp/llm-leaderboard?tab=readme-ov-file#leaderboard) | LLM-Leaderboard is a joint community effort to create one central leaderboard for LLMs. |
@@ -306,7 +305,6 @@ Also, a leaderboard should be included if only:
 | [Open Taiwan LLM leaderboard](https://huggingface.co/spaces/yentinglin/open-tw-llm-leaderboard) | Open Taiwan LLM leaderboard showcases the performance of LLMs on various Taiwanese Mandarin language understanding tasks. |
 | [Open-LLM-Leaderboard](https://huggingface.co/spaces/Open-Style/OSQ-Leaderboard) | Open-LLM-Leaderboard evaluates LLMs in language understanding and reasoning by transitioning from multiple-choice questions (MCQs) to open-style questions. |
 | [OPUS-MT Dashboard](https://opus.nlpl.eu/dashboard) | OPUS-MT Dashboard is a platform to track and compare machine translation models across multiple language pairs and metrics. |
-| [OR-Bench](https://huggingface.co/spaces/bench-llms/or-bench-leaderboard) | OR-Bench is a benchmark to evaluate the over-refusal of enhanced safety in LLMs. |
 | [ParsBench](https://huggingface.co/spaces/ParsBench/leaderboard) | ParsBench provides toolkits for benchmarking LLMs based on the Persian language. |
 | [Persian LLM Leaderboard](https://huggingface.co/spaces/MatinaAI/persian_llm_leaderboard) | Persian LLM Leaderboard provides a reliable evaluation of LLMs in Persian Language. |
 | [Pinocchio ITA leaderboard](https://huggingface.co/spaces/mii-llm/pinocchio-ita-leaderboard) | Pinocchio ITA leaderboard tracks and evaluates LLMs in Italian Language. |
@@ -324,10 +322,6 @@ Also, a leaderboard should be included if only:
 | [RTEB](https://huggingface.co/spaces/mteb/leaderboard) | RTEB (ReTrieval Embedding Benchmark) is a comprehensive benchmark for evaluating text retrieval models across multiple specialized domains including legal, finance, code, and healthcare. |
 | [Russian Chatbot Arena](https://huggingface.co/spaces/LLMArena/llmarena-leaderboard) | Chatbot Arena hosts a chatbot arena where various LLMs compete in Russian based on user satisfaction. |
 | [Russian SuperGLUE](https://russiansuperglue.com/leaderboard/2) | Russian SuperGLUE is a benchmark for Russian language models, focusing on logic, commonsense, and reasoning tasks. |
-| [R-Judge](https://rjudgebench.github.io/leaderboard.html) | R-Judge is a benchmark to evaluate the proficiency of LLMs in judging and identifying safety risks given agent interaction records. |
-| [Safety Prompts](http://coai.cs.tsinghua.edu.cn/leaderboard) | Safety Prompts is a benchmark to evaluate the safety of Chinese LLMs. |
-| [SafetyBench](https://llmbench.ai/safety/data) | SafetyBench is a benchmark to evaluate the safety of LLMs. |
-| [SALAD-Bench](https://huggingface.co/spaces/OpenSafetyLab/Salad-Bench-Leaderboard) | SALAD-Bench is a benchmark for evaluating the safety and security of LLMs. |
 | [ScandEval](https://scandeval.com) | ScandEval is a benchmark to evaluate LLMs on tasks in Scandinavian languages as well as German, Dutch, and English. |
 | [Science Leaderboard](https://huggingface.co/spaces/wenhu/Science-Leaderboard) | Science Leaderboard is a platform to evaluate LLMs' capabilities to solve science problems. |
 | [SciGLM](https://github.com/THUDM/SciGLM?tab=readme-ov-file#leaderboard) | SciGLM is a suite of scientific language models that use a self-reflective instruction annotation framework to enhance scientific reasoning by generating and revising step-by-step solutions to unlabelled questions. |
@@ -346,7 +340,6 @@ Also, a leaderboard should be included if only:
 | [SuperGLUE](https://super.gluebenchmark.com/leaderboard) | SuperGLUE is a benchmark to evaluate the performance of LLMs on a set of challenging language understanding tasks. |
 | [SuperLim](https://lab.kb.se/leaderboard/results) | SuperLim is a benchmark to evaluate the language understanding capabilities of LLMs in Swedish. |
 | [Swahili LLM-Leaderboard](https://github.com/msamwelmollel/Swahili_LLM_Leaderboard?tab=readme-ov-file#leaderboard) | Swahili LLM-Leaderboard is a joint community effort to create one central leaderboard for LLMs. |
-| [S-Eval](https://huggingface.co/spaces/IS2Lab/S-Eval) | S-Eval is a comprehensive, multi-dimensional safety benchmark with 220,000 prompts designed to evaluate LLM safety across various risk dimensions. |
 | [TableQAEval](https://github.com/lfy79001/TableQAKit?tab=readme-ov-file#leaderboard) | TableQAEval is a benchmark to evaluate LLM performance in modeling long tables and comprehension capabilities, such as numerical and multi-hop reasoning. |
 | [TAT-DQA](https://nextplusplus.github.io/TAT-DQA) | TAT-DQA is a benchmark to evaluate LLMs on the discrete reasoning over documents that combine both structured and unstructured information. |
 | [TAT-QA](https://nextplusplus.github.io/TAT-QA) | TAT-QA is a benchmark to evaluate LLMs on the discrete reasoning over documents that combines both tabular and textual content. |
@@ -487,7 +480,6 @@ Also, a leaderboard should be included if only:
 | [MTVQA](https://bytedance.github.io/MTVQA/#leaderboard) | MTVQA is a multilingual visual text comprehension benchmark to evaluate MLLMs. |
 | [Multimodal Hallucination Leaderboard](https://huggingface.co/spaces/scb10x/multimodal-hallucination-leaderboard) | Multimodal Hallucination Leaderboard compares MLLMs based on hallucination levels in various tasks. |
 | [MULTI-Benchmark](https://github.com/OpenDFM/MULTI-Benchmark?tab=readme-ov-file#-leaderboard) | MULTI-Benchmark is a benchmark to evaluate MLLMs on understanding complex tables and images, and reasoning with long context. |
-| [MultiTrust](https://multi-trust.github.io/#leaderboard) | MultiTrust is a benchmark to evaluate the trustworthiness of MLLMs across five primary aspects: truthfulness, safety, robustness, fairness, and privacy. |
 | [NPHardEval4V](https://github.com/lizhouf/nphardeval4v?tab=readme-ov-file#leaderboard) | NPHardEval4V is a benchmark to evaluate the reasoning abilities of MLLMs through the lens of computational complexity classes. |
 | [Provider Leaderboard](https://leaderboard.withmartian.com) | LLM API Providers Leaderboard is a platform to compare API provider performance for over LLM endpoints across performance key metrics. |
 | [OCRBench](https://huggingface.co/spaces/echo840/ocrbench-leaderboard) | OCRBench is a benchmark to evaluate the OCR capabilities of multimodal models. |
@@ -574,11 +566,25 @@ Also, a leaderboard should be included if only:
 | [WebArena](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ) | WebArena is a standalone, self-hostable web environment to evaluate autonomous agents. |
 | [τ-Bench](https://github.com/sierra-research/tau-bench?tab=readme-ov-file#leaderboard) | τ-bench is a benchmark that emulates dynamic conversations between a language model-simulated user and a language agent equipped with domain-specific API tools and policy guidelines. |
 
-### Medical
+### Safety
 
 | Name | Description |
 | ---- | ----------- |
 | [CARES](https://cares-ai.github.io/#leaderboard) | CARES is a benchmark to evaluate the trustworthiness of Med-LVLMs across trustfulness, fairness, safety, privacy, and robustness using 41K question-answer pairs from 16 medical image modalities and 27 anatomical regions. |
+| [Flames](https://github.com/AIFlames/Flames?tab=readme-ov-file#-leaderboard) | Flames is a highly adversarial Chinese benchmark for evaluating LLMs' value alignment across fairness, safety, morality, legality, and data protection. |
+| [LLM Safety Leaderboard](https://huggingface.co/spaces/AI-Secure/llm-trustworthy-leaderboard) | LLM Safety Leaderboard aims to provide a unified evaluation for language model safety. |
+| [MultiTrust](https://multi-trust.github.io/#leaderboard) | MultiTrust is a benchmark to evaluate the trustworthiness of MLLMs across five primary aspects: truthfulness, safety, robustness, fairness, and privacy. |
+| [OR-Bench](https://huggingface.co/spaces/bench-llms/or-bench-leaderboard) | OR-Bench is a benchmark to evaluate the over-refusal of enhanced safety in LLMs. |
+| [R-Judge](https://rjudgebench.github.io/leaderboard.html) | R-Judge is a benchmark to evaluate the proficiency of LLMs in judging and identifying safety risks given agent interaction records. |
+| [SafetyBench](https://llmbench.ai/safety/data) | SafetyBench is a benchmark to evaluate the safety of LLMs. |
+| [Safety Prompts](http://coai.cs.tsinghua.edu.cn/leaderboard) | Safety Prompts is a benchmark to evaluate the safety of Chinese LLMs. |
+| [SALAD-Bench](https://huggingface.co/spaces/OpenSafetyLab/Salad-Bench-Leaderboard) | SALAD-Bench is a benchmark for evaluating the safety and security of LLMs. |
+| [S-Eval](https://huggingface.co/spaces/IS2Lab/S-Eval) | S-Eval is a comprehensive, multi-dimensional safety benchmark with 220,000 prompts designed to evaluate LLM safety across various risk dimensions. |
+
+### Medical
+
+| Name | Description |
+| ---- | ----------- |
 | [CMB](https://cmedbenchmark.llmzoo.com/static/leaderboard.html) | CMB is a multi-level medical benchmark in Chinese. |
 | [JMED-LLM](https://github.com/sociocom/JMED-LLM?tab=readme-ov-file#leaderboard) | JMED-LLM (Japanese Medical Evaluation Dataset for Large Language Models) is a benchmark for evaluating LLMs in the medical field of Japanese. |
 | [Mirage](https://teddy-xionggz.github.io/MIRAGE) | Mirage is a benchmark for medical information retrieval-augmented generation, featuring 7,663 questions from five medical QA datasets and tested with 41 configurations using the MedRag toolkit. |
