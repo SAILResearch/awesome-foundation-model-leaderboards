@@ -67,6 +67,7 @@ Also, a leaderboard should be included if only:
     - [Dataset Ranking](#dataset-ranking)
     - [Metric Ranking](#metric-ranking)
     - [Paper Ranking](#paper-ranking)
+    - [Adoption Ranking](#adoption-ranking)
 
 
 
@@ -684,3 +685,9 @@ Also, a leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [Papers Leaderboard](https://huggingface.co/spaces/ameerazam08/Paper-LeaderBoard) | Papers Leaderboard is a platform to evaluate the popularity of machine learning papers. |
+
+## Adoption Ranking
+
+| Name | Description |
+| ---- | ----------- |
+| [ATOM Relative Adoption Metric](https://atomproject.ai/relative-adoption-metric) | ATOM Relative Adoption Metric tracks and evaluates the relative adoption and usage of AI models. |
