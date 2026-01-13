@@ -67,6 +67,7 @@ Also, a leaderboard should be included if only:
     - [Dataset Ranking](#dataset-ranking)
     - [Metric Ranking](#metric-ranking)
     - [Paper Ranking](#paper-ranking)
+    - [Adoption Ranking](#adoption-ranking)
 
 
 
@@ -117,7 +118,6 @@ Also, a leaderboard should be included if only:
 | ---- | ----------- |
 | [AI Benchmarking Hub](https://epoch.ai/benchmarks) | AI Benchmarking Hub tracks and compares AI model performance in reasoning, coding, and knowledge tasks. |
 | [Artificial Analysis](https://artificialanalysis.ai) | Artificial Analysis is a platform to help users make informed decisions on AI model selection and hosting providers. |
-| [ATOM Relative Adoption Metric](https://atomproject.ai/relative-adoption-metric) | ATOM Relative Adoption Metric tracks and evaluates the relative adoption and usage of AI models. |
 | [CompassRank](https://rank.opencompass.org.cn) | CompassRank is a platform to offer a comprehensive, objective, and neutral evaluation reference of foundation models for the industry and research. |
 | [FlagEval](https://flageval.baai.ac.cn/#/leaderboard) | FlagEval is a comprehensive platform for evaluating foundation models. |
 | [GDPval](https://evals.openai.com/gdpval/leaderboard) | GDPval evaluates AI model performance on real-world economically valuable tasks across 44 occupations. |
@@ -685,3 +685,9 @@ Also, a leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [Papers Leaderboard](https://huggingface.co/spaces/ameerazam08/Paper-LeaderBoard) | Papers Leaderboard is a platform to evaluate the popularity of machine learning papers. |
+
+## Adoption Ranking
+
+| Name | Description |
+| ---- | ----------- |
+| [ATOM Relative Adoption Metric](https://atomproject.ai/relative-adoption-metric) | ATOM Relative Adoption Metric tracks and evaluates the relative adoption and usage of AI models. |
