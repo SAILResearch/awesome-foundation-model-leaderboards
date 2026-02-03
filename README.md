@@ -501,6 +501,7 @@ Also, a leaderboard should be included if only:
 | [WHOOPS!](https://huggingface.co/spaces/nlphuji/WHOOPS-Leaderboard-Full) | WHOOPS! is a benchmark to evaluate the visual commonsense reasoning abilities of MLLMs. |
 | [WildVision-Bench](https://github.com/WildVision-AI/WildVision-Bench?tab=readme-ov-file#leaderboard-vision_bench_0617) | WildVision-Bench is a benchmark to evaluate VLMs in the wild with human preferences. |
 | [WildVision Arena](https://huggingface.co/spaces/WildVision/vision-arena) | WildVision Arena hosts the chatbot arena where various MLLMs compete based on their performance in visual understanding. |
+| [WorldVQA](https://worldvqa2026.github.io/WorldVQA/#leaderboard) | WorldVQA is a benchmark to evaluate visual question answering capabilities of MLLMs. |
 
 ### Video
 
