@@ -430,6 +430,7 @@ Also, a leaderboard should be included if only:
 | [SciCode](https://github.com/scicode-bench/SciCode?tab=readme-ov-file#-leaderboard) | SciCode is a benchmark designed to evaluate language models in generating code to solve realistic scientific research problems. |
 | [SolidityBench](https://huggingface.co/spaces/braindao/solbench-leaderboard) | SolidityBench is a benchmark to evaluate and rank the ability of LLMs in generating and auditing smart contracts. |
 | [Spider](https://yale-lily.github.io/spider) | Spider is a benchmark to evaluate the performance of natural language interfaces for cross-domain databases. |
+| [SRE Skills Bench](https://sreskillsbench.com/#leaderboard) | SRE Skills Bench is a benchmark to evaluate the site reliability engineering skills of LLMs. |
 | [StableToolBench](https://huggingface.co/spaces/stabletoolbench/Stable_Tool_Bench_Leaderboard) | StableToolBench is a benchmark to evaluate tool learning that aims to provide a well-balanced combination of stability and reality. |
 | [SWE-bench](https://www.swebench.com) | SWE-bench is a benchmark for evaluating LLMs on real-world software issues collected from GitHub. |
 | [SWE-bench-Live](https://swe-bench-live.github.io) | SWE-bench-Live is a live benchmark to evaluate an AI system's ability to complete real-world software engineering tasks. |
