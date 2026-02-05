@@ -58,6 +58,7 @@ Also, a leaderboard should be included if only:
         - [Safety](#safety)
         - [Medical](#medical)
         - [Audio](#audio)
+        - [Embodied](#embodied)
         - [3D](#3d)
         - [Game](#game)
         - [Multimodal](#multimodal)
@@ -615,6 +616,12 @@ Also, a leaderboard should be included if only:
 | [SALMon](https://pages.cs.huji.ac.il/adiyoss-lab/salmon) | SALMon is an evaluation suite that benchmarks speech language models on consistency, background noise, emotion, speaker identity, and room impulse response. |
 | [TTS Arena](https://huggingface.co/spaces/TTS-AGI/TTS-Arena) | TTS-Arena hosts the Text To Speech (TTS) arena, where various TTS models compete based on their performance in generating speech. |
 | [Whisper Leaderboard](https://huggingface.co/spaces/philipp-zettl/whisper-leaderboard) | Whisper Leaderboard is a platform tracking and comparing audio models' speech recognition performance on various datasets. |
+
+### Embodied
+
+| Name | Description |
+| ---- | ----------- |
+| [RoboChallenge](https://robochallenge.ai/leaderboard) | RoboChallenge is a leaderboard for evaluating embodied AI and robotics models. |
 
 ### 3D
 
