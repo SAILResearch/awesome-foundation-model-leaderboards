@@ -531,6 +531,7 @@ Also, a leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [Abel](https://gair-nlp.github.io/abel) | Abel is a platform to evaluate the mathematical capabilities of LLMs. |
+| [FrontierMath](https://epoch.ai/frontiermath/tiers-1-4) | FrontierMath is a benchmark to evaluate advanced mathematical reasoning capabilities of AI models. |
 | [ImProofBench](https://improofbench.math.ethz.ch/questions/leaderboard) | ImProofBench is a benchmark to evaluate the mathematical proof generation and reasoning capabilities of LLMs. |
 | [MathArena](https://matharena.ai) | MathArena is a platform for evaluation of LLMs on the latest math competitions and olympiads. |
 | [MathBench](https://open-compass.github.io/MathBench) | MathBench is a multi-level difficulty mathematics evaluation benchmark for LLMs. |
