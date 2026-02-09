@@ -440,6 +440,7 @@ Also, a leaderboard should be included if only:
 | [SWE-Model-Arena](https://huggingface.co/spaces/SWE-Arena/SWE-Model-Arena) | SWE-Model-Arena provides a platform for software developers to compare the performance of different FMs on software engineering tasks. |
 | [SWE-rebench](https://swe-rebench.com) | SWE-rebench is a continuously updated benchmark designed to provide more accurate and reliable evaluations of software engineering LLMs by using real-world tasks from GitHub that are less prone to data contamination. |
 | [Terminal-Bench](https://www.tbench.ai/leaderboard) | Terminal-Bench is a benchmark to measure the capabilities of AI agents in a terminal environment. |
+| [Turing Machine Programming Benchmark](https://mng.quest/leaderboard/ai) | Measures LLMs' ability to solve algorithmic tasks by programming a Turing machine. | 
 | [UI-I2E-Bench](https://microsoft.github.io/FIVE-UI-Evol) | UI-I2E-Bench is a benchmark for GUI visual grounding. It incorporates implicit instructions and long-tail UI element types, with element-to-screen size ratios that better reflect real-world scenarios. |
 | [WebApp1K](https://huggingface.co/spaces/onekq-ai/WebApp1K-models-leaderboard) | WebApp1K is a benchmark to evaluate LLMs on their abilities to develop real-world web applications. |
 | [WebDev Arena](https://web.lmarena.ai/leaderboard) | WebDev Arena hosts a chatbot arena where various LLMs compete based on website development. |
