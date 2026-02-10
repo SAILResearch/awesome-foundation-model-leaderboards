@@ -69,7 +69,7 @@ Also, a leaderboard should be included if only:
     - [Dataset Ranking](#dataset-ranking)
     - [Metric Ranking](#metric-ranking)
     - [Paper Ranking](#paper-ranking)
-    - [Adoption Ranking](#adoption-ranking)
+    - [Usage Ranking](#usage-ranking)
 
 
 
@@ -709,7 +709,7 @@ Also, a leaderboard should be included if only:
 | ---- | ----------- |
 | [Papers Leaderboard](https://huggingface.co/spaces/ameerazam08/Paper-LeaderBoard) | Papers Leaderboard is a platform to evaluate the popularity of machine learning papers. |
 
-## Adoption Ranking
+## Usage Ranking
 
 | Name | Description |
 | ---- | ----------- |
