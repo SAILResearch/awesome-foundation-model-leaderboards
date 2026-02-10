@@ -55,6 +55,7 @@ Also, a leaderboard should be included if only:
         - [Video](#video)
         - [Math](#math)
         - [Agent](#agent)
+        - [Business](#business)
         - [Safety](#safety)
         - [Medical](#medical)
         - [Audio](#audio)
@@ -122,7 +123,6 @@ Also, a leaderboard should be included if only:
 | [Artificial Analysis](https://artificialanalysis.ai) | Artificial Analysis is a platform to help users make informed decisions on AI model selection and hosting providers. |
 | [CompassRank](https://rank.opencompass.org.cn) | CompassRank is a platform to offer a comprehensive, objective, and neutral evaluation reference of foundation models for the industry and research. |
 | [FlagEval](https://flageval.baai.ac.cn/#/leaderboard) | FlagEval is a comprehensive platform for evaluating foundation models. |
-| [GDPval](https://evals.openai.com/gdpval/leaderboard) | GDPval evaluates AI model performance on real-world economically valuable tasks across 44 occupations. |
 | [Generative AI Leaderboards](https://accubits.com/generative-ai-models-leaderboard) | Generative AI Leaderboard ranks the top-performing generative AI models based on various metrics. |
 | [Holistic Agent Leaderboard](https://hal.cs.princeton.edu/#leaderboards) | HAL is a standardized, cost-aware, and third-party leaderboard for evaluating agents. |
 | [Holistic Evaluation of Language Models](https://crfm.stanford.edu/helm) | Holistic Evaluation of Language Models (HELM) is a reproducible and transparent framework for evaluating foundation models. |
@@ -142,7 +142,6 @@ Also, a leaderboard should be included if only:
 | [ACLUE](https://github.com/isen-zhang/ACLUE/blob/main/README_EN.md#leaderboard-) | ACLUE is an evaluation benchmark for ancient Chinese language comprehension. |
 | [African Languages LLM Eval Leaderboard](https://huggingface.co/spaces/taresco/open_african_languages_eval_leaderboard) | African Languages LLM Eval Leaderboard tracks progress and ranks performance of LLMs on African languages. |
 | [AGIEval](https://github.com/ruixiangcui/AGIEval?tab=readme-ov-file#leaderboard) | AGIEval is a human-centric benchmark to evaluate the general abilities of foundation models in tasks pertinent to human cognition and problem-solving. |
-| [Aiera Leaderboard](https://huggingface.co/spaces/Aiera/aiera-finance-leaderboard) | Aiera Leaderboard evaluates LLM performance on financial intelligence tasks, including speaker assignments, speaker change identification, abstractive summarizations, calculation-based Q&A, and financial sentiment tagging. |
 | [AIR-Bench](https://huggingface.co/spaces/AIR-Bench/leaderboard) | AIR-Bench is a benchmark to evaluate heterogeneous information retrieval capabilities of language models. |
 | [AI Energy Score Leaderboard](https://huggingface.co/spaces/EnergyStarAI/2024_Leaderboard) | AI Energy Score Leaderboard tracks and compares different models in energy efficiency. |
 | [ai-benchmarks](https://github.com/fixie-ai/ai-benchmarks?tab=readme-ov-file#leaderboard) | ai-benchmarks contains a handful of evaluation results for the response latency of popular AI services. |
@@ -163,7 +162,6 @@ Also, a leaderboard should be included if only:
 | [BiGGen-Bench](https://huggingface.co/spaces/prometheus-eval/BiGGen-Bench-Leaderboard) | BiGGen-Bench is a comprehensive benchmark to evaluate LLMs across a wide variety of tasks. |
 | [BotChat](https://botchat.opencompass.org.cn) | BotChat is a benchmark to evaluate the multi-round chatting capabilities of LLMs through a proxy task. |
 | [CaselawQA](https://huggingface.co/spaces/ricdomolm/caselawqa_leaderboard) | CaselawQA is a benchmark comprising legal classification tasks derived from the Supreme Court and Songer Court of Appeals legal databases. |
-| [CFLUE](https://github.com/aliyun/cflue?tab=readme-ov-file#leaderboard) | CFLUE is a benchmark to evaluate LLMs' understanding and processing capabilities in the Chinese financial domain. |
 | [Ch3Ef](https://openlamm.github.io/ch3ef/leaderboard.html) | Ch3Ef is a benchmark to evaluate alignment with human expectations using 1002 human-annotated samples across 12 domains and 46 tasks based on the hhh principle. |
 | [Chain-of-Thought Hub](https://github.com/FranxYao/chain-of-thought-hub?tab=readme-ov-file#leaderboard---main) | Chain-of-Thought Hub is a benchmark to evaluate the reasoning capabilities of LLMs. |
 | [ChemBench](https://lamalab-org.github.io/chem-bench/leaderboard) | ChemBench is a benchmark to evaluate the chemical knowledge and reasoning abilities of LLMs. |
@@ -199,7 +197,6 @@ Also, a leaderboard should be included if only:
 | [FanOutQA](https://fanoutqa.com/leaderboard) | FanOutQA is a high quality, multi-hop, multi-document benchmark for LLMs using English Wikipedia as its knowledge base. |
 | [FastEval](https://fasteval.github.io/FastEval) | FastEval is a toolkit for quickly evaluating instruction-following and chat language models on various benchmarks with fast inference and detailed performance insights. |
 | [FELM](https://hkust-nlp.github.io/felm) | FELM is a meta benchmark to evaluate factuality evaluation benchmark for LLMs. |
-| [FinEval](https://github.com/SUFE-AIFLM-Lab/FinEval?tab=readme-ov-file#performance-leaderboard) | FinEval is a benchmark to evaluate financial domain knowledge in LLMs. |
 | [Fine-tuning Leaderboard](https://predibase.com/fine-tuning-index) | Fine-tuning Leaderboard is a platform to rank and showcase models that have been fine-tuned using open-source datasets or frameworks. |
 | [FollowBench](https://github.com/YJiangcm/FollowBench?tab=readme-ov-file#%EF%B8%8F-leaderboard) | FollowBench is a multi-level fine-grained constraints following benchmark to evaluate the instruction-following capability of LLMs. |
 | [Forbidden Question Dataset](https://junjie-chu.github.io/Public_Comprehensive_Assessment_Jailbreak/leaderboard) | Forbidden Question Dataset is a benchmark containing 160 questions from 160 violated categories, with corresponding targets for evaluating jailbreak methods. |
@@ -223,7 +220,6 @@ Also, a leaderboard should be included if only:
 | [Italian LLM-Leaderboard](https://huggingface.co/spaces/rstless-research/italian_open_llm_leaderboard) | Italian LLM-Leaderboard tracks and compares LLMs in Italian-language tasks. |
 | [JailbreakBench](https://jailbreakbench.github.io) | JailbreakBench is a benchmark for evaluating LLM vulnerabilities through adversarial prompts. |
 | [Japanese Chatbot Arena](https://huggingface.co/spaces/yutohub/japanese-chatbot-arena-leaderboard) | Japanese Chatbot Arena hosts the chatbot arena, where various LLMs compete based on their performance in Japanese. |
-| [Japanese Language Model Financial Evaluation Harness](https://github.com/pfnet-research/japanese-lm-fin-harness?tab=readme-ov-file#0-shot-leaderboard) | Japanese Language Model Financial Evaluation Harness is a harness for Japanese language model evaluation in the financial domain. |
 | [Japanese LLM Roleplay Benchmark](https://github.com/oshizo/japanese-llm-roleplay-benchmark?tab=readme-ov-file#leaderboard-v20231103) | Japanese LLM Roleplay Benchmark is a benchmark to evaluate the performance of Japanese LLMs in character roleplay. |
 | [JMMMU](https://huggingface.co/spaces/JMMMU/JMMMU_Leaderboard) | JMMMU (Japanese MMMU) is a multimodal benchmark to evaluate LMM performance in Japanese. |
 | [JustEval](https://allenai.github.io/re-align/just_eval.html) | JustEval is a powerful tool designed for fine-grained evaluation of LLMs. |
@@ -249,10 +245,8 @@ Also, a leaderboard should be included if only:
 | [LLMPerf](https://github.com/ray-project/llmperf-leaderboard) | LLMPerf is a tool to evaluate the performance of LLMs using both load and correctness tests. |
 | [LLMs Disease Risk Prediction Leaderboard](https://huggingface.co/spaces/TemryL/LLM-Disease-Risk-Leaderboard) | LLMs Disease Risk Prediction Leaderboard is a platform to evaluate LLMs on disease risk prediction. |
 | [LLM Leaderboard](https://klu.ai/llm-leaderboard) | LLM Leaderboard tracks and evaluates LLM providers, enabling selection of the optimal API and model for user needs. |
-| [LLM Leaderboard for CRM](https://huggingface.co/spaces/Salesforce/crm_llm_leaderboard) | CRM LLM Leaderboard is a platform to evaluate the efficacy of LLMs for business applications. |
 | [LLM Observatory](https://ai-sandbox.list.lu/llm-leaderboard) | LLM Observatory is a benchmark that assesses and ranks LLMs based on their performance in avoiding social biases across categories like LGBTIQ+ orientation, age, gender, politics, race, religion, and xenophobia. |
 | [LLM Price Leaderboard](https://huggingface.co/spaces/seawolf2357/leaderboard_llm_price) | LLM Price Leaderboard tracks and compares LLM costs based on one million tokens. |
-| [LLM Use Case Leaderboard](https://llmleaderboard.goml.io) | LLM Use Case Leaderboard tracks and evaluates LLMs in business usecases. |
 | [LLM-AggreFact](https://llm-aggrefact.github.io) | LLM-AggreFact is a fact-checking benchmark that aggregates most up-to-date publicly available datasets on grounded factuality evaluation. |
 | [LLM-Leaderboard](https://github.com/LudwigStumpp/llm-leaderboard?tab=readme-ov-file#leaderboard) | LLM-Leaderboard is a joint community effort to create one central leaderboard for LLMs. |
 | [LLM-Perf Leaderboard](https://huggingface.co/spaces/optimum/llm-perf-leaderboard) | LLM-Perf Leaderboard aims to benchmark the performance of LLMs with different hardware, backends, and optimizations. |
@@ -294,7 +288,6 @@ Also, a leaderboard should be included if only:
 | [Open Chinese LLM Leaderboard](https://huggingface.co/spaces/BAAI/open_cn_llm_leaderboard) | Open Chinese LLM Leaderboard aims to track, rank, and evaluate open Chinese LLMs. |
 | [Open CoT Leaderboard](https://huggingface.co/spaces/logikon/open_cot_leaderboard) | Open CoT Leaderboard tracks LLMs' abilities to generate effective chain-of-thought reasoning traces. |
 | [Open Dutch LLM Evaluation Leaderboard](https://huggingface.co/spaces/BramVanroy/open_dutch_llm_leaderboard) | Open Dutch LLM Evaluation Leaderboard tracks progress and ranks the performance of LLMs in Dutch. |
-| [Open Financial LLM Leaderboard](https://huggingface.co/spaces/TheFinAI/Open-Financial-LLM-Leaderboard) | Open Financial LLM Leaderboard aims to evaluate and compare the performance of financial LLMs. |
 | [Open ITA LLM Leaderboard](https://huggingface.co/spaces/FinancialSupport/open_ita_llm_leaderboard) | Open ITA LLM Leaderboard tracks progress and ranks the performance of LLMs in Italian. |
 | [Open Ko-LLM Leaderboard](https://huggingface.co/spaces/upstage/open-ko-llm-leaderboard) | Open Ko-LLM Leaderboard tracks progress and ranks the performance of LLMs in Korean. |
 | [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) | Open LLM Leaderboard tracks progress and ranks the performance of LLMs in English. |
@@ -380,7 +373,6 @@ Also, a leaderboard should be included if only:
 | [BigCodeBench](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard) | BigCodeBench is a benchmark for code generation with practical and challenging programming tasks. |
 | [Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) | Big Code Models Leaderboard is a platform to track and evaluate the performance of LLMs on code-related tasks. |
 | [BIRD](https://bird-bench.github.io) | BIRD is a benchmark to evaluate the performance of text-to-SQL parsing systems. |
-| [BookSQL](https://huggingface.co/spaces/Exploration-Lab/BookSQL-Leaderboard) | BookSQL is a benchmark to evaluate Text-to-SQL systems in the finance and accounting domain across various industries with a dataset of 1 million transactions from 27 businesses. |
 | [CanAiCode Leaderboard](https://huggingface.co/spaces/mike-ravkine/can-ai-code-results) | CanAiCode Leaderboard is a platform to evaluate the code generation capabilities of LLMs. |
 | [ClassEval](https://fudanselab-classeval.github.io/leaderboard.html) | ClassEval is a benchmark to evaluate LLMs on class-level code generation. |
 | [CodeApex](https://github.com/APEXLAB/CodeApex?tab=readme-ov-file#leaderboard) | CodeApex is a benchmark to evaluate LLMs' programming comprehension through multiple-choice questions and code generation with C++ algorithm problems. |
@@ -420,7 +412,6 @@ Also, a leaderboard should be included if only:
 | [NL2SQL360](https://nl2sql360.github.io/#leaderboard) | NL2SQL360 is a comprehensive evaluation framework for comparing and optimizing NL2SQL methods across various application scenarios. |
 | [OpsEval](https://nl2sql360.github.io/#leaderboard) | OpsEval is a benchmark designed to assess the performance of LLMs in IT Operations (AIOps). |
 | [PECC](https://huggingface.co/spaces/PatrickHaller/pecc-leaderboard) | PECC is a benchmark that evaluates code generation by requiring models to comprehend and extract problem requirements from narrative-based descriptions to produce syntactically accurate solutions. |
-| [ProLLM Benchmarks](https://prollm.toqan.ai/leaderboard) | ProLLM Benchmarks is a practical and reliable LLM benchmark designed for real-world business use cases across multiple industries and programming languages. |
 | [PyBench](https://github.com/Mercury7353/PyBench?tab=readme-ov-file#-leaderboard) | PyBench is a benchmark evaluating LLM on real-world coding tasks including chart analysis, text analysis, image/ audio editing, complex math and software/website development. |
 | [RACE](https://huggingface.co/spaces/jszheng/RACE_leaderboard) | RACE is a benchmark to evaluate the ability of LLMs to generate code that is correct and meets the requirements of real-world development scenarios. |
 | [RepairBench](https://repairbench.github.io) | RepairBench is a benchmark to evaluate the program repair capabilities of AI models by testing their ability to fix real-world software bugs. |
@@ -572,11 +563,30 @@ Also, a leaderboard should be included if only:
 | [SEC-bench](https://sec-bench.github.io) | SEC-bench is a benchmark of LLM agents on real-world software security tasks. |
 | [TravelPlanner](https://huggingface.co/spaces/osunlp/TravelPlannerLeaderboard) | TravelPlanner is a benchmark to evaluate LLM agents in tool use and complex planning within multiple constraints. |
 | [VAB](https://github.com/THUDM/VisualAgentBench?tab=readme-ov-file#leaderboard) | VisualAgentBench (VAB) is a benchmark to evaluate and develop LMMs as visual foundation agents, which comprises 5 distinct environments across 3 types of representative visual agent tasks. |
-| [Vending Bench 2](https://andonlabs.com/evals/vending-bench-2) | Vending-Bench 2 is a benchmark to evaluate AI agents. |
-| [Vending Bench Arena](https://andonlabs.com/evals/vending-bench-arena) | VendingBench Arena is an evaluation arena for benchmarking AI agent capabilities. |
 | [VisualWebArena](https://jykoh.com/vwa) | VisualWebArena is a benchmark to evaluate the performance of multimodal web agents on realistic visually grounded tasks. |
 | [WebArena](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ) | WebArena is a standalone, self-hostable web environment to evaluate autonomous agents. |
 | [τ-Bench](https://github.com/sierra-research/tau-bench?tab=readme-ov-file#leaderboard) | τ-bench is a benchmark that emulates dynamic conversations between a language model-simulated user and a language agent equipped with domain-specific API tools and policy guidelines. |
+
+### Business
+
+| Name | Description |
+| ---- | ----------- |
+| [AI-Trader](https://hkuds.github.io/AI-Trader) | AI-Trader is a fully autonomous trading benchmark to compare the performance of different AI models in trading NASDAQ 100 stocks. |
+| [Aiera Leaderboard](https://huggingface.co/spaces/Aiera/aiera-finance-leaderboard) | Aiera Leaderboard evaluates LLM performance on financial intelligence tasks, including speaker assignments, speaker change identification, abstractive summarizations, calculation-based Q&A, and financial sentiment tagging. |
+| [Alpha Arena](https://nof1.ai/leaderboard) | Alpha Arena is a benchmark to evaluate AI models' investing abilities. |
+| [BookSQL](https://huggingface.co/spaces/Exploration-Lab/BookSQL-Leaderboard) | BookSQL is a benchmark to evaluate Text-to-SQL systems in the finance and accounting domain across various industries with a dataset of 1 million transactions from 27 businesses. |
+| [CFLUE](https://github.com/aliyun/cflue?tab=readme-ov-file#leaderboard) | CFLUE is a benchmark to evaluate LLMs' understanding and processing capabilities in the Chinese financial domain. |
+| [FinEval](https://github.com/SUFE-AIFLM-Lab/FinEval?tab=readme-ov-file#performance-leaderboard) | FinEval is a benchmark to evaluate financial domain knowledge in LLMs. |
+| [GDPval](https://evals.openai.com/gdpval/leaderboard) | GDPval evaluates AI model performance on real-world economically valuable tasks across 44 occupations. |
+| [Japanese Language Model Financial Evaluation Harness](https://github.com/pfnet-research/japanese-lm-fin-harness?tab=readme-ov-file#0-shot-leaderboard) | Japanese Language Model Financial Evaluation Harness is a harness for Japanese language model evaluation in the financial domain. |
+| [LLM Leaderboard for CRM](https://huggingface.co/spaces/Salesforce/crm_llm_leaderboard) | CRM LLM Leaderboard is a platform to evaluate the efficacy of LLMs for business applications. |
+| [LLM Use Case Leaderboard](https://llmleaderboard.goml.io) | LLM Use Case Leaderboard tracks and evaluates LLMs in business usecases. |
+| [Live Trade Bench](https://trade-bench.live) | Live Trade Bench is a live-market platform designed to benchmark and evaluate the real-world trading performance of various agents using real-time market data. |
+| [Open Financial LLM Leaderboard](https://huggingface.co/spaces/TheFinAI/Open-Financial-LLM-Leaderboard) | Open Financial LLM Leaderboard aims to evaluate and compare the performance of financial LLMs. |
+| [ProLLM Benchmarks](https://prollm.toqan.ai/leaderboard) | ProLLM Benchmarks is a practical and reliable LLM benchmark designed for real-world business use cases across multiple industries and programming languages. |
+| [StockBench](https://stockbench.github.io) | StockBench is a benchmark to evaluate LLM agents in realistic, multi-month stock trading environments. |
+| [Vending Bench 2](https://andonlabs.com/evals/vending-bench-2) | Vending Bench 2 is a benchmark for measuring AI model performance on running a business over long time horizons. Models are tasked with running a simulated vending machine business over a year and scored on their bank account balance at the end. |
+| [Vending Bench Arena](https://andonlabs.com/evals/vending-bench-arena) | Vending Bench Arena is a multi-agent evaluation platform where AI agents compete in running vending machine businesses at the same location. |
 
 ### Safety
 
@@ -666,12 +676,8 @@ Also, a leaderboard should be included if only:
 
 | Name | Description |
 | ---- | ----------- |
-| [AI-Trader](https://hkuds.github.io/AI-Trader) | AI-Trader is a fully autonomous trading benchmark to compare the performance of different AI models in trading NASDAQ 100 stocks. |
-| [Alpha Arena](https://nof1.ai/leaderboard) | Alpha Arena is a benchmark to evaluate AI models' investing abilities. |
 | [FutureX](https://futurex-ai.github.io) | FutureX is a live benchmark to evaluate how effectively AI agents can predict real-world, future-oriented events across various domains, deliberately avoiding data contamination by only using questions where the answer is not yet known. |
-| [Live Trade Bench](https://trade-bench.live) | Live Trade Bench is a live-market platform designed to benchmark and evaluate the real-world trading performance of various agents using real-time market data. |
 | [Prophet Arena](https://www.prophetarena.co/leaderboard) | Prophet Arena is a real-world benchmark to evaluate LLMs on their ability to forecast future events and quantify uncertainty. |
-| [StockBench](https://stockbench.github.io) | StockBench is a benchmark to evaluate LLM agents in realistic, multi-month stock trading environments. |
 
 ## Reinforcement Learning
 
