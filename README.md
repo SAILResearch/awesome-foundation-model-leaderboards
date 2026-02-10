@@ -625,6 +625,7 @@ Also, a leaderboard should be included if only:
 
 | Name | Description |
 | ---- | ----------- |
+| [Butter-Bench](https://andonlabs.com/evals/butter-bench) | Butter-Bench is a benchmark to evaluate LLM-controlled robots for practical intelligence in household delivery tasks. |
 | [RoboChallenge](https://robochallenge.ai/leaderboard) | RoboChallenge is a leaderboard for evaluating embodied AI and robotics models. |
 
 ### 3D
