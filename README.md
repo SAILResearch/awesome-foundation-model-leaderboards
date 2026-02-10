@@ -455,6 +455,7 @@ Also, a leaderboard should be included if only:
 | [BabyVision](https://unipat.ai/benchmarks/BabyVision) | BabyVision is a benchmark to evaluate the fundamental visual understanding capabilities of vision models. |
 | [BLINK](https://github.com/zeyofu/BLINK_Benchmark?tab=readme-ov-file#-mini-leaderboard) | BLINK is a benchmark to evaluate the core visual perception abilities of MLLMs. |
 | [BlinkCode](https://huggingface.co/spaces/yajuniverse/BlinkCode_leaderboard) | BlinkCode is a benchmark to evaluate MLLMs across 15 vision-language models (VLMs) and 9 tasks, measuring accuracy and image reconstruction performance. |
+| [Blueprint Bench](https://andonlabs.com/evals/blueprint-bench) | Blueprint Bench is a benchmark to evaluate foundation models' capabilities in understanding, analyzing, and extracting information from architectural blueprints and technical diagrams. |
 | [ChartMimic](https://chartmimic.github.io) | ChartMimic is a benchmark to evaluate the visually-grounded code generation capabilities of large multimodal models using charts and textual instructions. |
 | [CharXiv](https://charxiv.github.io/#leaderboard) | CharXiv is a benchmark to evaluate chart understanding capabilities of MLLMs. |
 | [ConTextual](https://huggingface.co/spaces/ucla-contextual/contextual_leaderboard) | ConTextual is a benchmark to evaluate MLLMs across context-sensitive text-rich visual reasoning tasks. |
