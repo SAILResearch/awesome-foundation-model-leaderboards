@@ -64,7 +64,6 @@ Also, a leaderboard should be included if only:
         - [Game](#game)
         - [Multimodal](#multimodal)
         - [Time Series](#time-series)
-        - [Reinforcement Learning](#reinforcement-learning)
     - [Database Ranking](#database-ranking)
     - [Dataset Ranking](#dataset-ranking)
     - [Metric Ranking](#metric-ranking)
@@ -654,6 +653,7 @@ Also, a leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [γ-Bench](https://github.com/CUHK-ARISE/GAMABench?tab=readme-ov-file#leaderboard) | γ-Bench is a framework for evaluating LLMs' gaming abilities in multi-agent environments using eight classical game theory scenarios and a dynamic scoring scheme. |
+| [BesiegeField](https://besiegefield.github.io) | BesiegeField is a physics-based game environment that enables LLMs to autonomously design and build complex machines. |
 | [Elo Leaderboard](https://werewolf.foaster.ai) | Elo Leaderboard is a platform to evaluate LLMs' ability to deceive, deduce, and form alliances in the classic social deduction game of Werewolf, revealing which models excel at strategic reasoning and social manipulation. |
 | [GlitchBench](https://huggingface.co/spaces/glitchbench/Leaderboard) | GlitchBench is a benchmark to evaluate the reasoning capabilities of MLLMs in the context of detecting video game glitches. |
 | [GTBench](https://huggingface.co/spaces/GTBench/GTBench) | GTBench is a benchmark to evaluate and rank LLMs' reasoning abilities in competitive environments through game-theoretic tasks, e.g., board and card games. |
@@ -678,12 +678,6 @@ Also, a leaderboard should be included if only:
 | ---- | ----------- |
 | [FutureX](https://futurex-ai.github.io) | FutureX is a live benchmark to evaluate how effectively AI agents can predict real-world, future-oriented events across various domains, deliberately avoiding data contamination by only using questions where the answer is not yet known. |
 | [Prophet Arena](https://www.prophetarena.co/leaderboard) | Prophet Arena is a real-world benchmark to evaluate LLMs on their ability to forecast future events and quantify uncertainty. |
-
-## Reinforcement Learning
-
-| Name | Description |
-| ---- | ----------- |
-| [BesiegeField](https://besiegefield.github.io) | BesiegeField is a physics-based game environment that enables LLMs to autonomously design and build complex machines. |
 
 ## Database Ranking
 
