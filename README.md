@@ -162,6 +162,7 @@ Also, a leaderboard should be included if only:
 | [BenCzechMark](https://huggingface.co/spaces/CZLC/BenCzechMark) | BenCzechMark (BCM) is a multitask and multimetric Czech language benchmark for LLMs with a unique scoring system that utilizes the theory of statistical significance. |
 | [BiGGen-Bench](https://huggingface.co/spaces/prometheus-eval/BiGGen-Bench-Leaderboard) | BiGGen-Bench is a comprehensive benchmark to evaluate LLMs across a wide variety of tasks. |
 | [BotChat](https://botchat.opencompass.org.cn) | BotChat is a benchmark to evaluate the multi-round chatting capabilities of LLMs through a proxy task. |
+| [Butter-Bench](https://andonlabs.com/evals/butter-bench) | Butter-Bench is a benchmark for evaluating language models. |
 | [CaselawQA](https://huggingface.co/spaces/ricdomolm/caselawqa_leaderboard) | CaselawQA is a benchmark comprising legal classification tasks derived from the Supreme Court and Songer Court of Appeals legal databases. |
 | [CFLUE](https://github.com/aliyun/cflue?tab=readme-ov-file#leaderboard) | CFLUE is a benchmark to evaluate LLMs' understanding and processing capabilities in the Chinese financial domain. |
 | [Ch3Ef](https://openlamm.github.io/ch3ef/leaderboard.html) | Ch3Ef is a benchmark to evaluate alignment with human expectations using 1002 human-annotated samples across 12 domains and 46 tasks based on the hhh principle. |
