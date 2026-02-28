@@ -390,6 +390,7 @@ Also, a leaderboard should be included if only:
 | [DevEval](https://github.com/seketeam/DevEval?tab=readme-ov-file#leaderboard) | DevEval is a code generation benchmark collected through a rigorous pipeline. DevEval contains 1,825 testing samples, collected from 115 real-world code repositories and covering 10 programming topics. | 
 | [DevOps AI Assistant Open Leaderboard](https://github.com/opstower-ai/devops-ai-open-leaderboard?tab=readme-ov-file#-current-leaderboard) | DevOps AI Assistant Open Leaderboard tracks, ranks, and evaluates DevOps AI Assistants across knowledge domains. |
 | [DevOps-Eval](https://github.com/codefuse-ai/codefuse-devops-eval?tab=readme-ov-file#-leaderboard) | DevOps-Eval is a benchmark to evaluate code models in the DevOps/AIOps field. |
+| [DevOps-Gym](https://www.devops-gym.com/) | DevOps-Gym is a benchmark to evaluate AI agents across the complete software DevOps cycle, including build & configuration, monitoring, issue resolution, and test generation. |
 | [DomainEval](https://domaineval.github.io/leaderboard.html) | DomainEval is an auto-constructed benchmark for multi-domain code generation. |
 | [Dr.Spider](https://github.com/awslabs/diagnostic-robustness-text-to-sql?tab=readme-ov-file#leaderboard) | Dr.Spider is a benchmark to evaluate the robustness of text-to-SQL models using different perturbation test sets. |
 | [EffiBench](https://huggingface.co/spaces/EffiBench/effibench-leaderboard) | EffiBench is a benchmark to evaluate the efficiency of LLMs in code generation. |
