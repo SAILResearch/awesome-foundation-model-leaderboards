@@ -435,6 +435,7 @@ Also, a leaderboard should be included if only:
 | [UI-I2E-Bench](https://microsoft.github.io/FIVE-UI-Evol) | UI-I2E-Bench is a benchmark for GUI visual grounding. It incorporates implicit instructions and long-tail UI element types, with element-to-screen size ratios that better reflect real-world scenarios. |
 | [WebApp1K](https://huggingface.co/spaces/onekq-ai/WebApp1K-models-leaderboard) | WebApp1K is a benchmark to evaluate LLMs on their abilities to develop real-world web applications. |
 | [WebDev Arena](https://web.lmarena.ai/leaderboard) | WebDev Arena hosts a chatbot arena where various LLMs compete based on website development. |
+| [WeirdML](https://htihle.github.io/weirdml.html) | WeirdML is a benchmark to evaluate LLMs on their ability to solve novel and unusual machine learning tasks through iterative code generation, debugging, and optimization. |
 | [WILDS](https://wilds.stanford.edu/leaderboard) | WILDS is a benchmark of in-the-wild distribution shifts spanning diverse data modalities and applications, from tumor identification to wildlife monitoring to poverty mapping. |
 
 ## Image
