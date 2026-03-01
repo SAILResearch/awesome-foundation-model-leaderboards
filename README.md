@@ -67,6 +67,7 @@ Also, a leaderboard should be included if only:
     - [Database Ranking](#database-ranking)
     - [Dataset Ranking](#dataset-ranking)
     - [Metric Ranking](#metric-ranking)
+    - [Infrastructure Ranking](#infrastructure-ranking)
     - [Paper Ranking](#paper-ranking)
     - [Usage Ranking](#usage-ranking)
 
@@ -699,6 +700,12 @@ Also, a leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [AlignScore](https://github.com/yuh-zha/AlignScore?tab=readme-ov-file#leaderboards) | AlignScore evaluates the performance of different metrics in assessing factual consistency. |
+
+## Infrastructure Ranking
+
+| Name | Description |
+| ---- | ----------- |
+| [AI Infrastructure Index](https://alpha-one-index.github.io/ai-infra-index) | AI Infrastructure Index is a comprehensive, vendor-neutral knowledge base that catalogs AI hardware platforms, cloud GPU pricing from 12 providers, performance benchmarks, and cluster architecture specifications. |
 
 ## Paper Ranking
 
