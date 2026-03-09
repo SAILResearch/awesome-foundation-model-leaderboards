@@ -128,8 +128,10 @@ Also, a leaderboard should be included if only:
 | [Holistic Evaluation of Language Models](https://crfm.stanford.edu/helm) | Holistic Evaluation of Language Models (HELM) is a reproducible and transparent framework for evaluating foundation models. |
 | [LLM Stats](https://llm-stats.com) | LLM Stats, the most comprehensive LLM leaderboard, benchmarks and compares API models using daily-updated, open-source community data on capability, price, speed, and context length. |
 | [Openrouter Leaderboard](https://openrouter.ai/rankings) | Openrouter Leaderboard offers a real-time comparison of language models based on normalized token usage for prompts and completions, updated frequently. |
+| [PinchBench](https://pinchbench.com) | PinchBench is a benchmark for evaluating and comparing AI model performance across diverse tasks. |
 | [SEAL LLM Leaderboards](https://scale.com/leaderboard) | SEAL LLM Leaderboards evaluate agentic, frontier, safety, and public-sentiment of the latest LLMs. |
 | [SEAL Showdown](https://scale.com/showdown) | SEAL Showdown ranks AI models based on how they perform in real-world use. Votes are blind, optional, and organic, so rankings reflect authentic preferences. |
+| [SkillsBench](https://www.skillsbench.ai/leaderboard) | SkillsBench is a leaderboard for evaluating and comparing the skills and capabilities of AI models. |
 | [SuperCLUE](https://www.superclueai.com) | SuperCLUE is a series of benchmarks for evaluating Chinese foundation models. |
 | [Vals AI](https://www.vals.ai) | Val AI builds custom, industry-specific benchmarks using private datasets to provide unbiased third-party evaluations of LLM performance. |
 | [Vellum LLM Leaderboard](https://www.vellum.ai/llm-leaderboard) | Vellum LLM Leaderboard shows a comparison of capabilities, price and context window for leading commercial and open-source LLMs. |
