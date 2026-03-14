@@ -378,6 +378,7 @@ Also, a leaderboard should be included if only:
 | [Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) | Big Code Models Leaderboard is a platform to track and evaluate the performance of LLMs on code-related tasks. |
 | [BIRD](https://bird-bench.github.io) | BIRD is a benchmark to evaluate the performance of text-to-SQL parsing systems. |
 | [CanAiCode Leaderboard](https://huggingface.co/spaces/mike-ravkine/can-ai-code-results) | CanAiCode Leaderboard is a platform to evaluate the code generation capabilities of LLMs. |
+| [CursorBench](https://cursor-bench.github.io) | CursorBench is a benchmark to evaluate AI models' code generation and editing capabilities. |
 | [ClassEval](https://fudanselab-classeval.github.io/leaderboard.html) | ClassEval is a benchmark to evaluate LLMs on class-level code generation. |
 | [CodeApex](https://github.com/APEXLAB/CodeApex?tab=readme-ov-file#leaderboard) | CodeApex is a benchmark to evaluate LLMs' programming comprehension through multiple-choice questions and code generation with C++ algorithm problems. |
 | [CodeScope](https://haitianliu22.github.io/code-scope-benchmark/leaderboard.html) | CodeScope is a benchmark to evaluate LLM coding capabilities across 43 languages and 8 tasks, considering difficulty, efficiency, and length. |
