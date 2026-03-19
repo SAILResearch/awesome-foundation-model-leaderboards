@@ -46,6 +46,7 @@ Also, a leaderboard should be included if only:
 ## Table of Contents
 - [**Tools**](#tools)
 - [**Challenges**](#challenges)
+- [**Organizations**](#organizations)
 - [**Rankings**](#rankings)
     - [Model Ranking](#model-ranking)
         - [Comprehensive](#comprehensive)
@@ -108,6 +109,14 @@ Also, a leaderboard should be included if only:
 | [Robust Reading Competition](https://rrc.cvc.uab.es) | Robust Reading refers to the research area on interpreting written communication in unconstrained settings, with competitions focused on text recognition in real-world environments. |
 | [Software Engineering Arena](https://github.com/Software-Engineering-Arena) | Software Engineering Arena is an open-source initiative to transparently evaluate and track AI assistants across real-world software engineering tasks. |
 | [Tianchi](https://tianchi.aliyun.com/competition) | Tianchi, hosted by Alibaba, offers a range of AI competitions, particularly popular in Asia, with a focus on commerce, healthcare, and logistics. |
+
+
+
+# Organizations
+
+| Name | Description |
+| ---- | ----------- |
+| [Scale Labs](https://labs.scale.com/leaderboard) | Scale Labs is an AI research organization that evaluates and ranks AI models across various capability benchmarks. |
 
 
 
@@ -565,13 +574,16 @@ Also, a leaderboard should be included if only:
 | [ClawWork](https://hkuds.github.io/ClawWork) | ClawWork is a real-world economic benchmark where AI agents complete professional tasks spanning 44 occupations, earning income by performing quality work while managing token costs and maintaining economic solvency. |
 | [Computer Agent Arena](https://arena.xlang.ai/leaderboard) | Computer Agent Arena is an open evaluation platform where users can compare LLM/VLM-based AI agents performing real-world computer tasks, ranging from general computer use to specialized workflows like coding, data analysis, and video editing. |
 | [Galileo Agent Leaderboard](https://huggingface.co/spaces/galileo-ai/agent-leaderboard) | Galileo Agent Leaderboard is an open evaluation platform to track and evaluate LLM agents in task completion and tool calling across business domains. |
-| [GTA](https://github.com/open-compass/GTA?tab=readme-ov-file#leaderboard) | GTA is a benchmark to evaluate the tool-use capability of LLM-based agents in real-world scenarios.
+| [GTA](https://github.com/open-compass/GTA?tab=readme-ov-file#leaderboard) | GTA is a benchmark to evaluate the tool-use capability of LLM-based agents in real-world scenarios. |
 | [Leetcode-Hard Gym](https://github.com/GammaTauAI/leetcode-hard-gym?tab=readme-ov-file#leaderboard-for-leetcode-hard-python-pass1) | Leetcode-Hard Gym is an RL environment interface to LeetCode's submission server for evaluating codegen agents. |
 | [LLM Colosseum Leaderboard](https://github.com/OpenGenerativeAI/llm-colosseum?tab=readme-ov-file#results) | LLM Colosseum Leaderboard is a platform to evaluate LLMs by fighting in Street Fighter 3. |
-| [MAgIC](https://github.com/cathyxl/MAgIC?tab=readme-ov-file#leaderboard) | MAgIC is a benchmark to measure the abilities of cognition, adaptability, rationality and collaboration of LLMs within multi-agent sytems. |
-| [MCPMark](https://mcpmark.ai) | MCPMark is a benchmark to evaluate model and agent capabilities in real-world MCP tasks. |
+| [MAgIC](https://github.com/cathyxl/MAgIC?tab=readme-ov-file#leaderboard) | MAgIC is a benchmark to measure the abilities of cognition, adaptability, rationality and collaboration of LLMs within multi-agent systems. |
+| [MCP Bench](https://huggingface.co/spaces/mcpbench/mcp-bench) | MCP Bench is a benchmark to evaluate AI models on Model Context Protocol (MCP) server interactions and tool-use capabilities. |
+| [MCPMark](https://mcpmark.ai/leaderboard) | MCPMark is a benchmark to evaluate model and agent capabilities in real-world MCP tasks. |
+| [MCP Universe](https://mcp-universe.github.io/index.html#results) | MCP Universe is a leaderboard to compare AI model performance on MCP (Model Context Protocol) tasks. |
 | [Olas Predict Benchmark](https://huggingface.co/spaces/valory/olas-prediction-leaderboard) | Olas Predict Benchmark is a benchmark to evaluate agents on historical and future event forecasting. |
 | [OSWorld](https://os-world.github.io) | OSWorld is a benchmark to evaluate multimodal AI agents on their ability to perform 369 realistic, open-ended tasks within a virtual computer environment across various applications and operating systems. |
+| [OSWorld-MCP](https://osworld-mcp.github.io) | OSWorld-MCP is a benchmark to evaluate AI agents on real-world computer tasks using the Model Context Protocol (MCP). |
 | [SEC-bench](https://sec-bench.github.io) | SEC-bench is a benchmark of LLM agents on real-world software security tasks. |
 | [TravelPlanner](https://huggingface.co/spaces/osunlp/TravelPlannerLeaderboard) | TravelPlanner is a benchmark to evaluate LLM agents in tool use and complex planning within multiple constraints. |
 | [VAB](https://github.com/THUDM/VisualAgentBench?tab=readme-ov-file#leaderboard) | VisualAgentBench (VAB) is a benchmark to evaluate and develop LMMs as visual foundation agents, which comprises 5 distinct environments across 3 types of representative visual agent tasks. |
