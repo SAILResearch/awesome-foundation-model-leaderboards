@@ -130,6 +130,7 @@ Also, a leaderboard should be included if only:
 | [LLM Stats](https://llm-stats.com) | LLM Stats, the most comprehensive LLM leaderboard, benchmarks and compares API models using daily-updated, open-source community data on capability, price, speed, and context length. |
 | [Openrouter Leaderboard](https://openrouter.ai/rankings) | Openrouter Leaderboard offers a real-time comparison of language models based on normalized token usage for prompts and completions, updated frequently. |
 | [PinchBench](https://pinchbench.com) | PinchBench is a benchmark for evaluating and comparing AI model performance across diverse tasks. |
+| [Scale Labs Leaderboard](https://labs.scale.com/leaderboard) | Scale Labs Leaderboard evaluates and ranks AI models across various capability benchmarks. |
 | [SEAL LLM Leaderboards](https://scale.com/leaderboard) | SEAL LLM Leaderboards evaluate agentic, frontier, safety, and public-sentiment of the latest LLMs. |
 | [SEAL Showdown](https://scale.com/showdown) | SEAL Showdown ranks AI models based on how they perform in real-world use. Votes are blind, optional, and organic, so rankings reflect authentic preferences. |
 | [SkillsBench](https://www.skillsbench.ai/leaderboard) | SkillsBench is a leaderboard for evaluating and comparing the skills and capabilities of AI models. |
@@ -568,10 +569,13 @@ Also, a leaderboard should be included if only:
 | [GTA](https://github.com/open-compass/GTA?tab=readme-ov-file#leaderboard) | GTA is a benchmark to evaluate the tool-use capability of LLM-based agents in real-world scenarios.
 | [Leetcode-Hard Gym](https://github.com/GammaTauAI/leetcode-hard-gym?tab=readme-ov-file#leaderboard-for-leetcode-hard-python-pass1) | Leetcode-Hard Gym is an RL environment interface to LeetCode's submission server for evaluating codegen agents. |
 | [LLM Colosseum Leaderboard](https://github.com/OpenGenerativeAI/llm-colosseum?tab=readme-ov-file#results) | LLM Colosseum Leaderboard is a platform to evaluate LLMs by fighting in Street Fighter 3. |
-| [MAgIC](https://github.com/cathyxl/MAgIC?tab=readme-ov-file#leaderboard) | MAgIC is a benchmark to measure the abilities of cognition, adaptability, rationality and collaboration of LLMs within multi-agent sytems. |
-| [MCPMark](https://mcpmark.ai) | MCPMark is a benchmark to evaluate model and agent capabilities in real-world MCP tasks. |
+| [MAgIC](https://github.com/cathyxl/MAgIC?tab=readme-ov-file#leaderboard) | MAgIC is a benchmark to measure the abilities of cognition, adaptability, rationality and collaboration of LLMs within multi-agent systems. |
+| [MCP Bench](https://huggingface.co/spaces/mcpbench/mcp-bench) | MCP Bench is a benchmark to evaluate AI models on Model Context Protocol (MCP) server interactions and tool-use capabilities. |
+| [MCPMark](https://mcpmark.ai/leaderboard) | MCPMark is a benchmark to evaluate model and agent capabilities in real-world MCP tasks. |
+| [MCP Universe](https://mcp-universe.github.io/index.html#results) | MCP Universe is a leaderboard to compare AI model performance on MCP (Model Context Protocol) tasks. |
 | [Olas Predict Benchmark](https://huggingface.co/spaces/valory/olas-prediction-leaderboard) | Olas Predict Benchmark is a benchmark to evaluate agents on historical and future event forecasting. |
 | [OSWorld](https://os-world.github.io) | OSWorld is a benchmark to evaluate multimodal AI agents on their ability to perform 369 realistic, open-ended tasks within a virtual computer environment across various applications and operating systems. |
+| [OSWorld-MCP](https://osworld-mcp.github.io) | OSWorld-MCP is a benchmark to evaluate AI agents on real-world computer tasks using the Model Context Protocol (MCP). |
 | [SEC-bench](https://sec-bench.github.io) | SEC-bench is a benchmark of LLM agents on real-world software security tasks. |
 | [TravelPlanner](https://huggingface.co/spaces/osunlp/TravelPlannerLeaderboard) | TravelPlanner is a benchmark to evaluate LLM agents in tool use and complex planning within multiple constraints. |
 | [VAB](https://github.com/THUDM/VisualAgentBench?tab=readme-ov-file#leaderboard) | VisualAgentBench (VAB) is a benchmark to evaluate and develop LMMs as visual foundation agents, which comprises 5 distinct environments across 3 types of representative visual agent tasks. |
