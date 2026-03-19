@@ -106,7 +106,6 @@ Also, a leaderboard should be included if only:
 | [Kaggle](https://www.kaggle.com/competitions) | Kaggle is one of the largest platforms for data science and machine learning competitions, covering a broad range of topics from image classification to NLP and predictive modeling. |
 | [nuScenes](https://www.nuscenes.org) | nuScenes enables researchers to study challenging urban driving situations using the full sensor suite of a real self-driving car, facilitating research in autonomous driving. |
 | [Robust Reading Competition](https://rrc.cvc.uab.es) | Robust Reading refers to the research area on interpreting written communication in unconstrained settings, with competitions focused on text recognition in real-world environments. |
-| [Software Engineering Arena](https://github.com/Software-Engineering-Arena) | Software Engineering Arena is an open-source initiative to transparently evaluate and track AI assistants across real-world software engineering tasks. |
 | [Tianchi](https://tianchi.aliyun.com/competition) | Tianchi, hosted by Alibaba, offers a range of AI competitions, particularly popular in Asia, with a focus on commerce, healthcare, and logistics. |
 
 
@@ -429,6 +428,7 @@ Also, a leaderboard should be included if only:
 | [ScreenSpot](https://gui-agent.github.io/grounding-leaderboard/screenspot.html) | ScreenSpot is a benchmark to evaluate the ability of VLMs to perform GUI grounding across various platforms, including mobile (iOS, Android), desktop (macOS, Windows), and web environments, based on over 1,200 instructions. |
 | [ScreenSpot-Pro](https://gui-agent.github.io/grounding-leaderboard) | ScreenSpot-Pro is a benchmark to evaluate the ability of multi-modal large language models (MLLMs) to accurately locate specific GUI elements in complex, high-resolution desktop applications. |
 | [SciCode](https://github.com/scicode-bench/SciCode?tab=readme-ov-file#-leaderboard) | SciCode is a benchmark designed to evaluate language models in generating code to solve realistic scientific research problems. |
+| [Software Engineering Arena](https://github.com/Software-Engineering-Arena) | Software Engineering Arena is an open-source initiative to transparently evaluate and track AI assistants across real-world software engineering tasks. |
 | [SolidityBench](https://huggingface.co/spaces/braindao/solbench-leaderboard) | SolidityBench is a benchmark to evaluate and rank the ability of LLMs in generating and auditing smart contracts. |
 | [Spider](https://yale-lily.github.io/spider) | Spider is a benchmark to evaluate the performance of natural language interfaces for cross-domain databases. |
 | [SRE Skills Bench](https://sreskillsbench.com/#leaderboard) | SRE Skills Bench is a benchmark to evaluate the site reliability engineering skills of LLMs. |
