@@ -46,7 +46,6 @@ Also, a leaderboard should be included if only:
 ## Table of Contents
 - [**Tools**](#tools)
 - [**Challenges**](#challenges)
-- [**Organizations**](#organizations)
 - [**Rankings**](#rankings)
     - [Model Ranking](#model-ranking)
         - [Comprehensive](#comprehensive)
@@ -112,14 +111,6 @@ Also, a leaderboard should be included if only:
 
 
 
-# Organizations
-
-| Name | Description |
-| ---- | ----------- |
-| [Scale Labs](https://labs.scale.com/leaderboard) | Scale Labs is an AI research organization that evaluates and ranks AI models across various capability benchmarks. |
-
-
-
 # Rankings
 
 ## Model Ranking
@@ -139,6 +130,7 @@ Also, a leaderboard should be included if only:
 | [LLM Stats](https://llm-stats.com) | LLM Stats, the most comprehensive LLM leaderboard, benchmarks and compares API models using daily-updated, open-source community data on capability, price, speed, and context length. |
 | [Openrouter Leaderboard](https://openrouter.ai/rankings) | Openrouter Leaderboard offers a real-time comparison of language models based on normalized token usage for prompts and completions, updated frequently. |
 | [PinchBench](https://pinchbench.com) | PinchBench is a benchmark for evaluating and comparing AI model performance across diverse tasks. |
+| [Scale Labs](https://labs.scale.com/leaderboard) | Scale Labs is an AI research organization that evaluates and ranks AI models across various capability benchmarks. |
 | [SEAL LLM Leaderboards](https://scale.com/leaderboard) | SEAL LLM Leaderboards evaluate agentic, frontier, safety, and public-sentiment of the latest LLMs. |
 | [SEAL Showdown](https://scale.com/showdown) | SEAL Showdown ranks AI models based on how they perform in real-world use. Votes are blind, optional, and organic, so rankings reflect authentic preferences. |
 | [SkillsBench](https://www.skillsbench.ai/leaderboard) | SkillsBench is a leaderboard for evaluating and comparing the skills and capabilities of AI models. |
