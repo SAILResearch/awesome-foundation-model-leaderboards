@@ -437,7 +437,13 @@ Also, a leaderboard should be included if only:
 | [SWE-bench-Live](https://swe-bench-live.github.io) | SWE-bench-Live is a live benchmark to evaluate an AI system's ability to complete real-world software engineering tasks. |
 | [SWE-Bench Pro](https://swe-bench-live.github.io) | SWE-Bench Pro is a benchmark to evaluate an AI system's ability for challenging long-horizon software engineering tasks. |
 | [SWE-Effi](https://centre-for-software-excellence.github.io/SWE-Effi) | SWE-Effi is an evaluation framework to evaluate the effectiveness of SWE agents by balancing performance metrics with resource consumption. |
+| [SWE-Chatbot-Arena](https://github.com/Software-Engineering-Arena/SWE-Chatbot-Arena) | SWE-Chatbot-Arena is a platform to compare chatbots pairwise via multi-round evaluations for software engineering tasks. |
+| [SWE-Issue](https://github.com/Software-Engineering-Arena/SWE-Issue) | SWE-Issue tracks AI coding assistants by GitHub issues, evaluating their performance on issue-related tasks. |
 | [SWE-Model-Arena](https://huggingface.co/spaces/SWE-Arena/SWE-Model-Arena) | SWE-Model-Arena provides a platform for software developers to compare the performance of different FMs on software engineering tasks. |
+| [SWE-PR](https://github.com/Software-Engineering-Arena/SWE-PR) | SWE-PR tracks AI coding assistants by GitHub pull requests, evaluating their performance on code review and PR-related tasks. |
+| [SWE-Release](https://github.com/Software-Engineering-Arena/SWE-Release) | SWE-Release tracks AI coding assistants by releases, evaluating their performance on release-related tasks. |
+| [SWE-Team](https://github.com/Software-Engineering-Arena/SWE-Team) | SWE-Team tracks AI coding assistants by team management, evaluating their performance on collaborative software engineering tasks. |
+| [SWE-Wiki](https://github.com/Software-Engineering-Arena/SWE-Wiki) | SWE-Wiki tracks AI coding assistants by wikis, evaluating their performance on documentation and knowledge management tasks. |
 | [SWE-rebench](https://swe-rebench.com) | SWE-rebench is a continuously updated benchmark designed to provide more accurate and reliable evaluations of software engineering LLMs by using real-world tasks from GitHub that are less prone to data contamination. |
 | [Terminal-Bench](https://www.tbench.ai/leaderboard) | Terminal-Bench is a benchmark to measure the capabilities of AI agents in a terminal environment. |
 | [Turing Machine Programming Benchmark](https://mng.quest/leaderboard/ai) | Measures LLMs' ability to solve algorithmic tasks by programming a Turing machine. | 
@@ -577,6 +583,7 @@ Also, a leaderboard should be included if only:
 | [OSWorld](https://os-world.github.io) | OSWorld is a benchmark to evaluate multimodal AI agents on their ability to perform 369 realistic, open-ended tasks within a virtual computer environment across various applications and operating systems. |
 | [OSWorld-MCP](https://osworld-mcp.github.io) | OSWorld-MCP is a benchmark to evaluate AI agents on real-world computer tasks using the Model Context Protocol (MCP). |
 | [SEC-bench](https://sec-bench.github.io) | SEC-bench is a benchmark of LLM agents on real-world software security tasks. |
+| [SWE-Agent-Arena](https://github.com/Software-Engineering-Arena/SWE-Agent-Arena) | SWE-Agent-Arena is a platform to compare agents pairwise via multi-round evaluations for software engineering tasks. |
 | [TravelPlanner](https://huggingface.co/spaces/osunlp/TravelPlannerLeaderboard) | TravelPlanner is a benchmark to evaluate LLM agents in tool use and complex planning within multiple constraints. |
 | [VAB](https://github.com/THUDM/VisualAgentBench?tab=readme-ov-file#leaderboard) | VisualAgentBench (VAB) is a benchmark to evaluate and develop LMMs as visual foundation agents, which comprises 5 distinct environments across 3 types of representative visual agent tasks. |
 | [VisualWebArena](https://jykoh.com/vwa) | VisualWebArena is a benchmark to evaluate the performance of multimodal web agents on realistic visually grounded tasks. |
