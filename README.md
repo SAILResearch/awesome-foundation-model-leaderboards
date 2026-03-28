@@ -323,6 +323,7 @@ Also, a leaderboard should be included if only:
 | [Russian Chatbot Arena](https://huggingface.co/spaces/LLMArena/llmarena-leaderboard) | Chatbot Arena hosts a chatbot arena where various LLMs compete in Russian based on user satisfaction. |
 | [Russian SuperGLUE](https://russiansuperglue.com/leaderboard/2) | Russian SuperGLUE is a benchmark for Russian language models, focusing on logic, commonsense, and reasoning tasks. |
 | [ScandEval](https://scandeval.com) | ScandEval is a benchmark to evaluate LLMs on tasks in Scandinavian languages as well as German, Dutch, and English. |
+| [SCBench](https://www.scbench.ai/leaderboard) | SCBench is a benchmark to evaluate the long-context capabilities of LLMs across diverse tasks requiring shared context processing. |
 | [Science Leaderboard](https://huggingface.co/spaces/wenhu/Science-Leaderboard) | Science Leaderboard is a platform to evaluate LLMs' capabilities to solve science problems. |
 | [SciGLM](https://github.com/THUDM/SciGLM?tab=readme-ov-file#leaderboard) | SciGLM is a suite of scientific language models that use a self-reflective instruction annotation framework to enhance scientific reasoning by generating and revising step-by-step solutions to unlabelled questions. |
 | [SciKnowEval](http://scimind.ai/sciknoweval) | SciKnowEval is a benchmark to evaluate LLMs based on their proficiency in studying extensively, enquiring earnestly, thinking profoundly, discerning clearly, and practicing assiduously. |
