@@ -583,6 +583,7 @@ Also, a leaderboard should be included if only:
 | [VisualWebArena](https://jykoh.com/vwa) | VisualWebArena is a benchmark to evaluate the performance of multimodal web agents on realistic visually grounded tasks. |
 | [WebArena](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ) | WebArena is a standalone, self-hostable web environment to evaluate autonomous agents. |
 | [WildClawBench](https://internlm.github.io/WildClawBench) | WildClawBench is an in-the-wild benchmark to evaluate AI agents in the OpenClaw Environment. |
+| [YCBench](https://www.ycbench.com/#leaderboard) | YCBench is a long-horizon deterministic benchmark for LLM agents, where agents play CEO of an AI startup over a simulated 1–3 year run, managing decisions across prestige specialisation, employee allocation, cash flow, and deadline risk. |
 | [τ-Bench](https://github.com/sierra-research/tau-bench?tab=readme-ov-file#leaderboard) | τ-bench is a benchmark that emulates dynamic conversations between a language model-simulated user and a language agent equipped with domain-specific API tools and policy guidelines. |
 
 ### Business
