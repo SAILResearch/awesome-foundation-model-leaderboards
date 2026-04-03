@@ -583,7 +583,7 @@ Also, a leaderboard should be included if only:
 | [VisualWebArena](https://jykoh.com/vwa) | VisualWebArena is a benchmark to evaluate the performance of multimodal web agents on realistic visually grounded tasks. |
 | [WebArena](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ) | WebArena is a standalone, self-hostable web environment to evaluate autonomous agents. |
 | [WildClawBench](https://internlm.github.io/WildClawBench) | WildClawBench is an in-the-wild benchmark to evaluate AI agents in the OpenClaw Environment. |
-| [YCBench](https://www.ycbench.com/#leaderboard) | YCBench is a long-horizon deterministic benchmark for LLM agents, where agents play CEO of an AI startup over a simulated 1–3 year run, managing decisions across prestige specialisation, employee allocation, cash flow, and deadline risk. |
+| [YC-Bench](https://collinear-ai.github.io/yc-bench/#leaderboard) | YC-Bench is a long-horizon deterministic benchmark for LLM agents, where agents play CEO of an AI startup over a simulated 1–3 year run, managing decisions across prestige specialisation, employee allocation, cash flow, and deadline risk. |
 | [τ-Bench](https://github.com/sierra-research/tau-bench?tab=readme-ov-file#leaderboard) | τ-bench is a benchmark that emulates dynamic conversations between a language model-simulated user and a language agent equipped with domain-specific API tools and policy guidelines. |
 
 ### Business
@@ -606,6 +606,7 @@ Also, a leaderboard should be included if only:
 | [StockBench](https://stockbench.github.io) | StockBench is a benchmark to evaluate LLM agents in realistic, multi-month stock trading environments. |
 | [Vending Bench 2](https://andonlabs.com/evals/vending-bench-2) | Vending Bench 2 is a benchmark for measuring AI model performance on running a business over long time horizons. Models are tasked with running a simulated vending machine business over a year and scored on their bank account balance at the end. |
 | [Vending Bench Arena](https://andonlabs.com/evals/vending-bench-arena) | Vending Bench Arena is a multi-agent evaluation platform where AI agents compete in running vending machine businesses at the same location. |
+| [YCBench](https://www.ycbench.com/#leaderboard) | YCBench is a live benchmarking platform that evaluates forecasting models to predict which Y Combinator startups will outperform their cohort over a 90-day period, providing a transparent leaderboard and velocity-based metrics. |
 
 ### Safety
 
