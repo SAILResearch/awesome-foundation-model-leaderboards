@@ -564,6 +564,7 @@ Also, a leaderboard should be included if only:
 | [BrowserGym Leaderboard](https://huggingface.co/spaces/ServiceNow/browsergym-leaderboard) | BrowserGym is a gym environment to evaluate LLMs, VLMs, and agents on web navigation tasks. |
 | [CharacterEval](https://github.com/morecry/CharacterEval?tab=readme-ov-file#leaderboard) | CharacterEval is a benchmark to evaluate Role-Playing Conversational Agents (RPCAs) using multi-turn dialogues and character profiles, with metrics spanning four dimensions. |
 | [ClawBench](https://clawbench.net) | ClawBench is a benchmark to evaluate AI agents across search, reasoning, coding, safety, and multi-turn conversation tasks. |
+| [Claw-Eval](https://claw-eval.github.io) | Claw-Eval is a benchmark to evaluate LLM agents on real-world tasks, featuring 139 tasks across 15 services with Docker sandbox isolation and human-verified grading. |
 | [ClawWork](https://hkuds.github.io/ClawWork) | ClawWork is a real-world economic benchmark where AI agents complete professional tasks spanning 44 occupations, earning income by performing quality work while managing token costs and maintaining economic solvency. |
 | [Computer Agent Arena](https://arena.xlang.ai/leaderboard) | Computer Agent Arena is an open evaluation platform where users can compare LLM/VLM-based AI agents performing real-world computer tasks, ranging from general computer use to specialized workflows like coding, data analysis, and video editing. |
 | [CyberGym](https://www.cybergym.io) | CyberGym is a benchmark to evaluate AI agents on cybersecurity tasks. |
