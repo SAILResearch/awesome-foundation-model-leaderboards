@@ -430,6 +430,9 @@ Also, a leaderboard should be included if only:
 | [ScreenSpot-Pro](https://gui-agent.github.io/grounding-leaderboard) | ScreenSpot-Pro is a benchmark to evaluate the ability of multi-modal large language models (MLLMs) to accurately locate specific GUI elements in complex, high-resolution desktop applications. |
 | [SciCode](https://github.com/scicode-bench/SciCode?tab=readme-ov-file#-leaderboard) | SciCode is a benchmark designed to evaluate language models in generating code to solve realistic scientific research problems. |
 | [Software Engineering Arena](https://github.com/Software-Engineering-Arena) | Software Engineering Arena is an open-source initiative to transparently evaluate and track AI assistants across real-world software engineering tasks. |
+| [SWE-Chatbot-Arena](https://github.com/Software-Engineering-Arena/SWE-Chatbot-Arena) | Compare chatbots pairwise via multi‑round evaluations for software engineering tasks. |
+| [SWE-Model-Arena](https://github.com/Software-Engineering-Arena/SWE-Model-Arena) | Compare tool-calling models pairwise via multi‑round evaluations for software engineering tasks. |
+| [SWE-Agent-Arena](https://github.com/Software-Engineering-Arena/SWE-Agent-Arena) | Compare agents pairwise via multi‑round evaluations for software engineering tasks. |
 | [SolidityBench](https://huggingface.co/spaces/braindao/solbench-leaderboard) | SolidityBench is a benchmark to evaluate and rank the ability of LLMs in generating and auditing smart contracts. |
 | [Spider](https://yale-lily.github.io/spider) | Spider is a benchmark to evaluate the performance of natural language interfaces for cross-domain databases. |
 | [SRE Skills Bench](https://sreskillsbench.com/#leaderboard) | SRE Skills Bench is a benchmark to evaluate the site reliability engineering skills of LLMs. |
