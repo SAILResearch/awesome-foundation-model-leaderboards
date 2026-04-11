@@ -697,6 +697,7 @@ Also, a leaderboard should be included if only:
 | [Humanity's Last Exam](https://agi.safe.ai) | Humanity's Last Exam (HLE) is an expert-level academic benchmark featuring challenging questions from advanced subjects designed to measure the deep reasoning capabilities of AI models where current systems still fall far short of human performance. |
 | [Labelbox Leaderboards](https://labelbox.com/leaderboards) | Labelbox Leaderboards evaluate performance of generative AI models using their data factory: platform, scientific process and expert humans.
 | [MEGA-Bench](https://huggingface.co/spaces/TIGER-Lab/MEGA-Bench) | MEGA-Bench is a benchmark for multimodal evaluation with diverse tasks across 8 application types, 7 input formats, 6 output formats, and 10 multimodal skills, spanning single-image, multi-image, and video tasks. |
+| [MolmoSpaces](https://molmospaces.allen.ai/leaderboard) | MolmoSpaces is a leaderboard to evaluate and compare vision-language models across various multimodal benchmarks. |
 
 ### Time Series
 
