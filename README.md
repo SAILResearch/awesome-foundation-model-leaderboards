@@ -699,8 +699,7 @@ Also, a leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [FutureX](https://futurex-ai.github.io) | FutureX is a live benchmark to evaluate how effectively AI agents can predict real-world, future-oriented events across various domains, deliberately avoiding data contamination by only using questions where the answer is not yet known. |
-| [Look-Ahead-Bench](https://github.com/benstaf/lookaheadbench) | Look-Ahead-Bench is a standardized benchmark designed to measure look-ahead bias in Large Language Models (LLMs) used for financial decision-making.
-Instead of evaluating isolated question-answering or factual recall, the benchmark evaluates end-to-end trading behavior using realistic agentic trading workflows.|
+| [Look-Ahead-Bench](https://www.lookaheadbench.com) | Look-Ahead-Bench is a standardized benchmark for quantifying look-ahead bias in LLM-driven financial agents by evaluating their end-to-end trading behavior within realistic, agentic workflows. |
 | [Prophet Arena](https://www.prophetarena.co/leaderboard) | Prophet Arena is a real-world benchmark to evaluate LLMs on their ability to forecast future events and quantify uncertainty. |
 
 ## Database Ranking
