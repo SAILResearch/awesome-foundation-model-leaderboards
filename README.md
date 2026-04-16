@@ -629,6 +629,7 @@ Also, a leaderboard should be included if only:
 | [SafetyBench](https://llmbench.ai/safety/data) | SafetyBench is a benchmark to evaluate the safety of LLMs. |
 | [Safety Prompts](http://coai.cs.tsinghua.edu.cn/leaderboard) | Safety Prompts is a benchmark to evaluate the safety of Chinese LLMs. |
 | [SALAD-Bench](https://huggingface.co/spaces/OpenSafetyLab/Salad-Bench-Leaderboard) | SALAD-Bench is a benchmark for evaluating the safety and security of LLMs. |
+| [SecLens](https://mattersec-labs.github.io/seclens/#leaderboard) | SecLens is a benchmark for evaluating LLMs on security vulnerability detection using 406 real CVE tasks across 35 dimensions, providing 5 role-specific leaderboards for security stakeholders. |
 | [S-Eval](https://huggingface.co/spaces/IS2Lab/S-Eval) | S-Eval is a comprehensive, multi-dimensional safety benchmark with 220,000 prompts designed to evaluate LLM safety across various risk dimensions. |
 
 ### Medical
