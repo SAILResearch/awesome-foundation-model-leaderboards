@@ -118,7 +118,7 @@ Also, a leaderboard should be included if only:
 | [Arena](https://arena.ai/leaderboard) | Arena operates a chatbot arena where various foundation models compete based on user preferences across multiple categories: text generation, web development, computer vision, text-to-image synthesis, search capabilities, and coding assistance. |
 | [Artificial Analysis](https://artificialanalysis.ai) | Artificial Analysis is a platform to help users make informed decisions on AI model selection and hosting providers. |
 | [CompassRank](https://rank.opencompass.org.cn) | CompassRank is a platform to offer a comprehensive, objective, and neutral evaluation reference of foundation models for the industry and research. |
-| [EvoClaw](https://evo-claw.com/#leaderboard) | EvoClaw is a leaderboard for evaluating and ranking AI agents in OpenClaw. |
+| [EvoClaw](https://evo-claw.com/#leaderboard) | EvoClaw is a leaderboard for evaluating and ranking AI agents across benchmark tasks. |
 | [FlagEval](https://flageval.baai.ac.cn/#/leaderboard) | FlagEval is a comprehensive platform for evaluating foundation models. |
 | [Generative AI Leaderboards](https://accubits.com/generative-ai-models-leaderboard) | Generative AI Leaderboard ranks the top-performing generative AI models based on various metrics. |
 | [Holistic Agent Leaderboard](https://hal.cs.princeton.edu/#leaderboards) | HAL is a standardized, cost-aware, and third-party leaderboard for evaluating agents. |
