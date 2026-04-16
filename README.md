@@ -55,6 +55,7 @@ Also, a leaderboard should be included if only:
         - [Video](#video)
         - [Math](#math)
         - [Agent](#agent)
+        - [Research](#research)
         - [Business](#business)
         - [Safety](#safety)
         - [Medical](#medical)
@@ -563,7 +564,6 @@ Also, a leaderboard should be included if only:
 | [ClawWork](https://hkuds.github.io/ClawWork) | ClawWork is a real-world economic benchmark where AI agents complete professional tasks spanning 44 occupations, earning income by performing quality work while managing token costs and maintaining economic solvency. |
 | [Computer Agent Arena](https://arena.xlang.ai/leaderboard) | Computer Agent Arena is an open evaluation platform where users can compare LLM/VLM-based AI agents performing real-world computer tasks, ranging from general computer use to specialized workflows like coding, data analysis, and video editing. |
 | [CyberGym](https://www.cybergym.io) | CyberGym is a benchmark to evaluate AI agents on cybersecurity tasks. |
-| [DeepResearch-Bench Leaderboard](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard) | DeepResearch-Bench Leaderboard evaluates AI models on deep research tasks. |
 | [Galileo Agent Leaderboard](https://huggingface.co/spaces/galileo-ai/agent-leaderboard) | Galileo Agent Leaderboard is an open evaluation platform to track and evaluate LLM agents in task completion and tool calling across business domains. |
 | [GTA](https://github.com/open-compass/GTA?tab=readme-ov-file#leaderboard) | GTA is a benchmark to evaluate the tool-use capability of LLM-based agents in real-world scenarios. |
 | [HippoCamp](https://hippocamp-ai.github.io/#leaderboard) | HippoCamp is a benchmark to evaluate contextual agents on their ability to search, perceive, and reason over realistic, multimodal personal file systems on personal computers. |
@@ -584,6 +584,12 @@ Also, a leaderboard should be included if only:
 | [WildClawBench](https://internlm.github.io/WildClawBench) | WildClawBench is an in-the-wild benchmark to evaluate AI agents in the OpenClaw Environment. |
 | [YC-Bench](https://collinear-ai.github.io/yc-bench/#leaderboard) | YC-Bench is a long-horizon deterministic benchmark for LLM agents, where agents play CEO of an AI startup over a simulated 1–3 year run, managing decisions across prestige specialisation, employee allocation, cash flow, and deadline risk. |
 | [τ-Bench](https://github.com/sierra-research/tau-bench?tab=readme-ov-file#leaderboard) | τ-bench is a benchmark that emulates dynamic conversations between a language model-simulated user and a language agent equipped with domain-specific API tools and policy guidelines. |
+
+### Research
+
+| Name | Description |
+| ---- | ----------- |
+| [DeepResearch-Bench Leaderboard](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard) | DeepResearch-Bench Leaderboard evaluates AI models on deep research tasks. |
 
 ### Business
 
