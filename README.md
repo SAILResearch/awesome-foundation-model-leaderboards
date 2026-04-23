@@ -746,3 +746,4 @@ Also, a leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [ATOM Relative Adoption Metric](https://atomproject.ai/relative-adoption-metric) | ATOM Relative Adoption Metric tracks and evaluates the relative adoption and usage of AI models. |
+- [BenchGecko](https://benchgecko.ai) - Comprehensive AI model leaderboard covering thousands of models across 128 benchmarks with cross-provider pricing. Includes AI economy tracking, agent leaderboard, and MCP server directory.
