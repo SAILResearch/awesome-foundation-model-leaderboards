@@ -117,6 +117,7 @@ Also, a leaderboard should be included if only:
 | [AI Benchmarking Hub](https://epoch.ai/benchmarks) | AI Benchmarking Hub tracks and compares AI model performance in reasoning, coding, and knowledge tasks. |
 | [Arena](https://arena.ai/leaderboard) | Arena operates a chatbot arena where various foundation models compete based on user preferences across multiple categories: text generation, web development, computer vision, text-to-image synthesis, search capabilities, and coding assistance. |
 | [Artificial Analysis](https://artificialanalysis.ai) | Artificial Analysis is a platform to help users make informed decisions on AI model selection and hosting providers. |
+| [BenchGecko](https://benchgecko.ai) | BenchGecko is a comprehensive leaderboard that tracks thousands of models across 128 benchmarks, featuring cross-provider pricing comparisons, AI economy insights, an agent leaderboard, and an MCP server directory. |
 | [CompassRank](https://rank.opencompass.org.cn) | CompassRank is a platform to offer a comprehensive, objective, and neutral evaluation reference of foundation models for the industry and research. |
 | [EvoClaw](https://evo-claw.com/#leaderboard) | EvoClaw is a leaderboard for evaluating and ranking AI agents across benchmark tasks. |
 | [FlagEval](https://flageval.baai.ac.cn/#/leaderboard) | FlagEval is a comprehensive platform for evaluating foundation models. |
