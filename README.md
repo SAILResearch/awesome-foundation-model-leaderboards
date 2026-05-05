@@ -418,6 +418,7 @@ Also, a leaderboard should be included if only:
 | [NL2SQL360](https://nl2sql360.github.io/#leaderboard) | NL2SQL360 is a comprehensive evaluation framework for comparing and optimizing NL2SQL methods across various application scenarios. |
 | [OpsEval](https://nl2sql360.github.io/#leaderboard) | OpsEval is a benchmark designed to assess the performance of LLMs in IT Operations (AIOps). |
 | [PECC](https://huggingface.co/spaces/PatrickHaller/pecc-leaderboard) | PECC is a benchmark that evaluates code generation by requiring models to comprehend and extract problem requirements from narrative-based descriptions to produce syntactically accurate solutions. |
+| [ProgramBench](https://programbench.com) | ProgramBench is a benchmark to evaluate LLMs on programming tasks. |
 | [PyBench](https://github.com/Mercury7353/PyBench?tab=readme-ov-file#-leaderboard) | PyBench is a benchmark evaluating LLM on real-world coding tasks including chart analysis, text analysis, image/ audio editing, complex math and software/website development. |
 | [RACE](https://huggingface.co/spaces/jszheng/RACE_leaderboard) | RACE is a benchmark to evaluate the ability of LLMs to generate code that is correct and meets the requirements of real-world development scenarios. |
 | [RepairBench](https://repairbench.github.io) | RepairBench is a benchmark to evaluate the program repair capabilities of AI models by testing their ability to fix real-world software bugs. |
