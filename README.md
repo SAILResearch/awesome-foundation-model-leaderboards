@@ -748,3 +748,4 @@ Also, a leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [ATOM Relative Adoption Metric](https://atomproject.ai/relative-adoption-metric) | ATOM Relative Adoption Metric tracks and evaluates the relative adoption and usage of AI models. |
+| [Ora Leaderboard](https://ora.run/leaderboard) | Ora Leaderboard ranks AI-powered chatbots and applications by user engagement and popularity on the Ora platform. |
