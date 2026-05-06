@@ -71,6 +71,7 @@ Also, a leaderboard should be included if only:
     - [Infrastructure Ranking](#infrastructure-ranking)
     - [Paper Ranking](#paper-ranking)
     - [Usage Ranking](#usage-ranking)
+    - [Company Ranking](#company-ranking)
 
 
 
@@ -748,3 +749,9 @@ Also, a leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [ATOM Relative Adoption Metric](https://atomproject.ai/relative-adoption-metric) | ATOM Relative Adoption Metric tracks and evaluates the relative adoption and usage of AI models. |
+
+## Company Ranking
+
+| Name | Description |
+| ---- | ----------- |
+| [Ora Leaderboard](https://ora.run/leaderboard) | Ora Leaderboard ranks companies by how discoverable and usable they are for AI agents. |
