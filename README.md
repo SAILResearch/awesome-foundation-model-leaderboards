@@ -123,7 +123,6 @@ Also, a leaderboard should be included if only:
 | [EvoClaw](https://evo-claw.com/#leaderboard) | EvoClaw is a leaderboard for evaluating and ranking AI agents across benchmark tasks. |
 | [FlagEval](https://flageval.baai.ac.cn/#/leaderboard) | FlagEval is a comprehensive platform for evaluating foundation models. |
 | [Generative AI Leaderboards](https://accubits.com/generative-ai-models-leaderboard) | Generative AI Leaderboard ranks the top-performing generative AI models based on various metrics. |
-| [Hlido](https://hlido.eu/reviews) | Hlido ranks and reviews AI agents with Laddoo Scores, claim-vs-evidence tables, C2PA-signed proof artifacts, a public Hugging Face dataset, and a multi-tool MCP server. |
 | [Holistic Agent Leaderboard](https://hal.cs.princeton.edu/#leaderboards) | HAL is a standardized, cost-aware, and third-party leaderboard for evaluating agents. |
 | [Holistic Evaluation of Language Models](https://crfm.stanford.edu/helm) | Holistic Evaluation of Language Models (HELM) is a reproducible and transparent framework for evaluating foundation models. |
 | [LLM Stats](https://llm-stats.com) | LLM Stats, the most comprehensive LLM leaderboard, benchmarks and compares API models using daily-updated, open-source community data on capability, price, speed, and context length. |
