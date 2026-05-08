@@ -560,6 +560,7 @@ Also, a leaderboard should be included if only:
 | [AgentBoard](https://hkust-nlp.github.io/agentboard/static/leaderboard.html) | AgentBoard is a benchmark for multi-turn LLM agents, complemented by an analytical evaluation board for detailed model assessment beyond final success rates. |
 | [AgentStudio](https://skyworkai.github.io/agent-studio) | AgentStudio is an integrated solution featuring in-depth benchmark suites, realistic environments, and comprehensive toolkits. |
 | [AssistantBench](https://huggingface.co/spaces/AssistantBench/leaderboard) | AssistantBench aims to evaluate the ability of web agents to assist with real and time-consuming tasks. |
+| [BenchClaw](https://www.p2pclaw.com/app/benchmark) | BenchClaw is a benchmark to evaluate AI agents on autonomous scientific paper writing and peer review using a multi-judge evaluation process. |
 | [BrowseComp](https://www.kaggle.com/benchmarks/openai/browsecomp) | BrowseComp is a benchmark to evaluate the ability of AI agents to locate hard-to-find information. |
 | [BrowserGym Leaderboard](https://huggingface.co/spaces/ServiceNow/browsergym-leaderboard) | BrowserGym is a gym environment to evaluate LLMs, VLMs, and agents on web navigation tasks. |
 | [CharacterEval](https://github.com/morecry/CharacterEval?tab=readme-ov-file#leaderboard) | CharacterEval is a benchmark to evaluate Role-Playing Conversational Agents (RPCAs) using multi-turn dialogues and character profiles, with metrics spanning four dimensions. |
