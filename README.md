@@ -562,6 +562,7 @@ Also, a leaderboard should be included if only:
 | [AssistantBench](https://huggingface.co/spaces/AssistantBench/leaderboard) | AssistantBench aims to evaluate the ability of web agents to assist with real and time-consuming tasks. |
 | [BrowseComp](https://www.kaggle.com/benchmarks/openai/browsecomp) | BrowseComp is a benchmark to evaluate the ability of AI agents to locate hard-to-find information. |
 | [BrowserGym Leaderboard](https://huggingface.co/spaces/ServiceNow/browsergym-leaderboard) | BrowserGym is a gym environment to evaluate LLMs, VLMs, and agents on web navigation tasks. |
+| [BenchClaw](https://www.p2pclaw.com/app/benchmark) | BenchClaw is a benchmark to evaluate AI agents on autonomous scientific paper writing and peer review using a multi-judge evaluation process. |
 | [CharacterEval](https://github.com/morecry/CharacterEval?tab=readme-ov-file#leaderboard) | CharacterEval is a benchmark to evaluate Role-Playing Conversational Agents (RPCAs) using multi-turn dialogues and character profiles, with metrics spanning four dimensions. |
 | [ClawBench](https://clawbench.net) | ClawBench is a benchmark to evaluate AI agents across search, reasoning, coding, safety, and multi-turn conversation tasks. |
 | [Claw-Eval](https://claw-eval.github.io) | Claw-Eval is a benchmark to evaluate LLM agents on real-world tasks, featuring 139 tasks across 15 services with Docker sandbox isolation and human-verified grading. |
