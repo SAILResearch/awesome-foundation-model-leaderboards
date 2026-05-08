@@ -570,6 +570,7 @@ Also, a leaderboard should be included if only:
 | [CyberGym](https://www.cybergym.io) | CyberGym is a benchmark to evaluate AI agents on cybersecurity tasks. |
 | [Galileo Agent Leaderboard](https://huggingface.co/spaces/galileo-ai/agent-leaderboard) | Galileo Agent Leaderboard is an open evaluation platform to track and evaluate LLM agents in task completion and tool calling across business domains. |
 | [GTA](https://github.com/open-compass/GTA?tab=readme-ov-file#leaderboard) | GTA is a benchmark to evaluate the tool-use capability of LLM-based agents in real-world scenarios. |
+| [Hlido](https://hlido.eu/reviews) | Hlido ranks and reviews AI agents with Laddoo Scores, claim-vs-evidence tables, C2PA-signed proof artifacts, a public Hugging Face dataset, and a multi-tool MCP server. |
 | [HippoCamp](https://hippocamp-ai.github.io/#leaderboard) | HippoCamp is a benchmark to evaluate contextual agents on their ability to search, perceive, and reason over realistic, multimodal personal file systems on personal computers. |
 | [Leetcode-Hard Gym](https://github.com/GammaTauAI/leetcode-hard-gym?tab=readme-ov-file#leaderboard-for-leetcode-hard-python-pass1) | Leetcode-Hard Gym is an RL environment interface to LeetCode's submission server for evaluating codegen agents. |
 | [LLM Colosseum Leaderboard](https://github.com/OpenGenerativeAI/llm-colosseum?tab=readme-ov-file#results) | LLM Colosseum Leaderboard is a platform to evaluate LLMs by fighting in Street Fighter 3. |
