@@ -43,6 +43,8 @@ Also, a leaderboard should be included if only:
 * It is actively maintained.
 * It is related to AI.
 
+- [BenchClaw](https://github.com/Agnuxo1/BenchClaw) — Decentralized Benchmarking Tribunal for Scientific Models
+
 ## Table of Contents
 - [**Tools**](#tools)
 - [**Challenges**](#challenges)
