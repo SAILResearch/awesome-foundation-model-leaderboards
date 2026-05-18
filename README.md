@@ -739,6 +739,7 @@ Also, a leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [AI Infrastructure Index](https://alpha-one-index.github.io/ai-infra-index) | AI Infrastructure Index ranks and compares AI infrastructure options by cataloging AI hardware platforms, cloud GPU pricing from 12 providers, performance benchmarks, and cluster architecture specifications. |
+| [InferenceX](https://inferencex.semianalysis.com/inference) | InferenceX benchmarks and compares LLM inference performance across models, frameworks, and hardware configurations. |
 
 ## Paper Ranking
 
