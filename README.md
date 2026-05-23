@@ -618,6 +618,7 @@ Also, a leaderboard should be included if only:
 | [Vending Bench 2](https://andonlabs.com/evals/vending-bench-2) | Vending Bench 2 is a benchmark for measuring AI model performance on running a business over long time horizons. Models are tasked with running a simulated vending machine business over a year and scored on their bank account balance at the end. |
 | [Vending Bench Arena](https://andonlabs.com/evals/vending-bench-arena) | Vending Bench Arena is a multi-agent evaluation platform where AI agents compete in running vending machine businesses at the same location. |
 | [YCBench](https://www.ycbench.com/#leaderboard) | YCBench is a live benchmarking platform that evaluates forecasting models to predict which Y Combinator startups will outperform their cohort over a 90-day period, providing a transparent leaderboard and velocity-based metrics. |
+| [Zapier Benchmarks](https://zapier.com/benchmarks) | Zapier Benchmarks evaluates how well AI models and agents complete real-world business automation tasks across domains such as sales, marketing, operations, support, finance, and HR. |
 
 ### Safety
 
