@@ -137,6 +137,7 @@ Also, a leaderboard should be included if only:
 | [Vellum LLM Leaderboard](https://www.vellum.ai/llm-leaderboard) | Vellum LLM Leaderboard shows a comparison of capabilities, price and context window for leading commercial and open-source LLMs. |
 | [XBench](https://xbench.org) | XBench is a platform for evaluating and comparing AI models across diverse benchmarks and tasks. |
 | [Yupp Leaderboard](https://yupp.ai/leaderboard) | Yupp is a platform that enables users to compare outputs from multiple AI models side by side, select their preferred response, and provide feedback. |
+| [Zapier Benchmarks](https://zapier.com/benchmarks) | Zapier Benchmarks evaluates AI models on their ability to complete real-world business automation tasks across multiple domains including Sales, Marketing, Operations, Support, Finance, and HR. |
 
 ### Text
 
