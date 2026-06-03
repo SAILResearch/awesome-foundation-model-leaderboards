@@ -671,6 +671,7 @@ Also, a leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [Butter-Bench](https://andonlabs.com/evals/butter-bench) | Butter-Bench is a benchmark to evaluate LLM-controlled robots for practical intelligence in household delivery tasks. |
+| [RoboArena](https://robo-arena.github.io/leaderboard) | RoboArena is a leaderboard for evaluating embodied AI and robotics models. |
 | [RoboChallenge](https://robochallenge.ai/leaderboard) | RoboChallenge is a leaderboard for evaluating embodied AI and robotics models. |
 | [WorldArena](https://huggingface.co/spaces/WorldArena/WorldArena) | WorldArena is a unified benchmark to evaluate embodied world models across perceptual and functional dimensions, including video perception quality, embodied task functionality, and human evaluations. |
 
