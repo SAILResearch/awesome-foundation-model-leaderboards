@@ -560,7 +560,6 @@ Also, a leaderboard should be included if only:
 | [AgentBoard](https://hkust-nlp.github.io/agentboard/static/leaderboard.html) | AgentBoard is a benchmark for multi-turn LLM agents, complemented by an analytical evaluation board for detailed model assessment beyond final success rates. |
 | [AgentStudio](https://skyworkai.github.io/agent-studio) | AgentStudio is an integrated solution featuring in-depth benchmark suites, realistic environments, and comprehensive toolkits. |
 | [AssistantBench](https://huggingface.co/spaces/AssistantBench/leaderboard) | AssistantBench aims to evaluate the ability of web agents to assist with real and time-consuming tasks. |
-| [Awesome-WAM](https://openmoss.ai/Awesome-WAM/leaderboard) | Awesome-WAM is a benchmark to evaluate web agent models. |
 | [BenchClaw](https://www.p2pclaw.com/app/benchmark) | BenchClaw is a benchmark to evaluate AI agents on autonomous scientific paper writing and peer review using a multi-judge evaluation process. |
 | [BrowseComp](https://www.kaggle.com/benchmarks/openai/browsecomp) | BrowseComp is a benchmark to evaluate the ability of AI agents to locate hard-to-find information. |
 | [BrowserGym Leaderboard](https://huggingface.co/spaces/ServiceNow/browsergym-leaderboard) | BrowserGym is a gym environment to evaluate LLMs, VLMs, and agents on web navigation tasks. |
@@ -671,6 +670,7 @@ Also, a leaderboard should be included if only:
 
 | Name | Description |
 | ---- | ----------- |
+| [Awesome-WAM](https://openmoss.ai/Awesome-WAM/leaderboard/) | Awesome-WAM is a benchmark tracker for embodied world action models, with leaderboard data sourced from AllenAI VLA Evaluation Harness. |
 | [Butter-Bench](https://andonlabs.com/evals/butter-bench) | Butter-Bench is a benchmark to evaluate LLM-controlled robots for practical intelligence in household delivery tasks. |
 | [RoboArena](https://robo-arena.github.io/leaderboard) | RoboArena is a leaderboard for evaluating embodied AI and robotics models. |
 | [RoboChallenge](https://robochallenge.ai/leaderboard) | RoboChallenge is a leaderboard for evaluating embodied AI and robotics models. |
