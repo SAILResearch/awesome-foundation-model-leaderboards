@@ -670,6 +670,7 @@ Also, a leaderboard should be included if only:
 
 | Name | Description |
 | ---- | ----------- |
+| [Awesome-WAM](https://openmoss.ai/Awesome-WAM/leaderboard/) | Awesome-WAM is a benchmark tracker for embodied world action models, with leaderboard data sourced from AllenAI VLA Evaluation Harness. |
 | [Butter-Bench](https://andonlabs.com/evals/butter-bench) | Butter-Bench is a benchmark to evaluate LLM-controlled robots for practical intelligence in household delivery tasks. |
 | [RoboArena](https://robo-arena.github.io/leaderboard) | RoboArena is a leaderboard for evaluating embodied AI and robotics models. |
 | [RoboChallenge](https://robochallenge.ai/leaderboard) | RoboChallenge is a leaderboard for evaluating embodied AI and robotics models. |
