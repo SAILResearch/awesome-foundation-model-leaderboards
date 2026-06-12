@@ -125,7 +125,13 @@ Also, a leaderboard should be included if only:
 | [Generative AI Leaderboards](https://accubits.com/generative-ai-models-leaderboard) | Generative AI Leaderboard ranks the top-performing generative AI models based on various metrics. |
 | [Holistic Agent Leaderboard](https://hal.cs.princeton.edu/#leaderboards) | HAL is a standardized, cost-aware, and third-party leaderboard for evaluating agents. |
 | [Holistic Evaluation of Language Models](https://crfm.stanford.edu/helm) | Holistic Evaluation of Language Models (HELM) is a reproducible and transparent framework for evaluating foundation models. |
+| [InferenceBench.ai](https://inferencebench.ai/#leaderboard) | InferenceBench.ai is a benchmark for evaluating autonomous AI agents to optimize LLM inference workloads under fixed compute constraints. |
+| [InferenceX](https://inferencex.semianalysis.com/inference) | InferenceX benchmarks and compares LLM inference performance across models, frameworks, and hardware configurations. |
 | [LLM Stats](https://llm-stats.com) | LLM Stats, the most comprehensive LLM leaderboard, benchmarks and compares API models using daily-updated, open-source community data on capability, price, speed, and context length. |
+| [LLM-Perf Leaderboard](https://huggingface.co/spaces/optimum/llm-perf-leaderboard) | LLM-Perf Leaderboard aims to benchmark the performance of LLMs with different hardware, backends, and optimizations. |
+| [LLMPerf](https://github.com/ray-project/llmperf-leaderboard) | LLMPerf is a tool to evaluate the performance of LLMs using both load and correctness tests. |
+| [MSNP Leaderboard](https://huggingface.co/spaces/evilfreelancer/msnp-leaderboard) | MSNP Leaderboard tracks and evaluates quantized GGUF models' performance on various GPU and CPU combinations using single-node setups via Ollama. |
+| [oobabooga](https://oobabooga.github.io/benchmark.html) | Oobabooga is a benchmark to perform repeatable performance tests of LLMs with the oobabooga web UI. |
 | [Openrouter Leaderboard](https://openrouter.ai/rankings) | Openrouter Leaderboard offers a real-time comparison of language models based on normalized token usage for prompts and completions, updated frequently. |
 | [PinchBench](https://pinchbench.com) | PinchBench is a benchmark for evaluating and comparing AI agents in the OpenClaw environment across diverse tasks. |
 | [Scale Labs](https://labs.scale.com/leaderboard) | Scale Labs is an AI research organization that evaluates and ranks AI models across various capability benchmarks. |
@@ -737,12 +743,6 @@ Also, a leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [ai-benchmarks](https://github.com/fixie-ai/ai-benchmarks?tab=readme-ov-file#leaderboard) | ai-benchmarks contains a handful of evaluation results for the response latency of popular AI services. |
-| [InferenceBench.ai](https://inferencebench.ai/#leaderboard) | InferenceBench.ai is a benchmark for evaluating autonomous AI agents to optimize LLM inference workloads under fixed compute constraints. |
-| [InferenceX](https://inferencex.semianalysis.com/inference) | InferenceX benchmarks and compares LLM inference performance across models, frameworks, and hardware configurations. |
-| [LLM-Perf Leaderboard](https://huggingface.co/spaces/optimum/llm-perf-leaderboard) | LLM-Perf Leaderboard aims to benchmark the performance of LLMs with different hardware, backends, and optimizations. |
-| [LLMPerf](https://github.com/ray-project/llmperf-leaderboard) | LLMPerf is a tool to evaluate the performance of LLMs using both load and correctness tests. |
-| [MSNP Leaderboard](https://huggingface.co/spaces/evilfreelancer/msnp-leaderboard) | MSNP Leaderboard tracks and evaluates quantized GGUF models' performance on various GPU and CPU combinations using single-node setups via Ollama. |
-| [oobabooga](https://oobabooga.github.io/benchmark.html) | Oobabooga is a benchmark to perform repeatable performance tests of LLMs with the oobabooga web UI. |
 | [Provider Leaderboard](https://leaderboard.withmartian.com) | LLM API Providers Leaderboard is a platform to compare API provider performance for over LLM endpoints across performance key metrics. |
 
 ## Paper Ranking
