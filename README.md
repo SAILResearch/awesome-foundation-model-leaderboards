@@ -558,6 +558,7 @@ Also, a leaderboard should be included if only:
 | [Agent Arena](https://www.agent-arena.com/leaderboard) | Agent Arena ranks AI agents, models, tools, and frameworks using ELO-Style ratings from battles, offering insights into agent capabilities across various categories and leverages battle data to evaluate individual agent components. |
 | [AgentBench](https://llmbench.ai/agent/data) | AgentBench is the benchmark to evaluate language model-as-Agent across a diverse spectrum of different environments. |
 | [AgentBoard](https://hkust-nlp.github.io/agentboard/static/leaderboard.html) | AgentBoard is a benchmark for multi-turn LLM agents, complemented by an analytical evaluation board for detailed model assessment beyond final success rates. |
+| [Agents' Last Exam](https://agents-last-exam.org/leaderboard) | Agents' Last Exam is a benchmark for evaluating generalist AI agents on long-horizon, economically valuable professional workflows. |
 | [AgentStudio](https://skyworkai.github.io/agent-studio) | AgentStudio is an integrated solution featuring in-depth benchmark suites, realistic environments, and comprehensive toolkits. |
 | [AssistantBench](https://huggingface.co/spaces/AssistantBench/leaderboard) | AssistantBench aims to evaluate the ability of web agents to assist with real and time-consuming tasks. |
 | [BenchClaw](https://www.p2pclaw.com/app/benchmark) | BenchClaw is a benchmark to evaluate AI agents on autonomous scientific paper writing and peer review using a multi-judge evaluation process. |
