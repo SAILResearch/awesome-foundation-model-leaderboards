@@ -743,6 +743,7 @@ Also, a leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [InferenceX](https://inferencex.semianalysis.com/inference) | InferenceX benchmarks and compares LLM inference performance across models, frameworks, and hardware configurations. |
+| [InferenceBench.ai](https://inferencebench.ai/#leaderboard) | InferenceBench.ai is a benchmark for evaluating autonomous AI agents on optimizing LLM inference workloads under fixed compute constraints. |
 
 ## Paper Ranking
 
