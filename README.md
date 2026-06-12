@@ -147,7 +147,6 @@ Also, a leaderboard should be included if only:
 | [AGIEval](https://github.com/ruixiangcui/AGIEval?tab=readme-ov-file#leaderboard) | AGIEval is a human-centric benchmark to evaluate the general abilities of foundation models in tasks pertinent to human cognition and problem-solving. |
 | [AIR-Bench](https://huggingface.co/spaces/AIR-Bench/leaderboard) | AIR-Bench is a benchmark to evaluate heterogeneous information retrieval capabilities of language models. |
 | [AI Energy Score Leaderboard](https://huggingface.co/spaces/EnergyStarAI/2024_Leaderboard) | AI Energy Score Leaderboard tracks and compares different models in energy efficiency. |
-| [ai-benchmarks](https://github.com/fixie-ai/ai-benchmarks?tab=readme-ov-file#leaderboard) | ai-benchmarks contains a handful of evaluation results for the response latency of popular AI services. |
 | [AlignBench](https://llmbench.ai/align/data) | AlignBench is a multi-dimensional benchmark for evaluating LLMs' alignment in Chinese. |
 | [AlpacaEval](https://tatsu-lab.github.io/alpaca_eval) | AlpacaEval is an automatic evaluator designed for instruction-following LLMs. |
 | [ANGO](https://huggingface.co/spaces/AngoHF/ANGO-Leaderboard) | ANGO is a generation-oriented Chinese language model evaluation benchmark. |
@@ -247,14 +246,12 @@ Also, a leaderboard should be included if only:
 | [LLMEval](http://llmeval.com) | LLMEval is a benchmark to evaluate the quality of open-domain conversations with LLMs. |
 | [Llmeval-Gaokao2024-Math](https://github.com/llmeval/Llmeval-Gaokao2024-Math?tab=readme-ov-file#%E8%AF%84%E6%B5%8B%E7%BB%93%E6%9E%9C) | Llmeval-Gaokao2024-Math is a benchmark for evaluating LLMs on 2024 Gaokao-level math problems in Chinese. | 
 | [LLMHallucination Leaderboard](https://huggingface.co/spaces/ramiroluo/LLMHallucination_Leaderboard) | Hallucinations Leaderboard evaluates LLMs based on an array of hallucination-related benchmarks. |
-| [LLMPerf](https://github.com/ray-project/llmperf-leaderboard) | LLMPerf is a tool to evaluate the performance of LLMs using both load and correctness tests. |
 | [LLMs Disease Risk Prediction Leaderboard](https://huggingface.co/spaces/TemryL/LLM-Disease-Risk-Leaderboard) | LLMs Disease Risk Prediction Leaderboard is a platform to evaluate LLMs on disease risk prediction. |
 | [LLM Leaderboard](https://klu.ai/llm-leaderboard) | LLM Leaderboard tracks and evaluates LLM providers, enabling selection of the optimal API and model for user needs. |
 | [LLM Observatory](https://ai-sandbox.list.lu/llm-leaderboard) | LLM Observatory is a benchmark that assesses and ranks LLMs based on their performance in avoiding social biases across categories like LGBTIQ+ orientation, age, gender, politics, race, religion, and xenophobia. |
 | [LLM Price Leaderboard](https://huggingface.co/spaces/seawolf2357/leaderboard_llm_price) | LLM Price Leaderboard tracks and compares LLM costs based on one million tokens. |
 | [LLM-AggreFact](https://llm-aggrefact.github.io) | LLM-AggreFact is a fact-checking benchmark that aggregates most up-to-date publicly available datasets on grounded factuality evaluation. |
 | [LLM-Leaderboard](https://github.com/LudwigStumpp/llm-leaderboard?tab=readme-ov-file#leaderboard) | LLM-Leaderboard is a joint community effort to create one central leaderboard for LLMs. |
-| [LLM-Perf Leaderboard](https://huggingface.co/spaces/optimum/llm-perf-leaderboard) | LLM-Perf Leaderboard aims to benchmark the performance of LLMs with different hardware, backends, and optimizations. |
 | [LMExamQA](https://lmexam.com) | LMExamQA is a benchmarking framework where a language model acts as an examiner to generate questions and evaluate responses in a reference-free, automated manner for comprehensive, equitable assessment. |
 | [LongBench](https://github.com/THUDM/LongBench?tab=readme-ov-file#%EF%B8%8F-leaderboard) | LongBench is a benchmark for assessing the long context understanding capabilities of LLMs. |
 | [Loong](https://github.com/MozerWang/Loong?tab=readme-ov-file#leaderboard) | Loong is a long-context benchmark for evaluating LLMs' multi-document QA abilities across financial, legal, and academic scenarios. |
@@ -274,7 +271,6 @@ Also, a leaderboard should be included if only:
 | [MMLU-Pro](https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro) | MMLU-Pro is a more challenging version of MMLU to evaluate the reasoning capabilities of LLMs. |
 | [ModelScope LLM Leaderboard](https://modelscope.cn/leaderboard/58/ranking?type=free) | ModelScope LLM Leaderboard is a platform to evaluate LLMs objectively and comprehensively. |
 | [Model Evaluation Leaderboard](https://github.com/databricks/databricks-ml-examples?tab=readme-ov-file#model-evaluation-leaderboard) | Model Evaluation Leaderboard tracks and evaluates text generation models based on their performance across various benchmarks using Mosaic Eval Gauntlet framework. |
-| [MSNP Leaderboard](https://huggingface.co/spaces/evilfreelancer/msnp-leaderboard) | MSNP Leaderboard tracks and evaluates quantized GGUF models' performance on various GPU and CPU combinations using single-node setups via Ollama. |
 | [MSTEB](https://huggingface.co/spaces/clibrain/Spanish-Embeddings-Leaderboard) | MSTEB is a benchmark for measuring the performance of text embedding models in Spanish. |
 | [MT-Bench-101](https://github.com/mtbench101/mt-bench-101?tab=readme-ov-file#leaderboard) | MT-Bench-101 is a fine-grained benchmark for evaluating LLMs in multi-turn dialogues. |
 | [MY Malay LLM Leaderboard](https://huggingface.co/spaces/mesolitica/malay-llm-leaderboard) | MY Malay LLM Leaderboard aims to track, rank, and evaluate open LLMs on Malay tasks. |
@@ -283,7 +279,6 @@ Also, a leaderboard should be included if only:
 | [Occiglot Euro LLM Leaderboard](https://huggingface.co/spaces/occiglot/euro-llm-leaderboard) | Occiglot Euro LLM Leaderboard compares LLMs in four main languages from the Okapi benchmark and Belebele (French, Italian, German, Spanish and Dutch). |
 | [OlympiadBench](https://github.com/OpenBMB/OlympiadBench?tab=readme-ov-file#leaderboard) | OlympiadBench is a bilingual multimodal scientific benchmark featuring 8,476 Olympiad-level mathematics and physics problems with expert-level step-by-step reasoning annotations. |
 | [OlympicArena](https://gair-nlp.github.io/OlympicArena/#leaderboard) | OlympicArena is a benchmark to evaluate the advanced capabilities of LLMs across a broad spectrum of Olympic-level challenges. |
-| [oobabooga](https://oobabooga.github.io/benchmark.html) | Oobabooga is a benchmark to perform repeatable performance tests of LLMs with the oobabooga web UI. |
 | [OpenEval](http://openeval.org.cn/rank) | OpenEval is a platform assessto evaluate Chinese LLMs. |
 | [OpenLLM Turkish leaderboard](https://huggingface.co/spaces/malhajar/OpenLLMTurkishLeaderboard) | OpenLLM Turkish leaderboard tracks progress and ranks the performance of LLMs in Turkish. |
 | [Openness Leaderboard](https://huggingface.co/spaces/Shitqq/Openness-leaderboard) | Openness Leaderboard tracks and evaluates models' transparency in terms of open access to weights, data, and licenses, exposing models that fall short of openness standards. |
@@ -490,7 +485,6 @@ Also, a leaderboard should be included if only:
 | [Multimodal Hallucination Leaderboard](https://huggingface.co/spaces/scb10x/multimodal-hallucination-leaderboard) | Multimodal Hallucination Leaderboard compares MLLMs based on hallucination levels in various tasks. |
 | [MULTI-Benchmark](https://github.com/OpenDFM/MULTI-Benchmark?tab=readme-ov-file#-leaderboard) | MULTI-Benchmark is a benchmark to evaluate MLLMs on understanding complex tables and images, and reasoning with long context. |
 | [NPHardEval4V](https://github.com/lizhouf/nphardeval4v?tab=readme-ov-file#leaderboard) | NPHardEval4V is a benchmark to evaluate the reasoning abilities of MLLMs through the lens of computational complexity classes. |
-| [Provider Leaderboard](https://leaderboard.withmartian.com) | LLM API Providers Leaderboard is a platform to compare API provider performance for over LLM endpoints across performance key metrics. |
 | [OCRBench](https://huggingface.co/spaces/echo840/ocrbench-leaderboard) | OCRBench is a benchmark to evaluate the OCR capabilities of multimodal models. |
 | [PCA-Bench](https://github.com/pkunlp-icler/PCA-EVAL?tab=readme-ov-file#leaderboard) | PCA-Bench is a benchmark to evaluate the embodied decision-making capabilities of multimodal models. |
 | [Q-Bench](https://huggingface.co/spaces/q-future/Q-Bench-Leaderboard) | Q-Bench is a benchmark to evaluate the visual reasoning capabilities of MLLMs. |
@@ -742,7 +736,14 @@ Also, a leaderboard should be included if only:
 
 | Name | Description |
 | ---- | ----------- |
+| [ai-benchmarks](https://github.com/fixie-ai/ai-benchmarks?tab=readme-ov-file#leaderboard) | ai-benchmarks contains a handful of evaluation results for the response latency of popular AI services. |
+| [InferenceBench.ai](https://inferencebench.ai/#leaderboard) | InferenceBench.ai is a benchmark for evaluating autonomous AI agents to optimize LLM inference workloads under fixed compute constraints. |
 | [InferenceX](https://inferencex.semianalysis.com/inference) | InferenceX benchmarks and compares LLM inference performance across models, frameworks, and hardware configurations. |
+| [LLM-Perf Leaderboard](https://huggingface.co/spaces/optimum/llm-perf-leaderboard) | LLM-Perf Leaderboard aims to benchmark the performance of LLMs with different hardware, backends, and optimizations. |
+| [LLMPerf](https://github.com/ray-project/llmperf-leaderboard) | LLMPerf is a tool to evaluate the performance of LLMs using both load and correctness tests. |
+| [MSNP Leaderboard](https://huggingface.co/spaces/evilfreelancer/msnp-leaderboard) | MSNP Leaderboard tracks and evaluates quantized GGUF models' performance on various GPU and CPU combinations using single-node setups via Ollama. |
+| [oobabooga](https://oobabooga.github.io/benchmark.html) | Oobabooga is a benchmark to perform repeatable performance tests of LLMs with the oobabooga web UI. |
+| [Provider Leaderboard](https://leaderboard.withmartian.com) | LLM API Providers Leaderboard is a platform to compare API provider performance for over LLM endpoints across performance key metrics. |
 
 ## Paper Ranking
 
