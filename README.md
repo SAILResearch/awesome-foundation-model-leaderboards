@@ -465,6 +465,7 @@ Also, a leaderboard should be included if only:
 | [DreamBench++](https://dreambenchplus.github.io/#leaderboard) | DreamBench++ is a human-aligned benchmark automated by multimodal models for personalized image generation. |
 | [EgoPlan-Bench](https://huggingface.co/spaces/ChenYi99/EgoPlan-Bench_Leaderboard) | EgoPlan-Bench is a benchmark to evaluate planning abilities of MLLMs in real-world, egocentric scenarios. |
 | [HallusionBench](https://github.com/tianyi-lab/HallusionBench?tab=readme-ov-file#leaderboard) | HallusionBench is a benchmark to evaluate the image-context reasoning capabilities of MLLMs. |
+| [ImageBench](https://imagebench.ai) | ImageBench is a benchmark and comparison site for text-to-image models, with side-by-side outputs, prompt pass rates, and methodology pages. |
 | [InfiMM-Eval](https://infimm.github.io/InfiMM-Eval) | InfiMM-Eval is a benchmark to evaluate the open-ended VQA capabilities of MLLMs. |
 | [LRVSF Leaderboard](https://huggingface.co/spaces/Slep/LRVSF-Leaderboard) | LRVSF Leaderboard is a platform to evaluate LLMs regarding image similarity search in fashion. |
 | [LVLM Leaderboard](https://github.com/OpenGVLab/Multi-Modality-Arena?tab=readme-ov-file#lvlm-leaderboard) | LVLM Leaderboard is a platform to evaluate the visual reasoning capabilities of MLLMs. |
