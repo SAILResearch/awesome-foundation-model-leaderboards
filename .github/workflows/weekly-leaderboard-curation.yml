@@ -1,0 +1,67 @@
+name: Weekly Leaderboard Curation
+
+# Opens a weekly issue assigned to the GitHub Copilot coding agent, which then
+# scans HuggingFace Papers for new benchmark/leaderboard papers, dedups against
+# README.md, adds entries to the correct sections, and opens a PR for manual review.
+#
+# SETUP REQUIRED (one-time):
+#   1. Enable the Copilot coding agent for this repo:
+#      Settings -> Copilot -> Coding agent (requires a Copilot-enabled plan).
+#   2. The default GITHUB_TOKEN often CANNOT assign issues to @copilot. If the
+#      "Create issue" step fails on assignment, create a fine-grained PAT with
+#      "Issues: Read and write" on this repo, store it as a secret named
+#      CURATION_TOKEN, and the workflow will use it automatically.
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'   # Every Monday at 09:00 UTC
+  workflow_dispatch: {}    # Allow manual runs from the Actions tab
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  open-curation-issue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Compute the past 7 HuggingFace Papers dates
+        id: dates
+        run: |
+          {
+            echo 'list<<EOF'
+            for i in $(seq 1 7); do
+              d=$(date -u -d "-$i day" +%Y-%m-%d)
+              echo "- https://huggingface.co/papers?date=$d"
+            done
+            echo EOF
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Create issue assigned to Copilot
+        env:
+          # Prefer a PAT (CURATION_TOKEN) if present; fall back to GITHUB_TOKEN.
+          GH_TOKEN: ${{ secrets.CURATION_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue create \
+            --repo "${{ github.repository }}" \
+            --title "Weekly leaderboard/benchmark curation ($(date -u +%Y-%m-%d))" \
+            --assignee "@copilot" \
+            --label "automated-curation" \
+            --body "$(cat <<BODY
+          Find new **benchmark and leaderboard** papers from HuggingFace Papers over the past week and add them to \`README.md\`.
+
+          ### Source pages (HuggingFace Papers, daily)
+          ${{ steps.dates.outputs.list }}
+
+          ### Instructions
+          Follow the contribution rules in \`AGENTS.md\` exactly. In short:
+
+          - Open each source page above and identify papers that introduce or host an **actively maintained, AI-related leaderboard or benchmark** with a working public link (HuggingFace Space, project website, or arXiv page).
+          - **Deduplicate**: skip any entry whose link OR name already appears anywhere in \`README.md\`.
+          - Add each surviving entry as a row in the **correct table and section** (Tools, Challenges, or the matching Ranking category — see \`AGENTS.md\` for the full category list).
+          - Keep rows alphabetically ordered within their table where the existing table is already alphabetical.
+          - Use the exact row format: \`| [Name](url) | One concise sentence describing it. |\`
+          - Open a pull request with your changes. **Do not merge** — it will be reviewed manually.
+          - If no qualifying new entries are found, comment saying so and close the issue without a PR.
+          BODY
+          )"
