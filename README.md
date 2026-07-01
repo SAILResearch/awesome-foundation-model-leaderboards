@@ -7,7 +7,7 @@
     <a href="https://github.com/SAILResearch/awesome-foundation-model-leaderboards/fork">
         <img src="https://img.shields.io/badge/PRs-Welcome-red" height="20"/>
     </a>
-    <a href="https://arxiv.org/pdf/2407.04065.pdf">
+    <a href="https://arxiv.org/pdf/2407.04065">
         <img src="https://img.shields.io/badge/Arxiv-2407.04065-red" height="20"/>
     </a>
 </div>
