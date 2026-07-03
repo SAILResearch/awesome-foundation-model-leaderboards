@@ -564,6 +564,7 @@ Also, a leaderboard should be included if only:
 | [BrowseComp](https://www.kaggle.com/benchmarks/openai/browsecomp) | BrowseComp is a benchmark to evaluate the ability of AI agents to locate hard-to-find information. |
 | [BrowserGym Leaderboard](https://huggingface.co/spaces/ServiceNow/browsergym-leaderboard) | BrowserGym is a gym environment to evaluate LLMs, VLMs, and agents on web navigation tasks. |
 | [CharacterEval](https://github.com/morecry/CharacterEval?tab=readme-ov-file#leaderboard) | CharacterEval is a benchmark to evaluate Role-Playing Conversational Agents (RPCAs) using multi-turn dialogues and character profiles, with metrics spanning four dimensions. |
+| [CEO-Bench](https://ceobench.com/) | CEO-Bench is a benchmark to evaluate AI agents on steering a simulated AI startup over a 500-day horizon. |
 | [ClawBench](https://claw-bench.com) | ClawBench is a browser-agent benchmark covering 283 everyday web tasks (V1 153 + V2 130) across 163 live production websites in 15 categories, with two-stage scoring (HTTP-request interception + LLM judge). |
 | [Claw-Eval](https://claw-eval.github.io) | Claw-Eval is a benchmark to evaluate LLM agents on real-world tasks, featuring 139 tasks across 15 services with Docker sandbox isolation and human-verified grading. |
 | [ClawWork](https://hkuds.github.io/ClawWork) | ClawWork is a real-world economic benchmark where AI agents complete professional tasks spanning 44 occupations, earning income by performing quality work while managing token costs and maintaining economic solvency. |
