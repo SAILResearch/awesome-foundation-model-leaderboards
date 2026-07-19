@@ -232,6 +232,7 @@ Also, a leaderboard should be included if only:
 | [Japanese LLM Roleplay Benchmark](https://github.com/oshizo/japanese-llm-roleplay-benchmark?tab=readme-ov-file#leaderboard-v20231103) | Japanese LLM Roleplay Benchmark is a benchmark to evaluate the performance of Japanese LLMs in character roleplay. |
 | [JMMMU](https://huggingface.co/spaces/JMMMU/JMMMU_Leaderboard) | JMMMU (Japanese MMMU) is a multimodal benchmark to evaluate LMM performance in Japanese. |
 | [JustEval](https://allenai.github.io/re-align/just_eval.html) | JustEval is a powerful tool designed for fine-grained evaluation of LLMs. |
+| [KI-Benchmark-Deutsch](https://i6eal.de/ki-benchmark-deutsch/) | KI-Benchmark-Deutsch tracks and ranks the performance of LLMs on German-language tasks, including administrative, legal, and business German. |
 | [KoLA](http://103.238.162.37:31622/LeaderBoard) | KoLA is a benchmark to evaluate the world knowledge of LLMs. |
 | [LaMP](https://lamp-benchmark.github.io/leaderboard) | LaMP (Language Models Personalization) is a benchmark to evaluate personalization capabilities of language models. |
 | [Language Model Council](https://llm-council.com) | Language Model Council (LMC) is a benchmark to evaluate tasks that are highly subjective and often lack majoritarian human agreement. |
