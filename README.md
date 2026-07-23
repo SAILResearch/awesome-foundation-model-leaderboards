@@ -631,6 +631,7 @@ Also, a leaderboard should be included if only:
 | ---- | ----------- |
 | [CARES](https://cares-ai.github.io/#leaderboard) | CARES is a benchmark to evaluate the trustworthiness of Med-LVLMs across trustfulness, fairness, safety, privacy, and robustness using 41K question-answer pairs from 16 medical image modalities and 27 anatomical regions. |
 | [Flames](https://github.com/AIFlames/Flames?tab=readme-ov-file#-leaderboard) | Flames is a highly adversarial Chinese benchmark for evaluating LLMs' value alignment across fairness, safety, morality, legality, and data protection. |
+| [GovBench](https://github.com/CSOAI-ORG/govbench) | GovBench is an open benchmark to measure any model's governed-refusal behaviour on an adversarial grid (6 risk categories × 8 attack styles) plus a benign over-block control, mapped to EU AI Act Art.9/15. Defensive by construction; a measurement standard, not a certification. |
 | [IRIS](https://iris-benchmark-web.vercel.app/#leaderboard) | IRIS is a benchmark to evaluate the safety of LLMs. |
 | [LLM Safety Leaderboard](https://huggingface.co/spaces/AI-Secure/llm-trustworthy-leaderboard) | LLM Safety Leaderboard aims to provide a unified evaluation for language model safety. |
 | [MultiTrust](https://multi-trust.github.io/#leaderboard) | MultiTrust is a benchmark to evaluate the trustworthiness of MLLMs across five primary aspects: truthfulness, safety, robustness, fairness, and privacy. |
