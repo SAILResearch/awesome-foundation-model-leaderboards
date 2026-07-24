@@ -216,7 +216,6 @@ Also, a leaderboard should be included if only:
 | [GrailQA](https://dki-lab.github.io/GrailQA) | Strongly Generalizable Question Answering (GrailQA) is a large-scale, high-quality benchmark for question answering on knowledge bases (KBQA) on Freebase with 64,331 questions annotated with both answers and corresponding logical forms in different syntax (i.e., SPARQL, S-expression, etc.). |
 | [Guerra LLM AI Leaderboard](https://huggingface.co/spaces/luisrguerra/guerra-llm-ai-leaderboard) | Guerra LLM AI Leaderboard compares and ranks the performance of LLMs across quality, price, performance, context window, and others. |
 | [Hallucinations Leaderboard](https://huggingface.co/spaces/hallucinations-leaderboard/leaderboard) | Hallucinations Leaderboard aims to track, rank and evaluate hallucinations in LLMs. |
-| [REFUTE Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard) | REFUTE ranks models on scientific critique and epistemic calibration (judge-free): critique skill ≠ calibrated honesty on recent science summaries. Site: https://bgpt.pro/refute |
 | [HalluQA](https://github.com/OpenMOSS/HalluQA?tab=readme-ov-file#leaderboard) | HalluQA is a benchmark to evaluate the phenomenon of hallucinations in Chinese LLMs. |
 | [Hebrew LLM Leaderboard](https://huggingface.co/spaces/hebrew-llm-leaderboard/leaderboard) | Hebrew LLM Leaderboard tracks and ranks language models according to their success on various tasks on Hebrew. |
 | [HellaSwag](https://rowanzellers.com/hellaswag) | HellaSwag is a benchmark to evaluate common-sense reasoning in LLMs. |
@@ -318,6 +317,7 @@ Also, a leaderboard should be included if only:
 | [Rakuda](https://yuzuai.jp/benchmark) | Rakuda is a benchmark to evaluate LLMs based on how well they answer a set of open-ended questions about Japanese topics. |
 | [RedTeam Arena](https://redarena.ai/leaderboard) | RedTeam Arena is a red-teaming platform for LLMs. |
 | [Red Teaming Resistance Benchmark](https://huggingface.co/spaces/HaizeLabs/red-teaming-resistance-benchmark) | Red Teaming Resistance Benchmark is a benchmark to evaluate the robustness of LLMs against red teaming prompts. |
+| [REFUTE Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard) | REFUTE ranks models on scientific critique and epistemic calibration (judge-free): critique skill ≠ calibrated honesty on recent science summaries. Site: https://bgpt.pro/refute |
 | [ReST-MCTS*](https://github.com/THUDM/ReST-MCTS?tab=readme-ov-file#leaderboard) | ReST-MCTS* is a reinforced self-training method that uses tree search and process reward inference to collect high-quality reasoning traces for training policy and reward models without manual step annotations. |
 | [Reviewer Arena](https://huggingface.co/spaces/openreviewer/reviewer-arena) | Reviewer Arena hosts the reviewer arena, where various LLMs compete based on their performance in critiquing academic papers. |
 | [RoleEval](https://github.com/magnetic2014/roleeval?tab=readme-ov-file#leaderboard-5-shot) | RoleEval is a bilingual benchmark to evaluate the memorization, utilization, and reasoning capabilities of role knowledge of LLMs. |
