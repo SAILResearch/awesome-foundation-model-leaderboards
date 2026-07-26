@@ -605,6 +605,8 @@ Also, a leaderboard should be included if only:
 
 ### Business
 
+_Note: ESG/sustainability leaderboards are currently listed under Business; create a dedicated Sustainability/ESG section once there are multiple entries (e.g., 3+)._
+
 | Name | Description |
 | ---- | ----------- |
 | [AI-Trader](https://hkuds.github.io/AI-Trader) | AI-Trader is a fully autonomous trading benchmark to compare the performance of different AI models in trading NASDAQ 100 stocks. |
