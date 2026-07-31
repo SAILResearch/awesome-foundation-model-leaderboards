@@ -127,6 +127,7 @@ Also, a leaderboard should be included if only:
 | [Humanlaya](https://humanlaya.com) | Humanlaya is a comprehensive leaderboard for evaluating and comparing AI models across benchmarks. |
 | [InferenceBench.ai](https://inferencebench.ai/#leaderboard) | InferenceBench.ai is a benchmark for evaluating autonomous AI agents to optimize LLM inference workloads under fixed compute constraints. |
 | [Job Bench](https://job-bench.github.io/#leaderboard) | Job Bench is a benchmark leaderboard for evaluating AI models on job-related tasks. |
+| [Keygate](https://keygate.ai) | Keygate is an AI model evaluation and comparison platform covering text, image, video, and speech models with rankings, side-by-side comparisons, and public methodology. |
 | [LLM Stats](https://llm-stats.com) | LLM Stats, the most comprehensive LLM leaderboard, benchmarks and compares API models using daily-updated, open-source community data on capability, price, speed, and context length. |
 | [LLM-Perf Leaderboard](https://huggingface.co/spaces/optimum/llm-perf-leaderboard) | LLM-Perf Leaderboard aims to benchmark the performance of LLMs with different hardware, backends, and optimizations. |
 | [LLMPerf](https://github.com/ray-project/llmperf-leaderboard) | LLMPerf is a tool to evaluate the performance of LLMs using both load and correctness tests. |
