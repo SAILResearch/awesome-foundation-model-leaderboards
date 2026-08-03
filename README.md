@@ -32,8 +32,6 @@ If you find this repository useful, please consider giving us a star :star: and 
 }
 ```
 
-Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhiminy/awesome-large-AI-model-leaderboard-search) that helps you quickly navigate through the leaderboards.
-
 _If you want to contribute to this list (please do), welcome to [propose a pull request](https://github.com/SAILResearch/awesome-foundation-model-leaderboards/fork)._
 
 _If you have any suggestions, critiques, or questions regarding this list, welcome to [raise issue](https://github.com/SAILResearch/awesome-foundation-model-leaderboards/issues/new)._
