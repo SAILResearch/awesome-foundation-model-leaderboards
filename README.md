@@ -365,6 +365,7 @@ Also, a leaderboard should be included if only:
 | [ViDoRe](https://huggingface.co/spaces/vidore/vidore-leaderboard) | ViDoRe is a benchmark to evaluate retrieval models on their capacity to match queries to relevant documents at the page level. |
 | [VLLMs Leaderboard](https://huggingface.co/spaces/vlsp-2023-vllm/VLLMs-Leaderboard) | VLLMs Leaderboard aims to track, rank and evaluate open LLMs and chatbots. |
 | [VMLU](https://vmlu.ai/leaderboard) | VMLU is a benchmark to evaluate overall capabilities of foundation models in Vietnamese. |
+| [Vinayak Multistep Recursive Reasoning Benchmark (VMRRB)](https://rankmodel.github.io) | VMRRB is a benchmark for evaluating advanced reasoning, recursive dependency resolution, and robustness in dynamic, noisy, and structurally challenging environments. [GitHub](https://github.com/vbepipe/vmrrb-benchmark). |
 | [WildBench](https://huggingface.co/spaces/allenai/WildBench) | WildBench is a benchmark for evaluating language models on challenging tasks that closely resemble real-world applications. |
 | [Xiezhi](https://github.com/MikeGu721/XiezhiBenchmark?tab=readme-ov-file#leaderboard) | Xiezhi is a benchmark for holistic domain knowledge evaluation of LLMs. |
 | [Yanolja Arena](https://huggingface.co/spaces/yanolja/arena) | Yanolja Arena host a model arena to evaluate the capabilities of LLMs in summarizing and translating text. |
