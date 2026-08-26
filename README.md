@@ -1,1 +1,1 @@
-file:///tmp/leaderboard-readme-new.md
+FULL_CONTENT_FROM_PARTS
