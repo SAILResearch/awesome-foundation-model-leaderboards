@@ -1,1 +1,1 @@
-PLACEHOLDER_FULL_README
+file:///tmp/leaderboard-readme-new.md
