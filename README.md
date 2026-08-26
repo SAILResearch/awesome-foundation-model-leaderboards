@@ -1,1 +1,1 @@
-TEST2
+@/tmp/leaderboard-readme-new.md
