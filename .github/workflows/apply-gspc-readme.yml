@@ -1,0 +1,30 @@
+name: Apply GSPC README
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/apply-gspc-readme.yml'
+permissions:
+  contents: write
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: add-gspc-leaderboard
+      - name: Download README from HF
+        run: |
+          curl -fsSL -o README.md \
+            "https://huggingface.co/datasets/csoai/tmp-gspc-leaderboard-readme/resolve/main/README-awesome-leaderboards.md"
+          wc -c README.md
+          grep -n "GSPC Governance Leaderboard" README.md | head -1
+      - name: Commit README
+        run: |
+          git config user.name "Nicholas Templeman"
+          git config user.email "nicholas@csoai.org"
+          git add README.md
+          # remove size-test artifacts
+          git rm -f SIZE_TEST_40K.txt SIZE_PROBE_5K.txt 2>/dev/null || true
+          git commit -m "Add GSPC Governance Leaderboard under Safety (14 of 14)" || echo "no changes"
+          git push origin add-gspc-leaderboard
